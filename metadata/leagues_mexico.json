@@ -1,0 +1,353 @@
+[
+  {
+    "league": {
+      "id": 262,
+      "name": "Liga MX",
+      "type": "League",
+      "logo": "/logos/262.png",
+      "keywords": "Liga MX, México, Chivas Guadalajara, América, Cruz Azul, Tigres UANL, Monterrey, El Clásico Nacional, Estadio Azteca, Apertura e Clausura, Liguilla, Descenso, Cuauhtémoc Blanco, Hugo Sánchez, Rafael Márquez, Juan Carlos Osorio, Torneo Bicentenario, transmissão Televisa, rivalidades históricas, cantera mexicana, Estadio Universitario, impacto econômico, paixão nacional, gol olímpico, técnico estrangeiro, torcida fervorosa.",
+      "keywords_semantic": "história, cultura, clubes mexicanos, América, Chivas, Monterrey, Tigres, Pumas, clássicos, rivalidades regionais, formato de torneio, Apertura, Clausura, liguilla, prestígio, torcida apaixonada, internacionalização, Libertadores, CONCACAF Champions League, ídolos históricos, momentos épicos, Estádio Azteca, Estádio Universitário, Estádio Jalisco, futebol latino-americano"
+    },
+    "country": {
+      "name": "Mexico",
+      "code": "MX",
+      "flag": "https://media.api-sports.io/flags/mx.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-07-02",
+        "end": "2023-05-28",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": true
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 857,
+      "name": "Campeón de Campeones",
+      "type": "Cup",
+      "logo": "/logos/857.png",
+      "keywords": "Campeón de Campeones, México, Liga MX, Tigres UANL, Club América, Chivas Guadalajara, Club León, Estadio Azteca, Estadio Universitario, clássico mexicano, troféu simbólico, campeão de campeões, rivalidade, Apertura, Clausura, Ignacio Ambriz, André-Pierre Gignac, Cuauhtémoc Blanco, Guillermo Ochoa, Jorge Campos, tradição, prestígio, formato de jogo único, supercopa mexicana, herança cultural, paixão nacional, torcida fervorosa.",
+      "keywords_semantic": "Campeón de Campeones, México, futebol mexicano, importância histórica, título honorífico, clubes campeões, rivalidade nacional, prestígio, tradição, confronto anual, Torneio Clausura, Torneio Apertura, campeão dos campeões, troféu, competição especial, Liga MX, América, Chivas, Tigres, Estádio Azteca, cultura esportiva mexicana, supercopa."
+    },
+    "country": {
+      "name": "Mexico",
+      "code": "MX",
+      "flag": "https://media.api-sports.io/flags/mx.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-06-27",
+        "end": "2022-06-27",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": false,
+          "top_scorers": false,
+          "top_assists": false,
+          "top_cards": false,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 673,
+      "name": "Liga MX Femenil",
+      "type": "League",
+      "logo": "/logos/673.png",
+      "keywords": "Las Amazonas, Las Águilas, Tigres UANL Femenil, América Femenil, Chivas Femenil, Rayadas de Monterrey, Estadio Azteca, Estadio Universitario, Apertura y Clausura, Clásico Regio Femenil, Clásico Nacional Femenil, Desarrollos juveniles, Crecimiento del fútbol femenino, Norma de menores, Estrellas emergentes, Stephany Mayor, Katty Martínez, Rebeca Bernal, Diana García, Impacto social, Profesionalización, Inclusión de mujeres en el deporte, Expansión de equipos, Competencia internacional, Liguilla, Final única, Dominio de Tigres y Rayadas, Rivalidades históricas, Afición apasionada.",
+      "keywords_semantic": "futebol feminino, México, Liga MX Femenil, crescimento esportivo, igualdade de gênero, América Latina, Tigres UANL, América, Chivas Guadalajara, Monterrey, clássicos nacionais, rivalidade, desenvolvimento juvenil, impacto social, inclusão, formato liga, talento emergente, competição crescente, prestígio regional, história recente, cultura esportiva, empoderamento feminino, televisão e mídia, fãs apaixonados, evolução do futebol, impacto cultural, torcidas."
+    },
+    "country": {
+      "name": "Mexico",
+      "code": "MX",
+      "flag": "https://media.api-sports.io/flags/mx.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-07-08",
+        "end": "2023-06-05",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": false,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 263,
+      "name": "Liga de Expansión MX",
+      "type": "League",
+      "logo": "/logos/263.png",
+      "keywords": "Liga de Expansión MX, México, clubes de desenvolvimento, ascenso, descenso, clubes tradicionais, Dorados de Sinaloa, Leones Negros, Atlante, Mineros de Zacatecas, desenvolvimento de talentos, jovens promessas, formato de competição, torneio Apertura, torneio Clausura, Estadio Azulgrana, Estadio Jalisco, Estadio Banorte, história do futebol mexicano, impacto social, plataforma para jovens jogadores, investimento em infraestrutura, torcidas apaixonadas.",
+      "keywords_semantic": "desenvolvimento, jovens talentos, ascensão, clubes de tradição, futuro promisso, segunda divisão, formação de jogadores, ascenso, liga emergente, competição, crescimento, rivalidades regionais, vitrine, plataforma, méxico, futebol mexicano, estrutura de base, oportunidade, potencial, prestígio em ascensão"
+    },
+    "country": {
+      "name": "Mexico",
+      "code": "MX",
+      "flag": "https://media.api-sports.io/flags/mx.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-06-25",
+        "end": "2023-06-03",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 861,
+      "name": "U20 League",
+      "type": "League",
+      "logo": "/logos/861.png",
+      "keywords": "U20 League, México, jovens talentos, futuras estrelas, Club América Sub-20, Chivas Sub-20, Tigres UANL Sub-20, Pachuca Sub-20, desenvolvimento de atletas, formação de base, promessas do futebol mexicano, estrutura de categorias de base, competição nacional, rivalidades regionais, scouting, preparação para o profissional, Liga MX, torneio de aspirantes, oportunidades para jovens, academia de futebol, crescimento esportivo.",
+      "keywords_semantic": "sub-20, formação de jovens, talentos emergentes, desenvolvimento de jogadores, futuro do futebol, academia de futebol, clubes mexicanos, promessas do futebol, competição juvenil, Torneio de Base, FMF, aprendizado tático, experiência internacional, vitrine de talentos, crescimento esportivo"
+    },
+    "country": {
+      "name": "Mexico",
+      "code": "MX",
+      "flag": "https://media.api-sports.io/flags/mx.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-07-01",
+        "end": "2023-05-20",
+        "current": true,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": false,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": true,
+          "players": false,
+          "top_scorers": false,
+          "top_assists": false,
+          "top_cards": false,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 872,
+      "name": "Liga Premier Serie B",
+      "type": "League",
+      "logo": "/logos/872.png",
+      "keywords": "Ascenso MX, Lobos BUAP, Dorados de Sinaloa, Club León, Apertura, Clausura, Estádio Banorte, promoção, rebaixamento, Estádio Universitario BUAP, Sergio Bueno, Carlos Bianchezi, formato de pontos corridos, playoffs, rivalidade local, talentos emergentes, torcida apaixonada, desenvolvimento de jovens, importância regional, futebol mexicano.",
+      "keywords_semantic": "Liga Premier Serie B, futebol mexicano, desenvolvimento de talentos, clubes de base, formação de atletas, ascensão e descenso, competitividade nacional, jovens promessas, clubes locais, tradição regional, plataforma de crescimento, impacto social, infraestrutura esportiva, rivalidades emergentes, federação mexicana, oportunidades de carreira, visibilidade internacional."
+    },
+    "country": {
+      "name": "Mexico",
+      "code": "MX",
+      "flag": "https://media.api-sports.io/flags/mx.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-08-27",
+        "end": "2023-05-07",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": false,
+            "lineups": false,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": true,
+          "players": false,
+          "top_scorers": false,
+          "top_assists": false,
+          "top_cards": false,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 722,
+      "name": "Liga Premier Serie A",
+      "type": "League",
+      "logo": "/logos/722.png",
+      "keywords": "Liga MX, Águilas do América, Chivas Guadalajara, Clásico Nacional, Tigres UANL, Monterrey, Pumas UNAM, Estádio Azteca, Estádio Jalisco, Liguilla, Apertura e Clausura, Juan Carlos Osorio, Cuauhtémoc Blanco, Hugo Sánchez, Guillermo Ochoa, rivalidade América vs Chivas, Carlos Vela, importância cultural no México, formato de playoffs, clubes de tradição, La Máquina do Cruz Azul, León, Pachuca, Necaxa, Toluca, histórico de campeões, paixão nacional, torcida mexicana.",
+      "keywords_semantic": "Liga MX, futebol mexicano, história cultural, América, Chivas Guadalajara, clássicos, rivalidades, formato Apertura-Clausura, prestígio nacional, Tigres UANL, Monterrey, Pumas UNAM, Cruz Azul, América vs Chivas, impacto Latino-americano, Estádio Azteca, León, Pachuca, Toluca, Libertadores, Concacaf Champions League, desenvolvimento jovem, torcida apaixonada, tradição futebolística, evolução tática, clubes históricos, sucesso internacional."
+    },
+    "country": {
+      "name": "Mexico",
+      "code": "MX",
+      "flag": "https://media.api-sports.io/flags/mx.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-08-26",
+        "end": "2023-05-13",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": false,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": true,
+          "players": false,
+          "top_scorers": false,
+          "top_assists": false,
+          "top_cards": false,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 662,
+      "name": "Copa por México",
+      "type": "Cup",
+      "logo": "/logos/662.png",
+      "keywords": "Copa por México, Liga MX, Chivas Guadalajara, Club América, Estadio Azteca, clássico nacional, Tigres UANL, Monterrey Rayados, Cruz Azul, Pumas UNAM, futebol mexicano, Guillermo Ochoa, Andrés Guardado, jovens promessas, rivalidades regionais, formato de torneio amistoso, pré-temporada, paixão mexicana, torcidas vibrantes, história do futebol mexicano, desenvolvimento do talento local.",
+      "keywords_semantic": "Copa por México, torneio amistoso, pré-temporada, clubes mexicanos, clássico nacional, América, Chivas, rivalidades locais, preparação, futebol mexicano, Estadio Azteca, importância cultural, formato de grupos, prestígio nacional, rivalidades históricas, contexto latino-americano."
+    },
+    "country": {
+      "name": "Mexico",
+      "code": "MX",
+      "flag": "https://media.api-sports.io/flags/mx.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-12-13",
+        "end": "2022-12-31",
+        "current": true,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": false,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": false,
+          "top_scorers": false,
+          "top_assists": false,
+          "top_cards": false,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 1017,
+      "name": "U23 League",
+      "type": "League",
+      "logo": "/logos/1017.png",
+      "keywords": "La Liga MX, fútbol mexicano, Tigres UANL, Club América, Chivas Guadalajara, Cruz Azul, Estadio Azteca, jovens talentos, cantera, jogadores promissores, formação de base, Copa do Mundo 2026, infraestrutura esportiva, Carlos Vela, Hirving Lozano, evolução tática, rivalidades clássicas, torcida apaixonada, desenvolvimento juvenil, preparação olímpica, competição de grupos, eliminatórias diretas.",
+      "keywords_semantic": "México, sub-23, jovens talentos, desenvolvimento, formação de atletas, clubes mexicanos, escalonamento, vitrine de talentos, futebol de base, promessas do futebol, torneio de aspirantes, competição nacional, trampolim para o profissional, categorias de base, projeção internacional, estrutura de liga."
+    },
+    "country": {
+      "name": "Mexico",
+      "code": "MX",
+      "flag": "https://media.api-sports.io/flags/mx.svg"
+    },
+    "seasons": [
+      {
+        "year": 2023,
+        "start": "2023-06-30",
+        "end": "2024-05-18",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": false,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  }
+]

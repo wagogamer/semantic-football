@@ -1,0 +1,3060 @@
+[
+  {
+    "team": {
+      "id": 1174,
+      "name": "Club Guarani",
+      "code": "GUA",
+      "country": "Paraguay",
+      "founded": 1903,
+      "national": false,
+      "logo": "/teams/1174.png",
+      "keywords": "Aborigen, El Legendario, Estadio Rogelio Livieres, Fernando Jubero, José Saturnino Cardozo, Raúl Vicente Amarilla, Torcida Legendaria, Aurinegro, Copa Libertadores, Campeonato Paraguaio, Identidade Guarani, Ramón Díaz, Tradição Indígena, Campeón del Siglo, Club Decano, Rivalidade Cerro Porteño, Clássico Assunceno, História Centenária, Força Cultural Paraguai.",
+      "keywords_semantic": "Assunção, aurinegro, tradição paraguaia, Cerro Porteño, Olimpia, clássico paraguayo, títulos nacionais, Tacuary, torcida fervorosa, Rogelio Livieres, Copa Libertadores, ídolos paraguaios, La Toldería, estilo aguerrido, competitividade, história centenária, símbolo indígena, cultura guarani, paixão futebolística."
+    },
+    "venue": {
+      "id": 19702,
+      "name": "Estadio Rogelio Silvino Livieres",
+      "address": "Avenida Artigas, Barrio Dos Bocas",
+      "city": "Asunción",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "/venues/19702.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1175,
+      "name": "Nacional Asuncion",
+      "code": "NAC",
+      "country": "Paraguay",
+      "founded": 1904,
+      "national": false,
+      "logo": "/teams/1175.png",
+      "keywords": "Los Tricolores, El Decano, Estadio Arsenio Erico, Arsenio Erico, Nicolás Leoz, Copa Libertadores, Torneo Apertura, Torneo Clausura, Torcida Nacionalista, Hinchada Albo, Identidade Paraguaia, Futebol Paraguayo, Juan Carlos Osorio, Campeón Paraguayo, Club Social y Deportivo, Tradición e Historia, La Academia, Marcelo Palau, Rivalidade com Cerro Porteño, Rivalidade com Olimpia, Ascenso y Descenso, Fútbol Guaraní.",
+      "keywords_semantic": "Nacional Asunción, Paraguay, Tricolor, Academia, Barrio Obrero, Cerro Porteño, Olimpia, rivalidade, Campeonato Paraguaio, tradição, história, ídolos, torcedores, Estádio Arsenio Erico, identidade, cultura, futebol ofensivo, desenvolvimento juvenil, conquistas, legado, paixão, rivalidades locais, Copa Libertadores, prestígio, orgulho paraguaio, apoio fervoroso."
+    },
+    "venue": {
+      "id": 1220,
+      "name": "Estadio Arsenio Erico",
+      "address": "Avenida Pedro Juan Caballero y Batallon 40",
+      "city": "Asunción",
+      "capacity": 7000,
+      "surface": "grass",
+      "image": "/venues/1220.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1176,
+      "name": "Cerro Porteno",
+      "code": "CER",
+      "country": "Paraguay",
+      "founded": 1912,
+      "national": false,
+      "logo": "/teams/1176.png",
+      "keywords": "Ciclón de Barrio Obrero, La Nueva Olla, Julio Dos Santos, Francisco Arce, Copa Libertadores, Torcida Azulgrana, Clássico com Olimpia, Identidade Paraguai, Raúl Zapag, Juan José Zapag, Estádio General Pablo Rojas, Cerro Porteño ídolos, Tradição Guarani, Azulgrana, La Mitad Más Uno, Lendas Azulgranas, Títulos Paraguaios, Rivais tradicionais, História centenária.",
+      "keywords_semantic": "Ciclón, Barrio Obrero, Asunción, Azulgrana, La Nueva Olla, Superclásico, Olimpia, tradição, La Barra de la Olla, torcedores apaixonados, ídolos históricos, conquistas nacionais, Libertadores, futebol ofensivo, identidade paraguaia, rivalidade intensa, cultura futebolística, paixão, resistência, orgulho nacional."
+    },
+    "venue": {
+      "id": 22161,
+      "name": "Estadio ueno La Nueva Olla",
+      "address": "Avenida Cerro León, Bairro Obrero",
+      "city": "Asunción",
+      "capacity": 45000,
+      "surface": "grass",
+      "image": "/venues/22161.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1177,
+      "name": "SOL DE America",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1909,
+      "national": false,
+      "logo": "/teams/1177.png",
+      "keywords": "Sol de América, Danzarín, Villa Elisa, Estadio Luís Alfonso Giagni, Torneo Apertura, Torneo Clausura, Copa Sudamericana, Copa Libertadores, Torcida Azul, Identidade Paraguaia, Óscar Cardozo, Ever Almeida, Presidente Miguel Figueredo, Técnico Sergio Orteman, Rivalidade com Club Olimpia, Identidade operária, Jovens talentos paraguaios, Tradição na Primera División, Cultura Guarani, Símbolo do Sol.",
+      "keywords_semantic": "Paraguai, Asunción, Barrio Obrero, história, tradição, cultura local, rivalidades, Club Olimpia, Club Guaraní, títulos nacionais, Copa Paraguai, torcedores apaixonados, azul celeste, ídolos, Javier Sanguinetti, desenvolvimento de jovens talentos, estilo de jogo ofensivo, comunidade, legado esportivo, identidade paraguaia, futebol paraguaio, resistência, símbolos culturais, competitividade regional."
+    },
+    "venue": {
+      "id": 1224,
+      "name": "Estadio Luís Alfonso Giagni",
+      "address": "Avenida Enrique Von Poleski, Bairro Villa Elisa",
+      "city": "Asunción",
+      "capacity": 7000,
+      "surface": "grass",
+      "image": "/venues/1224.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1178,
+      "name": "General Diaz",
+      "code": "DIA",
+      "country": "Paraguay",
+      "founded": 1917,
+      "national": false,
+      "logo": "/teams/1178.png",
+      "keywords": "Águias de Luque, Estádio General Adrián Jara, Divisão Intermediária, Ascensão 2012, Primeira Divisão Paraguaia, Copa Sul-Americana, Luque, Torcida Passionária, Identidade Guarani, Futebol Paraguaio, Roberto Gamarra, Ídolo Derlis Orué, Rivalidade Luqueña, Cultura Paraguaia, Desenvolvimento de Jovens Talentos, Hernán Rodrigo López, Dirigentes Dedicados, Tradição e Modernidade, Presidente Jorge González, Estratégias de Formação.",
+      "keywords_semantic": "General Diaz, Paraguai, futebol paraguaio, Luque, Águias, identidade militar, torcida apaixonada, rivalidade local, ascensão, rebaixamento, divisão paraguaia, ídolos locais, estilo defensivo, competições nacionais, história recente, tradição emergente, símbolos militares, Estádio General Adrián Jara, cultura esportiva, desenvolvimento jovem."
+    },
+    "venue": {
+      "id": 1217,
+      "name": "Estadio General Adrián Jara",
+      "address": "Avenida General Elizardo Aquino y General Jara",
+      "city": "Luque",
+      "capacity": 3300,
+      "surface": "grass",
+      "image": "/venues/1217.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1179,
+      "name": "Libertad Asuncion",
+      "code": "LIB",
+      "country": "Paraguay",
+      "founded": 1905,
+      "national": false,
+      "logo": "/teams/1179.png",
+      "keywords": "Gumarelo, Tacuara Cardozo, Nicolás Morínigo, Copa Libertadores, Torneo Apertura, Torneo Clausura, La Huerta, Club Libertad, Olímpico, Asociación Paraguaya de Fútbol, tradição paraguaia, Ramón Díaz, José Luis Chilavert, Estadio Dr. Nicolás Leoz, torcida albinegra, cultura guarani, rivalidade Cerro Porteño, presidente Rubén Di Tore, La Barra del Negro, Cerro Corá, campeões paraguaios, identidade alvinegra.",
+      "keywords_semantic": "Libertad, Asuncion, Paraguai, Gumarelo, tradição, títulos nacionais, Copa Libertadores, clássico paraguaio, Cerro Porteño, Club Olimpia, identidade guarani, torcida apaixonada, Estádio Defensores del Chaco, ídolo histórico, Santiago Salcedo, estilo ofensivo, formação de talentos, rivalidade local, cultura futebolística, trajetória histórica, campeonatos paraguaios, desenvolvimento juvenil."
+    },
+    "venue": {
+      "id": 19515,
+      "name": "Estadio Tigo La Huerta",
+      "address": "Avenida Artigas Nº 1.030 esq. Cusmanich",
+      "city": "Asunción",
+      "capacity": 12000,
+      "surface": "grass",
+      "image": "/venues/19515.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1180,
+      "name": "Deportivo Capiata",
+      "code": "DEP",
+      "country": "Paraguay",
+      "founded": 2008,
+      "national": false,
+      "logo": "/teams/1180.png",
+      "keywords": "Escoberos, Estadio Erico Galeano, Clausura 2014, participação Copa Sudamericana 2014, tradição paraguaia, cores amarelo e azul, ídolos Santiago Salcedo, torcida capiateña, ascensão rápida, identidade local, futebol paraguaio emergente, presidente Erico Galeano, técnico Carlos Recalde, símbolo peixe, rivalidade com clubes de Assunção, La Banda Escobera.",
+      "keywords_semantic": "Deportivo Capiata, Paraguai, futebol paraguaio, cultura guarani, rivalidades locais, ascensão meteórica, história recente, liga paraguaia, torcedores apaixonados, estádio Erico Galeano, ídolos locais, comunidade Capiateña, tradição futebolística, cores amarelo e azul, espírito de luta, futebol ofensivo, competições nacionais, desenvolvimento juvenil, orgulho regional, impacto social."
+    },
+    "venue": {
+      "id": 1706,
+      "name": "Estadio Lic. Erico Galeano Segovia",
+      "address": "Calle La Candelaria",
+      "city": "Capiatá",
+      "capacity": 15000,
+      "surface": "grass",
+      "image": "/venues/1706.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1181,
+      "name": "General Caballero",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1918,
+      "national": false,
+      "logo": "/teams/1181.png",
+      "keywords": "General Caballero, Rojo de Mallorquín, Estádio Ka'arendy, Ascenso, Torcida Pasión Roja, Derby Paraguaio, Formativas, Liga Paraguaia, Ídolo Rivelino Centurión, Campeonato Paraguaio, Identidade Guarani, Técnico Gustavo Bobadilla, Presidente Juan Galeano, Símbolo Guerreiro, Tradição Paraguaia, Desenvolvimento de Talentos.",
+      "keywords_semantic": "Paraguai, General Caballero, futebol paraguaio, história, tradição, rivalidades locais, ídolos, torcida apaixonada, identidade cultural, campeonato paraguaio, ascensão, persistência, estádio, vermelho e branco, estilo de jogo, desenvolvimento de jogadores, comunidade, símbolos do clube, legado, impacto social."
+    },
+    "venue": {
+      "id": 2799,
+      "name": "Estadio Hugo Bogado Vaceque",
+      "address": "Tte. Claudio Acosta y Calle 26 de Febrero, Barrio Zeballos Cué",
+      "city": "Asunción",
+      "capacity": 7000,
+      "surface": "grass",
+      "image": "/venues/2799.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1182,
+      "name": "Olimpia",
+      "code": "OLI",
+      "country": "Paraguay",
+      "founded": 1902,
+      "national": false,
+      "logo": "/teams/1182.png",
+      "keywords": "Decano, Rey de Copas, Taça Libertadores, Estádio Defensores del Chaco, torcida Franjeada, Richard Ortiz, Roque Santa Cruz, tricampeão da América, Mauro Cardozo, garra guarani, clássicos contra Cerro Porteño, tradição e história, ídolos históricos como Ever Hugo Almeida, presidente Miguel Cardona, técnico Francisco Arce, La O, paixão paraguaia, espírito vencedor, rivalidade paraguaia, conquistas internacionais, herança cultural.",
+      "keywords_semantic": "Olimpia, Paraguai, Decano, tricampeão, Libertadores, tradição, rivalidade, Cerro Porteño, Rey de Copas, torcida Franjeada, estádio Manuel Ferreira, ídolos, Roque Santa Cruz, glórias, estilo ofensivo, mística, hinchada, paixão paraguaia, história rica, títulos nacionais, identidade forte."
+    },
+    "venue": {
+      "id": 21180,
+      "name": "Estadio UENO Osvaldo Domínguez Dibb",
+      "address": "Avenida Mariscal López 1499, Bairro Las Mercedes",
+      "city": "Asunción",
+      "capacity": 22000,
+      "surface": "grass",
+      "image": "/venues/21180.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1183,
+      "name": "Sportivo Luqueno",
+      "code": "SPO",
+      "country": "Paraguay",
+      "founded": 1921,
+      "national": false,
+      "logo": "/teams/1183.png",
+      "keywords": "Kure Luque, Auriazules, Estádio Feliciano Cáceres, Copa do Paraguai, Torneo Clausura, Torcida Chanchón, Identidade Luqueña, Derlis Soto, Hugo Talavera, Presidente Daniel Rodriguez, Técnico Gustavo Florentín, Rivalidade com Olimpia, Ascenso histórico, Cultura guarani, Festa popular em Luque, Símbolo do chanchón, Tradição paraguaia, Futebol guaraní, Alfredo Mazacotte, Paixão auriazul.",
+      "keywords_semantic": "Luque, Estádio Feliciano Cáceres, Auriazules, Torcida Chanchón, Clássico Luqueño, Cerro Porteño, Olimpia, Tradição, Fundado 1921, Copa Paraguai, Ascenso, Raízes Operárias, Ídolo Derlis Soto, Cultura Paraguai, Rivalidade Regional, Estilo Ofensivo, Identidade Popular, História Resiliente, Clube Tradicional, Paixão Local."
+    },
+    "venue": {
+      "id": 1226,
+      "name": "Estadio Feliciano Cáceres",
+      "address": "Avenida Sportivo Luqueño y Gaspar R. de Francia, Bairro Tercer",
+      "city": "Luque",
+      "capacity": 24000,
+      "surface": "grass",
+      "image": "/venues/1226.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1184,
+      "name": "Club River Plate",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1911,
+      "national": false,
+      "logo": "/teams/1184.png",
+      "keywords": "Los Kelitos, Estadio Los Jardines del Kelito, Barrio Mburicaó, Salvador Breglia, Copas nacionais, Ascensão à Primeira Divisão, Torcida fiel, Tradição paraguaia, Carlos Gamarra, Identidade guarani, Formação de talentos, Cores vermelho e branco, Rivalidades locais, Cultura ribeirinha, Desenvolvimento juvenil.",
+      "keywords_semantic": "Club River Plate, Paraguai, Tricolor, Barrio Mburicaó, Asunción, Identidade cultural, Rivais locais, Tradição futebolística, Torcida apaixonada, Ídolos históricos, Competição nacional, Desempenho estratégico, Desenvolvimento de talentos, Estilo aguerrido, Legado esportivo, Comunidade e pertencimento."
+    },
+    "venue": {
+      "id": 1881,
+      "name": "Estadio River Plate",
+      "address": "Avenida Jose Tlsasi y Dominguez, Barrio Mburicaó",
+      "city": "Asunción",
+      "capacity": 6500,
+      "surface": "grass",
+      "image": "/venues/1881.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1185,
+      "name": "Rubio NU",
+      "code": "RUB",
+      "country": "Paraguay",
+      "founded": 1913,
+      "national": false,
+      "logo": "/teams/1185.png",
+      "keywords": "Rubio Ñu, Albiverde, Barrio Santísima Trinidad, La Banda del Rubio, Estadio La Arboleda, Torneo Intermedia, ascensão à Primeira Divisão, Nery Cardozo, Gustavo Morínigo, ídolo local, tradição guarani, desenvolvimento de jovens talentos, futebol paraguaio, rivalidade local, cultura esportiva paraguaia, paixão nas arquibancadas.",
+      "keywords_semantic": "Asunción, barrio Santísima Trinidad, futebol paraguaio, Segunda División, torcedores Rubio Ñuenses, rivalidade Cerro Porteño, história local, formação de talentos, identidade comunitária, cores verde e branco, tradição juvenil, Estádio La Arboleda, ascensão, paixão paraguaia, futebol de bairro."
+    },
+    "venue": {
+      "id": 20815,
+      "name": "Estadio La Arboleda",
+      "address": "Calle Juana P. Carillo, Santísima Trinidad",
+      "city": "Asunción",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "/venues/20815.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1186,
+      "name": "Independiente F.b.c.",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1925,
+      "national": false,
+      "logo": "/teams/1186.png",
+      "keywords": "Independiente F.B.C., Campo Grande, El Inde, Alfredo Stroessner, Estadio Ricardo Gregor, vermelho e branco, Ascenso Paraguayo, Torcida Albirroja, Ramón Hicks, ídolo, División Intermedia, Carlos Jara Saguier, técnico, José Cardozo, ex-jogador, cultura guarani, tradição paraguaia, rivalidade local, futebol paraguaio, presidente do clube, formação de jovens talentos, identidade comunitária.",
+      "keywords_semantic": "Luque, tradição, rivalidade, Club Sportivo Luqueño, Estádio Ricardo Gregor, torcedores apaixonados, alvirrubro, história, ascensão, Copa Paraguai, desenvolvimento jovem, orgulho local, ídolos regionais, identidade paraguaia."
+    },
+    "venue": {
+      "id": 1974,
+      "name": "Estadio Ricardo Gregor",
+      "address": "Avenida Santísima Trinidad y Salvador del Mundo, Campo Grande",
+      "city": "Luque",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "/venues/1974.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1187,
+      "name": "Sportivo Trinidense",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1935,
+      "national": false,
+      "logo": "/teams/1187.png",
+      "keywords": "Sportivo Trinidense, El Triqui, tradição paraguaia, Ascenso Paraguayo, Estadio Martín Torres, Barrio Trinidad, José Luis Chilavert, rivalidade local, Copa Paraguay, paixão tricolor, La Barra Tricolor, luta pelo acesso, futebol guarani, identidade comunitária, desenvolvimento de talentos, história no futebol paraguaio.",
+      "keywords_semantic": "Asunción, Barrio Trinidad, ascensão, tradição, rivalidade local, Torneo Intermedia, comunidade, identidade paraguaia, Estadio Martín Torres, La Academia, ídolos locais, paixão, perseverança, história, coesão social."
+    },
+    "venue": {
+      "id": 1227,
+      "name": "Estadio Martín Torres",
+      "address": "Avenida Molas López, Barrio Santísima Trinidad",
+      "city": "Asunción",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "/venues/1227.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1188,
+      "name": "3 de Febrero",
+      "code": "EST",
+      "country": "Paraguay",
+      "founded": 1970,
+      "national": false,
+      "logo": "/teams/1188.png",
+      "keywords": "3 de Febrero, Rojo del Este, Estádio Antonio Aranda, Ciudad del Este, Torcida Pasión Roja, Primeira Divisão Paraguaia, Vice-campeão 2004, Rivalidade Paranaense, Ascensão 2004, Técnico Eduardo Rivera, Ídolo Néstor Espínola, Presidente Carlos Saguier, Cultura Guarani, Formador de talentos, Identidade paraguaia, Tradição no interior, Fervor torcedor, Símbolo Águia, Desempenho na Intermedia, Desenvolvimento juvenil.",
+      "keywords_semantic": "Ciudad del Este, Liga Paraguaya, Estadio Antonio Aranda, rivalidade Operário, torcida fiel, ascensão e queda, futebol paraguaio, clube tradicional, identidade vermelha, história recente, competições nacionais, formação de talentos, desafios financeiros, paixão local, espírito guerreiro."
+    },
+    "venue": {
+      "id": 1213,
+      "name": "Estadio Antonio Aranda",
+      "address": "Avenida General Bernardino Caballero",
+      "city": "Ciudad del Este",
+      "capacity": 28000,
+      "surface": "grass",
+      "image": "/venues/1213.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1189,
+      "name": "Deportivo Santani",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 2009,
+      "national": false,
+      "logo": "/teams/1189.png",
+      "keywords": "Deportivo Santaní, Santanianos, Club Deportivo Santaní, Estádio Juan José Vázquez, cidade de San Estanislao, La República de Santaní, ascensão à Primeira Divisão, Clausura 2018, Torcida Santaniana, Alfredo Jara (ídolo), história recente, garra e determinação, Campeonato Paraguaio, cultura guarani, futebol interiorano, espírito de luta.",
+      "keywords_semantic": "Deportivo Santaní, Paraguai, futebol paraguaio, San Estanislao, Torneo Apertura, Torneo Clausura, rivalidade, ascensão, descida, história recente, torcedores, Estádio Juan José Vázquez, ídolos locais, identidade regional, futebol interiorano, perseverança, superação, comunidade, estilo de jogo defensivo, espírito de luta."
+    },
+    "venue": {
+      "id": 1747,
+      "name": "Estadio Juan José Vázquez",
+      "address": null,
+      "city": "San Estanislao",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "/venues/1747.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2125,
+      "name": "Club Sp. San Lorenzo",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1930,
+      "national": false,
+      "logo": "/teams/2125.png",
+      "keywords": "Rayadito, Estadio Gunther Vogel, Barrio San Lorenzo, Torcida Rayadita, Clásico de la Ciudad Universitaria, Ascenso 2014, Campeonato Paraguayo, Cultura Guarani, Adolfo Genes, Ídolo: Aureliano Torres, Presidente: Ramón Peralta, Técnico: Sergio Orteman, Identidade Operária, Tradição Universitária, Rivalidade com Sportivo Luqueño, Apoio Comunitário, Legado de Formação de Jovens Jogadores.",
+      "keywords_semantic": "Paraguai, San Lorenzo, Rayadito, identidade cultural, tradição, Ascenso, rivalidade, Club Olimpia, ídolos locais, torcida apaixonada, estádio Gunther Vogel, história rica, futebol paraguaio, campeonatos nacionais, desenvolvimento jovem, estilo aguerrido, paixão futebolística, cores vermelho e branco, comunidade local, espírito de luta."
+    },
+    "venue": {
+      "id": 1223,
+      "name": "Estadio Gunther Vogel",
+      "address": "Rua Artigas, Barrio Fatima",
+      "city": "San Lorenzo",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "/venues/1223.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2126,
+      "name": "Deportivo Caaguazu",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 2008,
+      "national": false,
+      "logo": "/teams/2126.png",
+      "keywords": "Madereros, Estadio Teniente Fariña, Liga Caaguazú, Torcida Albirroja, Ascenso Paraguayo, Campeonato Intermedia, Coração de Madera, Ídolos Locais, Cultura Guarani, Futebol Paraguaio, Aficionados Fieis, Projeto de Base, Identidade Regional, Descentralização Futbolística, Presidente do Clube, Técnico Atual, Desenvolvimento Juvenil, Símbolo da Cidade, Rivalidade Regional, Paixão Caaguazú.",
+      "keywords_semantic": "Deportivo Caaguazu, Paraguay, clube paraguaio, futebol paraguaio, Caaguazú, identidade local, torcedores, cultura paraguaia, história do clube, Segunda División, rivalidades regionais, ascensão e queda, desenvolvimento juvenil, paixão pelo futebol, tradição esportiva, comunidade local, cores do clube, estádio Ykua Pytã, ídolos locais, estilo de jogo aguerrido, importância social."
+    },
+    "venue": {
+      "id": 1215,
+      "name": "Estadio Municipal Federico Llamosas",
+      "address": null,
+      "city": "Caaguazú",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "/venues/1215.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2127,
+      "name": "Olimpia De Ita",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1921,
+      "national": false,
+      "logo": "/teams/2127.png",
+      "keywords": "Olimpia De Ita, Decano, Paraguai, ídolos, títulos nacionais, torcida apaixonada, tradição, identidade paraguaia, presidente influente, técnico renomado, símbolo do clube, Estádio Manuel Ferreira, rivalidades locais, formação de talentos, herança cultural, cores tradicionais, espírito de luta, símbolos regionais.",
+      "keywords_semantic": "Olimpia De Ita, Paraguai, futebol paraguaio, tradição local, rivalidade regional, identidade de torcida, paixão paraguaia, clube histórico, competições nacionais, ídolos locais, cultura esportiva, símbolos do clube, estilo de jogo, comunidade esportiva, marcos históricos, espírito competitivo."
+    },
+    "venue": {
+      "id": 2803,
+      "name": "Estadio Presbítero Manuel Gamarra",
+      "address": "Calle Sgto. Silva / Teniente Valdovinos",
+      "city": "Itá",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/2803.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2128,
+      "name": "Ovetense FC",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2128.png",
+      "keywords": "Ovetense FC, Albirojos, Estádio Ovetenses Unidos, Coronel Oviedo, Campeonato Paraguaio de Segunda Divisão, Torcida Ovetense, Cultura Guarani, Ídolo: Julio César Cáceres, Presidente: Miguel Solís, Técnico: Carlos Jara Saguier, Rivalidade com Caaguazú, Formação de jovens talentos, História desde 1911, Símbolo: Leão, Apoio comunitário, Ascensão e desafios.",
+      "keywords_semantic": "Ovetense FC, Paraguai, Caaguazú, Liga Caaguazú, tradição local, rivalidade regional, história futebolística, desenvolvimento jovem, apoio comunitário, identidade local, ídolos locais, paixão pelo futebol, cultura paraguaia, futebol sul-americano, equipe emergente, torcedores dedicados, futebol de base, orgulho regional, competição nacional."
+    },
+    "venue": {
+      "id": 1871,
+      "name": "Estadio Ovetenses Unidos",
+      "address": "Ruta 8 Blas Garay",
+      "city": "Coronel Oviedo",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "/venues/1871.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2129,
+      "name": "Sport Colombia",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1924,
+      "national": false,
+      "logo": "/teams/2129.png",
+      "keywords": "Sport Colombia, Ñandutí, Estádio Ricardo Gregor, Asunción, Tricolor del Barrio Obrero, 1924, Segunda División, Juan Carlos Espínola, Torcida fiel, Identidade guarani, Desenvolvedores de talentos, Clássico Rival: Cerro Porteño, Desenvolvimento juvenil, História rica, Club formador, Tradição esportiva, Contribuição cultural, Orgulho paraguaio, Estratégia local, Comunidade esportiva.",
+      "keywords_semantic": "Paraguai, Assunção, futebol amador, história, tradição, comunidade, rivalidade local, identidade cultural, torcida apaixonada, desenvolvimento de talentos, legado esportivo, ídolos locais, orgulho regional, divisões inferiores, futebol de base, perseverança, espírito comunitário."
+    },
+    "venue": {
+      "id": 2805,
+      "name": "Estadio Alfonso Colmán",
+      "address": "Avenida Concepcion",
+      "city": "Fernando de la Mora",
+      "capacity": 7000,
+      "surface": "grass",
+      "image": "/venues/2805.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2130,
+      "name": "Fernando De La Mora",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1925,
+      "national": false,
+      "logo": "/teams/2130.png",
+      "keywords": "Fernando De La Mora, El Procer, Estadio Emiliano Ghezzi, División Intermedia, Garra Guaraní, Rubén Ruiz Díaz, Ascenso Paraguayo, Identidade Paraguaia, Associação Cultural, Torcida Leal, Coração Albirrojo, Clubes Tradicionais, La Barra Del Rojo, Espírito de Luta, Desenvolvimento Juvenil, Orgulho de Fernando De La Mora.",
+      "keywords_semantic": "Fernando De La Mora, Paraguai, Segunda División, ascensão, tradição local, comunidade, paixão, rivalidades regionais, história recente, identidade, torcida fiel, desenvolvimento de talentos, futebol paraguaio, ídolos locais, cores do clube, espírito competitivo, crescimento esportivo, conexão social, legado cultural."
+    },
+    "venue": {
+      "id": 1216,
+      "name": "Estadio Emiliano Ghezzi",
+      "address": "Avenida Bruno Guggiari y Sajonia, Vista Alegre",
+      "city": "Asunción",
+      "capacity": 5500,
+      "surface": "grass",
+      "image": "/venues/1216.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2131,
+      "name": "Caacupe FBC",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1980,
+      "national": false,
+      "logo": "/teams/2131.png",
+      "keywords": "Caacupe FBC, \"El Equipo de la Virgen\", Estádio Teniente Fariña, Caacupé, Torneo Intermedia, pasión albirroja, ascenso, tradição paraguaia, La Albirroja, apoio da cidade, ídolos locais, fervor religioso, torcedores fiéis, identidade comunitária, futebol paraguaio, rivalidade regional.",
+      "keywords_semantic": "Cultura Paraguaia, Tradição Local, Rivalidades Regionais, Copa Paraguai, Torcida Apaixonada, Identidade Comunitária, Clubes de Barrio, Desenvolvimento de Talentos, Ídolos Locais, Estilo de Jogo Competitivo, Futebol Paraguaio, História do Clube, Ascensão no Futebol, Participação em Ligas, Símbolos Regionais"
+    },
+    "venue": {
+      "id": 2802,
+      "name": "Estadio Teniente Fariña",
+      "address": "Avenida Miriscal Jose F. Estigarribia, Barrio Yboty",
+      "city": "Caacupé",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "/venues/2802.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2132,
+      "name": "Cristobal Colon",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1925,
+      "national": false,
+      "logo": "/teams/2132.png",
+      "keywords": "Cristobal Colon, Los Rojos, ídolo histórico Cristóbal Ramírez, títulos de campeonatos regionais, torcida fervorosa, identidade cultural paraguaia, tradição futebolística, presidente Juan López, técnico Carlos González, símbolo da colônia espanhola, estádio emblemático, rivalidade local, formação de jovens talentos, paixão comunitária, festas tradicionais no estádio, bandeira vermelha e branca.",
+      "keywords_semantic": "Cristobal Colon, Paraguai, cultura guarani, tradição local, rivalidades regionais, campeonatos paraguaios, torcedores apaixonados, ídolos históricos, identidade comunitária, símbolos regionais, estilo de jogo aguerrido, futebol paraguaio, marcos locais, herança futebolística, história rica"
+    },
+    "venue": {
+      "id": 2804,
+      "name": "Estadio Pablo Patricio Bogarín",
+      "address": "Cristóbal Colón",
+      "city": "Ñemby",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "/venues/2804.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2133,
+      "name": "Deportivo Liberacion",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 2014,
+      "national": false,
+      "logo": "/teams/2133.png",
+      "keywords": "Deportivo Liberacion, Los Albirrojos, Estadio Liberacion, Torcida Albirroja, Identidade Paraguaia, Cultura Guarani, Ídolos do Passado, Rivalidades Regionais, Títulos Nacionais, Presidente Juan Pérez, Técnico Carlos González, Simbolismo Guarani, Desenvolvimento Juvenil, História do Futebol Paraguaio, Comunidade de Liberacion.",
+      "keywords_semantic": "Paraguai, Deportivo Liberacion, futebol paraguaio, cultura local, rivalidades regionais, campeonato paraguaio, história do clube, identidade da torcida, ídolos do clube, símbolos culturais, estilo de jogo, paixão dos torcedores, tradição esportiva, desenvolvimento de talentos, influência social."
+    },
+    "venue": {
+      "id": 1747,
+      "name": "Estadio Juan José Vázquez",
+      "address": null,
+      "city": "San Estanislao",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "/venues/1747.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2134,
+      "name": "Fulgencio Yegros",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1924,
+      "national": false,
+      "logo": "/teams/2134.png",
+      "keywords": "Fulgencio Yegros, equipo paraguayo, \"El Prócer\", Yegros Fútbol Club, ídolo histórico: Pedro Sarubbi, Estadio Ex-Tembetary, liga paraguaya, torcedores apaixonados, cidade de Ñemby, identidade local, cores vermelho e branco, rivalidade regional, presidente atual, desenvolvimento de jovens talentos, cultura futebolística paraguaia, tradição e história, participação em divisões inferiores, símbolo do clube: prócer Yegros, apoio comunitário, técnico atual.",
+      "keywords_semantic": "Fulgencio Yegros, Paraguai, tradição, cultura guarani, história local, Ypané, rivalidades regionais, campeonato paraguaio, identidade torcedora, paixão, comunidade, ídolos locais, desenvolvimento de talentos, futebol ofensivo, perseverança, símbolos regionais, espírito de luta, futebol de base."
+    },
+    "venue": {
+      "id": 1872,
+      "name": "Estadio Parque Fulgencio Yegros",
+      "address": "Avenida Santa Librada, Pa&apos;i Ñu",
+      "city": "Ñemby",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "/venues/1872.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2135,
+      "name": "Resistencia",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1917,
+      "national": false,
+      "logo": "/teams/2135.png",
+      "keywords": "Resistencia SC, Celestes, Barrio Ricardo Brugada, Ascenso Paraguayo, Estadio Tomás Beggan Correa, Copa de Primera, Liberto Cáceres, Torcida Resistiana, Identidade Operária, Tradição Popular, Rivalidades Locais, Ídolos Históricos, Cultura Guarani, Desempenho em Campeonatos, Desenvolvimento de Base, Presidente Hernán Alejandro, Técnico Estratégico, Símbolos do Clube, Luta e Perseverança, Legado Imortal.",
+      "keywords_semantic": "Resistencia, Paraguai, futebol paraguaio, Asunción, Barrio Obrero, história cultural, rivalidades locais, Copa Paraguay, torcedores apaixonados, ascensão, ídolos do clube, identidade comunitária, tradição futebolística, clube histórico, estilo aguerrido, espírito de luta."
+    },
+    "venue": {
+      "id": 1752,
+      "name": "Estadio Tomás Beggan Correa",
+      "address": "Ferando de Mompox y Zayas",
+      "city": "Asunción",
+      "capacity": 5700,
+      "surface": "grass",
+      "image": "/venues/1752.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2136,
+      "name": "Sportivo Iteno",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1924,
+      "national": false,
+      "logo": "/teams/2136.png",
+      "keywords": "Sportivo Iteno, Albirrojo, Ramón Hicks, José Luis Chilavert, Estádio Salvador Morga, Liga Itaugüeña, División Intermedia, Torcida Albirroja, Identidade Itaugüeña, Cultura Paraguaia, Rivalidade local, Desenvolvimento de base, Fernando de la Mora, Tradição esportiva, Orgulho Itaugüeño, Ascensão no futebol paraguaio, Desempenho em torneios regionais.",
+      "keywords_semantic": "Paraguai, Itá, Liga Paraguaia, rivalidade local, identidade cultural, torcida apaixonada, tradição regional, comunidade, história do clube, cores do clube, ídolos locais, desenvolvimento de talentos, espírito de luta, futebol paraguaio, competições nacionais, orgulho local, estilo de jogo defensivo, símbolos do clube, influências históricas."
+    },
+    "venue": {
+      "id": 1225,
+      "name": "Estadio Salvador Morga",
+      "address": "Calle Domingo Martínez de Irala esq. Calle General Díaz",
+      "city": "Itá",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "/venues/1225.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2137,
+      "name": "22 De Setiembre",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1906,
+      "national": false,
+      "logo": "/teams/2137.png",
+      "keywords": "22 De Setiembre, Apelido: Albirrojo, Fundado em 1922, Ciudad del Este, Torcida apaixonada, Identidade operária, Campeão da Liga Paranaense, Participação na División Intermedia, Estádio: Estadio Antonio Aranda, Símbolo: Águia, Rivalidade regional, Desempenho local, Desenvolvimento de jovens talentos, Influência local, Presidente: (nome do presidente atual), Técnico: (nome do técnico atual), Proximidade com Foz do Iguaçu, Cultura guarani, Tradição e história local.",
+      "keywords_semantic": "Paraguai, 22 De Setiembre, Villa Elisa, futebol paraguaio, cultura local, identidade comunitária, torcedores apaixonados, tradição esportiva, rivalidade regional, campeonato paraguaio, desenvolvimento juvenil, clubes modestos, ídolos locais, espírito de luta, estilo aguerrido, história do clube."
+    },
+    "venue": {
+      "id": 2801,
+      "name": "Estadio Club 22 de Setiembre",
+      "address": null,
+      "city": "Encarnación",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "/venues/2801.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2138,
+      "name": "Guairena FC",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 2016,
+      "national": false,
+      "logo": "/teams/2138.png",
+      "keywords": "Guairena FC, Albiceleste, Estadio Parque del Guairá, Trofeo de Campeones de la Intermedia, Torcida Guaireña, Identidade Guarani, Trofeo de Campeones de la Copa Paraguay, Troféu de Campeones de la División Intermedia, Joel Estigarribia, Mario Ricardo, Troféu Liga Guairena, Corazón Guairá, Estadio Parido de Villarrica, Lenda Guairá, Presidente Juan Alberto Acosta, Técnico Troadio Duarte, Símbolos Guaireños, Orgulho Villarrica, Formação Albiceleste, Paixão Guaireña, Tradição Guarani, História Futebolística Guaireña, Fervor Albiceleste.",
+      "keywords_semantic": "Villarrica, 2016, ascensão, Torneo Apertura, identidade local, Albirroja, jovens talentos, rivalidade departamental, Estádio Parque del Guairá, comunidade guaireña, paixão paraguaia, tradição emergente, perseverança, desenvolvimento regional, torcedores fieis, crescimento competitivo"
+    },
+    "venue": {
+      "id": 1900,
+      "name": "Estadio Parque del Guairá",
+      "address": "Ruta 8 Dr. Blas Garay",
+      "city": "Villarrica",
+      "capacity": 12000,
+      "surface": "grass",
+      "image": "/venues/1900.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2139,
+      "name": "Martin Ledesma",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1914,
+      "national": false,
+      "logo": "/teams/2139.png",
+      "keywords": "Martin Ledesma, Rojo de Capiatá, Estádio Enrique Soler, Torcida fanática capiateña, Ascenso Paraguayo, Rivalidade com clubes de Capiatá, Identidade cultural paraguaia, Símbolo: Escudo com letras \"ML\", Presidente influente, Desenvolvimento de jovens talentos, História no futebol paraguaio, Desempenho na División Intermedia, Ídolos locais, Tradição no futebol de Capiatá, Técnico visionário, Apoio comunitário, Participação em torneios nacionais.",
+      "keywords_semantic": "Clubes Paraguaios, Futebol Paraguaio, Identidade Cultural, Rivalidades Regionais, História do Futebol, Torcida Apaixonada, Desempenho Competitivo, Ídolos Locais, Tradição Esportiva, Desenvolvimento de Talentos, Estilo de Jogo Paraguai, Marcos Históricos, Identidade Clubística, Legado Esportivo, Simbolismo Clubístico"
+    },
+    "venue": {
+      "id": 1706,
+      "name": "Estadio Lic. Erico Galeano Segovia",
+      "address": "Calle La Candelaria",
+      "city": "Capiatá",
+      "capacity": 15000,
+      "surface": "grass",
+      "image": "/venues/1706.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2140,
+      "name": "2 de Mayo",
+      "code": "MAY",
+      "country": "Paraguay",
+      "founded": 1935,
+      "national": false,
+      "logo": "/teams/2140.png",
+      "keywords": "2 de Mayo, Gallo Norteño, Pedro Juan Caballero, Torcida Azules, Estádio Río Parapití, Campeonato Paraguaio, Ascenso a Primera División, Identidade Norteña, Ídolos Locais, Rivalidade com Cerro Porteño PF, Cultura Guarani, Técnico Carlos Jara Saguier, Presidente Orlando Fiorotto, Desenvolvimento de Jovens Talentos, Patrimônio Cultural Paraguaio.",
+      "keywords_semantic": "Pedro Juan Caballero, fronteira, Paraguai, Segunda Divisão, Liga Paraguaia, identidade regional, torcida local, Cerro Corá, 2000, desenvolvimento, rivalidades locais, ascensão, clube jovem, ídolos regionais, azul e vermelho, estádio Río Parapití, futebol paraguaio, história recente, formação de talentos, comunidade, paixão, tradição emergente."
+    },
+    "venue": {
+      "id": 1212,
+      "name": "Estadio Monumental Río Parapití",
+      "address": "Avenida 12 de Junio y Alberdi",
+      "city": "Pedro Juan Caballero",
+      "capacity": 22000,
+      "surface": "grass",
+      "image": "/venues/1212.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2141,
+      "name": "Ri 3 Corrales",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2141.png",
+      "keywords": "Ri 3 Corrales, apelido: \"Los Rojos\", fundação 1919, ídolos: Gustavo Benítez, títulos: Campeonato Intermedia 2011, torcida apaixonada, identidade cultural: bairro de Asunción, presidente atual, técnico atual, cores vermelho e branco, rivalidade local, símbolo: escudo com três corrales, desenvolvimento de jovens talentos, participação na Liga Paraguaia, Estádio Ricardo Gregor, história centenária no futebol paraguaio.",
+      "keywords_semantic": "Ri 3 Corrales, Paraguai, clube histórico, tradição, cultura futebolística local, rivalidade local, competições regionais, torcida apaixonada, identidade comunitária, ídolos locais, símbolos do clube, estilo de jogo aguerrido, reputação regional, desenvolvimento de talentos, impacto social."
+    },
+    "venue": {
+      "id": 1923,
+      "name": "Complejo Deportivo Virgen María Auxiliadora",
+      "address": "Km 30",
+      "city": "Minga Guazú",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "/venues/1923.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2380,
+      "name": "Paraguay",
+      "code": "PAR",
+      "country": "Paraguay",
+      "founded": 1906,
+      "national": true,
+      "logo": "/teams/2380.png",
+      "keywords": "Olimpia, Decano, Franjeado, Cerro Porteño, Ciclón de Barrio Obrero, Roque Santa Cruz, José Luis Chilavert, Copa Libertadores, Estadio Defensores del Chaco, Club Nacional, La Academia, Libertad, Gumarelo, Torneo Apertura, Torneo Clausura, Clausura 2019, Club Guaraní, Aborigen, Estadio General Pablo Rojas, La Olla, Club Sol de América, Danzarín, Cerro Porteño vs. Olimpia, Superclásico, Asociación Paraguaya de Fútbol, Héctor Marecos, Ramón Díaz, Identidade Guarani, Torcida Azulgrana, La Barra del Olimpia, Presidente Marco Trovato, Presidente Raúl Zapag.",
+      "keywords_semantic": "Club Olimpia, Cerro Porteño, rivalidade, Superclásico, Asunción, Libertadores, tricampeão, torcida apaixonada, Decano, Barrio Obrero, La Olla, Rey de Copas, ídolos históricos, seleção paraguaia, futebol aguerrido, tradição, garra, Copa Paraguai, torcedores, bandeiras, cânticos, defensores sólidos, Guaraní, Nacional, Sol de América, independência cultural, identidade paraguaia, campeonatos nacionais."
+    },
+    "venue": {
+      "id": 1213,
+      "name": "Estadio Antonio Aranda",
+      "address": "Avenida General Bernardino Caballero",
+      "city": "Ciudad del Este",
+      "capacity": 28000,
+      "surface": "grass",
+      "image": "/venues/1213.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3832,
+      "name": "12 de Octubre",
+      "code": "OCT",
+      "country": "Paraguay",
+      "founded": 1914,
+      "national": false,
+      "logo": "/teams/3832.png",
+      "keywords": "12 de Octubre, Itaugüeños, Estádio Luis Salinas, Torneio Clausura 2002, La Gloria del Interior, Torcida Albirroja, Ramón Cardozo, Identidade Paraguai, Promoción 2019, Tricolor, Iván Almeida, Ascensão à Primeira Divisão, Fútbol Paraguayo, Pablo Zeballos, Jorge Achucarro, História do Interior, Identidade Guarani.",
+      "keywords_semantic": "Itauguá, Paraguay, futebol paraguaio, tradição local, rivalidades regionais, história modesta, Liga Paraguaia, ídolos locais, torcida apaixonada, ascensão e queda, clube comunitário, cores azul e branco, estádio Juan Canuto Pettengill, desenvolvimento jovem, estilo de jogo aguerrido."
+    },
+    "venue": {
+      "id": 1213,
+      "name": "Estadio Antonio Aranda",
+      "address": "Avenida General Bernardino Caballero",
+      "city": "Ciudad del Este",
+      "capacity": 28000,
+      "surface": "grass",
+      "image": "/venues/1213.png"
+    }
+  },
+  {
+    "team": {
+      "id": 3833,
+      "name": "Atyrá",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/3833.png",
+      "keywords": "Atyrá FC, La Celeste, ídolos locais, División Intermedia, torcida apaixonada, identidade cultural paraguaia, cidade de Atyrá, técnicos paraguaios, desenvolvimento de jovens talentos, Estadio San Francisco de Asís, tradição futebolística, ascensão no futebol paraguaio, competições nacionais, rivalidades regionais, influência comunitária, história recente, cores tradicionais, jogadores promissores, apoio da comunidade, crescimento esportivo.",
+      "keywords_semantic": "Atyrá, Paraguai, clube emergente, história recente, Liga Paraguaia, desenvolvimento comunitário, crescimento esportivo, identidade local, apoio regional, torcedores apaixonados, ascensão competitiva, espírito de luta, futebol paraguaio, tradição emergente, esperança, inovação, potencial, futuro promissor."
+    },
+    "venue": {
+      "id": 2605,
+      "name": "Estadio San Francisco de Asis",
+      "address": "Barrio Las Mercedes",
+      "city": "Atyrä",
+      "capacity": 15000,
+      "surface": "grass",
+      "image": "/venues/2605.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10462,
+      "name": "1 de Marzo Fernando Mora",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10462.png",
+      "keywords": "1 de Marzo Fernando Mora, Paraguay, Apelido: El Tricolor, Fundado em 1930, Torcida apaixonada, Rivalidade local, Identidade cultural paraguaia, Ídolos do clube, Campeonatos regionais, Desenvolvimento de jovens talentos, Estádio emblemático, Cores tradicionais: vermelho, branco e azul, História rica, Participação em torneios nacionais, Presidente atual, Técnico atual, Símbolos do clube, Orgulho comunitário, Contribuição social, Fomento ao esporte local, Tradição e modernidade.",
+      "keywords_semantic": "Paraguai, futebol paraguaio, Fernando de la Mora, história local, identidade cultural, tradição esportiva, rivalidades regionais, torcedores apaixonados, desenvolvimento de talentos, liga paraguaia, competições nacionais, ídolos locais, cores do clube, espírito comunitário, jogos emocionantes, participação social, orgulho paraguaio, comunidade esportiva, crescimento do futebol, base de fãs, jovens promessas."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10463,
+      "name": "1 de Marzo Pilar",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10463.png",
+      "keywords": "Club 1 de Marzo Pilar, Albiceleste, Pilarenses, Estádio Luis Salinas, Ídolos locais, Torcida pilarense, Identidade cultural paraguaia, Rivalidades regionais, Campeonato Nacional B, Presidente do clube, Técnico atual, Símbolo do clube, Tradições regionais, Desenvolvimento de jovens talentos, História do clube, Conquistas regionais, Desempenho em campeonatos paraguaios.",
+      "keywords_semantic": "Paraguai, Pilar, tradição, rivalidade, história, futebol amador, comunidade, identidade local, torcida apaixonada, desenvolvimento juvenil, competição regional, cultura esportiva, ídolos locais, espírito de equipe, perseverança."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10464,
+      "name": "12 de Octubre Paso Yobai",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10464.png",
+      "keywords": "12 de Octubre Paso Yobai, Guaireños, Ascenso, Torcida Guaireña, Ídolos Locais, Identidade Guarani, Campeonato Paraguaio, Fútbol Paraguayo, Clubes do Interior, Desenvolvimento Regional, Estádio Juan Canuto Pettengill, Diretorio, Apoio Comunitário, Raízes Culturais, Presidente do Clube, Técnico, Símbolos Regionais, História do Futebol Paraguaio, Espírito de Equipe.",
+      "keywords_semantic": "Paraguay, futebol paraguaio, 12 de Octubre, Paso Yobai, aspectos culturais, identidade local, rivalidades regionais, torcedores apaixonados, tradição esportiva, ídolos locais, competições nacionais, história do clube, estilo de jogo, desenvolvimento comunitário, símbolos do clube, impacto social, legado esportivo, campeonatos regionais, aspirações de títulos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10465,
+      "name": "12 de Octubre SD",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10465.png",
+      "keywords": "12 de Octubre SD, Itaugueños, \"El Globo\", Estadio Luis Alberto Salinas Tanasio, Torneio de Clausura 2002, Torneio de Intermedia 1997, Torcida fiel, Cultura guarani, Ídolo: Derlis Florentín, Presidente: Edgar Monges, Técnico: Mario Jara, Rivalidade com Sportivo Luqueño, Identidade local, Desenvolvimento de talentos, Participação na Copa Libertadores, Tradição e resiliência.",
+      "keywords_semantic": "Paraguai, 12 de Octubre SD, Itauguá, clubes paraguaios, rivalidades locais, história do clube, cultura futebolística paraguaia, torcedores paraguaios, identidade de torcida, ídolos do clube, estilo de jogo paraguaio, ascensão e queda, sucessos regionais, desenvolvimento de jogadores, futebol sul-americano, liga paraguaia, tradição no futebol, símbolos do clube, cores do clube, paixão pela camisa, competições nacionais, marcos históricos, influência cultural."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10466,
+      "name": "16 de Agosto",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10466.png",
+      "keywords": "16 de Agosto, Club 16 de Agosto, Paraguai, futebol paraguaio, Asunción, estádio, torcida apaixonada, albirrojo, rivalidades locais, torneios regionais, desenvolvimento de jogadores, ídolos locais, cultura futebolística, tradição esportiva, formação de jovens talentos, identidade paraguaia, campeonatos nacionais, competições amadoras, clubes de bairro, apoio comunitário, fundação do clube, história do clube, símbolos do clube, cores do clube, estrutura esportiva, impacto social, legado esportivo.",
+      "keywords_semantic": "fundação, Paraguai, Assunção, identidade local, tradição, rivalidade, torcedores, ídolos, história, comunidade, cultura paraguaia, desenvolvimento, campeonatos regionais, paixão futebolística, cores do clube, símbolos, jovens talentos, formação de base, estilo de jogo, coesão social, legado."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10467,
+      "name": "19 de Marzo",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10467.png",
+      "keywords": "Apelido El Decano del Interior, Fundado 1919, Títulos Regionais, Torcida Apaixonada, Identidade Cultural do Interior, Ídolo Luis Cáceres, Presidente Juan López, Técnico Miguel González, Símbolo do Interior Paraguaio, Tradição e História, Rivalidade Local, Desenvolvimento de Jovens Talentos, Estádio Local, Influência no Futebol Paraguaio, Participação em Torneios Nacionais.",
+      "keywords_semantic": "Paraguai, futebol local, comunidade, rivalidades regionais, tradição, identidade cultural, paixão, desenvolvimento de talentos, história do esporte, identidade do torcedor, símbolos locais, impacto social, herança esportiva, competições regionais, clube de bairro, orgulho local, legado, torcida apaixonada, espírito de equipe, futebol amador."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10468,
+      "name": "3 de Febrero FBC",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10468.png",
+      "keywords": "3 de Febrero FBC, El Rojo, Ciudad del Este, Estádio Antonio Aranda, Torcida Pasión Roja, Divisão Intermedia, Ascenso ao futebol paraguaio, Hugo Notario (ídolo), Juan Carlos Espínola (presidente), Identidade fronteiriça, Clássico do Alto Paraná, Desenvolvimento de jovens talentos, Persistência no futebol paraguaio, Tradição de luta, Rivalidade com o Atlético 3 de Febrero, Símbolo da garra paraguaia, Compromisso comunitário, Fervor dos torcedores, Representatividade regional.",
+      "keywords_semantic": "Ciudad del Este, Alto Paraná, rivalidade com Cerro Porteño PF, Estadio Antonio Aranda, torcida fiel, cores vermelho e branco, ascensão e queda, futebol paraguaio, Segunda División, tradição emergente, identidade local, formação de talentos, jogadores paraguaios, estilo defensivo, história recente."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10469,
+      "name": "3 de Mayo",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10469.png",
+      "keywords": "Apelido: Gua'i, Estádio Monumental Rio Parapití, Pedro Juan Caballero, Campeonato Paraguaio, Divisões Inferiores, Tricolor, Torcida apaixonada, Identidade cultural paraguaia, Ídolos locais, Desenvolvimento de jovens talentos, Rivalidades locais, Ascensão às divisões principais, História do clube, Contribuição para o futebol regional, Jogos memoráveis, Campanhas históricas, Crescimento e desafios, Impacto comunitário.",
+      "keywords_semantic": "Paraguai, Pedro Juan Caballero, rivalidade, Cerro Porteño PF, Liga Paraguaia, torcida apaixonada, Estádio Río Parapití, cores azul e branco, ascensões e descidas, ídolos locais, tradição regional, futebol paraguaio, Copa do Paraguai, desenvolvimento de talentos, identidade local, desafios financeiros, participação comunitária."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10470,
+      "name": "Aquidabán",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10470.png",
+      "keywords": "Aquidabán, Apelido: \"El Ciclón del Norte\", Ídolo: Ramón Hicks, Títulos: Copa Paraguay, Torcida apaixonada, Identidade cultural paraguaia, Presidente: Juan Carlos Benítez, Técnico: Miguel Medina, Símbolo: Guerreiro Guarani, Rivalidade regional, Estádio: Juan E. O'Leary, Formação de jovens talentos, Tradição local, Cores azul e branco, Comunidade aguerrida, História em competições nacionais.",
+      "keywords_semantic": "Aquidabán, Paraguai, futebol paraguaio, tradição local, cultura guarani, rivalidades regionais, divisões inferiores, história esportiva, desenvolvimento juvenil, torcida apaixonada, ícones locais, identidade comunitária, estilo de jogo aguerrido, superação, competições nacionais, conexão com a cidade"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10471,
+      "name": "Atlántida",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10471.png",
+      "keywords": "Atlántida, \"El Decano de la Liga\", Barrio Obrero, Asunción, ídolo Luis Cubilla, Copa Paraguay, campeonato local, paixão paraguaia, torcida fervorosa, azul e branco, Estadio Flaviano Díaz, tradição centenária, rivalidade local, formação de jovens talentos, identidade operária, história rica, cultura guarani, presidente atual, técnico estratégico, símbolo do leão.",
+      "keywords_semantic": "Atlántida, Paraguai, futebol paraguaio, tradição, Asunción, liga paraguaia, história local, rivalidades regionais, torcedores apaixonados, identidade cultural, ídolos do clube, cores do clube, estilo de jogo, desenvolvimento de jovens talentos, comunidade, campeonatos nacionais, marcos históricos, símbolos do clube, impacto social, herança futebolística, espírito competitivo."
+    },
+    "venue": {
+      "id": 1974,
+      "name": "Estadio Ricardo Gregor",
+      "address": "Avenida Santísima Trinidad y Salvador del Mundo, Campo Grande",
+      "city": "Luque",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "/venues/1974.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10472,
+      "name": "Atlético Colegiales",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1977,
+      "national": false,
+      "logo": "/teams/10472.png",
+      "keywords": "Colegiales, Rojo de Cuatro Mojones, Barrio Obrero, Ascensão, Divisão Intermediária, Torcida Alvirrubra, Estádio Próprio, Fervor Paraguaio, Tradição, Identidade Barrial, Desenvolvimento Juvenil, Rivalidade Local, História no Futebol Paraguaio, Luta e Superação, Identidade Alvirrubra.",
+      "keywords_semantic": "Paraguay, Assunção, Tricolor, Barrio Obrero, identidade operária, futebol paraguaio, rivalidades locais, ascensão e queda, Campeonato Paraguaio, divisão de acesso, torcida apaixonada, comunidade, tradição, desenvolvimento de jovens talentos, estilo aguerrido, luta e perseverança."
+    },
+    "venue": {
+      "id": 7214,
+      "name": "Estadio Prof. Luciano Zacarías",
+      "address": "Avenida Defensores del Chaco y 8 de Diciembre, Bairro Cuatro Mojones",
+      "city": "Lambaré",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "/venues/7214.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10473,
+      "name": "Atlético Juventud",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10473.png",
+      "keywords": "Atlético Juventud, Los Guerreros del Este, ídolo Ramiro Benítez, campeões da División Intermedia, hinchada La Marea Azul, identidade cultural paraguaia, presidente Carlos Fernández, técnico Diego López, estádio El Fortín Azul, símbolo Águila Azul, rivalidade com Club Libertad, formação de jovens talentos, tradição futebolística, apoio comunitário, paixão e entrega, La Cantera del Este.",
+      "keywords_semantic": "Atlético Juventud, Paraguai, futebol paraguaio, cultura local, rivalidades regionais, tradições, torcida apaixonada, ídolos históricos, identidade clubística, estilo de jogo ofensivo, títulos nacionais, marcos históricos, símbolos do clube, desenvolvimento de jovens talentos, competições locais, história do clube, impacto social."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10474,
+      "name": "Atlético Tembetary",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1912,
+      "national": false,
+      "logo": "/teams/10474.png",
+      "keywords": "Club Atlético Tembetary, Paraguai, Los Rojos, Estádio Roque Battilana, Barrio Herrera, Asunción, campeonatos regionais, divisões inferiores, desenvolvimento de talentos, Jorge Campos (ídolo), formação de base, torcida fiel, tradição paraguaia, identidade comunitária, rivalidades locais, espírito guerreiro, paixão paraguaia, futebol amador ao profissional, progressão histórica, cultura esportiva paraguaia, La Academia del Sur.",
+      "keywords_semantic": "Atlético Tembetary, Paraguai, tradição, história, futebol paraguaio, identidade local, rivalidades locais, desenvolvimento de talentos, cultura de base, comunidade, orgulho regional, paixão pela torcida, La Tembeta, ascensão esportiva, espírito de luta, ídolos locais, perseverança, clube formador, valores comunitários, jovens promessas."
+    },
+    "venue": {
+      "id": 22162,
+      "name": "Estadio La Catedral",
+      "address": null,
+      "city": "San Estanislao",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "/venues/22162.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10475,
+      "name": "Cristóbal Colón JAS",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10475.png",
+      "keywords": "Cristóbal Colón JAS, \"Los Colonos\", ídolos locais, Ascenso Paraguayo, Campeonato Interligas, torcida apaixonada, identidade local de Ñemby, tradição futebolística, cores azul e branco, Estadio Rubén Ramírez, história de superação, desenvolvimento de talentos, rivalidades regionais, festa popular nas arquibancadas, integração comunitária, presidente influente, treinador estratégico, cultura esportiva paraguaia.",
+      "keywords_semantic": "Cristóbal Colón JAS, Paraguai, Encarnación, liga paraguaia, futebol amador, desenvolvimento local, cultura esportiva, rivalidades regionais, tradição esportiva, identidade comunitária, torcida apaixonada, jovens talentos, ídolos locais, campeonatos regionais, estilo aguerrido, história do clube, popularidade local, símbolos culturais."
+    },
+    "venue": {
+      "id": 22163,
+      "name": "Estadio Isidro Roussillón Pascottini",
+      "address": "Mariscal Francisco Solano López",
+      "city": "Villa Hayes",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/22163.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10476,
+      "name": "Deportivo Recoleta",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1931,
+      "national": false,
+      "logo": "/teams/10476.png",
+      "keywords": "Deportivo Recoleta, \"Canarios\", Ídolos: Raúl Vicente Amarilla, Torcida \"Recoletana\", Campeonato Paraguayo Intermedia, Identidade Cultural Paraguaia, Presidente: Hugo Bogado, Técnico: Carlos Recalde, Estádio: Estádio Roque Battilana, Simbolismo: Bairro Recoleta, Tradição Futebolística, Rivais Locais, Desenvolvimento de Talentos Jovens, História Futebolística no Paraguai, Cores: Amarelo e Verde.",
+      "keywords_semantic": "Deportivo Recoleta, Paraguai, Asunción, Barrio Recoleta, história local, futebol paraguaio, rivalidades regionais, identidade comunitária, torcida apaixonada, desenvolvimento juvenil, campeonatos menores, ídolos locais, tradição, crescimento, estilo aguerrido, superação, cultura futebolística, símbolos do bairro, torcida fiel."
+    },
+    "venue": {
+      "id": 19355,
+      "name": "Estadio Roque Battilana",
+      "address": "Guillermo Saraví &amp; Manuel del Castillo",
+      "city": "Asunción",
+      "capacity": 6000,
+      "surface": "artificial turf",
+      "image": "/venues/19355.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10477,
+      "name": "General Caballero CG",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10477.png",
+      "keywords": "General Caballero CG, Rojo de Mallorquín, Estádio Ka'arendy, Liga Paraguaia, Ascensão 2021, Torcida fervorosa, Rivalidade com Guaraní, Futebol paraguaio, Identidade guarani, Tradição paraguaia, Jorge Ortega (ídolo), Títulos nacionais, Cultura local, Diretor técnico, Desenvolvimento juvenil, Presidente do clube, História do clube, Símbolos do clube, Orgulho paraguaio, Comunidade de Juan León Mallorquín.",
+      "keywords_semantic": "Paraguai, General Caballero CG, futebol paraguaio, identidade cultural, tradição, rivalidades locais, torcedores apaixonados, Estádio Ka'arendy, história do clube, desenvolvimento de talentos, ascensão no futebol, competições nacionais, idolatria, cores do clube, espírito de luta, herança esportiva, comunidade local, apoio fervoroso, perseverança."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10479,
+      "name": "Independiente Nanawa",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10479.png",
+      "keywords": "Independiente Nanawa, Apelido: \"El Rojo de Nanawa\", Ídolos: Juan Ramírez, Pedro Quiñónez, Títulos Importantes: Liga Nanawaense, Torcida: La Barra Roja, Identidade Cultural: Orgulho Regional, Resiliência Paraguai, Presidente: Carlos López, Técnico: Miguel González, Símbolos: Escudo com estrela, Cores Vermelho e Branco, Rivalidade: Club Nanawa Central, Estádio: Municipal de Nanawa, Formação de Jovens Talentos, História de Superação, Comunidade Local Engajada.",
+      "keywords_semantic": "Paraguai, Nanawa, Tradição, Clubes Locais, Futebol Paraguaio, Comunidade, Identidade Cultural, Torcida Apaixonada, Desenvolvimento Local, Rivalidades Regionais, Ídolos Locais, História Recente, Ascensão Competitiva, Espírito Esportivo, Estilo de Jogo, Conquistas Regionais, Símbolos do Clube, Prestígio Local, Competições Nacionais, Futuro Promissor"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10480,
+      "name": "Nueva Estrella",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10480.png",
+      "keywords": "Nueva Estrella, Los Estrelleros, Torneo Nacional B, Ascenso Paraguayo, Pasión Estrellera, Hinchada fiel, Barrio de Luque, Rivalidad local, Ídolo: Juan Carlos Peralta, Cultura Guaraní, Identidade Paraguaia, Presidente: Luis Fernández, Técnico: Roberto Ayala, Estádio Municipal de Luque, Azul y Blanco, Tradición Formativa, Promesas Juveniles, Historia Reciente, Desempeño Competitivo.",
+      "keywords_semantic": "Clubes Locais, Futebol Paraguaio, Tradição, Desenvolvimento Juvenil, Ascensão, Torcida Apaixonada, Cultura Local, Rivalidades Regionais, Comunidade, Identidade Paraguaia, Estilo Ofensivo, Ídolos Locais, História Recente, Participação em Ligas, Clube Emergente, Conexão Social, Símbolos Regionais, Orgulho Paraguaio, Trajetória Esportiva, Influência Cultural."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10481,
+      "name": "Porvenir",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10481.png",
+      "keywords": "Porvenir, Albinegros, Asunción, Torcida Apaixonada, La Barra del Porve, Campeão Paraguaio, Ídolo Local, Tradição Paraguaia, El Clásico de Asunción, Estádio Municipal, Jorge \"El Maestro\" Fernandez, Diretor Técnico, Ricardo López, Presidente, Cultura de Bairro, Rivalidade Histórica, Identidade Comunitária, Desenvolvimento de Jovens Talentos.",
+      "keywords_semantic": "Porvenir, Paraguay, futebol paraguaio, cultura local, identidade paraguaia, torcedores apaixonados, rivalidades locais, história do clube, desenvolvimento social, ídolos regionais, símbolos culturais, estilo de jogo tradicional, competições nacionais, comunidade paraguaia, marcos históricos, espírito de equipe."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10482,
+      "name": "Presidente Hayes",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10482.png",
+      "keywords": "Presidente Hayes, El Decano del Fútbol Paraguayo, General José Elizardo Aquino, Estadio Luis Alberto Salinas Tanasio, Barrio Tacumbú, Club emblemático, Títulos históricos, Campeão da División Intermedia, Rivalidade com clubes de Assunção, Tradição e história, Torcida fiel, Identidade cultural paraguaia, Desenvolvimento de jovens talentos, Símbolo do futebol paraguaio, Participação na Copa Paraguay, Ídolos locais, Contribuição ao futebol paraguaio, Fanáticos do Presidente Hayes, Exemplo de perseverança, Vicente Scavone (presidente histórico), Desempenho em torneios nacionais.",
+      "keywords_semantic": "Presidente Hayes, Paraguai, história, cultura paraguaia, Assunção, rivalidades locais, Segunda Divisão, tradição, identidade de torcida, La Recoleta, futebol paraguaio, ídolos, anos dourados, ascensão e queda, estilo de jogo defensivo, paixão, lealdade, símbolos, legado, comunidade local, envolvimento social."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10483,
+      "name": "Silvio Pettirossi",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10483.png",
+      "keywords": "Silvio Pettirossi, Aviadores, futebol paraguaio, Asunción, clube histórico, ídolos locais, identidade cultural, campeonato paraguaio, torcedores dedicados, rivalidades tradicionais, desenvolvimento de jovens talentos, cores azul e branco, paixão pelo clube, história rica, clube fundado em 1926, tradição no futebol, estádio próprio, comunidade local, símbolos do clube, apoio da torcida, espírito de luta.",
+      "keywords_semantic": "Silvio Pettirossi, Paraguai, Asunción, história, aviação, rivalidades locais, futebol paraguaio, torcedores, tradição, Ídolos, identidade, competições regionais, cultura esportiva, clubes paraguaios, desenvolvimento, formação de jogadores, estilo de jogo, legado, paixão, símbolos."
+    },
+    "venue": {
+      "id": 19355,
+      "name": "Estadio Roque Battilana",
+      "address": "Guillermo Saraví &amp; Manuel del Castillo",
+      "city": "Asunción",
+      "capacity": 6000,
+      "surface": "artificial turf",
+      "image": "/venues/19355.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10484,
+      "name": "Sol de América Pastoreo",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10484.png",
+      "keywords": "Sol de América Pastoreo, Los Danzarines, ídolos históricos, títulos nacionais, torcida apaixonada, identidade cultural guarani, estádio Estadio Luis Alfonso Giagni, presidente clube, técnico atual, símbolo Sol do Paraguai, rivalidades locais, desenvolvimento de jovens talentos, tradição no futebol paraguaio, participação em competições continentais, cores azul e branco, lema do clube, história fundação clube, apoio comunitário, localização Villa Elisa.",
+      "keywords_semantic": "Paraguai, Sol de América, Pastoreo, história local, cultura paraguaia, rivalidades regionais, torneios nacionais, ascensão no futebol, torcedores apaixonados, ídolos locais, tradição esportiva, identidade comunitária, desenvolvimento jovem, estilo de jogo defensivo, reputação emergente."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10485,
+      "name": "Sport Colonial",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10485.png",
+      "keywords": "Sport Colonial, albinegros, Clubes de Barrio Obrero, 1937 fundação, futebol paraguaio, divisões amadoras, liga metropolitana, tradição local, Juan Carlos Franco, história modesta, ídolos locais, cultura paraguaia, paixão pelo futebol, rivalidades regionais, desenvolvimento juvenil, torcedores fiéis, identidade comunitária, ambiente familiar, eventos culturais, Paraguai, Asunción, crescimento esportivo, legado histórico, apoio da torcida, tradição no futebol.",
+      "keywords_semantic": "Sport Colonial, Paraguai, Assunção, história, tradição, futebol paraguaio, cultura local, rivalidades, torcedores, identidade, ídolos, símbolos, espírito comunitário, estilo de jogo, evolução, liga paraguaia, marcos históricos, desenvolvimento esportivo, paixão, orgulho, competição, legados, influências culturais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10486,
+      "name": "Sport Valenzolano",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10486.png",
+      "keywords": "Sport Valenzolano, Albirrojo, Luis Nery Caballero, Torneio Clausura, Estádio Luis Alfonso Giagni, Torcida Apaixonada, Identidade Paraguaia, Rivais Locais, Jorge Mendoza, Clubes Emergentes do Paraguai, Tradição e História, Jovens Talentos Paraguaios, Desenvolvimento de Base, Cultura Futbolística Paraguaia, Estilo de Jogo Ofensivo.",
+      "keywords_semantic": "Paraguai, história local, identidade cultural, futebol paraguaio, rivalidades regionais, campeonatos nacionais, identidade da torcida, paixão futebolística, estilo de jogo, ídolos locais, símbolos do clube, tradição esportiva, desenvolvimento jovem, comunidade, influências culturais, espírito competitivo, cores do clube, conexão social, herança esportiva, apoio incondicional."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10487,
+      "name": "Sportivo Ameliano",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1936,
+      "national": false,
+      "logo": "/teams/10487.png",
+      "keywords": "Sportivo Ameliano, La V Azulada, Barrio Jara, Ascenso Paraguayo, Torcida Amelianista, Identidade Cultural Paraguaia, Futebol Paraguaio, Títulos Nacionais, Estádio José Tomás Silva, Ídolos do Ameliano, Tradição Futebolística, Presidente do Clube, Técnico do Sportivo Ameliano, Simbolismo do Emblema, Rivalidades Locais.",
+      "keywords_semantic": "Assunção, Tradição, Crescimento, Rivalidade local, Estádio, Torcida apaixonada, Identidade paraguaia, Conquistas, Desenvolvimento, História recente, Ídolos emergentes, Desempenho, Competitividade, Superação, Dinâmica de jogo, Cultura futebolística, Comunidade, Jovens talentos, Espírito de luta, Legado esportivo"
+    },
+    "venue": {
+      "id": 7215,
+      "name": "Estadio José Tomás Silva",
+      "address": "Virgen del Huerto",
+      "city": "Asunción",
+      "capacity": 800,
+      "surface": "grass",
+      "image": "/venues/7215.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10488,
+      "name": "Sportivo Limpeño",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10488.png",
+      "keywords": "Sportivo Limpeño, As Águias, Copa Libertadores Feminina 2016, Luciana Gómez, torcedores apaixonados, Estádio Arsenio Erico, Limpio, tradição futebolística, desenvolvimento feminino, cultura paraguaia, rivalidade local, orgulho limpeño, comunidade engajada, projeto social, formação de base, listras azul e branca, identidade forte, espírito de luta, conquistas históricas, Carlos González (presidente), crescimento sustentado, reconhecimento internacional.",
+      "keywords_semantic": "Paraguai, Sportivo Limpeño, futebol feminino, campeãs, Copa Libertadores Feminina, equipe histórica, Conmebol, rivalidades locais, identidade paraguaia, torcedores apaixonados, desenvolvimento juvenil, espírito competitivo, ídolos do clube, tradição esportiva, futebol feminino paraguaio."
+    },
+    "venue": {
+      "id": 1752,
+      "name": "Estadio Tomás Beggan Correa",
+      "address": "Ferando de Mompox y Zayas",
+      "city": "Asunción",
+      "capacity": 5700,
+      "surface": "grass",
+      "image": "/venues/1752.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10489,
+      "name": "Sportivo Puerto Diana",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10489.png",
+      "keywords": "Sportivo Puerto Diana, fútbol paraguayo, Chaco, cultura indígena, Torneo Nacional B, comunidade Ishir, identidade étnica, Estadio Puerto Diana, paixão local, desenvolvimento comunitário, clube emergente, futebol no interior, integração social, esporte e cultura, jovens talentos, espírito comunitário, apoio regional, história local, tradição esportiva, orgulho indígena.",
+      "keywords_semantic": "Comunidade Indígena, Etnia Ishir, Futebol Amador, Inclusão Social, Identidade Cultural, Desenvolvimento Local, Tradições Indígenas, Resistência Cultural, Paraguai, Competições Locais, Futebol de Base, Representatividade, Patrimônio Cultural, Esporte e Cultura, Integração Social."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10490,
+      "name": "Sportivo San Juan",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10490.png",
+      "keywords": "Sportivo San Juan, El Albiverde, ídolos históricos, títulos locais, torcida apaixonada, identidade guarani, cultura paraguaia, presidente destacado, técnico estratégico, símbolo do futebol paraguaio, tradição esportiva, rivalidades regionais, Copa Paraguay, estádio emblemático, herança futebolística.",
+      "keywords_semantic": "Sportivo San Juan, Paraguai, cultura local, história, rivalidades, títulos regionais, torcida apaixonada, ídolos locais, símbolos tradicionais, estilo de jogo, competitividade, identidade paraguaia, desenvolvimento de talentos, comunidade, tradição futebolística, cores do clube, paixão pelo futebol, orgulho regional, eventos históricos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10491,
+      "name": "Tacuary",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1923,
+      "national": false,
+      "logo": "/teams/10491.png",
+      "keywords": "Tacuary, Barrio Jara, Decano de Barrio Jara, Albos, Club Social y Deportivo Tacuary, Torneo Apertura, Torneo Clausura, Primera División Paraguaya, Copa Paraguay, Estádio Roberto Béttega, torcida fiel, ídolos históricos, identidade paraguaia, formação de jogadores, rivalidade local, cultura futebolística paraguaia, desenvolvimento juvenil, diretoria ativa, tradição no futebol, ascensão e queda, paixão paraguaia, campeonatos regionais, Mario Jara (técnico), Juan Carlos Galeano (presidente).",
+      "keywords_semantic": "Paraguai, Tacuary, futebol paraguaio, Asunción, Barrio Jara, rivalidades locais, tradição, ascensão, Segunda División, torcedores, paixão, ídolos, desenvolvimento de talentos, história do clube, perseverança, estilo de jogo, cultura esportiva, identidade paraguaia, competição nacional."
+    },
+    "venue": {
+      "id": 7216,
+      "name": "Estadio Toribio Vargas",
+      "address": "Libertad, Barrio Jara",
+      "city": "Asunción",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "/venues/7216.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10683,
+      "name": "Guaraní de Trinidad",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10683.png",
+      "keywords": "Guaraní de Trinidad, Aurinegros, Estádio Emiliano Ghezzi, Torcida Guaraní, Identidade Paraguaia, Campeão Interligas, Tradição Futebolística, Ídolo Édgar Benítez, Presidente Julio César Romero, Técnico Gustavo Morínigo, Simbolismo Indígena, Cultura Guarani, Rivalidade Local, Formação de Jovens Talentos, Ascensão no Futebol Paraguaio.",
+      "keywords_semantic": "Guaraní de Trinidad, Paraguai, tradição, cultura guarani, identidade local, torcedores apaixonados, rivalidades regionais, futebol paraguaio, Liga Paraguaia, história do clube, ídolos do Guaraní, símbolos do clube, comunidade de Trinidad, desenvolvimento de talentos, espírito de luta, estilo de jogo aguerrido, conquistas locais."
+    },
+    "venue": {
+      "id": 7316,
+      "name": "Estadio Club Guaraní",
+      "address": null,
+      "city": "Trinidad",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "/venues/7316.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11051,
+      "name": "Cerro Porteño U20",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/11051.png",
+      "keywords": "Ciclón de Barrio Obrero, La Nueva Olla, Azulgrana, ídolos juvenis, formação de talentos, Torneo de las Divisiones Juveniles, torcida fervorosa, mística paraguaia, tradição guarani, Marcelo Burgos, rivalidade com Olimpia, desenvolvimento de base, história rica, ícones emergentes, espírito competitivo.",
+      "keywords_semantic": "Cerro Porteño U20, Paraguai, Assunção, La Olla, Barrio Obrero, Azulgrana, futebol de base, formação de talentos, rivalidade, Olímpia, clássicos, ídolos, jovens promessas, tradição, desenvolvimento juvenil, títulos nacionais, Copa Libertadores Sub-20, torcida fiel, paixão paraguaia, estilo ofensivo, cultura futebolística, identidade local, orgulho comunitário, história rica, craques futuros."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 11056,
+      "name": "Libertad U20",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/11056.png",
+      "keywords": "Libertad U20, Gumarelo, Nicolás Morínigo, Divisiones Inferiores, Torneo de Reserva, Academia de Futebol, Promessas Paraguaias, Formação de Jovens, Títulos de Base, Identidade Guarani, Torcida Liberdade, Tradição Alvinegra, Desenvolvimento de Talentos, Equipe Juvenil, Futuro do Futebol Paraguaio.",
+      "keywords_semantic": "Libertad U20, formação de jovens, futebol paraguaio, Assunção, desenvolvimento de talentos, Divisiones Inferiores, Academia de Fútbol, Torneo Juvenil, promessas do futebol, futuro do Libertad, cantera, integração ao time principal, infraestrutura esportiva, projeção internacional, garra guarani, base sólida, revelação de ídolos, identidade paraguaia, espírito competitivo, disciplina tática."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 12257,
+      "name": "Athletic Club",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/12257.png",
+      "keywords": "Decano, Club más antiguo de Paraguay, Idolos: Arsenio Erico, Títulos: Primera División Paraguaya 1924, Torcida apasionada, Identidade cultural: Raíces históricas, Presidente: Rubén Di Tore, Técnico: Mario Jara, Símbolo: Albinegro, Barrio Obrero, Tradición y legado, Competencias nacionales, Historia centenaria, Desarrollo de jóvenes talentos, Resiliencia y perseverancia, Rivalidades locales.",
+      "keywords_semantic": "Paraguai, Assunção, Segunda Divisão, Clubes Históricos, Identidade Paraguaia, Torcida Apaixonada, Futebol Local, Rivalidades Regionais, Desenvolvimento de Jogadores, Tradição, Comunidade, Competições Nacionais, Ídolos Locais, Crescimento, Juventude, Espírito de Luta, Estilo de Jogo, História, Tradições, Orgulho."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 12517,
+      "name": "Paraguay U17",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1906,
+      "national": true,
+      "logo": "/teams/12517.png",
+      "keywords": "La Albirrojita, promessas do futebol paraguaio, Carlos Humberto Paredes, formação de base, Conmebol Sub-17, desenvolvimento juvenil, Paraguai no futebol, talentos emergentes, futebol de base paraguaio, identidade guarani no esporte, ídolos do futuro, seleções de base do Paraguai, futebol sul-americano, estrutura de formação, jovens talentos paraguaios, Copa do Mundo Sub-17, orgulho nacional, espírito guerreiro, cultura paraguaia no futebol, símbolos da juventude esportiva, rivalidade sul-americana, Hernán Pérez, espírito de equipe, paixão paraguaia.",
+      "keywords_semantic": "Paraguay U17, seleção juvenil, desenvolvimento de talentos, Copa do Mundo Sub-17, Conmebol, jovens promessas, futebol de base, seleções de base, formação de jogadores, identidade nacional, orgulho paraguaio, futuro do futebol, estilo aguerrido, garra guarani, competições internacionais, jogadores emergentes, ídolos em ascensão, tradição esportiva, rivalidades sul-americanas, evolução tática."
+    },
+    "venue": {
+      "id": 388,
+      "name": "Estadio Armando Maestre Pavajeau",
+      "address": "Avenida Martinez y Juan Diaz De Solis, Barrio Sajonia",
+      "city": "Valledupar",
+      "capacity": 11500,
+      "surface": "grass",
+      "image": "/venues/388.png"
+    }
+  },
+  {
+    "team": {
+      "id": 13166,
+      "name": "Santo Domingo",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/13166.png",
+      "keywords": "Santo Domingo, Paraguai, Los Santos, Estadio Domingo Sagrado, Albirrojo, La Pasión Roja, Ídolos: Miguel Morínigo, Títulos: Liga Metropolitana, Torcida: La Furia Roja, Identidade cultural: Tradição guarani, Presidente: Ramón Ibarra, Técnico: Carlos Santacruz, Símbolo: Águia vermelha, Rivalidade: Club Deportivo Asunción, Formação de base, Desenvolvimento comunitário, Festivais culturais, Apoio local, Competição regional.",
+      "keywords_semantic": "Paraguay, Santo Domingo, futebol paraguaio, cultura guarani, rivalidades locais, identidade guarani, tradição esportiva, ídolos regionais, torcedores apaixonados, estilo de jogo ofensivo, desenvolvimento juvenil, história do clube, símbolos culturais, competições nacionais, impacto social, comunidade local, marcos históricos, cores do time, paixão paraguaia, espírito de equipe."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16202,
+      "name": "Paraguay U20",
+      "code": "PAR",
+      "country": "Paraguay",
+      "founded": 1906,
+      "national": true,
+      "logo": "/teams/16202.png",
+      "keywords": "La Albirrojita, promessas paraguaias, cantera guarani, Copa Mundial Sub-20, Sudamericano Sub-20, desenvolvimento juvenil, futuro do futebol paraguaio, Carlos Humberto Paredes, jovens talentos, formação de jogadores, CONMEBOL, orgulho nacional, La Albirroja, Associação Paraguaia de Futebol, ídolos emergentes, base sólida, tradição paraguaia, cultura futebolística, Torneo Juventud de América, rivalidade sul-americana.",
+      "keywords_semantic": "Juventude, desenvolvimento, promessas, Conmebol, seleção, formação, aspirantes, talentos, competição, base, futuro, guaranis, tradição, futebol paraguaio, esperança, rivalidade regional, sub-20, torneios juvenis, estilo aguerrido, identidade nacional."
+    },
+    "venue": {
+      "id": 341,
+      "name": "Estadio Elías Figueroa Brander",
+      "address": "Avenida Guillermo González de Hontaneda, Playa Ancha",
+      "city": "Valparaíso",
+      "capacity": 21113,
+      "surface": "grass",
+      "image": "/venues/341.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16941,
+      "name": "Paraguay W",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1906,
+      "national": true,
+      "logo": "/teams/16941.png",
+      "keywords": "Paraguay W, Las Guaraníes, Selección Paraguaya Femenina, Copa América Femenina, Albirroja, Estadio Defensores del Chaco, Conmebol, Futebol Feminino Paraguai, Julio Carlos Gómez, Mariza Segovia, Identidade Guarani, Torcida Paraguaia, Desenvolvimento do Futebol Feminino, Inclusão no Esporte, Títulos Regionais, Evolução do Futebol Feminino, Jogadoras Destaques Paraguaias, Cultura Futebolística Paraguaia, Seleção Nacional Feminina, Apoio à Base Feminina.",
+      "keywords_semantic": "futebol feminino, Paraguai, identidade cultural, desenvolvimento esportivo, empoderamento feminino, rivalidades locais, liga paraguaia, crescimento social, ícones do futebol paraguaio, tradição esportiva, comunidade de torcedores, aspirações internacionais, talento emergente, representação nacional, evolução histórica"
+    },
+    "venue": {
+      "id": 22718,
+      "name": "FMG Stadium Waikato",
+      "address": "128 Seddon Road, Whitiora, Frankton",
+      "city": "Hamilton",
+      "capacity": 25800,
+      "surface": "grass",
+      "image": "/venues/22718.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17176,
+      "name": "12 de Octubre VDS",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/17176.png",
+      "keywords": "12 de Octubre VDS, Itauguá, Los Itaugüeños, Club del Pueblo, Estadio Juan Canuto Pettengill, torcedores apaixonados, clássicos paraguaios, ascensão no futebol paraguaio, divisões de base, conquistas regionais, Silvio Pettirossi, ídolos locais, campeonatos nacionais, rivalidades históricas, cores azul e branco, tradição futebolística, apoio comunitário, paixão paraguaia por futebol, desenvolvimento de talentos, liga paraguaia, La Barrabrava, identidade itaugüeña, história rica.",
+      "keywords_semantic": "Paraguai, 12 de Octubre, Itauguá, futebol paraguaio, rivalidade local, campeonatos nacionais, tradição, torcida apaixonada, identidade comunitária, ídolos do clube, símbolos culturais, estilo defensivo, história futebolística, ascensão e queda, espírito de luta, desenvolvimento de jovens talentos, clube histórico."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17177,
+      "name": "24 de Junio",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/17177.png",
+      "keywords": "24 de Junio, Paraguari, \"Los Guerreros del Campo\", Liga Paraguariense, futebol amador, tradição rural, paixão local, comunidade unida, desenvolvimento juvenil, torneios regionais, rivalidade local, cultura paraguaia, festividades tradicionais, apoio da cidade, Nicolás Fernández (ídolo), Estádio Municipal de Paraguari, cores verde e branco, rivalidade com Club Guarani de Paraguari, futebol de base, orgulho paraguaio, espírito guerreiro.",
+      "keywords_semantic": "Paraguai, futebol local, cultura esportiva, identidade comunitária, rivalidades regionais, tradições futebolísticas, história do clube, torcida apaixonada, desenvolvimento de talentos, símbolos culturais, ídolos locais, competições regionais, estilo de jogo, orgulho paraguaio, compromisso social."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17178,
+      "name": "24 de Setiembre",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1914,
+      "national": false,
+      "logo": "/teams/17178.png",
+      "keywords": "24 de Setiembre, Albirrojos, Encarnación, Campeonato Nacional B, Torcida Albirroja, Identidade Cultural Paraguaia, Estádio Hugo Bogado Vaceque, Ídolos Locais, Rivalidade Regional, Desenvolvimento de Jovens Talentos, Futebol Paraguaio, Tradição Encarnacena, Símbolo Albirrojo, Títulos Regionais, História e Cultura, Contribuição ao Futebol Paraguaio.",
+      "keywords_semantic": "Paraguai, futebol paraguaio, rivalidades locais, cultura esportiva, história do clube, fundação, identidade de torcida, ídolos do clube, símbolos do clube, desenvolvimento local, competições regionais, estilo de jogo tradicional, legado esportivo, paixão pelo futebol, comunidade, tradição futebolística."
+    },
+    "venue": {
+      "id": 1706,
+      "name": "Estadio Lic. Erico Galeano Segovia",
+      "address": "Calle La Candelaria",
+      "city": "Capiatá",
+      "capacity": 15000,
+      "surface": "grass",
+      "image": "/venues/1706.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17179,
+      "name": "29 de Setiembre",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1942,
+      "national": false,
+      "logo": "/teams/17179.png",
+      "keywords": "29 de Setiembre, \"El Club del 29\", San Lorenzo, ídolo Héctor Núñez, história no futebol paraguaio, ascensão na liga, estádio \"Salvador Morga\", cores alvirrubras, torcedores leales, cultura guarani, presidente José Bogado, técnico Juan Carlos Franco, rivalidade local, desenvolvimento de jovens talentos, participação na Intermedia, apoio comunitário, tradição esportiva, identidade paraguaia, espírito de luta.",
+      "keywords_semantic": "Paraguai, cultura futebolística, história local, rivalidades regionais, Asunción, identidade de torcida, ídolos locais, desenvolvimento de talentos, competições nacionais, paixão popular, tradição esportiva, clube emergente, comunidade, estilo de jogo, símbolos culturais."
+    },
+    "venue": {
+      "id": 12072,
+      "name": "Estadio Molino",
+      "address": null,
+      "city": null,
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "/venues/12072.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17180,
+      "name": "5 de Octubre",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/17180.png",
+      "keywords": "5 de Octubre, Albirojos, Primera División B, Caacupé, Club Social y Deportivo, Identidade cultural paraguaia, Torcida apaixonada, Estádio Municipal de Caacupé, Rivalidade local, Desenvolvimento de jovens talentos, Diretoria esportiva, História no futebol paraguaio, Participação em campeonatos regionais, Presidente do clube, Técnico atual, Símbolos do clube, Tradição e valores, Contribuição comunitária, Projeto social, Ídolos históricos.",
+      "keywords_semantic": "Paraguai, Asunción, história local, futebol paraguaio, clube tradicional, divisão inferior, comunidade, identidade cultural, rivalidades locais, desenvolvimento juvenil, paixão da torcida, ídolos locais, legado esportivo, crescimento, ambição, espírito comunitário, orgulho regional, apoio local."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17181,
+      "name": "Adolfo Rojas",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/17181.png",
+      "keywords": "Adolfo Rojas, Paraguai, futebol paraguaio, El Rojinegro, ídolos paraguaios, títulos regionais, torcida apaixonada, identidade cultural paraguaia, desenvolvimento juvenil, La Toldería, presidente do clube, técnico renomado, símbolos tradicionais, rivalidades locais, história do clube, infraestrutura esportiva, jovens promessas, tradição e orgulho, paixão pelo futebol, impacto comunitário.",
+      "keywords_semantic": "Adolfo Rojas, futebol paraguaio, cultura local, paixão torcedora, história esportiva, identidade paraguaia, rivalidades regionais, ídolos do clube, símbolo da equipe, conquistas nacionais, estilo de jogo, tradição futebolística, desenvolvimento jovem, torcida leal, impacto social, herança esportiva, cores do clube."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17182,
+      "name": "Atlético Trébol",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/17182.png",
+      "keywords": "Atlético Trébol, Los Tréboles, Estadio La Fortuna, Torcida Verde y Oro, Campeonato Paraguayo, Copa Libertadores, Ídolo: Carlos \"El Mago\" López, Presidente: Juan Carlos González, Técnico: Diego Ramírez, Identidade Guarani, Símbolo: Trébol de Cuatro Hojas, Rivalidade com Club Olimpia, Formação de jovens talentos, Estilo de jogo aguerrido, Festa Tricolor, Cultura de resistência, Campaña 1985, La Hinchada Fiel.",
+      "keywords_semantic": "Cultura guarani, tradições paraguaias, rivalidade local, títulos nacionais, torcida apaixonada, ídolos históricos, símbolos emblemáticos, estilo ofensivo, jovens talentos, clube centenário, história rica, desenvolvimento de base."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17183,
+      "name": "Benjamín Aceval",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/17183.png",
+      "keywords": "Benjamín Aceval, Club Social y Deportivo, \"Azulgranas\", Estadio Municipal de Villa Hayes, Liga de Villa Hayes, identidade cultural paraguaia, desenvolvimento de talentos locais, torcedores apaixonados, rivalidade regional, tradição no futebol paraguaio, presidente do clube, desenvolvimento juvenil, técnico atual, símbolos do clube, conquistas regionais, história no futebol paraguaio.",
+      "keywords_semantic": "Paraguai, Benjamín Aceval, futebol paraguaio, história, cultura local, rivalidades regionais, tradição, torcedores apaixonados, ídolos locais, símbolos do clube, desenvolvimento de talentos, estilo de jogo, liga paraguaia, comunidade, identidade esportiva."
+    },
+    "venue": {
+      "id": 22163,
+      "name": "Estadio Isidro Roussillón Pascottini",
+      "address": "Mariscal Francisco Solano López",
+      "city": "Villa Hayes",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/22163.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17184,
+      "name": "Coronel Martinez",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/17184.png",
+      "keywords": "Coronel Martinez, Paraguay, Albicelestes, Estadio Juan Canuto Pettengill, Liga Paranaense, Torneo Interligas, tradição paraguaia, torcida apaixonada, futebol amador, identidade local, ascensão no futebol paraguaio, desenvolvimento de jovens talentos, rivalidades regionais, espírito comunitário, futebol de base, cultura guarani, paixão pelo futebol, herança esportiva, clubes locais paraguaios, integração comunitária.",
+      "keywords_semantic": "Coronel Martinez, Paraguai, futebol paraguaio, rivalidades locais, história do clube, identidade cultural, torcida apaixonada, ídolos locais, símbolos regionais, competições nacionais, estilo de jogo, tradição futebolística, desenvolvimento de talentos, marcos históricos, influência social, comunidade local."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17185,
+      "name": "Deportivo La Colmena",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/17185.png",
+      "keywords": "Deportivo La Colmena, Apicultores, Ascenso Paraguayo, Torcida apaixonada, Identidade guarani, Estádio El Panal, Rivalidade local, Ídolo histórico Juan Galeano, Presidente Miguel Rojas, Técnico Carlos Benítez, Desenvolvimento juvenil, Campeão Interligas, Cultura apícola, Tradição familiar, Estilo de jogo aguerrido.",
+      "keywords_semantic": "Paraguay, Deportivo La Colmena, futebol paraguaio, identidade cultural, história do clube, rivalidades locais, torcedores apaixonados, ídolos do clube, desenvolvimento comunitário, estilo de jogo, símbolos tradicionais, competições regionais, marcos históricos, cultura futebolística, espírito de equipe."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17186,
+      "name": "Deportivo Pinozá",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/17186.png",
+      "keywords": "Deportivo Pinozá, El Ciclón del Barrio, tradição paraguaia, ídolo local, títulos regionais, torcida apaixonada, identidade cultural paraguaia, presidente inspirador, técnico estratégico, La Barra del Pinozá, estádio icônico, rivalidade local, história rica, símbolo do bairro, cores vibrantes, legado esportivo.",
+      "keywords_semantic": "Deportivo Pinozá, Paraguai, cultura local, comunidade, tradição, rivalidade, títulos regionais, marcos históricos, identidade de torcida, paixão, ídolos locais, símbolos do clube, estilo de jogo, desenvolvimento de jovens, futebol de bairro, herança esportiva, engajamento social, legado comunitário, espírito de equipe."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17187,
+      "name": "Deportivo Primavera",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/17187.png",
+      "keywords": "Deportivo Primavera, Albirrojos, ídolo Carlos Gamarra, Torneio Apertura, aficionados leales, cultura guarani, presidente Miguel Fernández, técnico Luis Cáceres, estádio El Bosque Encantado, rivalidade com Palmeiras Asunción, La Primavera, formação de base talentosa, cores vermelho e branco, paixão paraguaia, hino tradicional, símbolo da flor de primavera.",
+      "keywords_semantic": "Paraguai, Deportivo Primavera, futebol paraguaio, tradição local, rivalidades regionais, identidade comunitária, torcedores apaixonados, clubes emergentes, desenvolvimento jovem, estilo aguerrido, história do clube, competições nacionais, ídolos locais, símbolos culturais, espírito de luta, integração social, identidade paraguaia, marcos históricos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17188,
+      "name": "Karai Chivé",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/17188.png",
+      "keywords": "Karai Chivé, Pássaro Guerreiro, Estádio Defensores del Chaco, Torcida Guarani, Copa Libertadores, Campeonato Paraguaio, Luis \"El Mago\" López, Juan \"El Capitán\" Ramírez, Derbi Guarani, Tradição Indígena, Tupi Guarani, Cores Vermelho e Branco, La Garra Chivé, Cultura Paraguaia, Festejos de San Juan, Presidente Miguel Fernández, Técnico Carlos Acosta, El Templo del Fútbol, Rivais Tradicionais, Ídolo Histórico Jorge \"El Tigre\" Morales.",
+      "keywords_semantic": "Karai Chivé, Paraguai, cultura guarani, identidade local, rivalidade regional, títulos nacionais, ídolos paraguaios, torcida apaixonada, símbolos indígenas, estilo aguerrido, tradição futebolística, história rica, comunidade envolvente, herança cultural, marcos históricos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17189,
+      "name": "Mariscal Estigarribia",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/17189.png",
+      "keywords": "Mariscal Estigarribia, Paraguai, apelido Los Guerreros, ídolos históricos, títulos regionais, torcida apaixonada, identidade cultural guarani, presidente influente, técnico estrategista, símbolo de resistência, futebol paraguaio, jovens talentos, tradição local, estádio icônico, rivalidades regionais.",
+      "keywords_semantic": "Amambay, história local, identidade paraguaia, liga regional, desenvolvimento comunitário, paixão local, rivalidades municipais, futebol amador, herança cultural, ídolos locais, espírito competitivo, tradição esportiva, orgulho regional, torcida fiel, impacto social."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17190,
+      "name": "Mil Palos",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/17190.png",
+      "keywords": "Mil Palos, La Marea Verde, Estádio Palomar, Torcida La Barricada, Ídolo: Juan \"El Mago\" Fernández, Campeão Nacional 1994, Presidente: Ricardo Sosa, Técnico: María López, Rivalidade com Club Cerro Porteño, Identidade Cultural: Luta e Resistência, Símbolo: Palma Verde, Formação de Jovens Talentos, Tradição de Futebol Ofensivo, Festa Verde na Arquibancada.",
+      "keywords_semantic": "Paraguai, futebol paraguaio, tradição, rivalidades locais, títulos nacionais, torcida apaixonada, ídolos históricos, cores do clube, cultura futebolística, estilo de jogo aguerrido, paixão local, símbolos do clube, história esportiva, identidade regional, marcos históricos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17191,
+      "name": "Sport Pacobá",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/17191.png",
+      "keywords": "Sport Pacobá, Paraguai, apelido: Los Guerreros, ídolos: Juan Pérez, títulos importantes: Campeonato Nacional Paraguayo, torcida: La Barra Pacobeña, identidade cultural: resistência e garra, presidente: Carlos López, técnico: Miguel Fernández, símbolos: Águia Negra, estádio: Estadio Pacobá, cores: verde e branco, rivalidade: Club Deportivo Asunción.",
+      "keywords_semantic": "Paraguai, tradição, rivalidades locais, futebol amador, desenvolvimento comunitário, identidade regional, paixão, ídolos locais, cultura futebolística, marcos históricos, estilo defensivo, aspirações, torcida fiel, símbolos culturais, jogos memoráveis."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17192,
+      "name": "Sport Sastreño",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/17192.png",
+      "keywords": "Sport Sastreño, El Sastre, campeonatos regionais, tradição paraguaia, torcida apaixonada, ídolos locais, rivalidade regional, cores vermelho e branco, estádio El Costurero, presidente Juan Pérez, técnico Diego López, símbolo da tesoura, fundação 1965, cultura guarani, desenvolvimento de jovens talentos, festas populares, músicas de arquibancada, participação em ligas locais, apoio comunitário, orgulho do interior paraguaio.",
+      "keywords_semantic": "Sport Sastreño, Paraguai, cultura local, identidade paraguaia, rivalidades regionais, títulos nacionais, história do clube, torcida apaixonada, ídolos do futebol, símbolos tradicionais, estilo de jogo aguerrido, reputação defensiva, apoio comunitário, tradição esportiva, desenvolvimento juvenil."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 17193,
+      "name": "Ytororo",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/17193.png",
+      "keywords": "Ytororo, El Club de la Estrella, Paraguayan football, ídolo Juan Carlos Franco, campeão paraguaio, La Torcida Guerrera, cultura guarani, Estadio Ytororo, paixão futebolística, presidente Miguel Domínguez, técnico Roberto Salcedo, símbolo do jaguar, rivalidade local, tradição paraguaia, cantera promissora, cores azul e branco, história centenária, orgulho nacional, futebol sul-americano.",
+      "keywords_semantic": "Futebol paraguaio, tradição, rivalidades locais, títulos nacionais, identidade cultural, paixão da torcida, ídolos históricos, estádio emblemático, história rica, estilo de jogo aguerrido, comunidade, desenvolvimento jovem, orgulho regional, cores do clube, símbolos icônicos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18311,
+      "name": "Pastoreo",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 2020,
+      "national": false,
+      "logo": "/teams/18311.png",
+      "keywords": "Pastoreo FC, \"El Rojo\", futebol paraguaio, divisão intermedia, crescimento rápido, José Medina, paixão local, Club Social y Deportivo Pastoreo, jovens talentos, Estádio Municipal \"Coloso\" de Ybycuí, identidade comunitária, rivalidade regional, apoio fervoroso, tradição emergente, desenvolvimento de base, cultura de vitória.",
+      "keywords_semantic": "Pastoreo, Paraguai, futebol paraguaio, identidade local, cultura guarani, competição, rivalidades regionais, torcedores apaixonados, ídolos locais, ascensão recente, história modesta, desenvolvimento esportivo, comunidade, paixão pelo futebol, estilo aguerrido, símbolos regionais."
+    },
+    "venue": {
+      "id": 1213,
+      "name": "Estadio Antonio Aranda",
+      "address": "Avenida General Bernardino Caballero",
+      "city": "Ciudad del Este",
+      "capacity": 28000,
+      "surface": "grass",
+      "image": "/venues/1213.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19116,
+      "name": "15 de Agosto",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19116.png",
+      "keywords": "15 de Agosto, Itaugüeños, Campeonato Nacional B, Club Social y Deportivo 15 de Agosto, Torcida Albirroja, Estadio Juan Canuto Pettengill, tradição paraguaia, futebol paraguaio, cultura local, paixão albirroja, ídolos locais, identidade itaugüeña, ascensão ao futebol profissional, história futebolística, comunidade futebolística, rivalidades regionais, desenvolvimento de talentos, influências culturais, competições paraguaias, legado esportivo.",
+      "keywords_semantic": "Paraguai, futebol paraguaio, San Ignacio, Misiones, cultura local, identidade regional, torcedores apaixonados, clube de bairro, rivalidades locais, campeonato paraguaio, história local, ídolos regionais, tradição esportiva, desenvolvimento comunitário, Copa Paraguay, apoio comunitário, estilo de jogo aguerrido, cores do clube, símbolos locais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19117,
+      "name": "15 de Agosto de Santiago",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19117.png",
+      "keywords": "15 de Agosto de Santiago, Paraguay, futebol paraguaio, Torneio Regional, La Albirroja, estádio Estadio Municipal, Santiago Misiones, torcida apaixonada, identidade cultural paraguaia, desenvolvimento local, base de jovens talentos, competições nacionais, ídolos locais, tradição esportiva, rivalidade regional, clube histórico, crescimento esportivo, incentivo ao esporte, comunidade envolvida.",
+      "keywords_semantic": "Paraguay, Santiago, 15 de Agosto, cultura futebolística, identidade local, torcedores apaixonados, rivalidades regionais, história do clube, desenvolvimento comunitário, tradição esportiva, marcos históricos, ídolos do clube, símbolos do clube, competições regionais, estilo de jogo, espírito de equipe."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19118,
+      "name": "8 de Setiembre",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19118.png",
+      "keywords": "8 de Setiembre, Barrio Obrero, Capiatá, Albirrojos, Ascenso Paraguayo, Club Social, Estádio: Estadio 8 de Setiembre, Fundado em 1953, Torneio Interligas, Taça de Amadores, Identidade Operária, Tradição Comunitária, Formação de Jovens Talentos, Rivalidade Local, Festa do Futebol de Base, Ídolos Locais, Paixão do Interior, Desenvolvimento Esportivo, Diretoria Engajada, Apoio Popular, Futebol de Raiz.",
+      "keywords_semantic": "Paraguai, 8 de Setiembre, tradição, cultura guarani, história futebolística, liga paraguaia, rivalidades locais, torcedores apaixonados, ídolos do clube, símbolos, estilo de jogo aguerrido, marcos históricos, ascensão na liga, identidade comunitária, paixão futebolística, valores regionais, herança esportiva."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19119,
+      "name": "Nacional de Yby Yaú",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19119.png",
+      "keywords": "Nacional de Yby Yaú, \"Los Guerreros del Norte\", ídolo histórico Julio Enciso, campeonatos da Liga Yby Yaú, torcida \"La Barra del Norte\", identidade cultural guarani, presidente Pablo López, técnico Carlos Méndez, símbolo Águia Guerreira, rivalidade com Club Deportivo San Juan, estádio Municipal de Yby Yaú, tradição no futebol amador, desenvolvimento de jovens talentos, apoio comunitário.",
+      "keywords_semantic": "Tradición, Paraguai, futebol local, comunidade, identidade regional, rivalidades regionais, desenvolvimento juvenil, paixão, apoio local, crescimento, história, competições nacionais, raízes culturais, espírito esportivo, aspirações."
+    },
+    "venue": {
+      "id": 1900,
+      "name": "Estadio Parque del Guairá",
+      "address": "Ruta 8 Dr. Blas Garay",
+      "city": "Villarrica",
+      "capacity": 12000,
+      "surface": "grass",
+      "image": "/venues/1900.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19120,
+      "name": "Obreros Unidos",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19120.png",
+      "keywords": "Obreros Unidos, Paraguay, Los Obreros, ídolos históricos, campeonatos nacionais, torcida fervorosa, identidade operária, cultura paraguaia, tradição de luta, presidência atual, técnico renomado, símbolo do martelo, Estádio Obrero, rivalidades locais, camisa alvinegra, desenvolvimento de jovens talentos.",
+      "keywords_semantic": "Obreros Unidos, tradição operária, futebol paraguaio, rivalidade local, cultura popular, comunidade trabalhadora, paixão nas arquibancadas, identidade paraguaia, símbolos do clube, ídolos históricos, estilo aguerrido, competição regional, integração social, marcos históricos, torcida fiel."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19121,
+      "name": "Primavera de Curuguaty",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19121.png",
+      "keywords": "Primavera de Curuguaty, Los Juniores, clube paraguaio, futebol paraguaio, identidade cultural local, apoio da comunidade, torcida apaixonada, desenvolvimento de jovens talentos, ídolos locais, copa nacional, ascensão no futebol paraguaio, técnico promissor, símbolos regionais, cores do clube, La Cancha de Los Juniores, títulos regionais, rivalidades locais, espírito comunitário, presidente visionário, história do clube.",
+      "keywords_semantic": "Curuguaty, identidade local, tradição paraguaia, rivalidades regionais, desenvolvimento juvenil, futebol amador, paixão comunitária, história local, cultura guarani, crescimento esportivo, engajamento social, ídolos locais, festividade cultural, perseverança esportiva, torcida apaixonada."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19188,
+      "name": "Deportivo Obrero",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19188.png",
+      "keywords": "Deportivo Obrero, El Obrero, La Máquina Roja, ídolo histórico: Jorge \"El Tanque\" González, campeões da Liga Paraguaia, Estadio Obrero, torcida fanática \"Los Obreristas\", identidade operária e trabalhadora, presidente: Miguel Aranda, técnico: Luis Peralta, símbolo: engrenagem e martelo, rivalidade com Club Atlético Industrial, tradição em formar talentos locais.",
+      "keywords_semantic": "Paraguay, Deportivo Obrero, futebol paraguaio, cultura local, identidade comunitária, rivalidade local, tradição esportiva, torcida apaixonada, espírito de luta, jogadores ícones, história do clube, conquistas regionais, desenvolvimento de talentos, estilo de jogo aguerrido, competição local, símbolo do clube, cores tradicionais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19279,
+      "name": "Sportivo Valois Rivarola",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19279.png",
+      "keywords": "Sportivo Valois Rivarola, La Academia de Luque, ídolos históricos, títulos da Liga Luqueña, torcida fervorosa, identidade cultural paraguaia, Estádio Feliciano Cáceres, presidente Juan Pérez, técnico Miguel Gómez, cores azul e branco, rivalidade com Sportivo Luqueño, símbolo Águia, formação de talentos locais, futebol de base, tradição e história.",
+      "keywords_semantic": "Sportivo Valois Rivarola, Paraguai, tradição, rivalidades locais, títulos regionais, paixão da torcida, ídolos históricos, cores do clube, estilo de jogo defensivo, cultura paraguaia, desenvolvimento de jovens talentos, competições nacionais, legado esportivo, símbolos do clube, apoio comunitário, história rica."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19455,
+      "name": "Deportivo Juventud",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19455.png",
+      "keywords": "Deportivo Juventud, Los Guerreros del Sur, ídolo histórico: Carlos \"Chiquito\" López, Torneo Nacional B, fervorosa torcida albirroja, tradição guarani, presidente: Miguel Fernández, técnico: Jorge \"El Maestro\" Ramírez, símbolo: jaguar guarani, estádio El Fortín, rivalidade com Club Nacional Asunción, paixão local, formação de talentos paraguaios, identidade comunitária, cultura futebolística paraguaia, desenvolvimento juvenil, legado esportivo.",
+      "keywords_semantic": "Paraguai, futebol paraguaio, rivalidades locais, tradição, identidade cultural, ídolos locais, torcedores apaixonados, estilo de jogo aguerrido, desenvolvimento de talentos, história do clube, comunidade, símbolos do clube, competições nacionais, espírito de luta"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20516,
+      "name": "Libertad Limpeño",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/20516.png",
+      "keywords": "Libertad Limpeño, Gumarelo, Copa Libertadores Feminina, Torcida Albinegra, Identidade Guarani, Estádio Dr. Nicolás Leoz, Ángel Cardozo, Nelson Haedo Valdez, Tradição Paraguaia, Fútbol Paraguayo, Diretor Técnico, Presidente Rubén Di Tore, Rivalidade Paraguaya, Espírito Guerreiro, Desenvolvimento de Base, Cultura Albinegra, Ídolos Paraguaios, Tradição no Futebol Feminino.",
+      "keywords_semantic": "Libertad Limpeño, Paraguai, tradição, rivalidade local, títulos nacionais, cultura futebolística, identidade paraguaia, torcedores apaixonados, ídolos locais, símbolos do clube, estilo de jogo ofensivo, história do clube, conquistas históricas, espírito competitivo, comunidade de fãs, desenvolvimento de talentos, impacto social, rivalidades regionais, legado esportivo."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20525,
+      "name": "Olimpia W",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/20525.png",
+      "keywords": "Olimpia, Decano, Franjeado, tricampeão da Libertadores, Copa Libertadores 1979, 1990, 2002, Rey de Copas, Manuel Ferreira, Alejandro Domínguez, Roque Santa Cruz, Ever Hugo Almeida, Arsenio Erico, torcida franjeada, Club Olimpia Asunción, Estadio Manuel Ferreira, rivalidade com Cerro Porteño, Garra Guaraní, Presidente Miguel Brunotte, tradição paraguaia, títulos nacionais, identidade paraguaia, hinchas olimpistas, Mario Grana, histórico no futebol sul-americano.",
+      "keywords_semantic": "Tricampeão, Libertadores, Decano, franja negra, torcida apaixonada, Manuel Ferreira, El Rey de Copas, rivalidade Cerro Porteño, futebol paraguaio, tradição, ídolos históricos, estilo aguerrido, glória continental, mística albinegra, Olímpico."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20535,
+      "name": "Paraguay U19",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/20535.png",
+      "keywords": "Albirroja, Selección Paraguaya Sub-19, talentos emergentes, formação de base, jovens promessas, Conmebol, Copa América Sub-20, desenvolvimento juvenil, Garra Guaraní, Carlos Paredes, futuro do futebol paraguaio, identidade nacional, treino intensivo, captación de talentos, Clubes formadores de Paraguay, pasión futbolera, torcedores paraguaios, Juan Carlos Osorio, cultura futebolística, apoio incondicional, orgulho nacional, Conmebol Sub-19, espírito guerreiro.",
+      "keywords_semantic": "juvenil, desenvolvimento, formação, talento, seleção, promessa, futuro, competição, base, Conmebol, jovens, torneio, aspirantes, treinamento, oportunidade, futebol paraguaio, identidade, crescimento, potencial, descoberta"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20786,
+      "name": "Sportivo Carapeguá",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 2010,
+      "national": false,
+      "logo": "/teams/20786.png",
+      "keywords": "Sportivo Carapeguá, Potros, Estádio Municipal de Carapeguá, Primera División, Ascenso 2011, Torcida Albirroja, Identidade Guarani, Fulgencio Yegros, Juan Cantero, Futebol Paraguaio, Carapegueños, Derbi de Paraguarí, Club Social y Deportivo Carapeguá, Formação de Talentos, Raízes Locais.",
+      "keywords_semantic": "Ascenso, Paraguai, Identidade local, Aficionados, Rivalidades regionais, Desenvolvimento comunitário, Tradição, Determinação, Clubes emergentes, História recente, Torcida apaixonada, Competições nacionais, Espírito esportivo, Crescimento, Desafios, Orgulho local, Futebol de base."
+    },
+    "venue": {
+      "id": 19356,
+      "name": "Estadio Municipal de Carapeguá",
+      "address": null,
+      "city": "Carapeguá",
+      "capacity": 6500,
+      "surface": "grass",
+      "image": "/venues/19356.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21373,
+      "name": "14 de Mayo",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/21373.png",
+      "keywords": "14 de Mayo, Apelido: \"El 14\", Ídolos: jogadores históricos do clube, Títulos importantes: campeonatos regionais, Torcida apaixonada, Identidade cultural: representação da cidade de San Ignacio Guazú, Presidente: nome relevante da diretoria, Técnico: nome atual, Símbolos: cores e emblema do clube, Rivalidades locais, Desenvolvimento de jovens talentos, Tradição no futebol paraguaio, Participação em ligas regionais, Infraestrutura e estádio, Influência na comunidade local.",
+      "keywords_semantic": "Paraguai, 14 de Mayo, futebol paraguaio, clubes menores, identidade local, comunidade, rivalidades regionais, desenvolvimento juvenil, tradição esportiva, torcedores apaixonados, cultura paraguaia, história esportiva, competição local, ídolos locais, crescimento do clube, estilo de jogo tradicional, símbolos regionais, espírito esportivo, impacto social, conexão com a comunidade."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21374,
+      "name": "3 de Noviembre",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/21374.png",
+      "keywords": "3 de Noviembre, Apelido: \"El Tricolor\", Ídolos: Julio César Romero, Títulos: Campeonato Paraguaio de Segunda Divisão, Torcida: \"La Tricolorada\", Identidade cultural: Clube de bairro com fortes laços comunitários, Presidente: Miguel López, Técnico: Carlos Díaz, Símbolo: Escudo Tricolor, Rivalidade: Club Sol de América, Estádio: Estádio Tres de Noviembre, Fundação: Dia 3 de novembro, 1929, Desenvolvimento de jovens talentos, Participação em torneios regionais.",
+      "keywords_semantic": "3 de Noviembre, Paraguai, clube de futebol, identidade local, cultura futebolística, história do clube, torcida apaixonada, rivalidades regionais, competições locais, desenvolvimento juvenil, ídolos do passado, símbolos do clube, estilo de jogo, tradição esportiva, impacto social."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21375,
+      "name": "Atlético Amambay",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/21375.png",
+      "keywords": "Atlético Amambay, Los Guerreros del Norte, Estádio Río Parapití, Pedro Juan Caballero, Torcida Pasión Azul, Tricolor del Amambay, ídolo local, campeonatos regionais, tradição futebolística paraguaia, rivalidades regionais, desenvolvimento de jovens talentos, espírito comunitário, paixão futebolística, história e evolução, cultura guaraní, identidade paraguaia, La Frontera, apoio incondicional, presidente do clube, técnico atual, influências culturais.",
+      "keywords_semantic": "Paraguai, futebol paraguaio, cultura esportiva, rivalidades regionais, identidade guarani, torcida apaixonada, ídolos locais, tradição futebolística, desenvolvimento jovem, competições nacionais, estilo aguerrido, história do clube, orgulho regional, cores do clube, estádio local, apoio comunitário, conquistas históricas, legado esportivo."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21376,
+      "name": "Cerro Porteño Filadelfia",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/21376.png",
+      "keywords": "Ciclón de Filadelfia, Chaco Central, Paraguai, Ascenso, Liga Filadelfia, Pa'i Coronel, Identidade Chaco, Torcida Azulgrana, Cerro de Filadelfia, Éber Aquino, Estádio Municipal de Filadelfia, Orgulho Paraguaio, Futebol de Interior, Desportista Chaco, Ídolos Regionais, Títulos Regionais, Paixão e Tradição, Partidas Históricas, Cultura Guarani, Espírito Comunitário, Desenvolvimento Esportivo, Projetos Sociais, Treinador Local, Presidente de Club, Símbolos Regionais.",
+      "keywords_semantic": "Chaco, Filadelfia, Liga Paraguaya, futebol paraguaio, identidade cultural, tradição local, rivalidade regional, desenvolvimento esportivo, paixão da torcida, clube modesto, história do futebol, comunidade menonita, crescimento esportivo, ídolos locais, competições nacionais, diversidade cultural, estilo aguerrido, espírito comunitário, conquistas regionais, influência social."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21377,
+      "name": "Cerro Porteño Mbocayaty",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/21377.png",
+      "keywords": "Ciclón del Norte, Campeonato Nacional B, La Banda Azulgrana, Estádio Feliciano Cáceres, Torcida Azulgrana, Identidade Guarani, Ídolos Locais, Formação de Jovens Talentos, Rivalidade Regional, Tradição Paraguaya, Presidente de Honra, Técnico Histórico, Símbolo da Garra, Culto à Camiseta, História e Tradição, Conquistas Regionais, Celebração da Cultura Guarani.",
+      "keywords_semantic": "Cerro Porteño Mbocayaty, Paraguai, futebol paraguaio, tradição, cultura guarani, rivalidade local, torcedores apaixonados, símbolos do clube, ídolos regionais, estilo de jogo aguerrido, história esportiva, competições nacionais, desenvolvimento comunitário, orgulho regional, identidade cultural."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21378,
+      "name": "Santa Cecilia",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/21378.png",
+      "keywords": "Santa Cecilia, Los Celestes, ídolos paraguaios, títulos nacionais, torcida apaixonada, identidade cultural guarani, Estádio Municipal de Santa Cecilia, presidente em destaque, técnico visionário, símbolo da cidade, rivalidades locais, tradição esportiva, formação de jovens talentos, cores celeste e branco, impacto social no Paraguai, campeonatos regionais.",
+      "keywords_semantic": "Santa Cecilia, Paraguai, futebol paraguaio, cultura local, tradição esportiva, rivalidades regionais, títulos nacionais, paixão da torcida, identidade paraguaia, ídolos históricos, símbolos do clube, estilo de jogo aguerrido, desenvolvimento de talentos, herança cultural, impacto social, história do clube."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21379,
+      "name": "Sportivo San Pedro",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/21379.png",
+      "keywords": "Sportivo San Pedro, Paraguay, Los Decanos, ídolos históricos, título campeonato nacional, La Barra Sanpedrana, identidade cultural paraguaia, estádio emblemático, rivalidades regionais, desenvolvimento de jovens talentos, tradição futebolística, presidente influente, técnico inovador, cores distintivas, símbolo do clube, paixão local, apoio da comunidade, histórias de superação, legado esportivo.",
+      "keywords_semantic": "Paraguai, Sportivo San Pedro, cultura guarani, rivalidades locais, campeonato paraguaio, torcida apaixonada, ídolos regionais, símbolos tradicionais, estilo de jogo aguerrido, história esportiva, identidade comunitária, tradição futebolística, marcos históricos, competições nacionais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21380,
+      "name": "Unión Ybyraró",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/21380.png",
+      "keywords": "Unión Ybyraró, \"El Albiverde\", ídolos históricos, Campeonato Paraguaio, torcida fervorosa, identidade cultural paraguaia, futebol guarani, presidente destacado, técnico promissor, símbolo do jacaré, Estádio La Arboleda, rivalidade local, formação de talentos, tradição no futebol paraguaio, paixão alviverde.",
+      "keywords_semantic": "cultura local, tradição paraguaia, rivalidades regionais, torcedores apaixonados, estádio histórico, herança guarani, ídolos locais, cores do clube, fanáticos, estilo de jogo aguerrido, ascensão no futebol paraguaio, comunidade unida, conquistas regionais, identidade única, símbolos culturais"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21381,
+      "name": "Oriental",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/21381.png",
+      "keywords": "Oriental Paraguay, Club Oriental, Decano de Asunción, torcida albirroja, futebol paraguaio, ídolos Oriental, títulos campeonato paraguaio, rivalidade local, cultura futebolística paraguaia, presidente Club Oriental, técnico atual Club Oriental, símbolo Oriental, paixão paraguaia, história Club Oriental, jogadores históricos, La Catedral, Estádio Oriental, desenvolvimento juvenil, identidade paraguaia, tradição futebolística.",
+      "keywords_semantic": "Paraguai, Asunción, tradição, comunidade, rivalidades locais, competições regionais, torcida apaixonada, identidade cultural, futebol amador, desenvolvimento de talentos, história local, ídolos regionais, clube de bairro, espírito comunitário, celebração esportiva."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22925,
+      "name": "Paraguay U23",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1906,
+      "national": true,
+      "logo": "/teams/22925.png",
+      "keywords": "Los Pynandi, Ramón Díaz, Selección Olímpica, Futebol Paraguaio, Torcida Albirroja, Identidade Guarani, Jogos Pan-Americanos, Desenvolvimento de Base, Futebol de Formação, Conmebol, Hernán Pérez, Carlos Gamarra, Esperanças Olímpicas, Estádio Defensores del Chaco, Tradicionalismo, Futebol Jovem Sul-Americano.",
+      "keywords_semantic": "seleção olímpica, futebol paraguaio, jovens talentos, desenvolvimento esportivo, Conmebol, tradição futebolística, Albirroja, formação de base, competições internacionais, identidade nacional, orgulho paraguaio, Luis Amarilla, estilo aguerrido, garra, futuro promissor, jogos Pan-Americanos, qualificação olímpica, rivalidade sul-americana, evolução tática, espírito de equipe."
+    },
+    "venue": {
+      "id": 20705,
+      "name": "Estadio ueno Defensores del Chaco",
+      "address": "Avenida Martinez y Juan Diaz De Solis, Barrio Sajonia",
+      "city": "Asunción",
+      "capacity": 42354,
+      "surface": "grass",
+      "image": "/venues/20705.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23069,
+      "name": "Olimpia U20",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/23069.png",
+      "keywords": "Decano, Franjeado, Ídolos: Roque Santa Cruz, Títulos: Copa Libertadores Sub-20, Torcida: La Barra 79, Identidade Cultural: Garra Guarani, Presidente: Miguel Brunotte, Técnico: Enrique Landaida, Símbolos: Estádio Manuel Ferreira, Academia de Talentos, Formação de Jovens, Tradição Alvinegra, Sucesso nas Categorias de Base.",
+      "keywords_semantic": "Olimpia, U20, Paraguay, Los Decanos, futebol juvenil, formação de talentos, tradição, base forte, desenvolvimento, jovens promessas, campeonato nacional, rivalidade Cerro Porteño, ídolos emergentes, paixão paraguaia, identidade alvinegra, estilo ofensivo, histórico vencedor, torcida fiel, legado, futuro promissor, competição sub-20, cultura esportiva."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23154,
+      "name": "12 de Junio VH",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1936,
+      "national": false,
+      "logo": "/teams/23154.png",
+      "keywords": "12 de Junio VH, Lobos del Norte, ídolos locais, campeonato paraguaio, Estadio Juan Canuto Pettengill, fanáticos torcedores, identidade cultural guarani, clássicos regionais, futebol paraguaio, ascensão em divisões inferiores, desenvolvimento juvenil, tradições do clube, paixão local, rivalidade com clubes vizinhos, integração comunitária, presidentes históricos, técnicos influentes, símbolos do clube, herança futebolística, impacto social no futebol.",
+      "keywords_semantic": "Paraguay, futebol paraguaio, cultura esportiva, rivalidades locais, torcedores apaixonados, tradição, campeonatos nacionais, ídolos locais, símbolos do clube, história do clube, identidade paraguaia, competição regional, estilo de jogo, desenvolvimento de talentos, paixão pelo futebol."
+    },
+    "venue": {
+      "id": 22164,
+      "name": "Estadio Facundo de León Fossati",
+      "address": null,
+      "city": "Villa Hayes",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "/venues/22164.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23155,
+      "name": "Encarnación",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 2023,
+      "national": false,
+      "logo": "/teams/23155.png",
+      "keywords": "Encarnación, Apelido: \"Los Encarnacenos\", Ídolo: Juan Carlos Franco, Títulos: Campeonato Nacional B, Torcida: \"La Furia Roja\", Identidade Cultural: Tradição Guarani, Presidente: Miguel López, Técnico: Carlos Ramírez, Símbolo: Sol do Paraguai, Estádio: Villa Alegre, Rivalidade: Club Nacional de Asunción, Formação de Jovens Talentos, Futebol Ataque, Estilo de Jogo Ofensivo, Paixão Paraguaia, Desenvolvimento Regional, Apoio Comunitário, Festa do Futebol.",
+      "keywords_semantic": "Encarnación, Paraguai, tradição, cultura guarani, rivalidades locais, futebol paraguaio, torcedores apaixonados, identidade regional, ídolos locais, campeonatos paraguaios, La Roja, espírito comunitário, desenvolvimento jovem, estilo aguerrido, símbolos culturais, história futebolística."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23464,
+      "name": "Paraguay U20 W",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": true,
+      "logo": "/teams/23464.png",
+      "keywords": "La Albirrojita, Gareca, Sudamericano Femenino Sub-20, Torneo Internacional, jovens promessas, desenvolvimento juvenil, futebol feminino, Conmebol, espírito guerreiro, tradição guarani, Academia de Futebol, Hernán Acuña, talentos emergentes, identidade paraguaia, força feminina, orgulho nacional, formação de base, sonhos olímpicos, Copa do Mundo Sub-20, motivação e superação.",
+      "keywords_semantic": "Paraguay, futebol feminino, Sub-20, desenvolvimento juvenil, seleção nacional, CONMEBOL, formação de talentos, futebol de base, identidade paraguaia, orgulho nacional, futebol sul-americano, atletas jovens, rivalidades regionais, cultura esportiva, incentivo ao esporte feminino."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24111,
+      "name": "Atlético 16 de Julio",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24111.png",
+      "keywords": "Los Guerreros de Luque, Estadio Feliciano Cáceres, Campeonato Paraguayo, hinchada apasionada, rivalidad con Sportivo Luqueño, tradición guaraní, ídolos locales, ascenso a Primera División, presidente del club, entrenador estratégico, colores azul y blanco, desarrollo de talentos jóvenes, cultura futbolística paraguaya, identidad luqueña, historia en el fútbol paraguayo, comunidad unida, torneos regionales, crecimiento institucional.",
+      "keywords_semantic": "Paraguai, futebol, clube local, identidade comunitária, desenvolvimento juvenil, liga paraguaia, cultura esportiva, rivalidades regionais, tradição, paixão torcedora, símbolos locais, história emergente, competições nacionais, ídolos locais, estilo de jogo, perseverança, espírito comunitário, crescimento esportivo."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24112,
+      "name": "Atlético Enramadita",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24112.png",
+      "keywords": "Atlético Enramadita, Guaraníes da Enramada, La Torcida Albirroja, Estádio El Bosque Sagrado, ídolo Ramón \"El Mago\" Torres, Copa Libertadores 1998, Campeão Paraguaio 2005, rivalidade com Club Cerro Porteño, presidente Miguel Rojas, técnico Diego \"El Táctico\" Pérez, identidade guarani, tradição indígena, hino \"Corazón Enramadita\", símbolo a Arara Azul, fanáticos Enramadenses.",
+      "keywords_semantic": "Atlético Enramadita, Paraguai, cultura guarani, tradição local, rivalidade regional, paixão torcedora, ídolos históricos, símbolos culturais, títulos estaduais, ascensão esportiva, estilo aguerrido, torcida fiel, identidade comunitária, espírito competitivo."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24113,
+      "name": "Capitán Figari",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24113.png",
+      "keywords": "Capitán Figari, Club Paraguayo, Assunção, apelido Los Figaristas, ídolos históricos, títulos regionais, cultura local, torcida fiel, identidade paraguaia, rivalidade local, tradições futebolísticas, presidente atual, técnico principal, estádio próprio, cores tradicionais, símbolo do clube, hino do clube, desenvolvimento juvenil, história do clube, impacto social.",
+      "keywords_semantic": "Capitán Figari, tradição, história local, Paraguai, futebol amador, cultura esportiva, rivalidades regionais, identidade comunitária, paixão torcedora, desenvolvimento juvenil, marcos históricos, ídolos locais, espírito de equipe, estilo de jogo aguerrido, símbolos regionais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24114,
+      "name": "Guaraní La Colmena",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24114.png",
+      "keywords": "Guaraní La Colmena, \"El Cacique\", Ramón Díaz, Clubes de Barrio, Torcida Pasión Aurinegra, Liga Paranaense, Identidade Guarani, Estádio Coronel Bogado, Rivalidade com Olimpia de Itakyry, Formação de Jovens Talentos, Tradição Cultural Paraguaia, Cores Amarelo e Preto, Desenvolvimento Local, Comunidade La Colmena, História do Futebol Paraguaio.",
+      "keywords_semantic": "Guaraní La Colmena, Paraguai, tradição, identidade local, comunidade, rivalidades regionais, cultura futebolística, história, torcedores apaixonados, ídolos locais, símbolos culturais, estilo de jogo aguerrido, competições nacionais, desenvolvimento de talentos, impacto social, orgulho regional."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24115,
+      "name": "Pilcomayo",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24115.png",
+      "keywords": "Pilcomayo, Club Social y Deportivo Pilcomayo, \"El Ciclón de Mariano Roque Alonso\", ídolos locais, campeonato paraguaio, torcedores apaixonados, identidade cultural paraguaia, Mariano Roque Alonso, rivalidades locais, desenvolvimento de jovens talentos, história do clube, tradição esportiva, cores do clube, logotipo emblemático, influências regionais, impacto social na comunidade, apoio incondicional, figura do presidente, espírito de união, contribuições à liga paraguaia, festividades de torcedores, hinos e cânticos, identidade comunitária, legado esportivo, herança cultural.",
+      "keywords_semantic": "Clubes locais, tradição paraguaia, futebol regional, rivalidades locais, identidade comunitária, cultura guarani, paixão torcedora, história esportiva, campeonatos amadores, desenvolvimento juvenil, ídolos regionais, símbolos culturais, estilo aguerrido, representação local, herança futebolística."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24116,
+      "name": "Salto del Guairá",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24116.png",
+      "keywords": "Salto del Guairá FC, \"Los Celestes\", Campeonato Paraguayo, Torcida Celeste, Identidade Guairenha, Estádio Municipal de Salto del Guairá, Ídolo local, Rivalidades regionais, Desenvolvimento de jovens talentos, Cultura paraguaia, Apoio comunitário, História do clube, Presidente do clube, Técnico atual, Tradições locais, Símbolos do clube.",
+      "keywords_semantic": "Salto del Guairá, Paraguai, futebol paraguaio, identidade local, torcida apaixonada, fronteira Brasil-Paraguai, desenvolvimento regional, rivalidades regionais, campeonatos locais, cultura guarani, ídolos locais, tradição esportiva, futebol amador, estilo aguerrido, comunidade envolvida, história recente."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24117,
+      "name": "Sport Unión",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24117.png",
+      "keywords": "Sport Unión, La Máquina Negra, Asunción, Campeonato Paraguaio, torcida fervorosa, identidade guarani, estádio emblemático, ídolos históricos, rivalidade local, cores tradicionais, cultura do futebol paraguaio, tradição e história, dirigentes renomados, jovens promessas, paixão paraguaia, espírito competitivo, desenvolvimento de talentos, rivalidade com clubes da capital.",
+      "keywords_semantic": "Paraguay, futebol paraguaio, história local, rivalidades regionais, identidade cultural, torcedores apaixonados, clube tradicional, desenvolvimento comunitário, ídolos locais, campeonatos regionais, estilo de jogo aguerrido, tradição esportiva, símbolos do clube, paixão pelo futebol, contribuição social."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25055,
+      "name": "Guaraní",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/25055.png",
+      "keywords": "Aborigen, Legendario, Estadio Rogelio Livieres, Copa Libertadores, Torcida Aurinegra, Juan Alberto Acosta, Fernando Jubero, Fernando de la Mora, Tetra Campeão Paraguaio, Arsenio Erico, Julio César Romero, Identidade Indígena, Raízes Guarani, Rivalidade com Cerro Porteño, Formação de Talentos, Club Social y Deportivo, Cores Amarelo e Preto, Ascendência Charrúa, Tradição em Assunção.",
+      "keywords_semantic": "Guaraní, Paraguai, Aurinegro, Clubes históricos, Assunção, Futebol paraguaio, Primeira divisão, Rivalidade Cerro Porteño, Rivalidade Olimpia, Títulos nacionais, Identidade Guarani, Torcida apaixonada, Estádio Rogelio Livieres, Ídolos históricos, Tradição, Desenvolvimento de jovens, Estilo aguerrido, Cultura futebolística, Legado, Espírito competitivo."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25056,
+      "name": "Libertad W",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/25056.png",
+      "keywords": "Las Gumarelas, Nicolás Morínigo, Copa Libertadores Femenina, Torcida Albinegra, Tradição Paraguaia, Alfredo Stroessner, Estádio Dr. Nicolás Leoz, Identidade Alvinegra, Futebol Feminino Paraguaio, Títulos Nacionais, Formação de Talentos, Presidente Rubén Di Tore, Cultura Guarani, Rivais Tradicionais, História e Glória, Símbolo da Águia, Desenvolvimento do Esporte, Paixão Paraguaia, Ídolos Locais, Competições Internacionais.",
+      "keywords_semantic": "Libertad, Paraguai, Asunción, futebol feminino, cultura guarani, rivalidades locais, títulos nacionais, Torneo de Fútbol Femenino, ídolos do futebol, patrimônio esportivo, torcida apaixonada, tradição futebolística, estilo de jogo ofensivo, desenvolvimento feminino, símbolos culturais, identidade paraguaia, história do futebol feminino, conquistas históricas, formação de talentos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25590,
+      "name": "Guaraní de Fram",
+      "code": null,
+      "country": "Paraguay",
+      "founded": 1949,
+      "national": false,
+      "logo": "/teams/25590.png",
+      "keywords": "El Indio, Kure Luque, Estadio Rogelio Silvino Livieres, Torcida Aurinegra, Copa Paraguay, Liga Nacional de Fútbol de Paraguay, Identidade Paraguaia, Ídolos: Hernán Novick, Apelidos: Aurinegros, Presidentes Históricos, Técnico: Gustavo Florentín, Cores: Amarelo e Preto, Tradição Guarani, Clásico Paraguayo, Formadores de Talentos, História de Resistência, Rivalidade Local, Futebol Interiorano, Cultura Guaraní.",
+      "keywords_semantic": "Guaraní de Fram, Paraguai, clube regional, identidade local, tradição, rivalidades locais, futebol paraguaio, comunidade, história do clube, paixão dos torcedores, cores do clube, ídolos locais, desenvolvimento juvenil, competições nacionais, espírito de luta, cultura guarani, apoio da torcida, futebol de base, orgulho regional, conexão comunitária."
+    },
+    "venue": {
+      "id": 22165,
+      "name": "Estadio Villa Alegre",
+      "address": "Barrio Chaipé",
+      "city": "Encarnación",
+      "capacity": 16000,
+      "surface": "grass",
+      "image": "/venues/22165.png"
+    }
+  },
+  {
+    "team": {
+      "id": 26027,
+      "name": "Paraguay U17 W",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26027.png",
+      "keywords": "Albirrojas, Estádio Defensores del Chaco, Seleção Paraguai Feminina Sub-17, futebol feminino paraguaio, desenvolvimento juvenil, Conmebol, Copa do Mundo Sub-17, formação de talentos, desenvolvimento do futebol feminino, apoio à base, Carlos Valdez (técnico), promessas do futebol feminino, Asociación Paraguaya de Fútbol, cultura guarani no futebol, espírito guerreiro, crescimento do futebol feminino na América do Sul.",
+      "keywords_semantic": "Paraguay, futebol feminino, seleção sub-17, desenvolvimento juvenil, CONMEBOL, Copa do Mundo Sub-17, talentos emergentes, formação de atletas, orgulho nacional, identidade paraguaia, inspiração juvenil, representação nacional, futebol de base, competições internacionais, crescimento esportivo feminino."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26311,
+      "name": "1 de Enero",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26311.png",
+      "keywords": "1 de Enero, Paraguai, Apelido: \"El Tren del Este\", Ídolos: Pedro Benítez, Títulos Locais, Torcida Apaixonada, Identidade Cultural Paraguaia, Presidente: Juan Duarte, Técnico: Carlos López, Símbolo: Locomotiva, Tradição no Futebol Paraguaio, Base de Formação de Jovens Talentos, História no Futebol Regional, Competições Amadoras, Desenvolvimento de Jogadores, Comunidade Engajada.",
+      "keywords_semantic": "Paraguai, futebol paraguaio, clube 1 de Enero, tradição local, identidade cultural, rivalidades regionais, história do clube, torcedores apaixonados, ídolos locais, símbolos do clube, competições nacionais, ascensão no futebol, estilo defensivo, comunidade unida, desenvolvimento de talentos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26312,
+      "name": "Minga Guazu",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26312.png",
+      "keywords": "Minga Guazu Futebol Club, \"Los Verdes\", identidade cultural paraguaia, futebol paraguaio, ídolos locais, torcedores apaixonados, rivalidades regionais, desenvolvimento de talentos, competições nacionais, tradição esportiva, Estádio Minga Guazu, presidente do clube, técnico influente, símbolo do clube, conquistas regionais, apoio comunitário, espírito de equipe.",
+      "keywords_semantic": "Guarani, rivalidade local, identidade comunitária, futebol paraguaio, tradição emergente, torcida apaixonada, desenvolvimento regional, ídolos locais, estilo aguerrido, competições nacionais, história recente."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26683,
+      "name": "Deportivo Union de Vh",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26683.png",
+      "keywords": "Deportivo Union de Vh, Los Guerreros del Este, ídolo Juan Carlos Villalba, campeões da División Intermedia, torcida apaixonada, identidade cultural paraguaia, presidente Miguel Fernández, técnico Roberto Ayala, símbolo da Estrela Brilhante, La Pasión del Este, rivalidade com Club Sol de América, Estádio Municipal de Villa Hayes, desenvolvimento de jovens talentos, cores vermelho e branco, tradição de luta e perseverança, história rica no futebol paraguaio.",
+      "keywords_semantic": "Paraguay, futebol paraguaio, identidade cultural, tradição, rivalidades locais, torcedores apaixonados, ídolos do clube, história do club, títulos regionais, símbolos do clube, estilo de jogo aguerrido, competitividade, herança futebolística, paixão pelo futebol, estádio do clube"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26684,
+      "name": "Club 10 de Mayo",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26684.png",
+      "keywords": "Club 10 de Mayo, Paraguay, El Decano, ídolos históricos, títulos estaduais, torcida fervorosa, identidade cultural paraguaia, presidente influente, técnico visionário, símbolos tradicionais, La Pasión Albirroja, legado esportivo, rivalidades clássicas, história rica, comunidade local, jogadores lendários, estádio emblemático, desenvolvimento juvenil, orgulho nacional, apoio incondicional.",
+      "keywords_semantic": "Paraguai, futebol amador, identidade comunitária, tradição local, história regional, paixão paraguaia, clubes de bairro, desenvolvimento juvenil, rivalidades locais, festas culturais, símbolos regionais, futebol de base, ídolos locais, espírito comunitário, estilo de jogo aguerrido."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26685,
+      "name": "Torres Cue - Paso Yobai",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26685.png",
+      "keywords": "Torres Cue, Paso Yobai, Paraguai, Albiceleste, El Estadio de los Sueños, Liga Guairense, ídolo local, espírito comunitário, paixão guaireña, tradição cultural, La Hinchada Fiel, rivalidade regional, desenvolvimento juvenil, futebol amador, conexão comunitária, La Familia Cue, jogos festivos, campeonatos regionais, identidade paraguaia, rivalidade com Cerro Porteño de Paso Yobai, história local, futebol de base, inclusão social, orgulho guarani, La Banda Albiceleste.",
+      "keywords_semantic": "Paraguay, Paso Yobai, futebol amador, cultura local, comunidade, rivalidades regionais, identidade paraguaia, paixão torcedora, desenvolvimento juvenil, torneios locais, tradição esportiva, ídolos regionais, espírito de equipe, clube de bairro, história local, integração social."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26686,
+      "name": "Independiente de J. A. Saldivar",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26686.png",
+      "keywords": "Independiente de J. A. Saldívar, El Inde, Club del Pueblo, ídolo local, ascenso a Primera División, Estadio Ricardo Gregor, hinchada fiel, pasión paraguaya, tradición guaraní, campeonato local, presidente destacado, técnico inspirador, rivalidades paraguaias, formação de jovens talentos, espírito comunitário.",
+      "keywords_semantic": "Independiente de J. A. Saldivar, Paraguai, futebol paraguaio, rivalidades locais, comunidade, identidade regional, tradição, ascensão, desenvolvimento esportivo, torcida apaixonada, clube emergente, competições nacionais, ídolos locais, jovens talentos, estilo de jogo aguerrido, história recente, crescimento, ambição, espírito de equipe, cores do clube."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26687,
+      "name": "Sportivo Oliveño",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26687.png",
+      "keywords": "Sportivo Oliveño, Paraguay, El Olivo, ídolo Sebastián Fernández, título Campeonato Paraguaio, torcida Los Verdes, identidade cultural guarani, presidente Juan Pérez, técnico Miguel Ramírez, símbolo azeitona, Estádio El Olivar, rivalidade com Club Deportivo Asunción, tradição paraguaia, formação de base, cores verde e branco.",
+      "keywords_semantic": "Sportivo Oliveño, Paraguai, cultura futebolística, identidade local, torcida apaixonada, rivalidades regionais, tradição esportiva, campeonatos estaduais, desenvolvimento juvenil, comunidade, ídolos locais, símbolo de resistência, estilo de jogo aguerrido, história rica, influência social, competição nacional."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26688,
+      "name": "San Pedro Del Parana",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26688.png",
+      "keywords": "San Pedro Del Parana, Los Guerreros, Estadio El Fortín, Copa Paraguay, La Hinchada Albirroja, Identidade Guarani, Juan \"El Maestro\" López, Rivalidade com Club Paranaense, Campeões do Interior, Alfredo \"El Cañonero\" Díaz, Sergio \"El Estratega\" Martínez (técnico), Fiesta Albirroja, Tradição de Formação, Culto à Garra, Históricos Campeonatos Regionais, Orgulho Paranaense, Juan Carlos Fernández (presidente), Paixão Paraguaia, Símbolo do Jaguareté, Desenvolvedores de Talentos.",
+      "keywords_semantic": "San Pedro Del Parana, Paraguai, cultura guarani, tradições locais, rivalidade regional, títulos nacionais, campeonato paraguaio, torcida apaixonada, ídolos históricos, símbolos culturais, estilo aguerrido, futebol ofensivo, identidade paraguaia, herança indígena."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26689,
+      "name": "Libertad de San Patricio",
+      "code": null,
+      "country": "Paraguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26689.png",
+      "keywords": "Gumarelos, Albinegros, Estadio Nicolás Leoz, Tacuara Cardozo, Torneio Apertura, Torneio Clausura, Copa Libertadores, Torcida Albinegra, Tradição Guarani, Horacio Cartes, Daniel Garnero, Campeão Paraguaio, Identidade Paraguaia, Rivalidade com Olimpia e Cerro Porteño, Clube dos Assunção, Ascenso Histórico, Futebol Paraguayo, Ídolo Santiago Salcedo.",
+      "keywords_semantic": "Libertad de San Patricio, Paraguai, cultura guarani, rivalidade local, títulos regionais, paixão da torcida, ídolos locais, tradição futebolística, identidade comunitária, cores do clube, estilo aguerrido, história do bairro, desenvolvimento de jovens talentos, espírito competitivo, símbolos culturais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

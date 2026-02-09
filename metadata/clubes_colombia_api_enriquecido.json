@@ -1,0 +1,1674 @@
+[
+  {
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "code": "COL",
+      "country": "Colombia",
+      "founded": 1924,
+      "national": true,
+      "logo": "/teams/8.png",
+      "keywords": "Los Cafeteros, Carlos Valderrama, Copa América 2001, Estadio Metropolitano Roberto Meléndez, torcida fiel, identidade caribenha, Nairo Quintana (embora ciclista, é uma figura esportiva importante no país), Reinaldo Rueda (técnico), Radamel Falcao, James Rodríguez, Iván Córdoba, René Higuita, Atlético Nacional, América de Cali, Junior Barranquilla, Santa Fe, Millonarios FC, rivalidade com a Argentina, seleção tricolor, Juan Fernando Quintero, Esteban Cambiasso (ex-jogador com passagem pelo futebol colombiano), cultura musical cumbia e vallenato.",
+      "keywords_semantic": "Atlético Nacional, Millonarios, Independiente Santa Fe, rivalidade, clássicos, Copa Libertadores, La Liga BetPlay, ídolos, René Higuita, Carlos Valderrama, James Rodríguez, torcida vibrante, El Campín, Atanasio Girardot, futebol ofensivo, estilo técnico, tradição, identidade cultural, diversidade, paixão, história rica, Copa América, seleção colombiana, Cafeteros, orgulho nacional."
+    },
+    "venue": {
+      "id": 366,
+      "name": "Estadio Metropolitano Roberto Meléndez",
+      "address": "Intersección de la Avenida Circunvalar con la Calle 45",
+      "city": "Barranquilla",
+      "capacity": 49612,
+      "surface": "grass",
+      "image": "/venues/366.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1125,
+      "name": "Millonarios",
+      "code": "MIL",
+      "country": "Colombia",
+      "founded": 1946,
+      "national": false,
+      "logo": "/teams/1125.png",
+      "keywords": "Millonarios, Los Embajadores, El Ballet Azul, Alfredo Di Stéfano, Copa Libertadores, Torneo Colombiano, Estadio El Campín, hinchada fiel, Bogotá, Gamero, símbolos azul e branco, títulos década de 1950, rivalidade com Atlético Nacional, Bogotá FC, identidade capitalina, tradição futebolística, Juan Carlos López, Juan Pablo Vargas, legado histórico, ídolos históricos, identidade azul, Hermanos Rodríguez, clube mais vitorioso da Colômbia.",
+      "keywords_semantic": "Bogotá, El Campín, embajadores, rivalidade Santa Fe, albiazul, torcida fiel, títulos nacionais, Copa Libertadores, ídolos históricos, Alfredo Di Stéfano, tradição, futebol colombiano, estilo ofensivo, herança cultural, identidade bogotana, orgulho capitalino."
+    },
+    "venue": {
+      "id": 383,
+      "name": "Estadio Nemesio Camacho El Campín",
+      "address": "Avenida N.Q.S Calle 57",
+      "city": "Bogotá, D.C.",
+      "capacity": 39512,
+      "surface": "grass",
+      "image": "/venues/383.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1126,
+      "name": "Deportivo Pasto",
+      "code": "PAS",
+      "country": "Colombia",
+      "founded": 1949,
+      "national": false,
+      "logo": "/teams/1126.png",
+      "keywords": "Los Volcánicos, Estadio Departamental Libertad, Nariño, Torneo Finalización 2006, Flabio Torres, Boyacá Chicó rivalidade, Jorge Hernán Bermúdez, Hernando Ángel, torcida fiel, cores azul e vermelho, cultura andina, Libertadores 2007, Giovanni Moreno, resistência andina, Liga Águila, altitude em Pasto, cultura pastusa, Los del Sur, futebol colombiano.",
+      "keywords_semantic": "Deportivo Pasto, Colômbia, Equador, rivalidade, Liga BetPlay, Estadio Departamental Libertad, torcida fiel, cultura andina, tradição, ídolos locais, história, 2006, estilo de jogo defensivo, cores vermelho e azul, identidade regional, comunidade nariñense, futebol colombiano, conquistas, Altiplano, paixão, conexão cultural."
+    },
+    "venue": {
+      "id": 377,
+      "name": "Estadio Departamental Libertad",
+      "address": "Carrera 8",
+      "city": "San Juan de Pasto",
+      "capacity": 27380,
+      "surface": "grass",
+      "image": "/venues/377.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1127,
+      "name": "Deportivo Cali",
+      "code": "CAL",
+      "country": "Colombia",
+      "founded": 1912,
+      "national": false,
+      "logo": "/teams/1127.png",
+      "keywords": "Azucareros, Estadio Deportivo Cali, Jorge Ramírez Gallego, Mario Yepes, Faryd Mondragón, Copa Mustang, La Amenaza Verde, hinchada verdiblanca, Alejandro Cabezas, Gustavo Cuéllar, clássico vallecaucano, Juan Sebastián Quintero, Copa Libertadores, Identidade caleña, Palcos de Palmaseca, Pascual Guerrero, formação de base, cultura caleña, títulos Liga Colombiana, rivalidade América de Cali.",
+      "keywords_semantic": "Azucareros, Cali, rivalidade América de Cali, Estadio Deportivo Cali, hinchada fiel, cantera talentosa, títulos colombianos, identidade caleña, ídolos históricos, estilo ofensivo, futebol colombiano, tradição esportiva, rivalidade regional, Copa Libertadores, cultura torcedora, paixão futebolística, história gloriosa."
+    },
+    "venue": {
+      "id": 376,
+      "name": "Estadio Deportivo Cali",
+      "address": "BN 25",
+      "city": "Palmira",
+      "capacity": 52000,
+      "surface": "grass",
+      "image": "/venues/376.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1128,
+      "name": "Independiente Medellin",
+      "code": "MED",
+      "country": "Colombia",
+      "founded": 1913,
+      "national": false,
+      "logo": "/teams/1128.png",
+      "keywords": "El Poderoso de la Montaña, Germán Cano, Copa Colombia, Torcida Poderosa, Estádio Atanasio Girardot, David González, Medellín, rivalidade com Atlético Nacional, DIM, Rey de Corazones, identidade paisa, bandeira vermelha e azul, Jarlan Barrera, Corpo Técnico, história centenária, Medellín Derby, títulos nacionais, Liga Águila, paixão e tradição, cultura futebolística colombiana.",
+      "keywords_semantic": "Independiente Medellin, Colômbia, El Poderoso, rivalidade com Atlético Nacional, Estádio Atanasio Girardot, tradição, Copa Libertadores, fanáticos, La Barra del Poderoso, títulos nacionais, identidade paisa, ídolos históricos, estilo ofensivo, paixão, cultura futebolística colombiana."
+    },
+    "venue": {
+      "id": 380,
+      "name": "Estadio Atanasio Girardot",
+      "address": "Entre carreras 70 y 73 y las Calles 48 y 50",
+      "city": "Medellín",
+      "capacity": 45943,
+      "surface": "grass",
+      "image": "/venues/380.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1129,
+      "name": "Envigado",
+      "code": "ENV",
+      "country": "Colombia",
+      "founded": 1989,
+      "national": false,
+      "logo": "/teams/1129.png",
+      "keywords": "Envigado Fútbol Club, La Cantera de Héroes, formação de jovens talentos, cantera, James Rodríguez, Fredy Guarín, Esteban Cambiasso, desenvolvimento juvenil, Ligas juvenis, Estádio Polideportivo Sur, Naranja mecánica, identidade formadora, Antioquia, futebol base, academia de futebol, futebol colombiano, orgulho local, talento emergente, história modesta, ascensão de ídolos, identidade comunitária, valores esportivos.",
+      "keywords_semantic": "Envigado, formação de talentos, cantera, futebol colombiano, desenvolvimento juvenil, Carlos Alberto Sánchez, James Rodríguez, identidade local, Academia, La Cantera de Héroes, pequenos gigantes, estilo ofensivo, Medellín, rivalidade regional, jogadores promissores, clube formador, impacto social."
+    },
+    "venue": {
+      "id": 379,
+      "name": "Estadio Polideportivo Sur",
+      "address": "Carrera 48 No. 46 Sur 150",
+      "city": "Envigado",
+      "capacity": 14000,
+      "surface": "grass",
+      "image": "/venues/379.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1130,
+      "name": "Huila",
+      "code": "HUI",
+      "country": "Colombia",
+      "founded": 1990,
+      "national": false,
+      "logo": "/teams/1130.png",
+      "keywords": "Atlético Huila, Opitas, Neiva, Guillermo Berrío, Estadio Guillermo Plazas Alcid, Primeira Divisão Colombiana, Copa Colômbia, Torcida Auriverde, Identidade Cafetera, Promessas do Huila, Futebol Feminino, Gloria Chicaiza, Orgulho Opita, Rivalidade com Tolima, Desenvolvimento de Jovens Talentos, Espírito de Superação, Ascenso à Primeira Divisão, Cultura Andina, Ídolos Regionais, Apoio Local, Futebol Colombiano, Presidente Jorge Fernando Perdomo, Técnico Néstor Craviotto.",
+      "keywords_semantic": "Atlético Huila, Neiva, futebol colombiano, Estádio Guillermo Plazas Alcid, torcida fervorosa, identidade local, cultura andina, rivalidade Tolima, ascensão e queda, história recente, cores verde e amarelo, promoção e rebaixamento, ídolos regionais, futebol feminino, perseverança, comunidade, paixão pelo futebol, desenvolvimento jovem, estilo aguerrido."
+    },
+    "venue": {
+      "id": 370,
+      "name": "Estadio Guillermo Plazas Alcid",
+      "address": "Carrera 18 Nº 18 - 25",
+      "city": "Neiva",
+      "capacity": 27000,
+      "surface": "grass",
+      "image": "/venues/370.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1131,
+      "name": "Bucaramanga",
+      "code": "BUC",
+      "country": "Colombia",
+      "founded": 1949,
+      "national": false,
+      "logo": "/teams/1131.png",
+      "keywords": "Atlético Bucaramanga, Los Leopardos, Estadio Alfonso López, Torcida Auriverde, Liga BetPlay, Alejandro Brand, Víctor Luna, Óscar Upegui, Ídolos históricos, Clásico del Oriente, Identidade Santandereana, Títulos da Segunda Divisão, Diego Cagna (técnico), Hinchada fervorosa, Tradição cafetera.",
+      "keywords_semantic": "Atlético Bucaramanga, Leopardo, Santander, Estádio Alfonso López, Torcida, Cúcuta Deportivo, Clássico do Oriente, Fúria Leoparda, Primeira A Colombiana, 1949, Tradição, Rivalidade, Estilo de Jogo, Ídolos Locais, História Futebol Colombiano, Ascensão, Desempenho Regional, Identidade Cultural, Paixão, Títulos Regionais, Desenvolvimento de Talentos."
+    },
+    "venue": {
+      "id": 21805,
+      "name": "Estadio Américo Montanini",
+      "address": "Carrera 36 Nº 53-12, Cabecera del Llano",
+      "city": "Bucaramanga",
+      "capacity": 28000,
+      "surface": "artificial turf",
+      "image": "/venues/21805.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1132,
+      "name": "Chico",
+      "code": "CHI",
+      "country": "Colombia",
+      "founded": 2002,
+      "national": false,
+      "logo": "/teams/1132.png",
+      "keywords": "Chicó FC, Ajedrezado, Boyacá, Tunja, Estadio La Independencia, Jairo Patiño, Jhon Charria, Copa Mustang 2008, Torneo Águila, identidade boyacense, cultura indígena muisca, rivalidad com Patriotas Boyacá, torcedores leales, futebol colombiano, Edwin Movil, Eduardo Pimentel, formação jovem, paixão local, Los Guerreros del Chicó.",
+      "keywords_semantic": "Boyacá, Tunja, cultura andina, rivalidades regionais, Copa Colômbia, história recente, ascensão à primeira divisão, torcida apaixonada, La Independencia, identidade local, cores verde e branco, ídolos locais, desenvolvimento de talentos, estilo defensivo, garra e determinação."
+    },
+    "venue": {
+      "id": 372,
+      "name": "Estadio de La Independencia",
+      "address": "Villa Olímpica",
+      "city": "Tunja",
+      "capacity": 25000,
+      "surface": "grass",
+      "image": "/venues/372.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1133,
+      "name": "Jaguares",
+      "code": "JAG",
+      "country": "Colombia",
+      "founded": 2012,
+      "national": false,
+      "logo": "/teams/1133.png",
+      "keywords": "Jaguares de Córdoba, Montería, Felinos, Estadio Jaraguay, Liga Águila, ascenso 2014, Juan José Peláez, Wilder Medina, John Méndez, apoio local, identidade caribenha, paixão cordobesa, rivalidade com Atlético Huila, projeto de base, crescimento constante, torcida fiel, cultura costeira, futebol ofensivo.",
+      "keywords_semantic": "Jaguares de Córdoba, Montería, futebol colombiano, cultura costeira, identidade caribenha, rivalidade Atlético Huila, Estadio Jaraguay, ascensão recente, história jovem, torcida apaixonada, ídolos locais, desenvolvimento de talentos, estilo defensivo, cores azul e branco, impacto social, campeonato colombiano, Liga BetPlay, crescimento regional, símbolos costeiros, tradição emergente."
+    },
+    "venue": {
+      "id": 1779,
+      "name": "Estadio de Fútbol Jaraguay de Montería",
+      "address": null,
+      "city": "Montería",
+      "capacity": 12000,
+      "surface": "grass",
+      "image": "/venues/1779.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1134,
+      "name": "Internacional de Bogota",
+      "code": "EQU",
+      "country": "Colombia",
+      "founded": 1990,
+      "national": false,
+      "logo": "/teams/1134.png",
+      "keywords": "Internacional de Bogota, El Rojo Bogotano, Estadio El Campín, torcida fiel, paixão bogotana, rivalidad capitalina, ídolos históricos, títulos nacionais, futebol colombiano, identidade cultural bogotana, técnico renomado, presidente visionário, jovens promessas, história rica, símbolo da cidade, cores vermelhas, tradição futebolística, legado esportivo, torcedores apaixonados, estratégia de jogo, desenvolvimento de talentos, academia de jovens, conquistas memoráveis.",
+      "keywords_semantic": "Internacional de Bogota, Colômbia, futebol colombiano, rivalidades locais, história do futebol colombiano, cultura de futebol, identidade de torcida, paixão colombiana, símbolos do clube, ídolos do passado, estilo de jogo colombiano, marcos históricos, desenvolvimento juvenil, competição local, apoio da comunidade, tradição esportiva."
+    },
+    "venue": {
+      "id": 371,
+      "name": "Estadio Metropolitano de Techo",
+      "address": "Tv 71D, Kennedy",
+      "city": "Bogotá, D.C.",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "/venues/371.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1135,
+      "name": "Junior",
+      "code": "JUN",
+      "country": "Colombia",
+      "founded": 1924,
+      "national": false,
+      "logo": "/teams/1135.png",
+      "keywords": "Tiburones, Metropolitano, Carlos Valderrama, Julio Comesaña, Copa Colombia, La Chinita, currambero, samario, Teófilo Gutiérrez, rojiblanco, hinchada, Carnaval de Barranquilla, Antonio Char, Sebastián Viera, Barranquilla, Gabriel Berdugo, Romelio Martínez, ADN Caribeño, Copa Libertadores, Liga Colombiana.",
+      "keywords_semantic": "Barranquilla, Tiburones, Metropolitano, Carnaval, Costeño, rivalidade Millonarios, rivalidade Nacional, Liga Colombiana, torcedores alegres, Carlos Valderrama, Teo Gutiérrez, tradição caribenha, futebol ofensivo, paixão, história rica."
+    },
+    "venue": {
+      "id": 366,
+      "name": "Estadio Metropolitano Roberto Meléndez",
+      "address": "Intersección de la Avenida Circunvalar con la Calle 45",
+      "city": "Barranquilla",
+      "capacity": 49612,
+      "surface": "grass",
+      "image": "/venues/366.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1136,
+      "name": "Once Caldas",
+      "code": "ONC",
+      "country": "Colombia",
+      "founded": 1961,
+      "national": false,
+      "logo": "/teams/1136.png",
+      "keywords": "Los Albos, Manizales, Libertadores 2004, Juan Carlos Henao, Javier Torrente, Estádio Palogrande, torcida fiel, identidade cafetera, Edwin Congo, Wilson Piedrahita, Blanco-Blanco, símbolo do café, paixão caldense, título continental, espírito guerreiro.",
+      "keywords_semantic": "Manizales, Libertadores 2004, Blanco-Blanco, La barra Holocausto Norte, Estádio Palogrande, Juan Carlos Henao, Rivalidade Deportivo Pereira, Café, Região Andina, Clubes Colombianos, Estilo defensivo, Identidade resiliente, História recente, Títulos nacionais, Futebol colombiano."
+    },
+    "venue": {
+      "id": 384,
+      "name": "Estadio Palogrande",
+      "address": "Carrera 24 # 64 - 00",
+      "city": "Manizales",
+      "capacity": 42678,
+      "surface": "grass",
+      "image": "/venues/384.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1137,
+      "name": "Atletico Nacional",
+      "code": "NAC",
+      "country": "Colombia",
+      "founded": 1947,
+      "national": false,
+      "logo": "/teams/1137.png",
+      "keywords": "Verdolagas, Rey de Copas, Estadio Atanasio Girardot, Andrés Escobar, René Higuita, Faustino Asprilla, Copa Libertadores 1989, Copa Libertadores 2016, torcida Los del Sur, identidade paisa, Medellín, Juan Carlos de la Cuesta, Alejandro Restrepo, bandeira verde e branca, rivalidade com Millonarios, Atlético Nacional Femenino, espírito vencedor, apoio incondicional, tradição formadora, legado de Francisco Maturana.",
+      "keywords_semantic": "Medellín, Los Verdolagas, Libertadores, El Dorado, torcida apaixonada, ídolos Andres Escobar, rivalidade Millonarios, clássicos com Independiente Medellín, estilo ofensivo, hinchada fervorosa, história gloriosa, título continental, símbolo Rey de Copas, formação de talentos, impacto social."
+    },
+    "venue": {
+      "id": 380,
+      "name": "Estadio Atanasio Girardot",
+      "address": "Entre carreras 70 y 73 y las Calles 48 y 50",
+      "city": "Medellín",
+      "capacity": 45943,
+      "surface": "grass",
+      "image": "/venues/380.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1138,
+      "name": "America de Cali",
+      "code": "AME",
+      "country": "Colombia",
+      "founded": 1927,
+      "national": false,
+      "logo": "/teams/1138.png",
+      "keywords": "Diablos Rojos, Pascual Guerrero, Copa Mustang, América Pentacampeón, Julio César Falcioni, Alexandre Guimarães, Gabriel Ochoa Uribe, Adrián Ramos, Willington Ortiz, Copa Libertadores, La Mechita, hinchada roja, Barón Rojo Sur, rivalidade Deportivo Cali, escudo vermelho e branco, Valle del Cauca, cultura caleña, ressurgimento 2016, títulos Ação de Tutela, estádio Pascual Guerrero, identidade caleña.",
+      "keywords_semantic": "América de Cali, La Mechita, Diablos Rojos, rivalidade, Deportivo Cali, clássicos, Estádio Pascual Guerrero, títulos nacionais, história gloriosa, anos 80, Libertadores, apoio popular, sofrimento, paixão, identidade caleña, Gabriel Ochoa Uribe, ídolos, Alex Escobar, Julio Falcioni, ressurgimento, estilo ofensivo, pressão alta, torcida fervorosa, tradição, superação, cultura caleña, raízes populares."
+    },
+    "venue": {
+      "id": 368,
+      "name": "Estadio Olímpico Pascual Guerrero",
+      "address": "Carrera 36 entre Calles 5 y 5B3",
+      "city": "Santiago de Cali",
+      "capacity": 46400,
+      "surface": "grass",
+      "image": "/venues/368.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1139,
+      "name": "Santa Fe",
+      "code": "SAN",
+      "country": "Colombia",
+      "founded": 1941,
+      "national": false,
+      "logo": "/teams/1139.png",
+      "keywords": "León, Cardenales, Independiente Santa Fe, Estadio El Campín, Bogotá, Primer Campeón, Copa Sudamericana 2015, Superliga Colombiana, Libertadores, Alexis García, Omar Pérez, Alfonso Cañón, Wilson Morelo, Germán Gutiérrez de Piñeres, Eduardo Méndez, Clássico Capitalino, La Guardia Albi-Roja Sur, paixão bogotana, identidade albirroja, tradição, orgulho colombiano, história rica, rivalidade com Millonarios.",
+      "keywords_semantic": "Bogotá, Cardenales, El Campín, Libertadores, rivalidade, Millonarios, Independiente, hinchada, leão, 1941, títulos, história, identidade, campeonatos, pasión, tradição, roxo, vermelho, Copas, Colômbia, ídolos, estilo de jogo, defesa sólida, cultura futebolística, orgulho, torcedores, clássico."
+    },
+    "venue": {
+      "id": 383,
+      "name": "Estadio Nemesio Camacho El Campín",
+      "address": "Avenida N.Q.S Calle 57",
+      "city": "Bogotá, D.C.",
+      "capacity": 39512,
+      "surface": "grass",
+      "image": "/venues/383.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1140,
+      "name": "Patriotas",
+      "code": "PAT",
+      "country": "Colombia",
+      "founded": 2003,
+      "national": false,
+      "logo": "/teams/1140.png",
+      "keywords": "Patriotas Boyacá, Los Lanceros, Estádio La Independencia, Tunja, Torcida Roja y Verde, Boyacá Chicó, rivalidade, ídolos históricos, primeira divisão colombiana, Copa Colombia, identidade boyacense, futebol colombiano, formação de jovens talentos, cores vermelho e verde, cultura andina, El Independiente, capitão, presidente, técnico, história recente, crescimento no futebol colombiano.",
+      "keywords_semantic": "Tunja, Boyacá, futebol colombiano, história recente, ascensão, identidade regional, torcida apaixonada, La Independencia, altitudes elevadas, rivalidade Boyacá Chicó, desenvolvimento local, ídolos emergentes, estilo aguerrido, perseverança, jovens talentos, comunidade, tradição andina, cores vermelho e branco."
+    },
+    "venue": {
+      "id": 372,
+      "name": "Estadio de La Independencia",
+      "address": "Villa Olímpica",
+      "city": "Tunja",
+      "capacity": 25000,
+      "surface": "grass",
+      "image": "/venues/372.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1141,
+      "name": "Alianza Valledupar",
+      "code": "ALI",
+      "country": "Colombia",
+      "founded": 1991,
+      "national": false,
+      "logo": "/teams/1141.png",
+      "keywords": "Alianza Valledupar, Los Guerreros del Valle, Valledupar FC, ídolo local, Estádio Armando Maestre Pavajeau, torcida fiel, identidade costeña, Valledupar, cultura vallenata, campeonato colombiano, ascenso, técnico destacado, presidente influente, cores verde e branco, jovens talentos, formação de jogadores, rivalidade regional, tradição futebolística, apoio comunitário, desenvolvimento esportivo.",
+      "keywords_semantic": "Alianza Valledupar, Colômbia, futebol colombiano, Valledupar, cultura vallenata, Liga BetPlay, identidade de torcida, rivalidades locais, desenvolvimento de jovens talentos, história do clube, ídolos regionais, paixão no futebol, Valledupar FC, ascensão esportiva, crescimento comunitário, simpatizantes, futebol de base, espírito competitivo, clube emergente, tradição local, jogadores promissores"
+    },
+    "venue": {
+      "id": 367,
+      "name": "Estadio Daniel Villa Zapata",
+      "address": "Estadio de Béisbol 26 de abril, Villa Olímpica",
+      "city": "Barrancabermeja",
+      "capacity": 10400,
+      "surface": "grass",
+      "image": "/venues/367.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1142,
+      "name": "Deportes Tolima",
+      "code": "DEP",
+      "country": "Colombia",
+      "founded": 1954,
+      "national": false,
+      "logo": "/teams/1142.png",
+      "keywords": "Vinotinto y Oro, El Pijao, Gabriel Camargo, Hernán Torres, Copa Colombia, Campeonato Colombiano, torcedores fieles, Estadio Manuel Murillo Toro, identidade cultural andina, Oscar Quintabani, Marco Pérez, Hinchada Pijao, orgulho tolimense, títulos Liga BetPlay, rivalidade com Atlético Huila, espírito guerreiro.",
+      "keywords_semantic": "Ibagué, vinotinto y oro, Copa Colombia, rivalidade Atlético Huila, torcida Pijao, Gabriel Camargo, Estádio Manuel Murillo Toro, identidade musical, tradição cafetera, Libertadores, estilo defensivo, formação de base, ídolos históricos, conquistas recentes, representação andina."
+    },
+    "venue": {
+      "id": 375,
+      "name": "Estadio Manuel Murillo Toro",
+      "address": "Carrera 4A Bis Nº 34 - 60 con Calle 36",
+      "city": "Ibagué",
+      "capacity": 38000,
+      "surface": "grass",
+      "image": "/venues/375.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1143,
+      "name": "Leones FC",
+      "code": "RIO",
+      "country": "Colombia",
+      "founded": 1991,
+      "national": false,
+      "logo": "/teams/1143.png",
+      "keywords": "Leones FC, Itagüí, Los Felinos, Estadio Metropolitano Ditaires, ascenso, Dimayor, segunda divisão, formação de jovens, futebol de base, identidade paisa, Andrés Ríos (ídolo), Carlos Mario Echeverri (presidente), Felipe Correa (técnico), rivalidade com Envigado, torcida fiel, desenvolvimento regional, cantera, estilo de jogo ofensivo, tradição formativa.",
+      "keywords_semantic": "Medellín, identidade comunitária, liga colombiana, ascensão, rivalidade local, desenvolvimento juvenil, tradição emergente, futebol ofensivo, torcida apaixonada, cores amarelo e preto, ídolos locais, espírito competitivo, base de fãs crescente, história recente, competições regionais."
+    },
+    "venue": {
+      "id": 381,
+      "name": "Estadio Alberto Grisales",
+      "address": "Route 45A",
+      "city": "Rionegro, Antioquia",
+      "capacity": 14000,
+      "surface": "artificial turf",
+      "image": "/venues/381.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1144,
+      "name": "Rionegro Aguilas",
+      "code": "ITA",
+      "country": "Colombia",
+      "founded": 1991,
+      "national": false,
+      "logo": "/teams/1144.png",
+      "keywords": "Rionegro Águilas Doradas, El Nido, Antioquia, Leonel Álvarez, Águilas Doradas, Liga BetPlay, Copa Colombia, hinchada dorada, Estadio Alberto Grisales, Jorge Luis Bernal, antioqueños, José Fernando Salazar, \"El Nido Dorado\", ídolos del Rionegro, aguileños, espíritu competitivo, historia reciente, crecimiento constante.",
+      "keywords_semantic": "Rionegro Águilas, futebol colombiano, Antioquia, Independiente Medellín, rivalidade, primeira divisão, ascensão, Águilas Doradas, identidade regional, forte defensiva, jovens talentos, torcida apaixonada, espírito de superação, estádio Alberto Grisales, presença constante, tradição recente."
+    },
+    "venue": {
+      "id": 381,
+      "name": "Estadio Alberto Grisales",
+      "address": "Route 45A",
+      "city": "Rionegro, Antioquia",
+      "capacity": 14000,
+      "surface": "grass",
+      "image": "/venues/381.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1145,
+      "name": "Tigres FC",
+      "code": "EXP",
+      "country": "Colombia",
+      "founded": 1997,
+      "national": false,
+      "logo": "/teams/1145.png",
+      "keywords": "Tigres FC, Felinos, Estádio Metropolitano de Techo, Bogotá, futebol colombiano, cantera de talentos, La Garra, ascenso y descenso, hinchada fiel, Identidad bogotana, Copa Colombia, categoría primera B, jóvenes promesas, formación juvenil, estructura de desarrollo, pasión por el fútbol, rivalidad local, historia reciente, impulso deportivo, comunidad bogotana, presidente del club, entrenador, símbolos del club, compromiso con la juventud, desarrollo futbolístico, Tigres Rojos.",
+      "keywords_semantic": "Tigres FC, Bogotá, futebol colombiano, Segunda División, ascensão, rivalidade local, identidade jovem, torcida emergente, história recente, desenvolvimento de talentos, clube formador, espírito de luta, cores amarelo e azul, comunidade local, estilo defensivo, promessas do futebol, ídolos regionais, impacto social, crescimento, motivação comunitária."
+    },
+    "venue": {
+      "id": 371,
+      "name": "Estadio Metropolitano de Techo",
+      "address": "Tv 71D, Kennedy",
+      "city": "Bogotá, D.C.",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "/venues/371.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1146,
+      "name": "Cortulua",
+      "code": "COR",
+      "country": "Colombia",
+      "founded": 1967,
+      "national": false,
+      "logo": "/teams/1146.png",
+      "keywords": "Corazón del Valle, Tuluá, Estadio Doce de Octubre, Mario Alberto Yepes, Ascenso a Primera División, Torneo Águila, Jhon Jairo Romero, Los Corazón, Fútbol base, Cantera de talentos, Enrique Camargo, Identidade regional, Rivalidade com América de Cali, Desenvolvimento juvenil, Fútbol cafetero, Apoio local, Estilo de jogo ofensivo, La Pasión del Tuluá.",
+      "keywords_semantic": "Cortuluá, futebol colombiano, Valle del Cauca, equipe tradicional, Liga BetPlay, rivalidades regionais, estádio Doce de Octubre, ídolos locais, desenvolvimento de jovens talentos, comunidade tulueña, estilo ofensivo, ascensão e rebaixamento, torcida fervorosa, história modesta, cores vermelho e branco."
+    },
+    "venue": {
+      "id": 19614,
+      "name": "Estadio Raúl Miranda Yumbo",
+      "address": "Cl. 16 #3-49, Br. La Estancia",
+      "city": "Yumbo",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/19614.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1147,
+      "name": "Fortaleza FC",
+      "code": null,
+      "country": "Colombia",
+      "founded": 2010,
+      "national": false,
+      "logo": "/teams/1147.png",
+      "keywords": "Los Leopardos, Alfonso Cañón, Estadio Alfonso López, hinchada apasionada, títulos Torneo de Ascenso, rivalidade local, Jorge Luis Pinto, identidade bumanguesa, símbolo do jaguar, fundação em 1949, tradição futebolística, cores azul e branco, desenvolvimento de talentos jovens, história resiliente, apoio comunitário.",
+      "keywords_semantic": "Fortaleza, Bogotá, clube jovem, espírito comunitário, futebol alternativo, torcida divertida, cultura inclusiva, rivalidade local, expressão artística, inovação social, estilo ofensivo, identidade única, resistência, paixão, ídolos emergentes, cores vibrantes, crescimento, impacto social, diversidade, engajamento comunitário."
+    },
+    "venue": {
+      "id": 382,
+      "name": "Estadio Municipal de Cota",
+      "address": "Camellon de Las Flores",
+      "city": "Cota",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "/venues/382.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1458,
+      "name": "Bogota FC",
+      "code": null,
+      "country": "Colombia",
+      "founded": 2003,
+      "national": false,
+      "logo": "/teams/1458.png",
+      "keywords": "Bogota FC, Los Ajedrezados, futebol colombiano, Estádio Metropolitano de Techo, Bogotá, ascensão, divisões inferiores, cantera, desenvolvimento de jovens, cultura andina, paixão futebolística, identidade bogotana, cores azul e branco, rivalidade local, La Capital, torcida fiel, formação de talentos, inovação tática, presença na capital, ambição esportiva, futebol base, história emergente, clubes formadores, crescimento contínuo, futebol profissional colombiano.",
+      "keywords_semantic": "Bogotá FC, capital, futebol colombiano, formação de talentos, equipe jovem, segunda divisão, ascensão, torcida local, identidade comunitária, desenvolvimento de jogadores, rivalidade regional, estilo de jogo, academia, história recente, paixão pelo futebol."
+    },
+    "venue": {
+      "id": 371,
+      "name": "Estadio Metropolitano de Techo",
+      "address": "Tv 71D, Kennedy",
+      "city": "Bogotá, D.C.",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "/venues/371.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1459,
+      "name": "Real Cartagena",
+      "code": null,
+      "country": "Colombia",
+      "founded": 1971,
+      "national": false,
+      "logo": "/teams/1459.png",
+      "keywords": "Los Heroicos, Blas Pérez, Estadio Jaime Morón, Torneo Águila, primeira divisão colombiana, torcida fiel, identidade costeira, futebol caribenho, Juan Carlos Henao, promoção à primeira divisão, rivalidade com Unión Magdalena, jovens talentos, desenvolvimento de base, cultura cartagenera, cores amarelo e verde, presidente Luis García, técnico Milton García, história de superação, paixão pelo futebol.",
+      "keywords_semantic": "Cartagena, Bolívar, Estádio Jaime Morón, Torcida Heroica, Sabana, Ascensão, Descida, Rivalidade, Barranquilla, Torneio Apertura, Torneio Finalización, História Colonial, Cores Amarelo e Verde, Gabriel Berdugo, Identidade Costeña, Futebol Caribeño, Formação de Jovens, Estilo Ofensivo, Tradição Local, Ídolos Regionais, Desempenho Nacional, Apoio Comunitário, Cultura Futebolística, Orgulho Local."
+    },
+    "venue": {
+      "id": 385,
+      "name": "Estadio Olímpico Jaime Morón León",
+      "address": "Calle 31B, Barrio Olaya Herrera",
+      "city": "Cartagena de Indias",
+      "capacity": 16068,
+      "surface": "grass",
+      "image": "/venues/385.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1460,
+      "name": "Popayan",
+      "code": "UNI",
+      "country": "Colombia",
+      "founded": 2002,
+      "national": false,
+      "logo": "/teams/1460.png",
+      "keywords": "Los Payaneses, Estadio Ciro López, \"La Ciudad Blanca\", Sebastián Vélez, ídolo local, ascenso a Primera B, cultura cafetera, rivalidades regionais, torcida apaixonada, Fundación Popayán Fútbol Club, desenvolvimento juvenil, cores tradicionais branco e azul, legado histórico, Popayán capital do Cauca, integração comunitária, apoio fervoroso, presidente influente, identidade cultural andina.",
+      "keywords_semantic": "Cauca, Estadio Ciro López, futebol colombiano, Deportivo Popayán, rivalidade regional, identidade local, desenvolvimento juvenil, história do clube, cultura futebolística, torcedores apaixonados, espírito comunitário, tradição esportiva, ídolos locais, ascensão no futebol colombiano, liga colombiana, Partida Clássica, Popayán City."
+    },
+    "venue": {
+      "id": 368,
+      "name": "Estadio Olímpico Pascual Guerrero",
+      "address": "Carrera 36 entre Calles 5 y 5B3",
+      "city": "Santiago de Cali",
+      "capacity": 46400,
+      "surface": "grass",
+      "image": "/venues/368.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1461,
+      "name": "Quindio",
+      "code": "QUI",
+      "country": "Colombia",
+      "founded": 1951,
+      "national": false,
+      "logo": "/teams/1461.png",
+      "keywords": "Cuyabros, Hernán Darío Herrera, Estadio Centenario, Torneo Águila, Ascenso 2021, Cafeteros, Torcida Verdiblanca, Armando Malabia, Descentralización del Fútbol Colombiano, Identidad Cafetera, Luis Fernando Suárez, Fundación 1951, Históricos del Fútbol Colombiano, Región del Quindío, Semillero de Talentos.",
+      "keywords_semantic": "Armenia, café cultural, Eje Cafetero, La Viejoteca, ascenso, descenso, hinchada fiel, pasión cafetera, Estadio Centenario, clásico cafetero, historia regional, Los Cuyabros, ascenso histórico, lucha perseverante, cantera, identidade local, tradição e paixão, futebol colombiano, ressurgimento, rivalidade regional."
+    },
+    "venue": {
+      "id": 374,
+      "name": "Estadio Centenario",
+      "address": "Km. 1 vía al Aeropuerto El Edén",
+      "city": "Armenia",
+      "capacity": 20729,
+      "surface": "grass",
+      "image": "/venues/374.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1462,
+      "name": "Deportivo Pereira",
+      "code": "PER",
+      "country": "Colombia",
+      "founded": 1944,
+      "national": false,
+      "logo": "/teams/1462.png",
+      "keywords": "Matecañas, Hernán Darío Herrera, título Liga BetPlay 2022, torcida fervorosa, Estadio Hernán Ramírez Villegas, identidade cafetera, Carlos Ramírez, ídolos históricos, ascensão futebolística, hinchas, cultura paisa, Álvaro de Jesús Gómez, Los Hinchas del Matecaña, símbolo da resistência, futebol colombiano, espírito de superação, legado esportivo.",
+      "keywords_semantic": "Cúcuta Deportivo, Colômbia, La Furia Matecaña, Estádio Hernán Ramírez Villegas, cultura cafetera, rivalidade Once Caldas, títulos Liga BetPlay, torcida apaixonada, ascensão recente, identidade regional, história perseverança, cores vermelho amarelo, jogadores emblemáticos, futebol ofensivo, tradição local, ídolos regionais."
+    },
+    "venue": {
+      "id": 378,
+      "name": "Estadio Hernán Ramírez Villegas",
+      "address": "Villa Olímpica Pereira",
+      "city": "Pereira",
+      "capacity": 30297,
+      "surface": "grass",
+      "image": "/venues/378.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1463,
+      "name": "Real Santander",
+      "code": "REA",
+      "country": "Colombia",
+      "founded": 2006,
+      "national": false,
+      "logo": "/teams/1463.png",
+      "keywords": "Real Santander, Albo, Torneo Águila, Bucaramanga, La Florida, Estadio Álvaro Gómez Hurtado, paixão santandereana, identidade cafetera, rivalidades regionais, futebol colombiano, Carlos Mario Hoyos, desenvolvimento juvenil, academia de talentos, projeto de base, orgulho local, La Fortaleza Blanca, cultura futebolística colombiana, hinchada fiel, crescimento esportivo, tradição santandereana.",
+      "keywords_semantic": "Real Santander, Colômbia, futebol colombiano, tradição esportiva, Liga BetPlay, rivalidades locais, Barrancabermeja, torcedores apaixonados, cultura futebolística, ídolos regionais, desenvolvimento jovem, ascensão futebolística, identidade local, competição nacional, espírito comunitário, história recente, estilo de jogo, persistência, desafios esportivos, crescimento e potencial."
+    },
+    "venue": {
+      "id": 386,
+      "name": "Estadio de Fútbol Erwin O'Neil",
+      "address": null,
+      "city": "San Andrés y Providencia",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "/venues/386.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1464,
+      "name": "Llaneros",
+      "code": null,
+      "country": "Colombia",
+      "founded": 2012,
+      "national": false,
+      "logo": "/teams/1464.png",
+      "keywords": "Llaneros, Club Llaneros, Equipe de Villavicencio, Los Llaneros, Meta, Estádio Bello Horizonte, Torcida Llanera, Identidade Llanera, Fútbol Llanero, Ídolos Llaneros, Cultura Llanera, Ciclón del Llano, Primeira B Colombiana, Campeonato Ascenso, Carlos Rentería, Técnico Jersson González, Presidente Juan Carlos Trujillo, Academia Llanera, Jovens Talentos, Desempenho no Torneo Águila, Rivalidade com Cúcuta Deportivo, Desenvolvimento de Base.",
+      "keywords_semantic": "Villavicencio, Meta, Torneio Águila, ascensão, identidade regional, futebol colombiano, desenvolvimento juvenil, rivalidade local, apoio comunitário, ídolos locais, tradição esportiva, paixão, perseverança, infraestrutura, crescimento, estilo ofensivo, ambição."
+    },
+    "venue": {
+      "id": 20648,
+      "name": "Estadio Bello Horizonte - Rey Pelé",
+      "address": "a 23a-260, Cra. 19 #23a-2",
+      "city": "Villavicencio",
+      "capacity": 18000,
+      "surface": "grass",
+      "image": "/venues/20648.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1465,
+      "name": "Union Magdalena",
+      "code": "UNI",
+      "country": "Colombia",
+      "founded": 1953,
+      "national": false,
+      "logo": "/teams/1465.png",
+      "keywords": "Union Magdalena, El Ciclón Bananero, Santa Marta, Estadio Sierra Nevada, Torneo Apertura, Torneo Finalización, Carlos Valderrama, Ricardo \"El Pibe\" Valderrama, Gabriel Berdugo, Ascenso 2018, Fútbol colombiano, Torcida Samaria, Samarios, Identidade costeña, Cultura caribenha, Presidentes históricos, Técnicos influentes, Rivalidade com Junior Barranquilla, Primeira División, Títulos históricos, La Perla de América, Desempenho na liga, Formação de jovens talentos, Orgulho costeño, Ídolos locais, Trajetória no futebol colombiano.",
+      "keywords_semantic": "Unión Magdalena, Ciclón Bananero, Santa Marta, rivalidade, Atlético Junior, história, fundação 1953, primeira divisão, futebol colombiano, cultura caribenha, torcida fiel, ídolo Carlos Valderrama, Estadio Sierra Nevada, identidade regional, ascensão e queda, estilo ofensivo, tradição, títulos, campeonato colombiano 1968, paixão local, orgulho samario."
+    },
+    "venue": {
+      "id": 387,
+      "name": "Estadio Sierra Nevada",
+      "address": "Calle 39, Bureche",
+      "city": "Santa Marta",
+      "capacity": 16000,
+      "surface": "grass",
+      "image": "/venues/387.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1466,
+      "name": "Barranquilla",
+      "code": "BAR",
+      "country": "Colombia",
+      "founded": 1934,
+      "national": false,
+      "logo": "/teams/1466.png",
+      "keywords": "Junior de Barranquilla, Los Tiburones, Teófilo Gutiérrez, Carlos Valderrama, Copa Colombia, Estadio Metropolitano Roberto Meléndez, curramberos, Torcida Juniorista, carnaval de Barranquilla, Char family, Alexis Mendoza, Julio Comesaña, La Chinita, Rojiblancos, identidad costeña, Liga Colombiana, Atlético Junior, Sebastián Viera, samarios, rivalidad con América de Cali, cultura caribeña, pasión costeña.",
+      "keywords_semantic": "Junior de Barranquilla, Metropolitano, Tiburones, Carnaval, costa caribenha, rivalidade com Atlético Nacional, Barranquilla FC, Copa Libertadores, torcida Los Kuervos, Teófilo Gutiérrez, Carlos Valderrama, futebol ofensivo, tradição costeña, Estádio Metropolitano Roberto Meléndez, cultura costeira."
+    },
+    "venue": {
+      "id": 366,
+      "name": "Estadio Metropolitano Roberto Meléndez",
+      "address": "Intersección de la Avenida Circunvalar con la Calle 45",
+      "city": "Barranquilla",
+      "capacity": 49612,
+      "surface": "grass",
+      "image": "/venues/366.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1467,
+      "name": "Valledupar",
+      "code": "VAL",
+      "country": "Colombia",
+      "founded": 2003,
+      "national": false,
+      "logo": "/teams/1467.png",
+      "keywords": "Valledupar FC, \"Los Caciques\", futebol colombiano, ídolos locais, Estádio Armando Maestre Pavajeau, segundo divisão colombiana, torcida apaixonada, identidade vallenata, promoção à primeira divisão, cultura musical vallenato, desenvolvimento de jovens talentos, rivalidade regional, identidade caribenha, presidente, técnico, cores verde e branco, tradição emergente, desafios financeiros, projeto comunitário.",
+      "keywords_semantic": "Valledupar, cultura vallenata, futebol colombiano, rivalidades regionais, torcedores apaixonados, identidade local, história recente, ascensão esportiva, talento jovem, formação de base, festivais culturais, ídolos locais, estilo de jogo ofensivo, desenvolvimento comunitário, apoio regional."
+    },
+    "venue": {
+      "id": 388,
+      "name": "Estadio Armando Maestre Pavajeau",
+      "address": null,
+      "city": "Valledupar",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "/venues/388.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1468,
+      "name": "Depor FC",
+      "code": null,
+      "country": "Colombia",
+      "founded": 2005,
+      "national": false,
+      "logo": "/teams/1468.png",
+      "keywords": "Depor FC, La Amenaza Verde, ídolos históricos, títulos da Série B, torcida vibrante, Valle del Cauca, identidade cultural caleña, presidente do clube, técnico influente, símbolos do clube, cidade de Cali, ascensão no futebol colombiano, cantera de talentos, rivalidades regionais, paixão pelo futebol, estádio Pascual Guerrero, cores verde e branco, desenvolvimento de jogadores, impacto social no esporte, legado esportivo.",
+      "keywords_semantic": "Colômbia, futebol colombiano, Valle del Cauca, cultura local, rivalidades regionais, ascensão, identidade de torcida, paixão, ídolos locais, Estilo de jogo, desenvolvimento de talentos, história do clube, influência na comunidade, marcos esportivos, símbolos do clube."
+    },
+    "venue": {
+      "id": 368,
+      "name": "Estadio Olímpico Pascual Guerrero",
+      "address": "Carrera 36 entre Calles 5 y 5B3",
+      "city": "Santiago de Cali",
+      "capacity": 46400,
+      "surface": "grass",
+      "image": "/venues/368.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1469,
+      "name": "Orsomarso",
+      "code": null,
+      "country": "Colombia",
+      "founded": 2016,
+      "national": false,
+      "logo": "/teams/1469.png",
+      "keywords": "Orsomarso SC, \"Los Guerreros del Valle\", Palmira, Valle del Cauca, Estadio Francisco Rivera Escobar, Torneo Águila, futebol colombiano, fundado em 2012, ídolos locais, formação de jovens talentos, projeto social, cores azul e branco, rivalidades regionais, paixão e resiliência, apoio comunitário, identidade local, desenvolvimento esportivo, liga colombiana, técnico destacado, base de torcedores, crescimento e ambição, história recente, competições nacionais.",
+      "keywords_semantic": "Palmira, Valle del Cauca, futebol colombiano, identidade jovem, clube emergente, desenvolvimento de talentos, rivalidade regional, espírito comunitário, ascensão, tradição local, apoio da torcida, La Cantera, treinamento de base, paixão local, cultura futebolística."
+    },
+    "venue": {
+      "id": 1867,
+      "name": "Estadio Francisco Rivera Escobar",
+      "address": "Carrera 35",
+      "city": "Palmira",
+      "capacity": 9000,
+      "surface": "grass",
+      "image": "/venues/1867.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1470,
+      "name": "Cucuta",
+      "code": "CUC",
+      "country": "Colombia",
+      "founded": 1949,
+      "national": false,
+      "logo": "/teams/1470.png",
+      "keywords": "Cúcuta Deportivo, Motilón, Estadio General Santander, La Banda del Indio, Clásico del Oriente, Giovanni Hernández, Copa Mustang 2006, Torneo Apertura, Afición Rojinegra, Los de la Frontera, Javier Araújo, Jorge Luis Pinto, Luis Carlos Ruiz, Ascenso a Primera División, Identidade Nortesantandereana, Presidentes Históricos, Rivalidade com o Atlético Bucaramanga, El Doblemente Glorioso, Pasión Fronteriza, Cultura Andina, Ídolos do Cúcuta.",
+      "keywords_semantic": "Cúcuta, Deportivo Cúcuta, futebol colombiano, Los Motilones, Estádio General Santander, torcida apaixonada, La Banda del Indio, clássicos regionais, rivalidade com Atlético Bucaramanga, título colombiano 2006, resiliência, fronteira Colômbia-Venezuela, cultura andina, ídolos históricos, ascensão e queda, reestruturação administrativa, estilo de jogo competitivo, tradição no futebol, identidade regional, paixões locais."
+    },
+    "venue": {
+      "id": 373,
+      "name": "Estadio General Santander",
+      "address": "Avenida 0A 3-56, Barrio Lleras Restrepo",
+      "city": "Cúcuta",
+      "capacity": 42901,
+      "surface": "grass",
+      "image": "/venues/373.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1737,
+      "name": "Colombia W",
+      "code": null,
+      "country": "Colombia",
+      "founded": 1924,
+      "national": true,
+      "logo": "/teams/1737.png",
+      "keywords": "Las Chicas Superpoderosas, Catalina Usme, Copa América Femenina, torcida apasionada, identidad cafetera, crecimiento del fútbol femenino, selección nacional, liderazgo femenino, Yoreli Rincón, Estadio Nemesio Camacho El Campín, Federación Colombiana de Fútbol, Carlos Paniagua, simbolismo tricolor, orgullo colombiano, desarrollo juvenil, talento emergente, legado deportivo, visibilidad internacional, igualdad de género en el deporte.",
+      "keywords_semantic": "futebol feminino, liga colombiana, futebol sul-americano, cultura esportiva colombiana, empoderamento feminino, rivalidades locais, seleção colombiana feminina, desenvolvimento esportivo, ídolos do futebol feminino, identidade cultural, torcida apaixonada, conquistas históricas, estilo de jogo colombiano, talentos emergentes, igualdade de gênero no esporte"
+    },
+    "venue": {
+      "id": 22725,
+      "name": "State Farm Stadium",
+      "address": "1 Cardinals Drive",
+      "city": "Glendale, Arizona",
+      "capacity": 72200,
+      "surface": "grass",
+      "image": "/venues/22725.png"
+    }
+  },
+  {
+    "team": {
+      "id": 4636,
+      "name": "Academia",
+      "code": "BOG",
+      "country": "Colombia",
+      "founded": 1998,
+      "national": false,
+      "logo": "/teams/4636.png",
+      "keywords": "Academia, Los Mandarinas, Bogotá, ídolos históricos, identidade jovem, futebol colombiano, Estadio Compensar, rivalidades locais, formação de talentos, Copa Colombia, torcida apaixonada, desenvolvimento juvenil, identidade cultural, presidente Juan Carlos Peña, treinador destacado, símbolo do crescimento, legado esportivo, projetos sociais, tradição emergente.",
+      "keywords_semantic": "Futebol colombiano, Bogotá, rivalidade Millonarios, rivalidade Santa Fe, títulos nacionais, identidade cafetera, torcida apaixonada, ídolos históricos, estilo de jogo técnico, formação de talentos, cultura futebolística, legado esportivo, símbolos culturais, tradição futebolística."
+    },
+    "venue": {
+      "id": 3493,
+      "name": "Estadio Compensar",
+      "address": null,
+      "city": null,
+      "capacity": 4500,
+      "surface": "artificial turf",
+      "image": "/venues/3493.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10188,
+      "name": "Colombia U23",
+      "code": null,
+      "country": "Colombia",
+      "founded": 1924,
+      "national": true,
+      "logo": "/teams/10188.png",
+      "keywords": "Los Cafeteros Sub-23, ídolos jovens promissores, Jogos Pan-americanos, identidade colombiana, torcida apaixonada, Carlos Queiroz, formação de talentos, estilo de jogo ofensivo, Copa América, Olimpíadas, fair play, garra e determinação, cultura cafetera, orgulho nacional, desenvolvimento de base, espírito competitivo, cores amarelas e azuis, paixão pelo futebol, tradição esportiva, futuro do futebol colombiano.",
+      "keywords_semantic": "Colômbia, Sub-23, futebol olímpico, jovens talentos, desenvolvimento de jogadores, identidade nacional, cultura futebolística, seleção de base, torcedores apaixonados, estilo de jogo técnico, futuro promissor, formação de atletas, orgulho colombiano, competições internacionais, espírito de equipe."
+    },
+    "venue": {
+      "id": 366,
+      "name": "Estadio Metropolitano Roberto Meléndez",
+      "address": "Intersección de la Avenida Circunvalar con la Calle 45",
+      "city": "Barranquilla",
+      "capacity": 49612,
+      "surface": "grass",
+      "image": "/venues/366.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10285,
+      "name": "Colombia U20",
+      "code": "COL",
+      "country": "Colombia",
+      "founded": 1924,
+      "national": true,
+      "logo": "/teams/10285.png",
+      "keywords": "Los Cafeteros, Jorge Luis Pinto, Sub-20, Copa do Mundo Sub-20, Torneio de Toulon, COTIF, Juan Fernando Quintero, James Rodríguez, identidade nacional, futuro do futebol colombiano, orgulho juvenil, talento emergente, formação de base, federação colombiana de futebol, espírito de luta, paixão futebolística, desenvolvimento de jovens, El Campín, Barranquilla, Medellín, apoio da torcida, craques em ascensão.",
+      "keywords_semantic": "futebol de base, jovens talentos, formação de atletas, seleção juvenil, Copa do Mundo Sub-20, desenvolvimento esportivo, identidade nacional, promessas do futebol, futuro do futebol colombiano, La Tricolor, orgulho nacional, estilo de jogo ofensivo, técnica e habilidade, competições internacionais, ídolos emergentes, renovação do futebol, paixão colombiana, cultura futebolística, rivalidades regionais, herança esportiva"
+    },
+    "venue": {
+      "id": 19614,
+      "name": "Estadio Raúl Miranda Yumbo",
+      "address": "Cl. 16 #3-49, Br. La Estancia",
+      "city": "Yumbo",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/19614.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11057,
+      "name": "Millonarios U20",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/11057.png",
+      "keywords": "Millonarios U20, Los Embajadores, ídolos juvenis, títulos de base, torcida azul, identidade bogotana, cantera formadora, identidade cultural colombiana, símbolos juvenis, academia Millonarios, formação de talentos, futuro do futebol colombiano, jovens promessas, estilo de jogo colombiano, formação tática, histórico de vitórias sub-20, desenvolvimento juvenil, futebol base colombiano, estrelas em ascensão, paixão azul.",
+      "keywords_semantic": "Bogotá, formação de base, jovens talentos, rivalidade Santa Fe, El Campín, história rica, La Embajadora, títulos sub-20, ídolos emergentes, estilo ofensivo, torcida apaixonada, academia de futebol, desenvolvimento juvenil, futebol colombiano, tradição formadora."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 15718,
+      "name": "Atlético Bucaramanga W",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/15718.png",
+      "keywords": "Leopardas, Atlético Bucaramanga Feminino, Estádio Alfonso López, Torcida Auriverde, Rivalidade com Atlético Nacional W, Liga Profesional Femenina, Ídolos: Leicy Santos, Títulos regionais, Presidente: Jaime Elías Quintero, Identidade santandereana, Cultura cafetera, Estilo de jogo ofensivo, Técnico: José Manuel Rodríguez, Desenvolvimento do futebol feminino colombiano, Apoio da torcida local, Base de formação de talentos, Ícones culturais de Bucaramanga, Símbolo: Leoparda, Espirito de luta, Participação em torneios internacionais.",
+      "keywords_semantic": "Atlético Bucaramanga W, Colômbia, futebol feminino, Liga Femenina, cultura esportiva, história regional, Santander, rivalidades locais, identidade das torcedoras, paixão futebolística, ídolos regionais, símbolos do clube, estilo de jogo, crescimento do futebol feminino, empoderamento esportivo, tradição esportiva, apoio comunitário."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 15719,
+      "name": "Fortaleza",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/15719.png",
+      "keywords": "Desculpe, parece haver um equívoco. O Fortaleza Esporte Clube é um time brasileiro, entretanto, vou assumir que você se refere ao Fortaleza F.C. da Colômbia. Aqui estão as keywords: Fortaleza F.C., Atezados, Estadio Metropolitano de Techo, Bogotá, segunda divisão colombiana, Juan Carlos Barona, promoção à primeira divisão, jovens talentos, rivalidades locais, identidade bogotana, formação de base, paixão dos torcedores, ascensão no futebol colombiano, desafios financeiros, forte presença local.",
+      "keywords_semantic": "Fortaleza CEIF, Bogotá, cultura local, inclusão social, rivalidade regional, La Equidad, formação de jovens, ascensão e queda, Estádio Metropolitano de Techo, torcida criativa, \"Reyes del Twitter\", identidade alternativa, estilo de jogo aguerrido, humor irreverente, marketing inovador, futebol colombiano, história recente, ídolos emergentes."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 15720,
+      "name": "Real San Andrés W",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/15720.png",
+      "keywords": "Real San Andrés W, Apelido: Las Heroínas, Ídolos: Maria Pérez, Títulos: Liga Feminina Colombiana, Torcida: fiel e crescente, Identidade Cultural: determinação e resiliência, Presidente: Juan Gómez, Técnico: Laura Martínez, Símbolo: Cavalo-marinho, Rivalidade: Independiente Santa Fe Femenino, Estádio: Estadio Erwin O'Neill, Cores: azul e branco, Desenvolvimento do futebol feminino, Contribuição para a igualdade de gênero no esporte, Participação comunitária, Formação de jovens talentos.",
+      "keywords_semantic": "Colômbia, futebol feminino, Real San Andrés, cultura costeira, rivalidades regionais, história recente, desenvolvimento esportivo, ídolos locais, torcida apaixonada, crescimento feminino, inclusão social, identidade caribenha, inovação tática, jovens talentos, orgulho regional."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 15721,
+      "name": "América de Cali W",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/15721.png",
+      "keywords": "Las Diablas, Catalina Usme, Copa Libertadores Femenina, Liga Profesional Femenina Colombiana, Estadio Pascual Guerrero, escudo vermelho, rivalidade com Deportivo Cali, apoio fervoroso, formação de base, desenvolvimento do futebol feminino na Colômbia, tradição e história, presidente Mauricio Romero, técnico Andrés Usme, ícones do futebol colombiano, identidade caleña, paixão e entrega, cultura do futebol feminino.",
+      "keywords_semantic": "América de Cali W, Colômbia, futebol feminino, Diablas Rojas, rivalidade com Deportivo Cali, títulos colombianos, Estádio Pascual Guerrero, história centenária, torcida apaixonada, La Mecha, ídolos femininos, estilo ofensivo, ressurgimento esportivo, impacto social, identidade caleña, desenvolvimento do futebol feminino."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 15722,
+      "name": "Atlético Nacional W",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/15722.png",
+      "keywords": "Verdolagas, Rey de Copas Colombiano, Atlético Nacional femenino, Estadio Atanasio Girardot, hinchada apasionada, Libertadores Femenina, Mariana Pajón, Jorge Enrique Vélez, Andrés Usme, identidad paisa, Medellín, títulos Liga Femenina, ídolos femeninos, cultura antioqueña, camiseta verde e branco, rivalidade com América de Cali, Juan Pablo Ángel.",
+      "keywords_semantic": "Atlético Nacional, Medellín, rivalidade, Independiente Medellín, títulos, Libertadores, torcida apaixonada, Rey de Copas, ídolos, verdolagas, estilo ofensivo, história gloriosa, Estadio Atanasio Girardot, formação de talentos, orgulho colombiano, símbolo de resistência, anos 80, futebol feminino, conquistas históricas, identidade cultural."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 15723,
+      "name": "Deportivo Cali W",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/15723.png",
+      "keywords": "Las Azucareras, Catalina Usme, Liga Profesional Femenina, Estadio Deportivo Cali, hinchas apasionados, identidad caleña, racha histórica, títulos nacionales, Clásico Vallecaucano, formación de talento, fútbol femenino colombiano, desarrollo juvenil, orgullo regional, rivalidad con América de Cali, íconos del club, liderazgo en la liga, tradición futbolística, impacto social, talento emergente, pasión por el fútbol.",
+      "keywords_semantic": "Deportivo Cali W, futebol feminino, Colômbia, rivalidade local, Atlético Huila, tradição esportiva, títulos nacionais, desenvolvimento juvenil, torcida apaixonada, ídolos femininos, Estádio Deportivo Cali, cultura caleña, estilo de jogo ofensivo, identidade regional, legado esportivo, pioneirismo no futebol feminino, integração social, representatividade feminina, competições internacionais, formação de talentos, orgulho caleño."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 15724,
+      "name": "Deportivo Pasto W",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/15724.png",
+      "keywords": "Volcánicos, Estadio Departamental Libertad, Nariño, futebol colombiano, ídolos locais, La Fuerza Tricolor, identidade andina, cultura pastusa, títulos Copa Colômbia, torcida fiel, Andrés Usme, desenvolvimento regional, futebol feminino, integração comunitária, rivalidade regional, apoio comunitário.",
+      "keywords_semantic": "Deportivo Pasto, Colombia, futebol colombiano, Nariño, Estádio Departamental Libertad, torcida fiel, cultura andina, rivalidade regional, clássicos colombianos, história do clube, títulos nacionais, identidade local, ídolos do clube, cores tradicionais, estilo de jogo defensivo, tradição esportiva, paixão futebolística, impacto social, futebol feminino, crescimento do esporte feminino, marco histórico, desenvolvimento local, comunidade torcedora, competitividade, ascensão no futebol."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 15725,
+      "name": "Independiente Medellín W",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/15725.png",
+      "keywords": "El Poderoso de la Montaña, Medellín, DIM, Liga Profesional Femenina, Estadio Atanasio Girardot, Torcida Roja, hinchada fiel, Clásico Paisa, títulos da Liga Feminina, identidade paisa, cultura antioqueña, Medellín Femenino, ídolos históricos, formação de base, desenvolvimento do futebol feminino colombiano, apoio à diversidade, presidente do clube, técnico atual, símbolos do clube, rivalidade com Atlético Nacional, paixão e dedicação, crescimento do futebol feminino na Colômbia.",
+      "keywords_semantic": "futebol feminino, Medellín, Colombia, rivalidades, Atlético Nacional, história, títulos, liga colombiana, identidade de torcida, paixão, ídolos, comunidade, empoderamento feminino, desenvolvimento esportivo, estilo de jogo, técnica, tradição, símbolos, cultura local, apoio familiar, perseverança, espírito competitivo, representatividade."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 15726,
+      "name": "Junior W",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/15726.png",
+      "keywords": "Tiburones Rojiblancos, Estadio Metropolitano Roberto Meléndez, Carlos 'El Pibe' Valderrama, Julio Comesaña, Copa Colombia, Torcida Los Kuervos, Barranquilla, identidade costeña, Liga Águila, Julio Avelino Comesaña, Atlético Junior de Barranquilla, Júnior de Barranquilla, Teófilo Gutiérrez, Iván Valenciano, cultura caribenha, rojiblancos, Fuad Char, Carnaval de Barranquilla, rivalidade com América de Cali, Estadio Romelio Martínez.",
+      "keywords_semantic": "Barranquilla, Caribe, Arenoso, Metropolitano, Curramba, Tiburones, rivalidades, Atlético Nacional, Millonarios, Copa Libertadores, título colombiano, torcida alegre, Carnaval, Valderrama, Teófilo Gutiérrez, estilo ofensivo, identidade costeira, música e dança, orgulho local, tradição."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 15727,
+      "name": "La Equidad W",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/15727.png",
+      "keywords": "La Equidad W, Aseguradoras, Bogotá, Liga Femenina, Estádio Metropolitano de Techo, Torneio Apertura, Torneio Clausura, Equidad Seguros, Alexis García, Títulos Nacionais, Fútbol base femenino, Torcida equitativa, Formação Tática, Desenvolvimento Juvenil, Identidade Comunitária, Valores de Seguro, Empoderamento Feminino, Rivais Regionais, Símbolo do Trevo, Sucesso no Campo e Fora dele.",
+      "keywords_semantic": "Bogotá, aseguradores, futebol feminino, Liga Femenina, compromisso social, desenvolvimento esportivo, inclusão, rivalidade, títulos nacionais, formação de base, identidade comunitária, ídolos locais, espírito de equipe, jogo coletivo, crescimento sustentável, história recente, impacto social, apoio local, estilo tático disciplinado, promessas jovens."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 15728,
+      "name": "Llaneros W",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/15728.png",
+      "keywords": "Llaneros W, Llaneros Fútbol Club, Meta, Villavicencio, Guerreras del Llano, futebol feminino colombiano, Copa Libertadores Femenina, desenvolvimento do futebol feminino, formação de base, identidade llanera, torcida fiel, Estádio Bello Horizonte, ídolos locais, crescimento esportivo na Colômbia, presidente do clube, técnico da equipe, rivalidades regionais, apoio comunitário, sucesso no futebol colombiano, símbolo cultural, tradição no futebol feminino.",
+      "keywords_semantic": "Llaneros W, futebol feminino, Colômbia, Villavicencio, identidade regional, cultura llanera, desenvolvimento esportivo, rivalidades locais, ascensão no futebol, paixão feminina, símbolo do chapéu llanero, jovens talentos, força regional, inclusão social, pioneirismo esportivo, estilo de jogo aguerrido, tradição musical, ídolos emergentes, torcida apaixonada, impacto cultural."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 15729,
+      "name": "Millonarios W",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/15729.png",
+      "keywords": "Los Embajadores, Estadio El Campín, Bogotá, Alfredo Di Stéfano, Copa Mustang, Liga BetPlay, hinchada albiazul, Clásico Capitalino, Juan Carlos Pereira, Alberto Gamero, historia gloriosa, rivalidad con Santa Fe, bandera azul y blanca, títulos nacionales, identidad bogotana, cantera talentosa, pasión embajadora.",
+      "keywords_semantic": "Millonarios, Bogotá, futebol feminino, rivalidade Santa Fe, campeãs colombianas, torcida Los Embajadores, azul e branco, ídolos, El Campín, história gloriosa, estilo ofensivo, desenvolvimento juvenil, paixão e tradição, identidade cultural, legado esportivo."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 15730,
+      "name": "Santa Fe W",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/15730.png",
+      "keywords": "Leonas, Estádio El Campín, Bogotá, Independiente Santa Fe, Copa Libertadores Femenina, Liga Femenina BetPlay, ídolos: Leicy Santos, Yoreli Rincón, Hinchas Cardenales, identidade cultural bogotana, rivalidade com Millonarios W, tradição albirroja, símbolo do leão, técnico relevante, diretoria liderada por Eduardo Méndez, paixão alvirroja, pioneirismo no futebol feminino colombiano, conquistas históricas.",
+      "keywords_semantic": "Bogotá, futebol feminino, rivalidade Millonarios, campeãs colombianas, Estádio El Campín, Leonas, tradição, apoio popular, ídolos históricos, desenvolvimento juvenil, paixão, estilo ofensivo, pioneirismo, identidade andina, legado, comunidade, orgulho."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18428,
+      "name": "Atlético Huila",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18428.png",
+      "keywords": "Atlético Huila, Opitas, Neiva, Estadio Guillermo Plazas Alcid, Iván \"Cholo\" Valderrama, Torneo Águila, Copa Colombia, Janio Paredes, camiseta verde e amarela, torcida fervorosa, identidade cultural huilense, mascote indio opita, rivalidade com Deportes Tolima, futebol colombiano, ressurgimento na primeira divisão, desenvolvimento de talentos jovens, técnico Néstor Craviotto, presidente Jorge Fernando Perdomo, compromisso comunitário, tradição regional, história desde 1990.",
+      "keywords_semantic": "Atlético Huila, Neiva, opitas, cultura cafetera, Copa Colombia, rivalidade Tolima, Estádio Guillermo Plazas Alcid, torcida fiel, ídolo Jorge Vidal, ascensão e queda, futebol colombiano, identidade regional, paixão local, cores verde e amarelo, estilo aguerrido, história resiliente."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18429,
+      "name": "Cortuluá W",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18429.png",
+      "keywords": "Corazón del Valle, Jenny Lizeth Gutiérrez, Estadio Doce de Octubre, Liga Profesional Femenina, formación de talentos, hinchada apasionada, Valle del Cauca, club emergente, crecimiento deportivo, identidad regional, Carlos Valencia (Presidente), proyecto femenino, rivalidad regional, desarrollo juvenil, comunidad cortulueña.",
+      "keywords_semantic": "Cortuluá, futebol feminino, Colômbia, liga colombiana, Valle del Cauca, desenvolvimento jovem, identidade local, inclusão social, rivalidade regional, paixão pela comunidade, apoio da torcida, ídolos locais, crescimento esportivo, história emergente, talento colombiano."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18430,
+      "name": "Deportes Tolima W",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18430.png",
+      "keywords": "Pijaos, Gabriel Camargo, Hernán Torres, Copa Libertadores Femenina, Estadio Manuel Murillo Toro, Vinotinto y Oro, Goleadoras históricas, Torcida fiel, Identidade tolimense, Cataratas de Bosques de Berlín, Desenvolvimento do futebol feminino na Colômbia, Riqueza cultural musical, Orgulho regional, Ícones do futebol feminino colombiano, Estrategistas táticos.",
+      "keywords_semantic": "Deportes Tolima, Colômbia, Ibagué, Vinotinto y Oro, rivalidade, Atlético Huila, títulos nacionais, Copa Libertadores, identidade regional, torcida fiel, Gabriel Camargo, estilo defensivo, formação de talentos, história rica, ídolos locais, cultura cafetera, estádio Manuel Murillo Toro, tradição, desenvolvimento juvenil."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18431,
+      "name": "Deportivo Pereira W",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18431.png",
+      "keywords": "Matecañas, Hernán Lisi, Copa Colombia 2022, Estadio Hernán Ramírez Villegas, torcedores fervorosos, identidade cafetera, risaraldenses, ascensão no futebol colombiano, Adrián Arregui, história rica, La Furia Matecaña, ídolos locais, cultura paisa, paixão pelo futebol.",
+      "keywords_semantic": "Deportivo Pereira, Colombia, Matecaña, Estádio Hernán Ramírez Villegas, torcida apaixonada, cultura cafetera, rivalidade Once Caldas, história de superação, Ídolo Carlos Castro, primeira divisão, estilo ofensivo, Copa Libertadores, identidade regional, ressurgimento recente, tradição e luta, apoio local."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18432,
+      "name": "Orsomarso W",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18432.png",
+      "keywords": "Orsomarso SC, \"Los Guerreros de Palmira\", Estadio Francisco Rivera Escobar, Valle del Cauca, Segunda División Colombiana, ídolos locais, desenvolvimento de jovens talentos, futebol feminino, paixão da torcida, identidade cultural colombiana, cores azul e branco, rivalidades regionais, Copa Colombia, projetos sociais, presidente Orsomarso SC, técnico atual, símbolo do clube, apoio da comunidade, futebol de base.",
+      "keywords_semantic": "Orsomarso, Palmira, Valle del Cauca, futebol feminino, cultura esportiva, crescimento feminino, desenvolvimento juvenil, Liga Colombiana, identidade local, inclusão social, rivalidades regionais, empoderamento feminino, torcedoras apaixonadas, talento emergente, formação de atletas, integração comunitária, tradição esportiva, ícones locais, espírito competitivo, jogo ofensivo, reputação ascendente."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18981,
+      "name": "Colombia U19",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18981.png",
+      "keywords": "Los Cafeteros, Sub-19 Colombia, promessas do futebol colombiano, cantera colombiana, talentos emergentes, ídolos em formação, Juan Carlos Ramírez (técnico), Carlos Valderrama (ídolo histórico), apoio fervoroso, identidade caribenha, estilo de jogo técnico, paixão latino-americana, desenvolvimento juvenil, Copa Internacional Juvenil, Federação Colombiana de Futebol, progressão para a seleção principal, orgulho nacional, espírito competitivo, formação de base, futebol sul-americano, legado de estrelas.",
+      "keywords_semantic": "futebol juvenil, desenvolvimento de talentos, seleção sub-19, identidade colombiana, cultura futebolística, formação de jogadores, orgulho nacional, base do futebol, categorias de base, competição internacional, jovens promessas, espírito competitivo, Copa América juvenil, ídolos emergentes, estilo de jogo ofensivo, tática disciplinada, infraestrutura esportiva, apoio da torcida, rivalidades regionais, futuro do futebol colombiano"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19081,
+      "name": "Colombia U20 W",
+      "code": null,
+      "country": "Colombia",
+      "founded": 1924,
+      "national": true,
+      "logo": "/teams/19081.png",
+      "keywords": "Colombia U20 W, Las Cafeteras, Catalina Usme, Copa Mundial Sub-20, Torneio Sul-Americano Sub-20, torcida colombiana, paixão pelo futebol, desenvolvimento juvenil, Carlos Paniagua, talento feminino, espírito competitivo, crescimento do futebol feminino, identidade cafetera, futebol de base, perseverança e resiliência.",
+      "keywords_semantic": "futebol feminino, seleção sub-20, desenvolvimento juvenil, talento emergente, Copa do Mundo Feminina Sub-20, orgulho nacional, identidade colombiana, paixão futebolística, empoderamento feminino, futuras estrelas, cultura futebolística, treinamento de base, espírito competitivo, legado esportivo, apoio da torcida, ícones do futebol feminino, evolução tática, técnica e habilidade, sonhos olímpicos, igualdade de gênero no esporte"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20527,
+      "name": "Colombia U17",
+      "code": null,
+      "country": "Colombia",
+      "founded": 1924,
+      "national": true,
+      "logo": "/teams/20527.png",
+      "keywords": "Los Cafeteros, jovens talentos colombianos, formação de base, Juan Camilo Pérez, promessa sul-americana, Copa Mundial Sub-17, seleção juvenil, identidade cafetera, desenvolvimento futebolístico, orgulho nacional, suporte da torcida colombiana, futuro do futebol colombiano, progressão técnica, espírito competitivo, plataforma de lançamento.",
+      "keywords_semantic": "Colômbia, futebol juvenil, formação de talentos, futuro do futebol, desenvolvimento de jogadores, identidade nacional, garra, paixão, técnica, seleções de base, competição internacional, Copa do Mundo Sub-17, promessas, estilo de jogo ofensivo, rivalidade continental, ídolos em ascensão, representatividade, orgulho nacional."
+    },
+    "venue": {
+      "id": 388,
+      "name": "Estadio Armando Maestre Pavajeau",
+      "address": "Intersección de la Avenida Circunvalar con la Calle 45",
+      "city": "Valledupar",
+      "capacity": 11500,
+      "surface": "grass",
+      "image": "/venues/388.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20878,
+      "name": "Boyacá Chicó",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/20878.png",
+      "keywords": "Boyacá Chicó, Ajedrezado, Tunja, Estadio La Independencia, Eduardo Pimentel, Jhon Jairo Gómez, título colombiano 2008, Copa Libertadores, Juan Alejandro Mahecha, apoio regional, torcida apaixonada, cultura boyacense, formação de talentos, identidade local, rivalidade regional, símbolo do cavalo.",
+      "keywords_semantic": "Tunja, Independencia, ascensão, Liga Águila, La Equidad, rivalidade regional, futebol colombiano, crescimento, identidade local, hinchada, apoio comunitário, Ramiro Córdoba, estilo defensivo, formação tática, resiliência, promessas jovens, espírito de luta, cultura andina, tradição emergente, conquistas históricas."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22099,
+      "name": "Real Soacha",
+      "code": null,
+      "country": "Colombia",
+      "founded": 2023,
+      "national": false,
+      "logo": "/teams/22099.png",
+      "keywords": "Real Soacha, \"Los Guerreros del Sur\", Estádio Luis Carlos Galán Sarmiento, Carlos Alberto Londoño (técnico), Iván López (ídolo), cultura andina, comunidade soachuna, torcedores apaixonados, rivalidade local, futebol colombiano, desenvolvimento de jovens talentos, impacto social, apoio comunitário, ascensão no futebol colombiano, espírito guerreiro, identidade cultural, paixão pelo esporte, \"Los Azules\", projetos sociais, base sólida.",
+      "keywords_semantic": "Real Soacha, Colômbia, futebol colombiano, Cundinamarca, identidade local, torcida apaixonada, cultura futebolística, rivalidades regionais, desenvolvimento juvenil, ascensão no futebol, ídolos locais, espírito comunitário, estilo ofensivo, história recente, tradição emergente, liga colombiana, apoio local, símbolos regionais, paixão esportiva."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22939,
+      "name": "Cúcuta Deportivo",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/22939.png",
+      "keywords": "Cúcuta Deportivo, La Furia Motilona, Estadio General Santander, fronteira colombo-venezuelana, Silvano Espíndola, título colombiano 2006, Clássico dos Andes, Los Doblemente Gloriosos, Jorge Luis Pinto, torcida Los Motilones, cores vermelho e preto, identidade nortista, ressurgimento após crise financeira, presidente José Augusto Cadena, rivalidad com Atlético Bucaramanga, ídolo Macnelly Torres, história de superação, cultura futebolística da fronteira.",
+      "keywords_semantic": "Cúcuta Deportivo, Colômbia, Estádio General Santander, torcida fiel, Fronteira Venezuela, Liga Colombiana, ascensão e queda, clássico do Oriente, rivalidade Atlético Bucaramanga, tradição futebolística, glórias passadas, 2006 título, ídolos locais, paixão popular, resiliência esportiva, identidade fronteiriça, história rica, estilo ofensivo, desafios financeiros, apoio comunitário."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22940,
+      "name": "Internacional Palmira",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/22940.png",
+      "keywords": "Inter de Palmira, \"Los Palmeros\", Estádio Francisco Rivera Escobar, Torneo Águila, Copa Colombia, \"La Furia Roja\", Juan Carlos Ramírez (presidente), Jorge Luis Bernal (técnico), cantera de talentos, identidade vallecaucana, tradição de formação, rivalidade regional, apoio fervoroso da torcida, influências culturais caleñas, participação em torneios nacionais, crescimento e desenvolvimento sustentável, história e legado no futebol colombiano.",
+      "keywords_semantic": "Internacional Palmira, futebol colombiano, Valle del Cauca, rivalidades locais, cultura futebolística, identidade de torcida, paixão regional, história do clube, desenvolvimento de talentos, impacto social, competições nacionais, ídolos do passado, símbolos do clube, estilo de jogo, comunidade local."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22941,
+      "name": "Alianza W",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/22941.png",
+      "keywords": "Alianza Petrolera, Los Aurinegros, Barrancabermeja, Estádio Daniel Villa Zapata, Hinchada Aurinegra, Ligas Águila, Juan Cruz Real, Jorge Luis Pinto, Fútbol Profesional Colombiano, Identidade Petroleira, Orgulho Barranqueño, Rivalidade com Atlético Bucaramanga, Copa Colombia, Formação de talentos, Desenvolvimento regional, Cultura costeira, Tradição de luta, Crescimento constante, Espírito comunitário.",
+      "keywords_semantic": "Alianza Petrolera, Barrancabermeja, futebol colombiano, rivalidade Atlético Bucaramanga, petrolífera, guerreiros do petróleo, Estádio Daniel Villa Zapata, ascensão à primeira divisão, identidade local, torcedores leais, camisa amarela e preta, desenvolvimento de talentos, estilo defensivo, perseverança, história recente."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23326,
+      "name": "Internacional Palmira",
+      "code": null,
+      "country": "Colombia",
+      "founded": 2024,
+      "national": false,
+      "logo": "/teams/23326.png",
+      "keywords": "Los Pijaos, paixão vermelha e branca, Estádio Manuel Murillo Toro, Liga BetPlay Dimayor, torcida fervorosa, tradição cafetera, espírito guerreiro, idolatria a Elkin Murillo, rivalidade com Deportes Tolima, identidade andina, formação de talentos, cultura futebolística colombiana, desenvolvimento juvenil, história gloriosa, títulos regionais, Hugo Castaño, técnico inspirador, legado esportivo, amor pelo futebol, comunidade unida.",
+      "keywords_semantic": "Internacional Palmira, Valle del Cauca, rivalidades regionais, futebol colombiano, identidade local, torcedores apaixonados, desenvolvimento juvenil, liga colombiana, cultura futebolística, tradição esportiva, ídolos locais, símbolos regionais, história do clube, estilo de jogo ofensivo, conquistas regionais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23377,
+      "name": "Colombia U17 W",
+      "code": null,
+      "country": "Colombia",
+      "founded": 1924,
+      "national": true,
+      "logo": "/teams/23377.png",
+      "keywords": "Las Cafeteras, ídolos juvenis, desenvolvimento de jovens talentos, spiritu colombiano, identidade cultural, FIFA U-17 Women's World Cup, formação de base, apoio da torcida, paixão pelo futebol, crescimento do futebol feminino, Equipe técnica, talento emergente, orgulho nacional, formação de atletas, futuro do futebol colombiano.",
+      "keywords_semantic": "futebol feminino, desenvolvimento juvenil, seleção sub-17, diversidade cultural, talento emergente, identidade nacional, formação de atletas, competições internacionais, orgulho colombiano, Copa do Mundo Sub-17, inspiração para meninas, rivalidade sul-americana, FIFA, progresso esportivo, ícones femininos, empoderamento feminino, futuro do futebol, paixão colombiana, estilo de jogo vibrante, técnica e habilidade, jovens promessas, trajetória ascendente, federação colombiana, orgulho nacional."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25697,
+      "name": "Fortaleza CEIF U20",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/25697.png",
+      "keywords": "Fortaleza CEIF U20, Fortaleza Fútbol Club, Los Atezados, ídolos juvenis, Copa Libertadores Sub-20, formação de talentos, identidade jovem, Estadio Municipal de Cota, torcedores apaixonados, desenvolvimento de base, Andrés Orozco, futebol colombiano, integração comunitária, projeto social, crescimento esportivo, cores azul e branco, La Fortaleza Azulgrana, cultura futebolística, formação de atletas, futuro promissor.",
+      "keywords_semantic": "Fortaleza CEIF, clube formador, futebol base, Bogotá, desenvolvimento juvenil, talentos emergentes, identidade local, espírito comunitário, ascensão, perseverança, inovação, estilo ofensivo, academia de futebol, competições juvenis, Copa Colômbia Sub-20, liga juvenil, rivalidades locais, jovens promessas, crescimento esportivo, treinamento técnico, dedicação."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25713,
+      "name": "Once Caldas W",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/25713.png",
+      "keywords": "Los Albos, Libertadores 2004, Manizales, Estadio Palogrande, Juan Carlos Henao, técnico Pedro Sarmiento, torcida Blanca, Superliga Colombiana, ídolos históricos, identidade cafetera, presidente Rafael Castañeda, Copa Colombia, rivalidade com Deportivo Cali.",
+      "keywords_semantic": "Manizales, Libertadores 2004, Blanco-Blanco, hinchada fiel, Estadio Palogrande, rivalidade com Deportes Tolima, cultura cafetera, ídolos históricos, espírito de superação, futebol colombiano, tradição andina, glória continental, equipe resiliente, estilo defensivo, identidade regional."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26097,
+      "name": "Leones FC",
+      "code": null,
+      "country": "Colombia",
+      "founded": 1957,
+      "national": false,
+      "logo": "/teams/26097.png",
+      "keywords": "Leones FC, Antioquia, El Felino, La Manada, Estadio Metropolitano de Itagüí, segunda divisão colombiana, ascenso 2017, cantera de talentos, formación de jóvenes, identidad paisa, Carlos Mario Hoyos, José Manuel Barrera, amarillo y negro, fútbol formativo, espíritu de lucha, hinchada fiel, rivalidade local, Itagüí, cultura cafetera, desenvolvimento esportivo, visão comunitária, valores juvenis, técnicos emergentes, tradição de base.",
+      "keywords_semantic": "Cultura de Medellín, valores comunitários, ascensão e desenvolvimento, rivalidades locais, liga colombiana, paixão dos torcedores, jovens talentos, identidade jovem, formação de atletas, estilo de jogo ofensivo, perseverança e resiliência, tradição emergente, cores vibrantes, símbolo do leão."
+    },
+    "venue": {
+      "id": 21806,
+      "name": "Estadio Metropolitano de Itagüí",
+      "address": null,
+      "city": "Itagüí",
+      "capacity": 12000,
+      "surface": "grass",
+      "image": "/venues/21806.png"
+    }
+  },
+  {
+    "team": {
+      "id": 26893,
+      "name": "Real Santander W",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26893.png",
+      "keywords": "Real Santander W, Las Reales, futebol feminino colombiano, ídolos, títulos nacionais, torcida apaixonada, identidade cultural, tradição esportiva, desenvolvimento do futebol feminino, campeonatos colombianos, presidente do clube, técnico atual, cores do clube, símbolos, crescimento do futebol na Colômbia, impacto social, apoio local, rivalidades regionais, jogadores notáveis, história do clube.",
+      "keywords_semantic": "Colômbia, futebol feminino, Real Santander W, futebol colombiano, empoderamento feminino, Barrancabermeja, liga colombiana feminina, identidade regional, desenvolvimento esportivo, paixão pela torcida, crescimento do futebol feminino, ídolos locais, cultura esportiva, equipe emergente, rivalidades locais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 27348,
+      "name": "Team Colombia",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/27348.png",
+      "keywords": "Team Colombia, Los Cafeteros, Carlos Valderrama, Copa América, James Rodríguez, torcida apaixonada, identidade nacional, bandeira tricolor, futebol ofensivo, Falcao García, Estádio Metropolitano, José Pekerman, René Higuita, cultura cafetera, Juan Cuadrado.",
+      "keywords_semantic": "Atlético Nacional, Millonarios, Independiente Santa Fe, rivalidade, clássico, Copa Libertadores, paixão, torcida, ídolos, El Dorado, estilo de jogo ofensivo, garra, tradição, identidade cultural, bandeira tricolor, Estádio Atanasio Girardot, Medellín, Bogotá, história rica, conquistas internacionais, futebol colombiano."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 27411,
+      "name": "Ind. Yumbo",
+      "code": null,
+      "country": "Colombia",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/27411.png",
+      "keywords": "Ind. Yumbo, Los Azucareros, Torcida Pasión Verde, Estádio Municipal de Yumbo, Ídolo: Miguel Ángel Guerrero, Campeões Liga Departamental Valle del Cauca, Tradição de base, Rivalidade com Deportivo Cali, Presidente: Juan Carlos Rodríguez, Técnico: Carlos Pardo, Identidade cultural: Culinária Vallecaucana, Símbolo: Cana-de-açúcar, Formação jovem talentos, Fiel torcida, Legado futebolístico, Desenvolvimento comunitário.",
+      "keywords_semantic": "Independiente Yumbo, futebol colombiano, Valle del Cauca, comunidade local, rivalidade regional, desenvolvimento juvenil, tradição, paixão, torcida vibrante, identidade local, ídolos locais, estilo de jogo aguerrido, ascensão, competições regionais, história modesta, orgulho comunitário, cores do clube, estádio local, impacto social, apoio comunitário."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

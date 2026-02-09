@@ -1,0 +1,197 @@
+[
+  {
+    "league": {
+      "id": 842,
+      "name": "Super Copa",
+      "type": "Cup",
+      "logo": "/logos/842.png",
+      "keywords": "Super Copa Uruguaya, Nacional, Peñarol, \"El Decano\", \"El Carbonero\", Estadio Centenario, Montevidéu, Clássico do futebol uruguaio, Tradição futebolística, Rivais históricos, \"Celeste\", Copa Libertadores, Campeonato Uruguaio, Formato de decisão única, Temporada de abertura, Suárez, Forlán, Francescoli, Fútbol charrúa, Prestígio nacional, Confronto de campeões, Torneio de abertura, Estrela Solitária, \"Los Bolsos\", \"Manya\", Duelo de gigantes, Paixão uruguaia.",
+      "keywords_semantic": "Uruguai, Supercopa Uruguaia, futebol uruguaio, importância cultural, campeões nacionais, Peñarol, Nacional, rivalidade histórica, competição anual, formato eliminatório, prestígio nacional, CONMEBOL, momentos decisivos, troféu, abertura de temporada, clubes icônicos, tradições futebolísticas, influência sul-americana."
+    },
+    "country": {
+      "name": "Uruguay",
+      "code": "UY",
+      "flag": "https://media.api-sports.io/flags/uy.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-01-30",
+        "end": "2022-01-30",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": false,
+          "top_scorers": false,
+          "top_assists": false,
+          "top_cards": false,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 268,
+      "name": "Primera División - Apertura",
+      "type": "League",
+      "logo": "/logos/268.png",
+      "keywords": "Peñarol, Nacional, Clássico do Futebol Uruguaio, Centenário, Decano, Tricolor, Carbonero, Montevideo, La Garra Charrúa, Charrúas, Luis Suárez, Enzo Francescoli, Diego Forlán, Obdulio Varela, Estádio Centenário, Apertura, Clausura, Torneio Intermedio, formato de dois turnos, Liguilla, garra e paixão, raízes do futebol sul-americano, rivalidade histórica, Copa Libertadores, formação de talentos, futebol de base, tradição celeste, campeões uruguaios.",
+      "keywords_semantic": "Campeonato Uruguaio, Club Nacional de Football, Club Atlético Peñarol, clássico uruguaio, Estádio Centenário, rivalidade histórica, formato Apertura, tradição futebolística, campeões uruguaios, futebol sul-americano, prestígio regional, talentos emergentes, impacto cultural, história centenária, torneio semestral, destaque internacional, desenvolvimento de jogadores, paixão local, clubes históricos, momentos icônicos."
+    },
+    "country": {
+      "name": "Uruguay",
+      "code": "UY",
+      "flag": "https://media.api-sports.io/flags/uy.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-02-05",
+        "end": "2022-07-23",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": false
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 269,
+      "name": "Segunda División",
+      "type": "League",
+      "logo": "/logos/269.png",
+      "keywords": "Celeste, Charrúas, Montevideo, Nacional B, el Ascenso, Peñarol, Nacional, Defensor Sporting, Danubio, Rampla Juniors, Racing Club, Bella Vista, Progreso, Central Español, ascenso y descenso, temporada regular, playoffs, ida y vuelta, Carlos \"Pato\" Aguilera, Ruben Sosa, Estadio Centenario, hinchas apasionados, rivalidades clásicas, tradición futbolística, cantera de talentos, 16 equipes, promessas do futebol uruguaio, história rica, formação de jogadores, Copa Libertadores, identidade cultural.",
+      "keywords_semantic": "Segunda División Uruguaya, ascenso, clubes tradicionais, desenvolvimento jovem, Nacional B, Montevideo, Defensor Sporting, Danubio, história do futebol uruguaio, formato de competição, promoção, rebaixamento, rivalidades locais, cultura futebolística, contexto sul-americano, talentos emergentes, prestígio nacional, torcida apaixonada, contexto histórico, times representativos."
+    },
+    "country": {
+      "name": "Uruguay",
+      "code": "UY",
+      "flag": "https://media.api-sports.io/flags/uy.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-03-19",
+        "end": "2022-10-23",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 930,
+      "name": "Copa Uruguay",
+      "type": "Cup",
+      "logo": "/logos/930.png",
+      "keywords": "La Celeste, Nacional, Peñarol, Defensor Sporting, Estadio Centenario, Montevideo, clásico, Luis Suárez, Diego Forlán, Enzo Francescoli, formato mata-mata, clubes do interior, garra charrúa, futebol uruguaio, tradição, rivalidade, Copa AUF, desenvolvimento local, jovens talentos, futebol de base, paixão nacional.",
+      "keywords_semantic": "Copa Uruguay, futebol uruguaio, torneio nacional, clubes uruguaios, importância cultural, competição histórica, prestígio nacional, formato eliminatório, Club Nacional, Club Peñarol, rivalidade clássica, desenvolvimento local, revelação de talentos, integração regional, tradição esportiva, impacto social."
+    },
+    "country": {
+      "name": "Uruguay",
+      "code": "UY",
+      "flag": "https://media.api-sports.io/flags/uy.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-06-22",
+        "end": "2022-11-13",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": false,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": false,
+          "top_scorers": false,
+          "top_assists": false,
+          "top_cards": false,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 270,
+      "name": "Primera División - Clausura",
+      "type": "League",
+      "logo": "/logos/270.png",
+      "keywords": "Peñarol, Nacional, Clásico do futebol uruguaio, Estádio Centenario, Apertura e Clausura, Decano, Tricolor, Carbonero, Celeste, Copa Libertadores, Campeão Uruguaio, AUF (Asociación Uruguaya de Fútbol), Diego Forlán, Enzo Francescoli, Alcides Ghiggia, Copa do Mundo de 1950, La Celeste Olímpica, rivalidade histórica, formato de todos contra todos, liguilla pré-Libertadores, paixão nacional, Montevideo, jovens talentos.",
+      "keywords_semantic": "Campeonato Uruguaio, Peñarol, Nacional, clássico uruguaio, futebol sul-americano, formato Apertura-Clausura, rivalidade histórica, Montevidéu, Copa Libertadores, Estádio Centenario, tradição futebolística, títulos nacionais, futebol de garra, torcidas apaixonadas, desenvolvimento de jovens talentos, impacto cultural, prestígio local, década de 1930, rivalidade clássica, cenário futebolístico sul-americano."
+    },
+    "country": {
+      "name": "Uruguay",
+      "code": "UY",
+      "flag": "https://media.api-sports.io/flags/uy.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-07-30",
+        "end": "2022-10-30",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": false
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  }
+]

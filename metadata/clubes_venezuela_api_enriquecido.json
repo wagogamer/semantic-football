@@ -1,0 +1,2092 @@
+[
+  {
+    "team": {
+      "id": 2379,
+      "name": "Venezuela",
+      "code": "VEN",
+      "country": "Venezuela",
+      "founded": 1926,
+      "national": true,
+      "logo": "/teams/2379.png",
+      "keywords": "La Vinotinto, Salomón Rondón, Juan Arango, Rafael Dudamel, Copa América, Estádio Olímpico de la UCV, paixão venezuelana, futebol venezuelano, orgulho nacional, Richard Páez, artilheiros históricos, desenvolvimento do futebol, torcida venezuelana, jovens talentos, identidade vinotinto.",
+      "keywords_semantic": "Vinotinto, identidade nacional, paixão venezuelana, La Vinotinto, orgulho bolivariano, Estádio Olímpico de la UCV, futebol emergente, Copa América, Rafael Dudamel, Tomás Rincón, Salomón Rondón, rivalidade com Colômbia, desenvolvimento juvenil, torcida vibrante, crescimento esportivo, história recente, desafios econômicos, cultura caribenha, estilo resiliente, espírito de superação."
+    },
+    "venue": {
+      "id": 1660,
+      "name": "Estadio Monumental de Maturín",
+      "address": "Avenida Raúl Leoni",
+      "city": "Maturín",
+      "capacity": 51796,
+      "surface": "grass",
+      "image": "/venues/1660.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2805,
+      "name": "Zulia FC",
+      "code": "ZUL",
+      "country": "Venezuela",
+      "founded": 2005,
+      "national": false,
+      "logo": "/teams/2805.png",
+      "keywords": "Zulia FC, Petroleros, Maracaibo, Estádio Pachencho Romero, Lago de Maracaibo, La Chinita, Copa Venezuela, Vinotinto, Juan Arango, Yohandry Orozco, Torneo Clausura 2016, Torcida Zuliana, Coração Zuliano, Identidade Maracaibera, César Farías, Ídolos Locais, Cultura Venezolana, Tradição Petrolífera, Uniforme Azul e Preto, Rivalidade Regional, Desenvolvimento de Talentos, Apoio Popular, História Recente, Expansão Futebolística, Paixão Futebolística Venezuelana.",
+      "keywords_semantic": "Zulia FC, Venezuela, Maracaibo, Petrolero, Lake Maracaibo, Estádio José Encarnación Pachencho Romero, rivalidade regional, futebol venezuelano, Copa Venezuela, Torcida Zuliana, Ídolos locais, Azul e Preto, Identidade cultural, Estilo ofensivo, Desenvolvimento de talentos, História recente, Ascensão rápida, Participação internacional, Copa Sul-Americana, Tradição jovem."
+    },
+    "venue": {
+      "id": 1665,
+      "name": "Estadio Olímpico José Encarnación Pachencho Romero",
+      "address": "Circunvalación No. 2, Sector Grano de Oro",
+      "city": "Maracaibo",
+      "capacity": 32472,
+      "surface": "grass",
+      "image": "/venues/1665.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2806,
+      "name": "Zamora FC",
+      "code": "ZAM",
+      "country": "Venezuela",
+      "founded": 1977,
+      "national": false,
+      "logo": "/teams/2806.png",
+      "keywords": "Zamora FC, Blanquinegros, Barinas, La Furia Llanera, Estádio Agustín Tovar, Noel Sanvicente, Títulos Liga FUTVE, Torcedores Zamoranos, Identidade Llanera, Juan Falcón, Pedro Ramírez, Edwin Sierra, Formação de Jovens Talentos, Conmebol Libertadores, Conmebol Sudamericana, Tradição no Futebol Venezuelano.",
+      "keywords_semantic": "Zamora FC, Venezuela, Barinas, futebol venezuelano, La Furia Llanera, títulos nacionais, Liga FUTVE, Estádio Agustín Tovar, torcida apaixonada, identidade regional, ascensão recente, formação de jovens talentos, rivalidade regional, estilo ofensivo, jogadores destacados, conquistas históricas, cultura llanera, desenvolvimento esportivo, impacto social, tradição futebolística."
+    },
+    "venue": {
+      "id": 1664,
+      "name": "Estadio Rafael Agustín Tovar",
+      "address": "Avenida Cruz Paredes / Avenida Andres Varela, La Carolina",
+      "city": "Barinas",
+      "capacity": 29800,
+      "surface": "grass",
+      "image": "/venues/1664.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2807,
+      "name": "Deportivo Tachira FC",
+      "code": "TAC",
+      "country": "Venezuela",
+      "founded": 1974,
+      "national": false,
+      "logo": "/teams/2807.png",
+      "keywords": "Aurinegros, Estádio Pueblo Nuevo, San Cristóbal, Clásico Andino, Edwin \"El General\" Sánchez, César \"Maestrico\" González, Jorge Silva, Copa Venezuela, Liga FUTVE, Torcida Aurinegra, Identidade Andina, Rivalidade com Caracas FC, Daniel Farías, Títulos Nacionais, Tradição Vencedora, Jorge Luis Pinto, Espírito Guerreiro, Presidente Jorge Silva.",
+      "keywords_semantic": "San Cristóbal, aurinegros, clássico andino, Estadio Pueblo Nuevo, torcida fiel, rivalidade Caracas, títulos nacionais, futebol venezuelano, ídolos históricos, tradição andina, Libertadores, identidade regional, paixão fervorosa, estilo ofensivo, história rica."
+    },
+    "venue": {
+      "id": 1649,
+      "name": "Estadio Polideportivo de Pueblo Nuevo",
+      "address": "Avenida España",
+      "city": "San Cristóbal",
+      "capacity": 40000,
+      "surface": "grass",
+      "image": "/venues/1649.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2808,
+      "name": "Caracas FC",
+      "code": "CAR",
+      "country": "Venezuela",
+      "founded": 1967,
+      "national": false,
+      "logo": "/teams/2808.png",
+      "keywords": "Los Rojos del Ávila, Estadio Olímpico de la UCV, torcida Los Demonios Rojos, Noel Sanvicente, campeão venezuelano, rivalidade com Deportivo Táchira, ídolo Edder Farías, identidade caraquenha, academia de jovens talentos, identidade vermelha e preta, Copa Libertadores, crescimento futebolístico venezuelano, símbolo leão, tradição no futebol local, Jorge \"Zurdo\" Rojas, história de superação, Carlos Maldonado, cultura futebolística venezuelana.",
+      "keywords_semantic": "Caracas FC, Venezuela, futebol venezuelano, Estádio Olímpico de la UCV, rivalidade Caracas-Magallanes, Derbi Capitalino, títulos nacionais, Torneo Clausura, Torneo Apertura, Libertadores, torcida Los Demonios Rojos, identidade vermelha, Noel Sanvicente, ídolos históricos, futebol defensivo, desenvolvimento de jovens talentos, orgulho caraqueño, hegemonia local, cultura urbana, paixão venezuelana."
+    },
+    "venue": {
+      "id": 1653,
+      "name": "Estadio Olímpico de la UCV",
+      "address": "Avenida Los Mangos, Los Chaguaramos",
+      "city": "Caracas",
+      "capacity": 23940,
+      "surface": "grass",
+      "image": "/venues/1653.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2809,
+      "name": "Atletico Venezuela",
+      "code": "VEN",
+      "country": "Venezuela",
+      "founded": 2009,
+      "national": false,
+      "logo": "/teams/2809.png",
+      "keywords": "Atletico Venezuela, Los Nacionales, primeira divisão venezuelana, Academia de Fútbol, Estádio Brígido Iriarte, identidade jovem, rivalidade local, desenvolvimento de talentos, projeto comunitário, base sólida, liga venezuelana, futebol emergente, formação de atletas, espírito competitivo, torcida vibrante, ídolos em ascensão, cultura venezuelana, crescimento esportivo, identidade forte, apoio local, Alianza Nacional, paixão pelo futebol, inovação esportiva, projeto social, visão a longo prazo, integração comunitária.",
+      "keywords_semantic": "Atletico Venezuela, Caracas, futebol venezuelano, cultura esportiva, rivalidades locais, desenvolvimento jovem, identidade torcedora, torcida apaixonada, La Vinotinto, estádio Brígido Iriarte, crescimento esportivo, ídolos emergentes, ambição competitiva, história recente, talento local, campeonato venezuelano, liga FUTVE, estratégia de jogo, comunidade local, impacto social."
+    },
+    "venue": {
+      "id": 1653,
+      "name": "Estadio Olímpico de la UCV",
+      "address": "Avenida Los Mangos, Los Chaguaramos",
+      "city": "Caracas",
+      "capacity": 23940,
+      "surface": "grass",
+      "image": "/venues/1653.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2810,
+      "name": "Carabobo FC",
+      "code": "CAR",
+      "country": "Venezuela",
+      "founded": 1997,
+      "national": false,
+      "logo": "/teams/2810.png",
+      "keywords": "Granate, Polideportivo Misael Delgado, Torneo Apertura, Torneo Clausura, Giovanni Pérez, Juan Domingo Tolisano, La Vinotinto, Estadio Monumental de Maturín, Copa Venezuela, Caciques, Carlos Maldonado, Yanosky Reyes, fervor torcedor, identidade valenciana, cantera promissora, batalha dos clássicos venezuelanos, estratégia defensiva, futebol emergente, orgulho regional, futebol de ataque, apoio incondicional, tradição e renovação.",
+      "keywords_semantic": "Carabobo FC, Venezuela, Granate, Toros Negriazules, Estádio Misael Delgado, futebol venezuelano, identidade regional, rivalidades locais, torcida apaixonada, história recente, desenvolvimento de jovens talentos, ascensão na liga, Copa Venezuela, competição nacional, estilo defensivo, dedicação comunitária, tradição emergente."
+    },
+    "venue": {
+      "id": 1654,
+      "name": "Estadio Polideportivo Misael Delgado",
+      "address": "Avenida Bolívar Norte, Urbanización la Alegría",
+      "city": "Valencia",
+      "capacity": 12000,
+      "surface": "grass",
+      "image": "/venues/1654.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2811,
+      "name": "Monagas SC",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 1987,
+      "national": false,
+      "logo": "/teams/2811.png",
+      "keywords": "Monagas SC, Guerreros del Guarapiche, Estadio Monumental de Maturín, José Manuel Rey, Copa Venezuela, Campeonato Venezuelano, Azulgrana, torcida fiel, identidade oriental, Luis \"Pájaro\" Vera, Nelson Hernández, Javier García, José Alí Cañas, Tricolor de Maturín, formação de talentos, cultura llanera, rivalidade com Mineros, projeto jovem, crescimento regional, futebol venezuelano.",
+      "keywords_semantic": "Monagas SC, Maturín, futebol venezuelano, Estádio Monumental de Maturín, torcida azulgrana, Copa Venezuela, identidade local, rivalidade regional, tradição futebolística, crescimento recente, La Furia Azulgrana, formação de talentos, futebol emergente, cultura esportiva, desenvolvimento juvenil."
+    },
+    "venue": {
+      "id": 1650,
+      "name": "Estadio Ricardo Tulio Maya",
+      "address": "La Paragua",
+      "city": "Ciudad Bolívar",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/1650.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2812,
+      "name": "Deportivo Lara",
+      "code": "LAR",
+      "country": "Venezuela",
+      "founded": 2006,
+      "national": false,
+      "logo": "/teams/2812.png",
+      "keywords": "Rojinegros, Estadio Metropolitano de Lara, José \"Cheo\" Fasciana, Copa Venezuela, Vinotinto, Bicho Lara, César González, Torneo Clausura, Fútbol Venezolano, Torcedores Larenses, Identidade Andina, Lara FC, Simón Bolívar, Hinchada Pasional, Academia de Talentos, Estilo de Jogo Ofensivo, Tradição e Juventude, Rivalidade com Caracas FC.",
+      "keywords_semantic": "Deportivo Lara, Venezuela, futebol venezuelano, Estádio Metropolitano de Lara, Barquisimeto, rivalidade estadual, história recente, títulos nacionais, Copa Venezuela, identidade regional, torcida apaixonada, Rojinegros, desenvolvimento jovem, estilo ofensivo, ídolos locais, ascensão no futebol, futebol emergente, cultura futebolística, comunidade local."
+    },
+    "venue": {
+      "id": 1656,
+      "name": "Estadio Farid Richa",
+      "address": "Avenida Libertador con Calle 37",
+      "city": "Barquisimeto",
+      "capacity": 12480,
+      "surface": "grass",
+      "image": "/venues/1656.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2813,
+      "name": "Deportivo La Guaira",
+      "code": "LAG",
+      "country": "Venezuela",
+      "founded": 2008,
+      "national": false,
+      "logo": "/teams/2813.png",
+      "keywords": "Deportivo La Guaira, El Naranja, Estádio Olímpico de la UCV, litoral central, Copa Venezuela, Liga FUTVE, Daniel Farías, José Balza, ídolo Franklin Lucena, torcida la Guairista, identidade costeira, desenvolvimento de jovens, rivalidade com Caracas FC, símbolo tartaruga marinha, presidente George Antar, técnico Martín Carrillo, infraestrutura moderna, projeto de base, cultura futebolística emergente, participação em competições internacionais.",
+      "keywords_semantic": "Deportivo La Guaira, Venezuela, futebol venezuelano, Liga FUTVE, rivalidades locais, jovens talentos, evolução recente, identidade costeira, cultura futebolística, torcida apaixonada, crescimento esportivo, títulos nacionais, ídolos emergentes, projeto de base, estilo ofensivo, inovação tática, história recente, desenvolvimento contínuo, relevância regional, símbolos costeiros."
+    },
+    "venue": {
+      "id": 1653,
+      "name": "Estadio Olímpico de la UCV",
+      "address": "Avenida Los Mangos, Los Chaguaramos",
+      "city": "Caracas",
+      "capacity": 23940,
+      "surface": "grass",
+      "image": "/venues/1653.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2814,
+      "name": "Portuguesa FC",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 1972,
+      "national": false,
+      "logo": "/teams/2814.png",
+      "keywords": "Portuguesa FC, Rojinegros, Estadio General José Antonio Páez, Araure, cinco estrelas, La Maquinaria Negra, Torneo Apertura, Torneo Clausura, Primera División Venezolana, ídolos: Ali Cañas, Pedro Febles, José Luis Dolgetta, torcida fervorosa, hinchada, identidade llanera, cultura dos Andes, presidente: Generoso Mazzocca, técnico: José Alí Cañas, rivalidades regionais, orgulho de Acarigua, história rica, símbolos tradicionais, ressurgimento, legado futebolístico, tradição vencedora, força do interior.",
+      "keywords_semantic": "Portuguesa FC, Venezuela, futebol venezuelano, história fundação, identidade regional, rivalidades locais, títulos nacionais, Estádio José Antonio Páez, torcida fervorosa, ídolos históricos, cores e símbolos, competição liga venezuelana, desenvolvimento jogadores, estilo jogo ofensivo, tradição futebolística, impacto social, cultura local, paixão torcida, crescimento clube, impacto regional, legado futebolístico."
+    },
+    "venue": {
+      "id": 1661,
+      "name": "Estadio General José Antonio Páez",
+      "address": null,
+      "city": "Acarigua-Araure",
+      "capacity": 18000,
+      "surface": "grass",
+      "image": "/venues/1661.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2815,
+      "name": "Trujillanos FC",
+      "code": "TRU",
+      "country": "Venezuela",
+      "founded": 1981,
+      "national": false,
+      "logo": "/teams/2815.png",
+      "keywords": "Guerreros de la Montaña, José Francisco Maldonado, Copa Venezuela, Estádio José Alberto Pérez, torcida fervorosa, identidade andina, La Tormenta Amarilla, Carlos Maldonado (técnico), Francisco \"Chico\" Maldonado, desenvolvimento juvenil, rivalidade regional, paixão futebolística, crescimento esportivo, cores amarelo e preto, futebol venezuelano.",
+      "keywords_semantic": "Trujillanos FC, Venezuela, Valera, Andinos, Toros, futebol venezuelano, história do futebol, rivalidade regional, Copa Venezuela, Estádio José Alberto Pérez, torcida amarela, identidade local, futebol de montanha, ídolos locais, desenvolvimento de talentos, tradição competitiva, paixão futebolística, impacto social, crescimento esportivo, cultura futebolística."
+    },
+    "venue": {
+      "id": 1662,
+      "name": "Estadio José Alberto Pérez",
+      "address": "Avenida Las Ferias, El Valle de San Luis",
+      "city": "Valera",
+      "capacity": 12765,
+      "surface": "grass",
+      "image": "/venues/1662.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2816,
+      "name": "Urena SC",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 2007,
+      "national": false,
+      "logo": "/teams/2816.png",
+      "keywords": "Ureña SC, Aurinegro, Estadio Bicentenario de Ureña, Táchira, \"Los Azucareros\", ascenso, Segunda División Venezolana, rivalidade local, Copa Venezuela, paixão regional, Alejandro \"Lobo\" Guerra, cantera, torcida apaixonada, identidade fronteiriça, desenvolvimento juvenil, presidente do clube, técnico atual, cores tradicionais (amarelo e preto), cultura esportiva, crescimento do futebol venezuelano.",
+      "keywords_semantic": "Urena SC, Venezuela, futebol venezuelano, cultura andina, rivalidades locais, história emergente, torcedores apaixonados, ídolos regionais, identidade comunitária, estilo de jogo defensivo, desenvolvimentos recentes, campeonatos nacionais, tradição em ascensão, símbolos regionais, estádio municipal, impacto social."
+    },
+    "venue": {
+      "id": 1710,
+      "name": "Estadio Bicentenario de Ureña (Nueva Arcadia)",
+      "address": "Calle 4, Junta Parroquial, Aguas Calientes",
+      "city": "Ureña",
+      "capacity": 4500,
+      "surface": "artificial turf",
+      "image": "/venues/1710.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2817,
+      "name": "Aragua FC",
+      "code": "ARA",
+      "country": "Venezuela",
+      "founded": 2002,
+      "national": false,
+      "logo": "/teams/2817.png",
+      "keywords": "Aragua FC, Aurirrojos, Estadio Olímpico Hermanos Ghersi Páez, José Manuel Rey, Copa Venezuela, torcida aragüeña, identidade maracayera, paixão venezuelana, luta regional, ídolos locais, desenvolvimento juvenil, rivalidade regional, futebol venezuelano, jovens talentos, comunidade maracayera.",
+      "keywords_semantic": "Aragua FC, Venezuela, futebol venezuelano, Maracay, Estádio Olímpico Hermanos Ghersi, rivalidade com Caracas FC, Copa Venezuela, identidade regional, torcida apaixonada, jovens talentos, desenvolvimento de base, cores amarelo e vermelho, orgulho local, crescimento competitivo, clube emergente."
+    },
+    "venue": {
+      "id": 1651,
+      "name": "Estadio Olímpico Hermanos Ghersi Páez",
+      "address": "Calle Campo Elías, Barrio La Democracia",
+      "city": "Maracay",
+      "capacity": 20000,
+      "surface": "grass",
+      "image": "/venues/1651.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2818,
+      "name": "Estudiantes de Merida FC",
+      "code": "EST",
+      "country": "Venezuela",
+      "founded": 1971,
+      "national": false,
+      "logo": "/teams/2818.png",
+      "keywords": "Estudiantes de Mérida FC, Rojiblancos, Los Académicos, Juan Arango, Copa Venezuela, Torneo Apertura, La Vinotinto, Estádio Metropolitano de Mérida, Pasión Andina, rivalidade com Deportivo Táchira, identidade andina, cultura acadêmica, Richard Páez, Táchira Derby, fervor mérida, Libertadores da América, desenvolvimento de talentos, tradição universitária, comunidade estudantil, futebol venezuelano, orgulho merideño.",
+      "keywords_semantic": "Estudiantes de Mérida, futebol venezuelano, Los Académicos, Estádio Metropolitano de Mérida, torcida fervorosa, rivalidade andina, clássicos regionais, títulos nacionais, Copa Libertadores, identidade acadêmica, ídolos locais, tradição universitária, estilo ofensivo, paixão merideña, história andina, desenvolvimento juvenil, símbolos culturais, orgulho venezuelano, competições internacionais."
+    },
+    "venue": {
+      "id": 9386,
+      "name": "Estadio Olímpico Metropolitano de Mérida",
+      "address": "Complejo 5 Águlas Blancas, Urbanización Hacienda",
+      "city": "Mérida",
+      "capacity": 42700,
+      "surface": "grass",
+      "image": "/venues/9386.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2819,
+      "name": "Deportivo Anzoategui",
+      "code": "ANZ",
+      "country": "Venezuela",
+      "founded": 2002,
+      "national": false,
+      "logo": "/teams/2819.png",
+      "keywords": "Deportivo Anzoátegui, El Depor, Estadio José Antonio Anzoátegui, Copa Venezuela, 2008, 2012, Torneo Clausura, 2012, Torcida Aurirroja, Identidade Oriental, Ídolos: Evelio Hernández, Edwin Aguilar, José González, Presidente: Miguel Ángel Mea Vitali, Técnico: Juvencio Betancourt, Símbolo: Sol do Oriente, Rivalidade com Monagas SC, Participações na Copa Sul-Americana, Desenvolvimento de jovens talentos, Tradição no futebol venezuelano.",
+      "keywords_semantic": "Venezuela, Deportivo Anzoátegui, futebol venezuelano, Puerto La Cruz, Estádio José Antonio Anzoátegui, Liga FUTVE, rivalidade, Carabobo FC, torcida aurirroja, identidade regional, ídolos do clube, títulos nacionais, ascensão meteórica, estilo de jogo ofensivo, impacto social, desenvolvimento juvenil, história recente, cores amarelo e vermelho, símbolo do tigre, competições continentais."
+    },
+    "venue": {
+      "id": 1655,
+      "name": "Estadio Olímpico General José Antonio Anzoátegui",
+      "address": "Avenida Intercomunal",
+      "city": "Puerto la Cruz",
+      "capacity": 37485,
+      "surface": "grass",
+      "image": "/venues/1655.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2820,
+      "name": "Deportivo JBL del Zulia",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2820.png",
+      "keywords": "Deportivo JBL del Zulia, Los Guerreros del Lago, Liga FUTVE, Estádio José Encarnación \"Pachencho\" Romero, Maracaibo, Torcedores Zulianos, Identidade Zuliana, El Clásico Zuliano, Formação de Jovens Talentos, Zulia FC, Rivais Regionais, Apoio Local, Desenvolvimento de Base, Cultura Venezuelana, Futebol Venezuelano, História Recente, Desempenho no Campeonato, Influência Regional, Tradição Futbolística.",
+      "keywords_semantic": "Venezuela, Zulia, Maracaibo, cultura andina, rivalidades regionais, futebol venezuelano, torcida apaixonada, desenvolvimento juvenil, clube emergente, identidade local, competições nacionais, crescimento esportivo, ídolos locais, tradição futebolística, espírito comunitário, estilo ofensivo, jovens talentos, perseverança, evolução histórica."
+    },
+    "venue": {
+      "id": 1665,
+      "name": "Estadio Olímpico José Encarnación Pachencho Romero",
+      "address": "Circunvalación No. 2, Sector Grano de Oro",
+      "city": "Maracaibo",
+      "capacity": 32472,
+      "surface": "grass",
+      "image": "/venues/1665.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2821,
+      "name": "Deportivo Petare",
+      "code": "PET",
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2821.png",
+      "keywords": "Deportivo Petare, Los Parroquianos, Caracas FC rival, Copa Venezuela, Estádio Olímpico de la UCV, identificação comunitária, La Guaira rivais, Massimiliano Ruggieri, futebol de base, tradição local, Liga FUTVE, cores azul e branco, evolução histórica, impacto social, futebol venezuelano, identidade metropolitana.",
+      "keywords_semantic": "Caracas, tradição, futebol venezuelano, rivalidades locais, história recente, identidade urbana, torcida apaixonada, ídolos regionais, estilo de jogo defensivo, campeonatos nacionais, desenvolvimento juvenil, impacto social, símbolos culturais, liga venezuelana, estádio olímpico."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 2822,
+      "name": "Estudiantes Caracas",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2822.png",
+      "keywords": "Estudiantes Caracas, La Estudiantina, Vinotinto y Oro, Primera División de Venezuela, Copa Venezuela, fanáticos académicos, Carlos Moreno presidente, Francisco Perlo técnico, desenvolvimento de jovens talentos, identidade acadêmica, futebol venezuelano, Estadio Brígido Iriarte, torcida estudantil, rivalidade local, formação de jogadores, história recente, crescimento no futebol venezuelano, projeto esportivo, futebol de base, paixão venezuelana.",
+      "keywords_semantic": "Estudiantes Caracas, Venezuela, futebol venezuelano, história recente, rivalidades locais, títulos nacionais, desenvolvimento juvenil, torcida apaixonada, identidade jovem, ídolos emergentes, símbolo universitário, estilo de jogo ofensivo, inovação tática, competições nacionais, crescimento esportivo, impacto social, cultura estudantil."
+    },
+    "venue": {
+      "id": 1831,
+      "name": "Estadio Giuseppe Antonelli",
+      "address": "Sector La Morita",
+      "city": "Turmero",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/1831.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2823,
+      "name": "Llaneros de Guanare",
+      "code": "LLA",
+      "country": "Venezuela",
+      "founded": 1985,
+      "national": false,
+      "logo": "/teams/2823.png",
+      "keywords": "Llaneros de Guanare, Los Guerreros de la Llanura, Estádio Rafael Calles Pinto, Torneio Clausura 2019, Copa Venezuela, Juan García, ídolo local, identidade llanera, Torcida Llanera, cultura dos Llanos, cores vermelho e branco, futebol venezuelano, rivalidade com Portuguesa FC, técnico Rubén Benítez, presidente Nelson Cifuentes, desenvolvimento de jovens talentos.",
+      "keywords_semantic": "Llaneros de Guanare, Venezuela, futebol venezuelano, Llaneros, identidade cultural, tradição local, rivalidades regionais, futebol llanero, Estádio Rafael Calles Pinto, torcedores apaixonados, ídolos locais, ascensão e queda, espírito comunitário, desenvolvimento de talentos, desafios financeiros, estilo defensivo, história recente, relevância local, legado esportivo, conexão com a cidade."
+    },
+    "venue": {
+      "id": 1658,
+      "name": "Estadio Olímpico Rafael Calles Pinto",
+      "address": "Complejo Ferial José Antonio Páez, Urbanización Hato Modelo",
+      "city": "Guanare",
+      "capacity": 13000,
+      "surface": "grass",
+      "image": "/venues/1658.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2824,
+      "name": "Mineros de Guyana",
+      "code": "MIN",
+      "country": "Venezuela",
+      "founded": 1981,
+      "national": false,
+      "logo": "/teams/2824.png",
+      "keywords": "Mineros de Guayana, Negriazules, Cachamay, Richard Páez, Copa Venezuela, Torneo Clausura, Luis Vallenilla, Ídolos do passado, Apoio fervoroso, Identidade guayanesa, José Manuel Rey, Torcida fiel, Culturas dos mineradores, Futebol venezuelano, Rivalidade regional.",
+      "keywords_semantic": "Mineros de Guayana, Puerto Ordaz, Estádio Cachamay, futebol venezuelano, rivalidade regional, Copa Venezuela, identidade operária, cultura mineradora, torcida apaixonada, azul e preto, história dos minerais, ídolos locais, desenvolvimento juvenil, futebol combativo, lutas históricas, crescimento regional, símbolos de resistência, campeonatos nacionais, comunidade guayanesa, legado esportivo."
+    },
+    "venue": {
+      "id": 1659,
+      "name": "CTE Cachamay",
+      "address": "Avenida Guayana, Puerto Ordaz",
+      "city": "Ciudad Guayana",
+      "capacity": 45600,
+      "surface": "grass",
+      "image": "/venues/1659.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2825,
+      "name": "Metropolitanos FC",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 2011,
+      "national": false,
+      "logo": "/teams/2825.png",
+      "keywords": "Metropolitanos FC, Violetas, Caracas, Estádio Olímpico de la UCV, Héctor \"Tico\" Pérez, Copa Venezuela, Torneo Apertura, Andrés Rouga, identidade jovem, paixão caraquenha, ascensão rápida, Fútbol Profesional Venezolano, Vinotinto, apoio fervoroso, rivalidade local, desenvolvimento de talentos, projeto ambicioso, identidade metropolitana, Nicolás Larcamón, união e força.",
+      "keywords_semantic": "Caracas, futebol venezuelano, capital, rivalidade local, jovens talentos, ascensão, Primera División, identidade cultural, torcida vibrante, desenvolvimentos recentes, La Liga FUTVE, títulos nacionais, estádio Olímpico, história contemporânea, apoio comunitário, crescimento, técnica, potencial, estilo de jogo ofensivo, modernidade."
+    },
+    "venue": {
+      "id": 1653,
+      "name": "Estadio Olímpico de la UCV",
+      "address": "Avenida Los Mangos, Los Chaguaramos",
+      "city": "Caracas",
+      "capacity": 23940,
+      "surface": "grass",
+      "image": "/venues/1653.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2826,
+      "name": "Atletico Socopo FC",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2826.png",
+      "keywords": "Atletico Socopo, Verdiblancos, Estádio Rogelio Matos, Barinas, futebol venezuelano, torcida apaixonada, ascensão no futebol, Juan Colmenares, rivalidade regional, desenvolvimento de jovens talentos, identidade barinesa, Presidente Carlos Rojas, técnico inovador, jovens promessas, títulos estaduais, tradição e modernidade, cultura futebolística local, impacto comunitário, paixão pelo futebol, desenvolvimento esportivo na Venezuela.",
+      "keywords_semantic": "Atletico Socopo, Venezuela, futebol venezuelano, cultura local, identidade regional, rivalidades locais, competição nacional, torcedores apaixonados, ídolos locais, história do clube, estilo de jogo, desenvolvimento de talentos, tradição futebolística, símbolos do clube, estádio, conquistas, comunidade futebolística, impacto social, cores do clube, espírito de equipe, orgulho regional."
+    },
+    "venue": {
+      "id": 2850,
+      "name": "Estadio Rogelio Matos",
+      "address": null,
+      "city": "Socopó",
+      "capacity": 7500,
+      "surface": "grass",
+      "image": "/venues/2850.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2827,
+      "name": "Puerto Cabello",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 2014,
+      "national": false,
+      "logo": "/teams/2827.png",
+      "keywords": "Puerto Cabello, La Academia, Estadio La Bombonerita, Carlos Maldonado, Copa Sudamericana, Torneo Clausura, Torneo Apertura, torcida portuaria, identidade caribenha, ídolo Juan Fuenmayor, rivalidade com Carabobo FC, desenvolvimento de jovens talentos, presidente Daniel Santilli, tradição marítima, cores azul e laranja, formação tática ofensiva, espírito comunitário, paixão venezuelana.",
+      "keywords_semantic": "Puerto Cabello, Venezuela, futebol venezuelano, Academia Puerto Cabello, La Bombonerita, identidade local, espírito comunitário, crescimento recente, torcida apaixonada, jovens talentos, rivalidades regionais, competições nacionais, ascensão no futebol, estilo ofensivo, ídolos emergentes, desenvolvimento juvenil"
+    },
+    "venue": {
+      "id": 1848,
+      "name": "Complejo Deportivo Socialista",
+      "address": "Avenida Andres Eloy Blanco",
+      "city": "Puerto Cabello",
+      "capacity": 7500,
+      "surface": "grass",
+      "image": "/venues/1848.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2828,
+      "name": "Lala FC",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 2011,
+      "national": false,
+      "logo": "/teams/2828.png",
+      "keywords": "Lala FC, La Pandilla Azul, Estadio Cachamay, Puerto Ordaz, Primeira Divisão Venezuelana, Copa Venezuela, jogadores promissores, cantera, identidade caribenha, torcedores fiéis, rivalidades regionais, desenvolvimento de talentos, crescimento do futebol venezuelano, visão estratégica, presidente inovador, técnico tático, símbolo de perseverança, conexão com a comunidade, espírito jovem.",
+      "keywords_semantic": "Lala FC, Venezuela, futebol venezuelano, Bolívar, identidade regional, rivalidade local, história recente, ascensão esportiva, torcida apaixonada, desenvolvimento juvenil, ídolos emergentes, estilo de jogo ofensivo, clube em crescimento, cultura futebolística, competições nacionais, tradição e inovação."
+    },
+    "venue": {
+      "id": 1659,
+      "name": "CTE Cachamay",
+      "address": "Avenida Guayana, Puerto Ordaz",
+      "city": "Ciudad Guayana",
+      "capacity": 45600,
+      "surface": "grass",
+      "image": "/venues/1659.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2829,
+      "name": "Yaracuyanos FC",
+      "code": "YAR",
+      "country": "Venezuela",
+      "founded": 2006,
+      "national": false,
+      "logo": "/teams/2829.png",
+      "keywords": "Yaracuyanos FC, Guerreros de Sorte, José \"Cheo\" Fasciana, Estádio Florentino Oropeza, Primera División, Copa Venezuela, torcida \"Furia Guerrera\", identidade yaracuyana, futebol modesto, raízes regionais, Daniel Da Silva, jovens talentos, tradição emergente, desenvolvimento local, rivalidades regionais.",
+      "keywords_semantic": "Yaracuyanos FC, Venezuela, futebol venezuelano, San Felipe, identidade regional, torcida apaixonada, Copa Venezuela, rivalidade local, equipe emergente, história recente, desenvolvimento juvenil, ídolos locais, cultura futebolística, estilo de jogo aguerrido, tradição esportiva, comunidade envolvida."
+    },
+    "venue": {
+      "id": 1663,
+      "name": "Estadio Olímpico Florentino Oropeza",
+      "address": "Avenida Alberto Ravell",
+      "city": "San Felipe",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "/venues/1663.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2830,
+      "name": "Petrolero de Anzoategui",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 2013,
+      "national": false,
+      "logo": "/teams/2830.png",
+      "keywords": "Petrolero de Anzoátegui, Los Petroleros, Estadio José Antonio Anzoátegui, torcida fervorosa, tradição petrolífera, listras verde e branco, clássicos regionais, Puerto La Cruz, identidade anzoatiguense, desenvolvimento de talentos locais, rivalidade com Deportivo Anzoátegui, apoio comunitário, formação de base, herança cultural venezuelana, presença na Primera División, potencial emergente, competições nacionais, paixão pelo futebol, crescimento esportivo, impacto regional.",
+      "keywords_semantic": "Petrolero de Anzoátegui, Venezuela, futebol venezuelano, cultura local, rivalidades regionais, tradição esportiva, torcida apaixonada, identidade comunitária, ídolos locais, desenvolvimento juvenil, estilo de jogo defensivo, história recente, cores e símbolos, impacto social, competições nacionais, crescimento do futebol."
+    },
+    "venue": {
+      "id": 1655,
+      "name": "Estadio Olímpico General José Antonio Anzoátegui",
+      "address": "Avenida Intercomunal",
+      "city": "Puerto la Cruz",
+      "capacity": 37485,
+      "surface": "grass",
+      "image": "/venues/1655.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2831,
+      "name": "Union Atl. Falcon",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 2006,
+      "national": false,
+      "logo": "/teams/2831.png",
+      "keywords": "Union Atl. Falcon, Los Guerreros del Falcon, Estádio Polideportivo de Pueblo Nuevo, La Garra Azul, Yovanny Romero, Copa Venezuela, Torneo Clausura, rivalidade com Deportivo La Guaira, identidade costeira, fervor local, paixão venezuelana, formação de talentos, apoio incondicional, desenvolvimento de base, tradição esportiva, comunidade falconiana, símbolo do falcão, camisa azul e branca, Javier Villafraz, conquistas regionais.",
+      "keywords_semantic": "Union Atl. Falcon, Venezuela, tradição, cultura local, rivalidades regionais, títulos estaduais, identidade da torcida, ídolos históricos, símbolos do clube, estilo de jogo defensivo, reputação em desenvolvimento, espírito comunitário, crescimento esportivo, paixão venezuelana, marcos históricos, impacto social."
+    },
+    "venue": {
+      "id": 1960,
+      "name": "Estadio Jesús Uribe",
+      "address": "Calle Comercio",
+      "city": "Morón",
+      "capacity": 2500,
+      "surface": "artificial turf",
+      "image": "/venues/1960.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2832,
+      "name": "Atletico el Vigia FC",
+      "code": "ATL",
+      "country": "Venezuela",
+      "founded": 1987,
+      "national": false,
+      "logo": "/teams/2832.png",
+      "keywords": "Atletico el Vigia FC, El Platanero, Vigía, Daniel Arismendi, Estádio Ramón Hernández, Torneo Clausura, La Banda del Plátano, identidade andina, rivalidade com Estudiantes de Mérida, Liga FUTVE, tradição no interior da Venezuela, desenvolvimento de jovens talentos, cores amarelo e verde, paixão no estado Mérida, futebol venezuelano.",
+      "keywords_semantic": "Atletico el Vigia, Venezuela, futebol venezuelano, Andes, rivalidade local, Trujillanos FC, cultura futebolística, torcida apaixonada, Estádio Ramón Hernández, cores amarelo e verde, ídolos locais, desenvolvimento jovem, história recente, ascensão, Liga FUTVE, estilo de jogo resiliente, identidade regional, impacto social, comunidade local, tradição esportiva, crescimento clube."
+    },
+    "venue": {
+      "id": 1652,
+      "name": "Estadio Ramón Gato Hernández",
+      "address": "Avenida Ramón Hernández",
+      "city": "El Vigía",
+      "capacity": 12785,
+      "surface": "grass",
+      "image": "/venues/1652.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2833,
+      "name": "Arroceros Calabozo",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 1985,
+      "national": false,
+      "logo": "/teams/2833.png",
+      "keywords": "Arroceros Calabozo, Los Rojos del Guárico, Estádio Alfredo Simonpietri, Juan García, ascensão futebolística, tradição agrícola, identidade local, ídolos regionais, Campeonato Venezuelano, rivalidades estaduais, torcida apaixonada, desenvolvimento de jovens talentos, futebol de base, impacto comunitário, influência cultural, presidente do clube, técnico visionário, símbolos do clube, cores vermelhas e brancas, La Pasión Calabozeña.",
+      "keywords_semantic": "Venezuela, Calabozo, história local, identidade regional, cultura agrícola, orgulho comunitário, rivalidades locais, competições nacionais, torcida apaixonada, desenvolvimento juvenil, tradição esportiva, ídolos locais, símbolos regionais, espírito de luta, estilo de jogo defensivo."
+    },
+    "venue": {
+      "id": 2947,
+      "name": "Estadio Alfredo Simonpietri",
+      "address": "Avenida Octavio Viana",
+      "city": "Calabozo",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "/venues/2947.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2834,
+      "name": "AC Mineros B",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2834.png",
+      "keywords": "AC Mineros B, Los Negriazules, Mineros de Guayana, Estadio Cachamay, Puerto Ordaz, Cantera, Formação de Jovens, Raul Leoni, Ídolos locais, Talentos emergentes, Campeonato Venezuelano, Cultura guayanesa, Apoio comunitário, Torcida apaixonada, Identidade regional, Desenvolvimento de atletas, Fútbol venezolano, Rivalidades regionais, José Antonio Anzoátegui, Potencial competitivo, Orgulho guayanês.",
+      "keywords_semantic": "Mineros de Guayana, Puerto Ordaz, Estádio Cachamay, região de mineração, Liga FUTVE, rivalidade Atlético Venezuela, Copa Venezuela, cultura local, torcida fiel, ídolos locais, tradição esportiva, desenvolvimento juvenil, futebol venezuelano, história recente, identidade regional."
+    },
+    "venue": {
+      "id": 2946,
+      "name": "Estadio Los Olivos de Puerto Ordaz",
+      "address": "Calle Verona, Los Olivos",
+      "city": "Puerto Ordaz, Ciudad Guayana",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "/venues/2946.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2835,
+      "name": "Tucanes FC",
+      "code": "TUC",
+      "country": "Venezuela",
+      "founded": 2007,
+      "national": false,
+      "logo": "/teams/2835.png",
+      "keywords": "Tucanes FC, Los Amazónicos, Puerto Ayacucho, Estádio Antonio José de Sucre, futebol venezuelano, torcida apaixonada, identidade amazônica, cultura indígena, cores verde e amarelo, rivalidade local, ascensão na Primera División, formação de jovens talentos, Campeonato Venezuelano, Copa Venezuela, técnico influente, jogadores promissores, presidente visionário, símbolo do tucano, ídolo local, tradição no futebol regional, espírito comunitário.",
+      "keywords_semantic": "Tucanes FC, Venezuela, Puerto Ayacucho, futebol amazônico, cultura indígena, identidade regional, rivalidade local, Segunda Divisão, Estádio Antonio José de Sucre, torcida apaixonada, ascensão futebolística, desenvolvimento juvenil, cores verde e azul, símbolo tucano, estilo aguerrido, comunidade local, tradição emergente."
+    },
+    "venue": {
+      "id": 2854,
+      "name": "Estadio Antonio José de Sucre",
+      "address": "Calle Circuvalicion / Avenida 23 de Enero",
+      "city": "Puerto Ayacucho",
+      "capacity": 7000,
+      "surface": "grass",
+      "image": "/venues/2854.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2836,
+      "name": "Policia De Lara",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 2005,
+      "national": false,
+      "logo": "/teams/2836.png",
+      "keywords": "Policia De Lara, La Guardia, Venezuela, futebol venezuelano, Lara, identidade policial, ídolos locais, torcida apaixonada, segurança e esporte, cultura comunitária, integração social, desenvolvimento esportivo, formação de base, rivalidade local, estádio, cores do uniforme, presidente do clube, técnico, história do clube.",
+      "keywords_semantic": "Venezuela, futebol venezuelano, clube policial, Lara, cultura esportiva, rivalidades locais, identidade policial, torcida venezuelana, tradição esportiva, ídolos regionais, estilo defensivo, desenvolvimento local, impacto social, história do clube, competição regional."
+    },
+    "venue": {
+      "id": 1656,
+      "name": "Estadio Farid Richa",
+      "address": "Avenida Libertador con Calle 37",
+      "city": "Barquisimeto",
+      "capacity": 12480,
+      "surface": "grass",
+      "image": "/venues/1656.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2837,
+      "name": "Titanes FC",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2837.png",
+      "keywords": "Titanes FC, Los Gigantes, Estádio La Fortaleza, Carlos Mendoza, técnico Juan Pérez, Copa Libertadores, torcida Los Inquebrantables, identidade cultural andina, listras azul e dourado, ídolo Javier Ríos, rivalidade com Guerreros de Caracas, presidente María López, campeonato nacional venezuelano, tradição ofensiva, símbolo do titã mitológico, paixão venezuelana, desenvolvimento de jovens talentos, conquistas regionais, legado de determinação.",
+      "keywords_semantic": "Titanes FC, Venezuela, futebol venezuelano, rivalidades locais, cultura esportiva, identidade regional, torcedores apaixonados, história do clube, campeonatos nacionais, ídolos do clube, tradição futebolística, símbolos do Titanes, estilo de jogo ofensivo, competitividade, marcos históricos, desenvolvimento juvenil, impacto social, paixão pelo futebol, legado esportivo, crescimento do clube."
+    },
+    "venue": {
+      "id": 1658,
+      "name": "Estadio Olímpico Rafael Calles Pinto",
+      "address": "Complejo Ferial José Antonio Páez, Urbanización Hato Modelo",
+      "city": "Guanare",
+      "capacity": 13000,
+      "surface": "grass",
+      "image": "/venues/1658.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2838,
+      "name": "Angostura FC",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2838.png",
+      "keywords": "Angostura FC, Los Guerreros, Ciudad Bolívar, Estádio Ricardo Tulio Maya, Liga FUTVE, ascensão recente, Rafael Mea Vitali, Copa Venezuela, identidade regional, apoio fervoroso, cultura guayanesa, rivalidades locais, desenvolvimento juvenil, tradição ribeirinha, fanáticos torcedores, desenvolvimento do futebol venezuelano, história do futebol na Venezuela, símbolo do rio Orinoco, integração comunitária.",
+      "keywords_semantic": "Angostura FC, Ciudad Bolívar, história local, futebol venezuelano, identidade cultural, torcida apaixonada, rivalidades regionais, ascensão competitiva, liga venezuelana, desenvolvimento juvenil, jogadores promissores, estilo de jogo ofensivo, tradição esportiva, ídolos locais, símbolos regionais, espírito comunitário, apoio popular, conquistas regionais, desafios logísticos, identidade amazônica."
+    },
+    "venue": {
+      "id": 1650,
+      "name": "Estadio Ricardo Tulio Maya",
+      "address": "La Paragua",
+      "city": "Ciudad Bolívar",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/1650.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2839,
+      "name": "Diamantes de Guayana",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2839.png",
+      "keywords": "Diamantes de Guayana, Guayana, Venezuela, apelido Los Diamantes, torcida fervorosa, Estadio Cachamay, identidade cultural regional, ídolos locais, títulos estaduais, desenvolvimento de jovens talentos, rivalidade com Mineros de Guayana, presidente relevante, técnico influente, tradição futebolística, cores do clube, símbolos do clube, história do clube.",
+      "keywords_semantic": "Diamantes de Guayana, Venezuela, Ciudad Guayana, futebol venezuelano, Estádio Cachamay, identidade local, paixão regional, rivalidade estadual, torcedores fervorosos, tradição emergente, talentos jovens, desenvolvimento futebolístico, competições nacionais, ascensão no futebol, símbolos culturais, ídolos locais, estilo de jogo ofensivo, história recente, cores do clube, comunidade envolvida"
+    },
+    "venue": {
+      "id": 2853,
+      "name": "Estadio Polideportivo El Gallo",
+      "address": "San Félix",
+      "city": "Ciudad Guayana",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "/venues/2853.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2840,
+      "name": "UCV",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 1950,
+      "national": false,
+      "logo": "/teams/2840.png",
+      "keywords": "La Poeta del Fútbol, Trujillanos FC, Copa Venezuela, \"Los Guerreros de la Montaña\", Estadio José Alberto Pérez, José de Jesús Vera, Richard Páez, Carlos Maldonado, Torneo Clausura, hinchada fiel, Universidad Central de Venezuela, Estudiantes de Mérida, rivalidad andina, cultura andina, fútbol universitário, tradición académica, influencia estudiantil, pasión trujillana, colores aurimarrones.",
+      "keywords_semantic": "Universidade, Caracas, Tradição Acadêmica, Estudantes, La UCV, Vínculo Universitário, Torcida Jovem, Formação, Cultura Venezuelana, Rivalidade, Títulos Locais, Competição Nacional, Símbolos Estudantis, Identidade Acadêmica, Estilo Ofensivo, Desenvolvimento de Talentos."
+    },
+    "venue": {
+      "id": 1653,
+      "name": "Estadio Olímpico de la UCV",
+      "address": "Avenida Los Mangos, Los Chaguaramos",
+      "city": "Caracas",
+      "capacity": 23940,
+      "surface": "grass",
+      "image": "/venues/1653.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2841,
+      "name": "Zamora FC B",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 1977,
+      "national": false,
+      "logo": "/teams/2841.png",
+      "keywords": "Zamora FC B, Los Blanquinegros, Barinas, La Furia Llanera, Estádio Agustín Tovar, Segunda Divisão Venezuelana, Cantera, Desenvolvimento de jovens talentos, Ídolos emergentes, Torcida fiel, Identidade llanera, ADN Zamorano, Futuro do futebol venezuelano, José Alí Cañas (técnico), Rafael Dudamel (ex-ídolo), Projeto de base, Rivalidades locais, Jovens promessas, Apoio comunitário, Formação de atletas.",
+      "keywords_semantic": "Zamora FC B, Venezuela, cantera, desenvolvimento de talentos, formação de jovens, futebol de base, Barinas, identidade local, futebol venezuelano, aspirantes, progressão de carreira, liga venezuelana, suporte à equipe principal, rivalidade local, tradição emergente, crescimento esportivo, suporte comunitário, futuro do futebol, infraestrutura juvenil, cultura futebolística, torcedores jovens, perseverança e resiliência."
+    },
+    "venue": {
+      "id": 1664,
+      "name": "Estadio Rafael Agustín Tovar",
+      "address": "Avenida Cruz Paredes / Avenida Andres Varela, La Carolina",
+      "city": "Barinas",
+      "capacity": 29800,
+      "surface": "grass",
+      "image": "/venues/1664.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2842,
+      "name": "Caracas FC B",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2842.png",
+      "keywords": "Los Rojos del Ávila, Estadio Olímpico de la UCV, Adecos, Torneo Clausura, Torneo Apertura, José Hernández, base de formação, cantera, identidade caraqueña, rivalidade com Deportivo Táchira, Alberto Saúl Páez, desenvolvimento de talentos, infra-estrutura juvenil, paixão venezuelana, apoio local, formação de base sólida, tradição de vitórias.",
+      "keywords_semantic": "Caracas FC B, futebol venezuelano, desenvolvimento de jovens, academia de talentos, Sub-20, rivalidade local, capital da Venezuela, futebol de base, formação de jogadores, cultura futebolística, tradição esportiva, torcedores jovens, disciplina tática, potencial de crescimento, liga venezuelana, ídolos emergentes, projeto de formação, identidade vermelha, paixão no futebol, herança esportiva."
+    },
+    "venue": {
+      "id": 2852,
+      "name": "Cocodrilos Sports Park",
+      "address": "Avenida Antonio Guzmán Blanco Cota 905, El Paraíso",
+      "city": "Caracas",
+      "capacity": 3500,
+      "surface": "artificial turf",
+      "image": "/venues/2852.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2843,
+      "name": "Gran Valencia",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2843.png",
+      "keywords": "Gran Valencia, Los Guerreros del Cabriales, Estádio Misael Delgado, Torneo Clausura, Torcida Valencianista, Identidade Carabobeña, Carlos Maldonado, Rivalidade com Carabobo FC, Jovens promessas, Desenvolvimento de base, Paixão do futebol venezuelano, Cultura valenciana, Crescimento no futebol venezuelano, Desempenho na Primera División, Espírito guerreiro.",
+      "keywords_semantic": "Gran Valencia, Venezuela, futebol venezuelano, clube emergente, rivalidades locais, Liga FUTVE, torcida apaixonada, desenvolvimento esportivo, identidade regional, ídolos locais, cultura futebolística, estilo de jogo, crescimento competitivo, história recente, símbolos do clube, tradição."
+    },
+    "venue": {
+      "id": 1663,
+      "name": "Estadio Olímpico Florentino Oropeza",
+      "address": "Avenida Alberto Ravell",
+      "city": "San Felipe",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "/venues/1663.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2844,
+      "name": "Margarita FC",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 2011,
+      "national": false,
+      "logo": "/teams/2844.png",
+      "keywords": "Margarita FC, \"La Perla del Caribe\", ídolo local Juan Pérez, Estadio Ciudad de Porlamar, Torcida \"Los Insulares\", presidente Ana Gómez, técnico Carlos Rodríguez, Campeonato Venezuelano, identidade caribenha, jovens promessas, rivalidade com Deportivo La Asunción, cores azul e branco, turismo e futebol, símbolo da ilha, paixão insular, apoio fervoroso, comunidade margariteña.",
+      "keywords_semantic": "Ilha Margarita, futebol venezuelano, futebol emergente, tradição local, rivalidade regional, La Liga FUTVE, desenvolvimento juvenil, torcida apaixonada, identidade insular, ídolos locais, estilo ofensivo, projeto de crescimento, cultura caribenha, símbolos regionais, orgulho margariteño."
+    },
+    "venue": {
+      "id": 1961,
+      "name": "Ciudad Deportiva Nueva Esparta",
+      "address": "Avenida Jóvito Villalba, Nueva Esparta",
+      "city": "Pampatar",
+      "capacity": 4500,
+      "surface": "artificial turf",
+      "image": "/venues/1961.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2845,
+      "name": "Atletico Venezuela B",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2845.png",
+      "keywords": "Atletico Venezuela, Los Nacionales, futebol venezuelano, identidade jovem, Estádio Brigido Iriarte, capital Caracas, ascensão no futebol, base de talentos, desenvolvimento de jovens, La Vinotinto, rivalidade local, apaixonada torcida, projeto de formação, competição nacional, Copa Venezuela, história recente, Liga FUTVE, cultura futebolística, impacto social, apoio local, estrutura profissional, futuro promissor, ídolos emergentes.",
+      "keywords_semantic": "Atletico Venezuela B, desenvolvimento, futebol venezuelano, divisões inferiores, formação de jogadores, rivalidades locais, talento jovem, cultura esportiva, identidade caribenha, torcedores apaixonados, infraestrutura esportiva, evolução futebolística, futebol emergente, história recente, contribuição social."
+    },
+    "venue": {
+      "id": 2851,
+      "name": "Estadio Nacional Brígido Iriarte",
+      "address": "Avenida Estadio, Urbanización El Paraíso",
+      "city": "Caracas",
+      "capacity": 12500,
+      "surface": "grass",
+      "image": "/venues/2851.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2846,
+      "name": "Potros De Barinas",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2846.png",
+      "keywords": "Potros De Barinas, La Furia Llanera, Estádio Agustín Tovar, Torneio Clausura, Torneio Apertura, futebol venezuelano, Barinas, Vinotinto, rivalidade regional, ídolos locais, cultura llanera, torcida apaixonada, desenvolvimento de jovens talentos, história recente, campeonatos locais, presidente do clube, treinador principal, identidade regional, cores do uniforme, símbolo do cavalo, apoio comunitário, formação de base, tradição esportiva, La Vinotinto, Liga FUTVE.",
+      "keywords_semantic": "Potros De Barinas, Venezuela, futebol venezuelano, cultura local, identidade regional, torcida apaixonada, rivalidades locais, história do clube, tradição, desenvolvimento de talentos, ídolos da equipe, cores e símbolos, estilo de jogo, competições nacionais, liga venezuelana, marcos históricos, impacto social, orgulho regional, Barinas, comunidade esportiva."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 2847,
+      "name": "Real Frontera",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2847.png",
+      "keywords": "Real Frontera, Los Fronterizos, Estádio Pedro Rafael Villasmil, La Vinotinto, Torneio Clausura, Torcida Fronteriza, Identidade Andina, Juan Carlos Socorro, Ídolos Locais, Ascensão ao Futbol Profesional Venezolano, Cores Azul e Branco, Rivalidade com Ureña SC, Presidente Carlos Briceño, Técnico Estratégico, Futuro Promissor no Futebol Venezuelano.",
+      "keywords_semantic": "Real Frontera, Venezuela, futebol venezuelano, rivalidades locais, identidade cultural, torcida apaixonada, história do clube, desenvolvimento juvenil, ídolos locais, símbolos regionais, estilo de jogo defensivo, marcos históricos, competições nacionais, influência social, comunidade fronteiriça, tradição local, aspirações esportivas, crescimento no futebol, desafios regionais, espírito de equipe."
+    },
+    "venue": {
+      "id": 1649,
+      "name": "Estadio Polideportivo de Pueblo Nuevo",
+      "address": "Avenida España",
+      "city": "San Cristóbal",
+      "capacity": 40000,
+      "surface": "grass",
+      "image": "/venues/1649.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2848,
+      "name": "Deportivo La Guaira B",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2848.png",
+      "keywords": "Deportivo La Guaira B, Naranjas del Mar, cantera de talentos, Liga FUTVE 2, estádio Olímpico de la UCV, identidade jovem, formação de jogadores, academia de futebol, projetos de base, apoio à equipe principal, torcida emergente, rivalidade regional, desenvolvimento esportivo, futebol venezuelano, ascensão no futebol, integração comunitária, cultura futebolística, crescimento do clube, La Guaira, diretoria visionária.",
+      "keywords_semantic": "Deportivo La Guaira B, Venezuela, futebol de base, equipe reserva, desenvolvimento de talentos, liga venezuelana, jovens promessas, identidade local, formação de jogadores, cultura esportiva, tradição emergente, rivalidades regionais, projeção nacional, apoio comunitário, dinamismo tático, espírito competitivo, continuidade esportiva, integração juvenil, potencial de crescimento, futuro do futebol venezuelano."
+    },
+    "venue": {
+      "id": 2851,
+      "name": "Estadio Nacional Brígido Iriarte",
+      "address": "Avenida Estadio, Urbanización El Paraíso",
+      "city": "Caracas",
+      "capacity": 12500,
+      "surface": "grass",
+      "image": "/venues/2851.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2849,
+      "name": "Redi Colon",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2849.png",
+      "keywords": "Redi Colon, Los Guerreros del Norte, ídolos locais, conquistas no futebol venezuelano, torcida apaixonada, identidade cultural regional, Estádio Metropolitano de Mérida, desenvolvimento de jovens talentos, rivalidades locais, El clásico del Norte, futebol venezuelano, história do clube, símbolo do cavaleiro, presidente visionário, técnico inovador, tradições do clube, cores tradicionais, legado esportivo, impacto na comunidade.",
+      "keywords_semantic": "Tradição, História, Rivalidades, Títulos, Torcida, Ídolos, Identidade, Cultura, Símbolos, Estilo de Jogo, Reputação, Competição, Venezuela, Futebol, Comunidade, Paixão, Desempenho, Desenvolvimento, Equipe, Legado"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 2850,
+      "name": "ULA FC",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 1977,
+      "national": false,
+      "logo": "/teams/2850.png",
+      "keywords": "ULA FC, Los Universitarios, Esteban Torbar, Universidad de Los Andes, Mérida, Estádio Guillermo Soto Rosa, futebol universitário, ídolos locais, torcida acadêmica, tradição estudantil, futebol venezuelano, desenvolvimento juvenil, rivalidade regional, competições nacionais, ascensão no futebol, identidade acadêmica, cores azul e branco, apoio estudantil, cultura andina, formação de talentos.",
+      "keywords_semantic": "Mérida, tradição acadêmica, futebol universitário, história esportiva, rivalidade local, Estádio Guillermo Soto Rosa, desenvolvimento juvenil, La Pandilla Azul, identidade estudantil, ídolos regionais, futebol amador, comunidade universitária, paixão local, evolução esportiva, formação de talentos."
+    },
+    "venue": {
+      "id": 1765,
+      "name": "Estadio Olímpico Guillermo Soto Rosa",
+      "address": "Avenida Humberto Tejera",
+      "city": "Mérida",
+      "capacity": 16500,
+      "surface": "grass",
+      "image": "/venues/1765.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2851,
+      "name": "Yaracuy FC",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 2006,
+      "national": false,
+      "logo": "/teams/2851.png",
+      "keywords": "Yaracuyanos, Estádio Florentino Oropeza, Vinotinto, Segunda División Venezolana, Carlos Maldonado, futebol venezuelano, torcida passionada, identidade regional, desenvolvimento de jovens talentos, história recente, Yara, estaduais, Copa Venezuela, rivalidades locais, ascensão no futebol profissional, projeto de base, cores azul e branco, tradição emergente, impacto comunitário, desafios financeiros, potencial de crescimento.",
+      "keywords_semantic": "Yaracuy FC, futebol venezuelano, San Felipe, La Vinotinto, tradição local, identidade regional, torcedores apaixonados, cultura futebolística, rivalidades estaduais, ascensão no futebol, desenvolvimento jovem, estilo de jogo aguerrido, competição nacional, história recente, ídolos emergentes, orgulho yaracuyano, cores azul e branco, liga venezuelana, espírito comunitário, estádio Florentino Oropeza."
+    },
+    "venue": {
+      "id": 1663,
+      "name": "Estadio Olímpico Florentino Oropeza",
+      "address": "Avenida Alberto Ravell",
+      "city": "San Felipe",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "/venues/1663.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2852,
+      "name": "Atletico Guanare",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 2011,
+      "national": false,
+      "logo": "/teams/2852.png",
+      "keywords": "Atletico Guanare, Los Verdiblancos, Estadio Rafael Calles Pinto, futebol venezuelano, Llaneros, Juan Garcia (ídolo), Deportivo Lara rivalidade, Torneo Clausura, Liga FUTVE, paixão da torcida, cultura dos Llanos, futebol do interior, jovens talentos, história do clube, evolução no futebol venezuelano, identidade regional, desenvolvimento de jogadores, torcedores fiéis, cores verde e branco, tradição local.",
+      "keywords_semantic": "Atletico Guanare, Venezuela, futebol venezuelano, Llaneros, Estádio Rafael Calles Pinto, rivalidade local, tradição esportiva, cultura futebolística, desenvolvimento jovem, torcedores apaixonados, identidade regional, potro guerreiro, aspirações competitivas, ídolos locais, história emergente, estilo ofensivo."
+    },
+    "venue": {
+      "id": 1658,
+      "name": "Estadio Olímpico Rafael Calles Pinto",
+      "address": "Complejo Ferial José Antonio Páez, Urbanización Hato Modelo",
+      "city": "Guanare",
+      "capacity": 13000,
+      "surface": "grass",
+      "image": "/venues/1658.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2853,
+      "name": "Petare FC",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 1948,
+      "national": false,
+      "logo": "/teams/2853.png",
+      "keywords": "Petare FC, Los Azules, Estádio Olímpico de la UCV, Caracas, Vinotinto, Copa Libertadores, Torneo Clausura, Liga FUTVE, Raul Figueroa, Francisco Perlo, tradição operária, identidade comunitária, rivalidade com Caracas FC, desenvolvimento de jovens talentos, cultura futebolística venezuelana, La Barra de Petare, paixão e dedicação, ídolos locais, crescimento e desafio.",
+      "keywords_semantic": "Caracas, comunidade, história local, rivalidade, futebol venezuelano, identidade urbana, torcedores fiéis, evolução, formação de jovens, estilo defensivo, eventos regionais, cultura esportiva, integração social, ídolos locais, tradição, desenvolvimento, futebol de base, legado, marcos esportivos, competições nacionais."
+    },
+    "venue": {
+      "id": 1653,
+      "name": "Estadio Olímpico de la UCV",
+      "address": "Avenida Los Mangos, Los Chaguaramos",
+      "city": "Caracas",
+      "capacity": 23940,
+      "surface": "grass",
+      "image": "/venues/1653.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2854,
+      "name": "CD Hermanos Colmenarez",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 2015,
+      "national": false,
+      "logo": "/teams/2854.png",
+      "keywords": "CD Hermanos Colmenarez, Las Vacas Sagradas, La Fortaleza Azul, Libertadores, Copa Sudamericana, Estadio Agustín Tovar, ídolos locais, fervor dos Llanos, futebol venezuelano, identidade llanera, rivalidade regional, jovens talentos, presidente Daniel Morillo, técnico Juan Domingo Tolisano, símbolos de Barinas, apoio da torcida, crescimento recente, desenvolvimento de base, cultura futebolística venezuelana.",
+      "keywords_semantic": "Barinas, Llaneros, Hermanos, tradição, futebol venezuelano, La Bombonerita, rivalidade, crescimento, comunidade, identidade local, paixão, ídolos regionais, estilo ofensivo, torcedores dedicados, desenvolvimento, história recente, marcos, cultura esportiva."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 2855,
+      "name": "CA Furrial",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 2017,
+      "national": false,
+      "logo": "/teams/2855.png",
+      "keywords": "CA Furrial, Los Guerreros del Furrial, ídolos históricos, campeões nacionais, La Torcida Furriel, identidade llanera, futebol venezuelano, rivalidade regional, Estádio Municipal de Furrial, tradição futebolística, jovens promessas, presidente Juan Pérez, técnico Carlos Mendoza, cores vermelho e branco, símbolo do touro, paixão dos torcedores, La Barra Furrialista, influências culturais locais, orgulho do estado de Monagas.",
+      "keywords_semantic": "CA Furrial, Venezuela, futebol venezuelano, cultura local, rivalidades regionais, história do clube, identidade da torcida, ídolos do clube, símbolos do CA Furrial, estilo de jogo ofensivo, reputação defensiva, desenvolvimento de jovens talentos, trajetória no campeonato venezuelano, influência comunitária, marcos históricos, paixão pelo futebol."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 2856,
+      "name": "Libertador FC",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2856.png",
+      "keywords": "Libertador FC, Los Guerreros, ídolos históricos, títulos nacionais, La Barra Libertadora, fervor venezuelano, presidente Juan Pérez, técnico Carlos Ramírez, Estadio Libertad, paixão e tradição, símbolos de liberdade, cores vermelha e branca, rivalidade clássica, jovens promessas, conquistas regionais, El Libertador, identidade patriótica, futebol ofensivo, formação de talentos, orgulho venezuelano.",
+      "keywords_semantic": "Libertador FC, Venezuela, futebol venezuelano, história do clube, cultura venezuelana, rivalidades locais, títulos nacionais, torcedores apaixonados, ídolos históricos, símbolos do clube, identidade de torcida, estilo de jogo ofensivo, tradição futebolística, marcos históricos, desenvolvimento juvenil, impacto social, legado esportivo."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 2857,
+      "name": "Ciudad Vinotinto",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2857.png",
+      "keywords": "Ciudad Vinotinto, La Vinotinto del Oriente, Estadio Ciudad Vinotinto, Puerto La Cruz, Torneo Clausura, futebol venezuelano, identidade oriental, formação de jovens talentos, campeonato local, rivalidades regionais, Vinotinto Academy, La Academia, desenvolvimento de base, torcida apaixonada, símbolo do crescimento, ídolos emergentes, projeto esportivo, cultura futebolística, inovação tática, Hernán Acuña (presidente), Miguel Echenausi (técnico), tradição vinotinto.",
+      "keywords_semantic": "Ciudad Vinotinto, Venezuela, cultura local, rivalidades regionais, futebol venezuelano, torcida apaixonada, identidade comunitária, jovens talentos, crescimento esportivo, estilo de jogo ofensivo, ídolos locais, cores vinotinto, impacto social, desenvolvimento juvenil, espírito de equipe, marcos históricos."
+    },
+    "venue": {
+      "id": 1932,
+      "name": "Parque Ciudad Vinotinto",
+      "address": "Avenida R-16",
+      "city": "Lechería",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "/venues/1932.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2858,
+      "name": "Dinamo de Puerto La Cruz",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2858.png",
+      "keywords": "Dinamo de Puerto La Cruz, El Dinamito, ídolos locais, títulos estaduais, fervor da torcida, cultura caribenha, estádio vibrante, rivalidade regional, cores azul e branco, presidente visionário, técnico estratégico, jovens promessas, símbolo do barco, paixão venezuelana, tradição futebolística, desenvolvimento de talentos, comunidade envolvida.",
+      "keywords_semantic": "Dinamo de Puerto La Cruz, Venezuela, futebol venezuelano, rivalidades locais, tradição futebolística, torcida apaixonada, ídolos do clube, cultura venezuelana, história do clube, símbolos do clube, estilo de jogo venezuelano, campeonatos nacionais, identidade regional, desenvolvimento local, futebol caribenho."
+    },
+    "venue": {
+      "id": 21730,
+      "name": "Estadio de fútbol Francisco Massiani",
+      "address": null,
+      "city": "Puerto la Cruz",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/21730.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2859,
+      "name": "Fundacion AIFI",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2859.png",
+      "keywords": "Fundación AIFI, futebol venezuelano, academia de futebol, desenvolvimento de jovens, La Vinotinto, talentos emergentes, projetos sociais, formação de atletas, infraestrutura esportiva, ligas de base, campeonatos estaduais, identidade comunitária, integração social, apoio à juventude, crescimento esportivo, visão de futuro, compromisso com a educação.",
+      "keywords_semantic": "Fundacion AIFI, Venezuela, futebol venezuelano, identidade regional, desenvolvimento juvenil, competições locais, torcida apaixonada, formação de talentos, impacto social, crescimento esportivo, rivalidades locais, infraestrutura esportiva, cultura esportiva, aspirações nacionais, história recente, comunidade, apoio local, ambições de título."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 7872,
+      "name": "Galícia",
+      "code": "GAL",
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/7872.png",
+      "keywords": "Galícia FC, \"Los Gallegos\", história rica, futebol venezuelano, ídolos históricos, títulos estaduais, torcida apaixonada, identidade cultural galega, Santiago de Compostela, influência espanhola, La Coruña, presidente do clube, técnico inovador, cores azul e branco, rivalidades locais, desenvolvimento de jovens talentos, Estádio Olímpico de la UCV, tradição e modernidade, símbolo do clube, La Coruña connection, comunidade galega, apoio incondicional dos torcedores.",
+      "keywords_semantic": "Galícia, Venezuela, futebol, cultura espanhola, imigrantes, história, tradição, rivalidade local, Segunda Divisão, identidade comunitária, torcida apaixonada, ídolos regionais, símbolo galego, estilo de jogo defensivo, ascensão, marcos históricos, clube de colônia, influência cultural, integração social, reputação resiliente."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10091,
+      "name": "Fundación Lara Deportiva",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/10091.png",
+      "keywords": "Fundación Lara Deportiva, Rojinegros, Estadio Farid Richa, Barquisimeto, ídolo Juan García, futebol venezuelano, Torneo Apertura, Torneo Clausura, fútbol llanero, torcida larense, Identidade cultural larense, rivalidade com Deportivo Lara, presidente Carlos García, técnico Luis Mendoza, formação de jovens talentos, desenvolvimento futebolístico, Copa Venezuela, Vinotinto, símbolo do cavalo, paixão pelo futebol.",
+      "keywords_semantic": "Fundación Lara Deportiva, Venezuela, cultura futebolística, rivalidades locais, títulos nacionais, identidade da torcida, ídolos do clube, símbolos de Lara, estilo de jogo venezuelano, jovens talentos, história esportiva, desenvolvimento regional, paixão pelo futebol, torcida vibrante, representatividade local."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10092,
+      "name": "Minervén",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 1985,
+      "national": false,
+      "logo": "/teams/10092.png",
+      "keywords": "Minervén, Los Celestes, El Mineros del Sur, Ciudad Guayana, Estadio Cachamay, Copa Libertadores, Copa Sudamericana, Liga Venezolana, Torcida Guayanesa, Identidade Operária, Ídolos Locais, Arquímedes Figuera, Richard Páez, Títulos Regionais, Tradição Mineira, Fervor Venezuelano, Símbolo do Martelo, Desenvolvimento Regional, Conquistas Nacionais, Identidade Cultural Guayanesa.",
+      "keywords_semantic": "Minervén, Venezuela, futebol venezuelano, Ciudad Guayana, rivalidades locais, história do clube, Puertos Ordaz, identidade da torcida, ídolos do clube, Copa Libertadores, títulos nacionais, década de 1990, desenvolvimento regional, estilo de jogo, cultura futebolística, impacto social, ascensão e queda, herança esportiva."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 10314,
+      "name": "Venezuela U20",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 1926,
+      "national": true,
+      "logo": "/teams/10314.png",
+      "keywords": "Vinotinto Sub-20, Rafael Dudamel, Sudamericano Sub-20, Mundial Sub-20, promessas venezuelanas, identidade nacional, torcida venezuelana, futebol de base, talento emergente, desenvolvimento juvenil, orgulho nacional, vinotinto futuro, esperança venezuelana, conquistas juvenis, formação de jogadores.",
+      "keywords_semantic": "Juventude, desenvolvimento, Vinotinto, promessas, talentos emergentes, seleção de base, Conmebol, Mundial Sub-20, formação de atletas, identidade nacional, orgulho venezuelano, competições internacionais, futebol de base, crescimento esportivo, futuro do futebol, ídolos em ascensão, visibilidade internacional, infraestrutura esportiva, preparação técnica, desafios competitivos."
+    },
+    "venue": {
+      "id": 1649,
+      "name": "Estadio Polideportivo de Pueblo Nuevo",
+      "address": "Avenida España",
+      "city": "San Cristóbal",
+      "capacity": 38755,
+      "surface": "grass",
+      "image": "/venues/1649.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11059,
+      "name": "Puerto Cabello U20",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/11059.png",
+      "keywords": "Puerto Cabello U20, La Academia del Fútbol, talentos emergentes, Copa Libertadores Sub-20, cantera promissora, torcida fervorosa, identidade costeira, Estadio La Bombonerita, ídolo juvenil, técnico inovador, formação de base, cultura portuária, desenvolvimento de jovens, futebol venezuelano, crescimento esportivo, tradição e futuro, projeto esportivo, presidente visionário.",
+      "keywords_semantic": "Puerto Cabello, Venezuela, futebol de base, jovem talento, academia de futebol, desenvolvimento de jogadores, La Bombonerita, identidade local, formação esportiva, competições juvenis, futebol venezuelano, Caribe, espírito comunitário, apoio local, futuros ídolos, tradição emergente, estilo de jogo ofensivo, inovação tática, crescimento esportivo, paixão juvenil."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 11360,
+      "name": "Estudiantes de Caracas",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/11360.png",
+      "keywords": "Estudiantes de Caracas, \"Los Académicos\", Primeira Divisão Venezuelana, Estadio Brigido Iriarte, Torcida \"Los Estudiantiles\", Identidade Jovem e Dinâmica, Fundado em 2010, Presidente Jorge Peraza, Técnico Francisco Perlo, Rivalidade com Caracas FC, Desenvolvimento de Jovens Talentos, Participação em Copas Internacionais, Foco em Formação de Base, Cores Preto e Branco, Símbolo do Livro Aberto, Projeto de Crescimento Sustentável, Ídolos Locais, Integração Comunitária.",
+      "keywords_semantic": "Estudiantes de Caracas, futebol venezuelano, Caracas, rivalidades locais, Torneio Clausura, Primera División, identidade jovem, torcida apaixonada, ídolos emergentes, símbolos locais, estilo de jogo ofensivo, desenvolvimento de talentos, impacto social, cultura esportiva venezuelana, marcos históricos."
+    },
+    "venue": {
+      "id": 2851,
+      "name": "Estadio Nacional Brígido Iriarte",
+      "address": "Avenida Estadio, Urbanización El Paraíso",
+      "city": "Caracas",
+      "capacity": 12500,
+      "surface": "grass",
+      "image": "/venues/2851.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11361,
+      "name": "Carabobo II",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/11361.png",
+      "keywords": "Granates, Estadio Misael Delgado, Torneo Clausura, Torneo Apertura, Furia Granate, Carlos Maldonado, Copa Venezuela, identidade valenciana, rivalidade com Deportivo Lara, desenvolvimento de jovens talentos, cultura futebolística de Valencia, apoio fervoroso da torcida, tradição no futebol venezuelano, Miguel Mea Vitali, história e crescimento recente, cores grená e branco.",
+      "keywords_semantic": "Carabobo II, Venezuela, Segunda Divisão, desenvolvimento de talentos, história recente, clube formador, rivalidade regional, apoio local, identidade jovem, crescimento esportivo, futuro promissor, tradição emergente, base de torcedores, competições nacionais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 11362,
+      "name": "Deportivo Anzoátegui II",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/11362.png",
+      "keywords": "El Aurirrojo, Estádio José Antonio Anzoátegui, torcida fiel, tradição anzoatiguense, ídolos locais, Copa Venezuela, desenvolvimento de talentos, futebol venezuelano, identidade regional, rivalidade estadual, cantera promissora, símbolo do sol e das estrelas, cores aurirrojas, paixão venezuelana, história recente, jovens promessas, experiência no futebol, influência local, campeonatos nacionais, cultura futebolística.",
+      "keywords_semantic": "Deportivo Anzoátegui II, futebol venezuelano, equipe reserva, desenvolvimento de talentos, Anzoátegui, identidade regional, formação de jogadores, liga venezuelana, La Vinotinto, Estadio José Antonio Anzoátegui, rivalidades locais, torcida jovem, apoio comunitário, crescimento esportivo, base de talentos."
+    },
+    "venue": {
+      "id": 1655,
+      "name": "Estadio Olímpico General José Antonio Anzoátegui",
+      "address": "Avenida Intercomunal",
+      "city": "Puerto la Cruz",
+      "capacity": 37485,
+      "surface": "grass",
+      "image": "/venues/1655.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11363,
+      "name": "Deportivo Táchira II",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/11363.png",
+      "keywords": "Deportivo Táchira II, Aurinegros, San Cristóbal, Estadio Polideportivo de Pueblo Nuevo, ídolos locais, cantera, formação de talentos, torcida apaixonada, rivalidade com Caracas FC, identidade andina, tradição no futebol venezuelano, desenvolvimento juvenil, academia de futebol, apoio regional, cultura esportiva venezuelana, influência do Deportivo Táchira, promessas do futebol.",
+      "keywords_semantic": "Deportivo Táchira, futebol venezuelano, San Cristóbal, torcida aurinegra, Clássico Andino, rivalidade Caracas FC, Estádio Polideportivo de Pueblo Nuevo, títulos nacionais, ídolos históricos, formação de talentos, identidade regional, paixão andina, futebol ofensivo, tradição local, influência cultural, base de torcedores, desenvolvimento juvenil."
+    },
+    "venue": {
+      "id": 7554,
+      "name": "Estadio Metropolitano IDT",
+      "address": "Avenida Universidad Villa Bolivariana La Gran Colombia",
+      "city": "San Cristóbal",
+      "capacity": 22000,
+      "surface": "grass",
+      "image": "/venues/7554.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11364,
+      "name": "Unión Lara",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/11364.png",
+      "keywords": "Unión Lara, Rojinegros, Estadio Metropolitano de Lara, Torcida Larense, Pasión Larense, Futbol Venezolano, Ascenso a Primera División, Copa Venezuela, Carlos Stifano, Ídolos Históricos, Rivalidade Regional, Juventud y Tradición, Desarrollo de Talentos, Fútbol del Centroccidente, Identidade Larense, Club de Barquisimeto, Estilo de Juego Dinámico, Compromiso Comunitario, Innovación y Crecimiento, Historia de Superación.",
+      "keywords_semantic": "Unión Lara, Venezuela, futebol venezuelano, Barquisimeto, rivalidades locais, Liga FUTVE, torcida apaixonada, identidade regional, ídolos do clube, história esportiva, estilo de jogo, cultura futebolística, desenvolvimento de talentos, símbolos do clube, competições nacionais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 11365,
+      "name": "Caroní",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 2009,
+      "national": false,
+      "logo": "/teams/11365.png",
+      "keywords": "Caroní FC, Los Petroleros, Ciudad Guayana, Estádio Polideportivo Cachamay, futebol venezuelano, Segunda División, paixão local, identidade guayanesa, clube emergente, rivalidades regionais, desenvolvimento de talentos, ascensão no futebol, torcida apaixonada, cultura futebolística venezuelana, jovens promessas, desafios econômicos, presidente influente, técnico visionário, tradição futbolística, cores do clube, símbolos do Caroní FC.",
+      "keywords_semantic": "Venezuela, futebol venezuelano, Puerto Ordaz, Caroní FC, Liga Venezuelana, cultura futebolística, estádio Cachamay, rivalidades locais, desenvolvimento esportivo, identidade regional, torcida apaixonada, ídolos locais, jovens talentos, crescimento do futebol, tradição emergente, cores do clube, espírito comunitário, desafios competitivos, história recente, paixão pelo futebol."
+    },
+    "venue": {
+      "id": 7555,
+      "name": "Polideportivo Venalum",
+      "address": "Avenida Norte Sur 3",
+      "city": "Puerto Ordaz, Ciudad Guayana",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/7555.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11366,
+      "name": "Deportivo San Antonio",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 1999,
+      "national": false,
+      "logo": "/teams/11366.png",
+      "keywords": "Deportivo San Antonio, Los Guerreros, Ídolos: Juan Pérez, Luis Martínez, Campeão da Copa Venezuela, Torcida apaixonada, Identidade andina, Cultura futebolística venezuelana, Presidente: Carlos Ramírez, Técnico: Miguel Torres, Símbolo: Águia andina, Rojiblancos, Estádio San Antonio, Tradição futebolística, Rivalidade regional, Formação de jovens talentos.",
+      "keywords_semantic": "Deportivo San Antonio, Venezuela, futebol venezuelano, cultura esportiva, rivalidades regionais, títulos nacionais, torcida apaixonada, identidade local, ídolos do clube, símbolos de equipe, estilo de jogo ofensivo, história do clube, desenvolvimento juvenil, impacto social, tradição esportiva, marcos históricos."
+    },
+    "venue": {
+      "id": 1870,
+      "name": "Estadio Pedro Chávez",
+      "address": null,
+      "city": "San Antonio del Táchira",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "/venues/1870.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11367,
+      "name": "Guatire",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 1964,
+      "national": false,
+      "logo": "/teams/11367.png",
+      "keywords": "Guatire FC, El Rojo de Miranda, Alfredo Loyo, Liga FUTVE 2, Torcida Guatirense, Identidade Mirandina, Estádio Giuseppe Antonelli, Futebol Venezuelano, Desenvolvimento Juvenil, Rivais Regionais, Projeto Social, Ascensão ao Futebol Profissional, Paixão Local, Cultura Futbolística Venezuelana, Tradição e História.",
+      "keywords_semantic": "Guatire, Venezuela, futebol venezuelano, tradições locais, rivalidades regionais, torcida apaixonada, ídolos locais, clube emergente, desenvolvimento jovem, identidade cultural, comunidade, história esportiva, estilo de jogo, competição nacional, símbolos do clube, crescimento futebolístico."
+    },
+    "venue": {
+      "id": 1653,
+      "name": "Estadio Olímpico de la UCV",
+      "address": "Avenida Los Mangos, Los Chaguaramos",
+      "city": "Caracas",
+      "capacity": 23940,
+      "surface": "grass",
+      "image": "/venues/1653.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11368,
+      "name": "Lotería del Táchira",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 2008,
+      "national": false,
+      "logo": "/teams/11368.png",
+      "keywords": "Lotería del Táchira, La Lotería, Estádio Pueblo Nuevo, Estádio Polideportivo de Pueblo Nuevo, San Cristóbal, futebol venezuelano, Aurinegros, Copa Venezuela, Torneio Apertura, Torneio Clausura, torcida tachirense, identidade andina, rivalidade com Deportivo Táchira, José de Jesús Mora, ídolos locais, cultura futebolística venezuelana, tradição futebolística, história dos clubes venezuelanos, futebol nos Andes, paixão pelo futebol, desenvolvimento esportivo na Venezuela.",
+      "keywords_semantic": "Lotería del Táchira, Venezuela, futebol venezuelano, fundação, tradição, cultura andina, torcida apaixonada, rivalidades locais, San Cristóbal, Copa Venezuela, história esportiva, ídolos do clube, desenvolvimento de talentos, futebol de base, identidade regional, símbolos culturais, marcos históricos."
+    },
+    "venue": {
+      "id": 7557,
+      "name": "Complejo Deportivo UCAT",
+      "address": "Barrio Obrero",
+      "city": "San Cristóbal",
+      "capacity": 5000,
+      "surface": "artificial turf",
+      "image": "/venues/7557.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11369,
+      "name": "Real Anzoátegui",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 2010,
+      "national": false,
+      "logo": "/teams/11369.png",
+      "keywords": "Real Anzoátegui, Los Guerreros de Oriente, Estadio José Antonio Anzoátegui, torcida fanática, Vinotinto, Carlos Maldonado, ídolo local, futebol venezuelano, Copa Venezuela, Identidade oriental, rivalidade estadual, La Banda Oriental, desenvolvimento de jovens talentos, La Furia Anzoatiguense, Tradição caribenha, presidente destacado, Carlos Horacio Moreno, estilo de jogo ofensivo, paixão regional, cores alvirrubras, cultura futebolística venezuelana.",
+      "keywords_semantic": "Real Anzoátegui, Venezuela, futebol venezuelano, Puerto La Cruz, identidade local, torcida apaixonada, rivalidades regionais, Liga FUTVE, desenvolvimento juvenil, ascensão esportiva, cultura futebolística, estádio José Antonio Anzoátegui, cores do clube, talentos emergentes, impacto social, comunidade, tradição esportiva, paixão pelo futebol, ídolos locais, estilo de jogo ofensivo, história recente, espírito competitivo."
+    },
+    "venue": {
+      "id": 1655,
+      "name": "Estadio Olímpico General José Antonio Anzoátegui",
+      "address": "Avenida Intercomunal",
+      "city": "Puerto la Cruz",
+      "capacity": 37485,
+      "surface": "grass",
+      "image": "/venues/1655.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11370,
+      "name": "Estrella Roja",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 2004,
+      "national": false,
+      "logo": "/teams/11370.png",
+      "keywords": "Estrella Roja, La Estrella, ídolos: Juan González, Carlos Pérez, títulos importantes: Campeonato Venezuelano, Copa Venezuela, torcida fervorosa, identidade cultural: paixão beisbolística, cores tradicionais: vermelho e branco, presidente: Miguel Ramírez, técnico: Andrés Soto, símbolo: estrela vermelha, rivalidade com Deportivo Caracas, estádio: Estadio Metropolitano, academia de jovens talentos, legado esportivo, desenvolvimento comunitário, apoio local, tradição futebolística, festividades regionais.",
+      "keywords_semantic": "Caracas, tradição, rivalidade, Clásico Capitalino, títulos nacionais, história, torcida fiel, La Barra Roja, estádio, ídolos, paixão, identidade cultural, futebol ofensivo, desenvolvimento juvenil, orgulho local, Copa Venezuela, comunidade, perseverança."
+    },
+    "venue": {
+      "id": 2852,
+      "name": "Cocodrilos Sports Park",
+      "address": null,
+      "city": null,
+      "capacity": 3500,
+      "surface": "artificial turf",
+      "image": "/venues/2852.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11371,
+      "name": "Monagas II",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/11371.png",
+      "keywords": "Monagas II, Azulgranas, Estádio Monumental de Maturín, La Tormenta Azul, torcida apaixonada, identidade oriental, futebol venezuelano, cantera de talentos, ídolos emergentes, desenvolvimento de juvenis, Copa Venezuela, rivalidade regional, Jorge Rojas, formação de base, jovens promessas, apoio local, tradição esportiva, espírito competitivo, crescimento no futebol, clube formador.",
+      "keywords_semantic": "Segunda Divisão, futebol venezuelano, desenvolvimento de jovens, rivalidade local, torcida emergente, história recente, crescimento esportivo, projeto de base, talentos regionais, identidade comunitária, formação de atletas, competições nacionais, estratégia de ascensão, cultura futebolística, paixão venezuelana."
+    },
+    "venue": {
+      "id": 7558,
+      "name": "Estadio Alexander Comanche Bottini",
+      "address": null,
+      "city": null,
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "/venues/7558.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11372,
+      "name": "Deportivo Lara II",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/11372.png",
+      "keywords": "Deportivo Lara II, Rojinegros, Estádio Metropolitano de Lara, Torcida Pasión Rojinegra, Identidade cultural Lara, Desenvolvimento de jovens talentos, Formação de base, Ascensão no futebol venezuelano, Luis Colmenárez, Promessas do futebol venezuelano, Rivalidade com clubes da região, Identidade regional, Potencial de crescimento, Apoio local, Fomento ao talento jovem, Contribuição ao futebol venezuelano, Orgulho larense.",
+      "keywords_semantic": "Deportivo Lara II, Venezuela, futebol venezuelano, equipe reserva, formação de jovens, desenvolvimento de talentos, cultura esportiva, identidade regional, Barquisimeto, rivalidades locais, tradição de base, apoio da torcida, La Guaira, ascensão no futebol, competições nacionais, jovens promessas, estilo de jogo ofensivo, valores comunitários, orgulho local."
+    },
+    "venue": {
+      "id": 1656,
+      "name": "Estadio Farid Richa",
+      "address": null,
+      "city": null,
+      "capacity": 12480,
+      "surface": "grass",
+      "image": "/venues/1656.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11373,
+      "name": "Fundación Cesarger",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/11373.png",
+      "keywords": "Fundación Cesarger, Estadio Armando Reverón, La Furia Llanera, títulos regionais, futebol venezuelano, ídolos locais, torcida apaixonada, identidade cultural venezuelana, cores do clube, desenvolvimento de jovens talentos, rivalidades locais, presidente do clube, técnico atual, fundação do clube, crescimento no futebol venezuelano, competições nacionais, apoio comunitário, símbolos do clube, influências culturais, história do clube.",
+      "keywords_semantic": "Fundación Cesarger, Venezuela, futebol venezuelano, cultura local, identidade regional, rivalidades locais, torcida apaixonada, história do clube, desenvolvimento esportivo, impacto social, ídolos locais, símbolos culturais, estilo de jogo jovem, competições nacionais, projeto comunitário, crescimento esportivo."
+    },
+    "venue": {
+      "id": 7559,
+      "name": "Estadio Félix Lalito Velásquez",
+      "address": null,
+      "city": null,
+      "capacity": 15000,
+      "surface": "grass",
+      "image": "/venues/7559.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11374,
+      "name": "Lara FC",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 1965,
+      "national": false,
+      "logo": "/teams/11374.png",
+      "keywords": "Lara FC, crepusculares, Estadio Metropolitano de Cabudare, fanáticos rojinegros, Jorge Giménez, Noel Sanvicente, 2012 Copa Venezuela, identidade llanera, paixão guara, ídolo Jesús Hernández, tradição em Barquisimeto, plantel jovem promissor, rivalidade com Deportivo Táchira, cores vermelha e preta, desenvolvimento de base, torcida apaixonada, orgulho larense, ascensão no futebol venezuelano, legado de vitórias.",
+      "keywords_semantic": "Lara FC, Venezuela, futebol venezuelano, Barquisimeto, Estádio Metropolitano de Lara, rivalidade, Deportivo Táchira, cultura futebolística, torcida apaixonada, títulos nacionais, história recente, identidade regional, ídolos locais, jogadores jovens, estilo ofensivo, desenvolvimento de talentos, competições sul-americanas, influência social."
+    },
+    "venue": {
+      "id": 1656,
+      "name": "Estadio Farid Richa",
+      "address": null,
+      "city": null,
+      "capacity": 12480,
+      "surface": "grass",
+      "image": "/venues/1656.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11375,
+      "name": "Minasoro FV",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/11375.png",
+      "keywords": "Minasoro FV, La Minero, ídolos locais, Campeonato Venezuelano, Copa Venezuela, torcida fervorosa, cultura mineradora, tradição futebolística, identidade regional, presidente Juan Pérez, técnico Carlos Ramírez, El Coloso del Sur, rivalidade regional, cantera de talentos, desenvolvimento juvenil, paixão futebolística, ascensão meteórica, símbolo do martelo e picareta.",
+      "keywords_semantic": "Minasoro FV, Venezuela, futebol venezuelano, cultura futebolística, rivalidades locais, títulos nacionais, história do clube, identidade da torcida, ídolos do clube, ícones regionais, símbolo do clube, estilo de jogo ofensivo, tradição futebolística, desenvolvimento de jovens talentos, impacto social, comunidade apaixonada, torcida vibrante, evolução competitiva, legado esportivo, identidade regional, espírito de equipe."
+    },
+    "venue": {
+      "id": 7560,
+      "name": "Estadio Héctor Thomas",
+      "address": null,
+      "city": null,
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/7560.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11376,
+      "name": "Real Bolívar FC",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 2008,
+      "national": false,
+      "logo": "/teams/11376.png",
+      "keywords": "Real Bolívar FC, Los Guerreros, Estadio Metropolitano de Mérida, La Vinotinto, Torneo Apertura, Torneo Clausura, Copa Venezuela, La Furia Azul, Ídolo: Juan Arango, Presidente: Luis Mendoza, Técnico: Carlos Maldonado, Rivais: Estudiantes de Mérida, Tradição andina, Cultura futebolística venezuelana, Símbolo: Águila Real, Cantera promissora, Paixão merideña, Desempenho histórico, Torcida fervorosa, Identidade sul-americana.",
+      "keywords_semantic": "Venezuela, Real Bolívar FC, futebol venezuelano, La Paz, rivalidade, títulos nacionais, cultura local, tradição esportiva, torcida apaixonada, ídolos do clube, La Academia, estilo de jogo ofensivo, marcos históricos, identidade regional, símbolos do clube, desenvolvimento juvenil, impacto social, competições continentais, estádio icônico, jogadores lendários"
+    },
+    "venue": {
+      "id": 7561,
+      "name": "Complejo Deportivo 5 de Julio",
+      "address": null,
+      "city": null,
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/7561.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11377,
+      "name": "UA Aragua",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 2008,
+      "national": false,
+      "logo": "/teams/11377.png",
+      "keywords": "UA Aragua, Aragua FC, Toros, Estádio Olímpico Hermanos Ghersi Páez, torcida Aurirroja, futebol venezuelano, La Vinotinto, Aragua, Maracay, cultura llanera, Copa Venezuela, Liga FUTVE, ídolos locais, formação de jovens talentos, identidade regional, rivalidade com Caracas FC, jogadores promissores, apoio comunitário, El Loco Abreu, histórico recente, projetos sociais, desenvolvimento esportivo na Venezuela.",
+      "keywords_semantic": "UA Aragua, Venezuela, futebol venezuelano, Maracay, Estádio Olímpico Hermanos Ghersi Páez, rivalidade regional, Copa Venezuela, identidade local, torcida apaixonada, desenvolvimento juvenil, história recente, cores tradicionais, cultura esportiva, ídolos locais, impacto social, crescimento competitivo."
+    },
+    "venue": {
+      "id": 1831,
+      "name": "Estadio Giuseppe Antonelli",
+      "address": null,
+      "city": null,
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/1831.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16696,
+      "name": "Atlético La Cruz",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 2020,
+      "national": false,
+      "logo": "/teams/16696.png",
+      "keywords": "Atlético La Cruz, Los Guerreros del Norte, ídolo Carlos Maldonado, Torneo Clausura, Estadio General José Antonio Páez, torcida fiel, identidade cultural llanera, presidente Juan Pérez, técnico Andrés González, cores azul e branco, símbolo da força e resiliência, rivalidade com Zamora FC, campeões regionais, desenvolvimento de jovens talentos, tradição na Copa Venezuela.",
+      "keywords_semantic": "Atlético La Cruz, Venezuela, tradição, cultura local, história, rivalidades regionais, campeonatos nacionais, conquistas, torcida apaixonada, ídolos do clube, símbolos culturais, estilo de jogo ofensivo, defesa sólida, desenvolvimento de jovens talentos, identidade comunitária, impacto social, influência local, herança esportiva, paixão pelo futebol, legado regional, espírito competitivo."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 16847,
+      "name": "Rayo Zuliano",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/16847.png",
+      "keywords": "Rayo Zuliano, La Tormenta Zuliana, Estádio José Encarnación \"Pachencho\" Romero, Zulia, Maracaibo, Liga FUTVE, torcida zuliana, identidade cultural marabina, rivalidade com Zulia FC, ídolos locais, desenvolvimento de talentos jovens, futebol venezuelano, paixão e tradição, presidente do clube, técnico atual, cores azul e branco, símbolo do raio, história e fundação do clube.",
+      "keywords_semantic": "Rayo Zuliano, Venezuela, futebol venezuelano, cultura local, Maracaibo, rivalidades regionais, tradição esportiva, história do clube, torcida apaixonada, ídolos locais, identidade regional, desenvolvimento de talentos, estilo de jogo, competições nacionais, ascensão no futebol, impacto social, símbolos do clube, paixão pelo futebol, influência cultural, comunidade local."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18264,
+      "name": "Venezuela W",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 1926,
+      "national": true,
+      "logo": "/teams/18264.png",
+      "keywords": "Vinotinto, Deyna Castellanos, Copa América Feminina, La Vinotinto Feminina, Estádio Olímpico de la UCV, Federação Venezuelana de Futebol, torcida apaixonada, identidade caribenha, futebol feminino em ascensão, orgulho nacional, futebol venezuelano, desenvolvimento juvenil, Jorge Giménez (presidente), Pamela Conti (técnica), crescimento do esporte feminino, símbolos da resistência, futebol e cultura venezuelana, trajetória da seleção feminina.",
+      "keywords_semantic": "futebol feminino, Venezuela, diversidade cultural, crescimento esportivo, empoderamento feminino, rivalidades sul-americanas, Copa América, identidade venezuelana, paixão nacional, desenvolvimento juvenil, herança esportiva, ídolos locais, competitividade regional, estilo técnico, orgulho nacional, igualdade de gênero, equipe emergente, história recente, símbolos nacionais, talento promissor"
+    },
+    "venue": {
+      "id": 22747,
+      "name": "Centro Nacional de Alto Rendimiento",
+      "address": "Calle El Pozo",
+      "city": "Los Robles",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "/venues/22747.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18806,
+      "name": "Academia Anzoátegui",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18806.png",
+      "keywords": "Academia Anzoátegui, El Aurirrojo, ídolos locais, títulos estaduais, Estádio José Antonio Anzoátegui, torcida fervorosa, cultura oriental venezuelana, identidade regional, futebol moderno, jovens promessas, desenvolvimento de talentos, rivalidade regional, presidente do clube, técnico inovador, projeto de base, cores vermelha e amarela, símbolo do sol, paixão anzoatiguense, crescimento recente, futebol venezuelano, campeonatos nacionais.",
+      "keywords_semantic": "Academia Anzoátegui, Venezuela, futebol venezuelano, cultura local, identidade regional, torcida apaixonada, rivalidades locais, desenvolvimento de jovens talentos, história recente, ascensão no futebol, ídolos emergentes, estilo de posse de bola, competições nacionais, tradição esportiva, impacto comunitário, cores e símbolos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18807,
+      "name": "Héroes de Falcón",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18807.png",
+      "keywords": "Héroes de Falcón, Los Guerreros, Juan Arango, Estádio Polideportivo de Pueblo Nuevo, Campeonato Venezuelano, Copa Venezuela, torcida apaixonada, identidade falconiana, ídolo regional, futebol venezuelano, cultura local, rivalidade regional, presidente Carlos Mendoza, técnico Luis García, tradição esportiva, jovens talentos, projeto de base, fanáticos, cores azul e branco, símbolo do falcão.",
+      "keywords_semantic": "Héroes de Falcón, Venezuela, futebol venezuelano, cultura local, história recente, rivalidades regionais, apoio comunitário, torcida apaixonada, ídolos locais, símbolos regionais, desenvolvimento juvenil, estilo de jogo ofensivo, competições nacionais, identidade regional, ascensão no futebol, paixão pelo esporte."
+    },
+    "venue": {
+      "id": 19627,
+      "name": "Estadio Otto Bueno",
+      "address": null,
+      "city": "Coro",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/19627.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18808,
+      "name": "Nueva Esparta",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18808.png",
+      "keywords": "Nueva Esparta, Guerreros del Caribe, ídolos históricos, títulos regionais, torcida apaixonada, identidade insular, futebol venezuelano, Estádio Comunal, rivalidades locais, desenvolvimento juvenil, José Pérez (presidente), Carlos Ramírez (técnico), cores azul e branco, símbolo da ilha, cultura costeira, tradição esportiva, jovens promessas, impacto social, história do clube.",
+      "keywords_semantic": "Nueva Esparta, Venezuela, futebol venezuelano, cultura local, história do clube, identidade regional, torcida apaixonada, rivalidades locais, desenvolvimento esportivo, ídolos do clube, símbolos regionais, marcos históricos, competições nacionais, estilo de jogo ofensivo, formação de jovens talentos, impacto social."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18983,
+      "name": "Venezuela U23",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": true,
+      "logo": "/teams/18983.png",
+      "keywords": "Vinotinto, futebol olímpico, desenvolvimento juvenil, promessas do futebol, identidade venezuelana, Copa América, La Vinotinto, Rafael Dudamel, crescimento esportivo, torcida apaixonada, futuro do futebol venezuelano, formação de talentos, Conmebol, ídolos emergentes, futebol sul-americano.",
+      "keywords_semantic": "futebol venezuelano, seleção olímpica, jovens talentos, desenvolvimento esportivo, Vinotinto, orgulho nacional, formação de base, competições internacionais, aspirações olímpicas, suporte da torcida, ídolos emergentes, identidade venezuelana, cultura futebolística, rivalidades regionais, estilo de jogo ofensivo, perseverança e paixão, história recente, impacto social, diversidade cultural, crescimento esportivo."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20538,
+      "name": "Venezuela U19",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/20538.png",
+      "keywords": "La Vinotinto Sub-19, jovens promessas, desenvolvimento de talentos, futuro do futebol venezuelano, identidade nacional, orgulho venezuelano, Copa América sub-20, torneios de base, Federação Venezuelana de Futebol, Noel Sanvicente, formação de atletas, cantera venezuelana, estilo de jogo, espírito de luta, projetos juvenis, evolução tática, integração regional, apoio das famílias, idolatria juvenil, estratégias de formação, conquistas emergentes, infraestrutura esportiva, esporte como inclusão social, paixão nacional.",
+      "keywords_semantic": "futebol juvenil, desenvolvimento de talentos, formação de atletas, seleção nacional, identidade cultural, jovens promessas, torneios internacionais, base esportiva, orgulho nacional, formação técnica, futebol venezuelano, futuro do futebol, preparação para o profissional, competições sul-americanas, projeto esportivo, valores esportivos, integração social, intercâmbio esportivo, inspiração juvenil, espírito competitivo, evolução do esporte"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21208,
+      "name": "Marítimo",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 1910,
+      "national": false,
+      "logo": "/teams/21208.png",
+      "keywords": "Marítimo de Venezuela, Los Rojos del Ávila, títulos nacionais, Estádio Olímpico de Caracas, rivalidade com Caracas FC, torcida apaixonada, identidade luso-venezuelana, ídolos históricos, dinastia portuguesa, futebol venezuelano, história e tradição, impacto na liga venezuelana, desenvolvimento de talentos, cultura futebolística, influência europeia, presidentes notáveis, técnicos influentes, símbolo do leão, lutas por títulos, resiliência esportiva.",
+      "keywords_semantic": "Cultura portuguesa, comunidade luso-venezuelana, história imigrante, rivalidades locais, títulos nacionais, paixão dos torcedores, identidade insular, ídolos históricos, ascensão e queda, estilo ofensivo, tradição marítima, herança cultural, paixão fervorosa, símbolos de resistência."
+    },
+    "venue": {
+      "id": 21117,
+      "name": "Estádio do Marítimo",
+      "address": "Rua do Dr. Pita",
+      "city": "Ilha da Madeira",
+      "capacity": 10932,
+      "surface": "grass",
+      "image": "/venues/21117.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21213,
+      "name": "Venezuela U17",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 1926,
+      "national": true,
+      "logo": "/teams/21213.png",
+      "keywords": "La Vinotinto Sub-17, Campeonato Sul-Americano Sub-17, identidade nacional, formação de base, desenvolvimento juvenil, orgulho venezuelano, Ronald Peña, torcedores venezuelanos, futuro do futebol venezuelano, Seleção Venezuelana, promessas do futebol, Copa do Mundo Sub-17, Rafael Dudamel, jogadores emergentes, paixão nacional, talento venezuelano, futebol sul-americano, esperança olímpica, seleções de base, Héctor Rodríguez.",
+      "keywords_semantic": "Seleção juvenil, desenvolvimento de talentos, futebol de base, Vinotinto, formação de jogadores, torneios sul-americanos, Copa do Mundo Sub-17, identidade nacional, promessas do futebol, orgulho venezuelano, treinadores de base, jovens atletas, competições internacionais, futebol de seleções, aspirações olímpicas."
+    },
+    "venue": {
+      "id": 1649,
+      "name": "Estadio Polideportivo de Pueblo Nuevo",
+      "address": "Avenida España",
+      "city": "San Cristóbal",
+      "capacity": 40000,
+      "surface": "grass",
+      "image": "/venues/1649.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21231,
+      "name": "Bolívar",
+      "code": null,
+      "country": "Venezuela",
+      "founded": 2021,
+      "national": false,
+      "logo": "/teams/21231.png",
+      "keywords": "Bolívar La Academia, Ídolos: Juan Arango, Títulos: Liga Venezuelana, Torcida: La Celeste, Identidade Cultural: História e Tradição, Presidente: Marcelo Claure, Técnico: Antônio Carlos Zago, Símbolos: Estádio Hernando Siles, Rivalidade: The Strongest, Formação de Jovens Talentos, Influência no Futebol Venezuelano, Participações em Competições Internacionais.",
+      "keywords_semantic": "Bolívar, Venezuela, futebol venezuelano, La Paz, altiplano, altitude, rivalidade, The Strongest, clássico paceño, Libertadores, Sudamericana, títulos nacionais, Academia Celeste, torcida celeste, Estádio Hernando Siles, ídolos, Jorge Wilstermann, estilo ofensivo, identidade bolivarista, tradição, desenvolvimento juvenil."
+    },
+    "venue": {
+      "id": 21731,
+      "name": "Estadio Decanato UDO Bolívar",
+      "address": null,
+      "city": "Bolívar",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "/venues/21731.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22546,
+      "name": "Caracas",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/22546.png",
+      "keywords": "Los Rojos del Ávila, Estádio Olímpico de la UCV, Richard Páez, Noel Sanvicente, Tetracampeão Venezuelano, Copa Libertadores, Cristian Cásseres, Ronald Vargas, Torcida Rojos del Ávila, Identidade Caraqueña, Rivalidade com Deportivo Táchira, Identidade Urbana, Tradição no Futebol Venezuelano, Juventud y Experiencia, Desenvolvimento de Jovens Talentos, Símbolo Leão, Presença Internacional, Dominância Nacional, História e Tradição, Futebol e Cultura Caraquenha.",
+      "keywords_semantic": "Caracas FC, futebol venezuelano, rivalidade com Deportivo Táchira, El Clásico del fútbol venezolano, títulos nacionais, torcida Los Rojos del Ávila, Estádio Olímpico de la UCV, cultura futebolística, ídolos históricos, identidade vermelha, estilo de jogo aguerrido, desenvolvimento de jovens talentos, Libertadores da América, tradição vencedora, impacto social, futebol na capital venezuelana"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23381,
+      "name": "Venezuela U17 W",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/23381.png",
+      "keywords": "La Vinotinto Sub-17 Femenina, Deyna Castellanos, Copa do Mundo Sub-17, Torneo Sudamericano Femenino Sub-17, José Catoya, formação de base, talento juvenil, promessas do futebol feminino, orgulho nacional, Federación Venezolana de Fútbol, desenvolvimento esportivo, empoderamento feminino no esporte, espírito guerreiro, mística vinotinto, apoio da torcida venezuelana, trajetória histórica, conquistas internacionais sub-17.",
+      "keywords_semantic": "futebol feminino, seleção juvenil, desenvolvimento de talentos, identidade nacional, orgulho venezuelano, rivalidades sul-americanas, torneios internacionais, Copa do Mundo Sub-17, empoderamento feminino, formação de atletas, paixão nacional, jovens promessas, Fair Play, espírito competitivo, crescimento esportivo."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25054,
+      "name": "ADIFFEM",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/25054.png",
+      "keywords": "ADIFFEM, Futebol Feminino Venezuelano, Apelido: Guerreiras, Ídolos: Jogadoras Locais, Torneios Nacionais, Desenvolvimento Futebol Feminino, Identidade Cultural Venezuelana, Torcida Apaixonada, Inclusão e Igualdade de Gênero, Treinador: Líder Inspirador, Presidente: Administrador Visionário, Símbolo: Força e Resiliência, Participação em Competições Internacionais, Crescimento do Futebol Feminino, Comunidade e Base, Promessa de Talentos Jovens, Contribuição para o Futebol Venezuelano, Representação Nacional.",
+      "keywords_semantic": "ADIFFEM, Venezuela, futebol feminino, desenvolvimento esportivo, inclusão social, empoderamento feminino, igualdade de gênero, campeonatos locais, crescimento comunitário, formação de atletas, talento jovem, ícones femininos, paixão venezuelana, incentivo esportivo, pioneirismo, identidade regional, fortalecimento feminino, aspirações olímpicas."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25698,
+      "name": "Metropolitanos U20",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/25698.png",
+      "keywords": "Metropolitanos U20, jovens talentos, La Furia Violeta, academia de base, formação de jogadores, identidade venezuelana, desenvolvimento juvenil, Torneo Nacional U20, potencial futuro, tradição formativa, paixão pela base, jovens promessas, Juan Domingo Tolisano, conexão com a torcida, crescimento esportivo, integração cultural, símbolos do clube, cores violeta e branco, espírito competitivo, apoio local.",
+      "keywords_semantic": "Caracas, futebol de base, desenvolvimento juvenil, talento emergente, Liga FUTVE, formação de jogadores, identidade local, competições juvenis, futuro promissor, academia de futebol, cultura esportiva, paixão venezuelana, crescimento esportivo, rivalidades regionais, compromisso social."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25902,
+      "name": "Puerto Cabello II",
+      "code": null,
+      "country": "Venezuela",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/25902.png",
+      "keywords": "Puerto Cabello II, Venezuela, Academia Puerto Cabello, Estadio La Bombonerita, La Academia, futebol venezuelano, talentos emergentes, cantera, formação de jovens, José Manuel Rey, ídolos locais, Litoral Central, crescimento esportivo, torcida fiel, identidade portenha, cultura costeira, desenvolvimento de base, vinotinto, campeonato nacional sub-20, projeto social, infraestrutura esportiva, suporte comunitário, paixão pelo futebol.",
+      "keywords_semantic": "Puerto Cabello II, Venezuela, futebol venezuelano, equipe de reserva, desenvolvimento de jovens, academia de futebol, identidade local, academia, Estádio La Bombonerita, formação de talentos, rivalidades regionais, futebol de base, história recente, comunidade portuária, cores do clube, azul e laranja, cultura futebolística, tradições locais, crescimento esportivo, suporte da torcida, campeonatos nacionais, aspirações futuras, impacto social."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

@@ -1,0 +1,2246 @@
+[
+  {
+    "team": {
+      "id": 1148,
+      "name": "Emelec",
+      "code": "EME",
+      "country": "Ecuador",
+      "founded": 1929,
+      "national": false,
+      "logo": "/teams/1148.png",
+      "keywords": "Emelec, El Bombillo, Estádio George Capwell, Neme, Gustavo Quinteros, tricampeonato equatoriano, El Ballet Azul, torcida elétrica, Campeonato Equatoriano, clássico do astillero, Nassib Neme, ídolo Carlos Alberto Juárez, identidade guayaquileña, Copa Libertadores, Jorge Sampaoli, tradição costeira, símbolo da eletricidade, Roberto Ordóñez, Los Eléctricos, legado de títulos, rivalidade com Barcelona SC.",
+      "keywords_semantic": "Guayaquil, Eléctricos, Clássico do Astillero, rivalidade Barcelona-Emelec, Estádio George Capwell, tricampeonato, torcida Los Millonarios, Campeonato Equatoriano, ídolo Carlos Alberto Raffo, estilo ofensivo, Copa Libertadores, identidade costeira, tradição naval, energia elétrica, hegemonia local."
+    },
+    "venue": {
+      "id": 18579,
+      "name": "Estadio George Capwell",
+      "address": "Calle General Gómez 1312 y Avenida Quito",
+      "city": "Guayaquil",
+      "capacity": 36007,
+      "surface": "grass",
+      "image": "/venues/18579.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1149,
+      "name": "Delfin SC",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 1989,
+      "national": false,
+      "logo": "/teams/1149.png",
+      "keywords": "Cetáceos, Manta, Luis Chango, LigaPro, Copa Sudamericana, Roberto Ordóñez, Carlos Garcés, 2019, título inédito, torcedores apaixonados, identidade costeira, Fabián Bustos, Estádio Jocay, rivalidade equatoriana, crescimento rápido, símbolo do golfinho, Marcos Cangá, Jorge Pinos.",
+      "keywords_semantic": "Manta, Manabí, LigaPro, cetáceos, identidade costeira, ascensão recente, Copa Libertadores, clássicos regionais, torcedores apaixonados, jogadores da casa, estilo defensivo, Estadio Jocay, ídolos locais, rivalidade com Barcelona SC, futebol equatoriano."
+    },
+    "venue": {
+      "id": 467,
+      "name": "Estadio Jocay",
+      "address": "Avenida 113",
+      "city": "Manta",
+      "capacity": 17834,
+      "surface": "grass",
+      "image": "/venues/467.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1150,
+      "name": "El Nacional",
+      "code": "NAC",
+      "country": "Ecuador",
+      "founded": 1964,
+      "national": false,
+      "logo": "/teams/1150.png",
+      "keywords": "Los Puros Criollos, ídolos: Ermen Benítez, Iván Kaviedes, títulos importantes: Campeonato Ecuatoriano, torcida: La Marea Roja, identidade cultural: formação de jogadores locais, símbolo: estrela no escudo, técnico: Ever Hugo Almeida, presidente: Lucía Vallecilla, Estádio Olímpico Atahualpa, rivalidade com LDU Quito, cantera de talentos.",
+      "keywords_semantic": "Militar, Quito, Glorioso, tricampeonato, rivalidade, Barcelona SC, Liga de Quito, La Maquina Gris, identidade, patriotismo, cantera, formação, ídolos, Vinicio Ron, estilo ofensivo, tradição, torcida fiel, Estádio Olímpico Atahualpa, história, nacionalismo, herança."
+    },
+    "venue": {
+      "id": 465,
+      "name": "Estadio Olímpico Atahualpa",
+      "address": "Avenida 6 de Diciembre y Avenida Naciones Unidas",
+      "city": "Quito",
+      "capacity": 40958,
+      "surface": "grass",
+      "image": "/venues/465.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1151,
+      "name": "Tecnico Universitario",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 1971,
+      "national": false,
+      "logo": "/teams/1151.png",
+      "keywords": "Rodillo Rojo, Ambato, Clássico Ambateño, Estádio Bellavista, Jorge Célico, LigaPro, Ascenso, Torcida Guerreros, Identidade Tungurahuense, Ídolo: Patricio Hurtado, Fundação 1971, Rivalidade Macará, Copa Ecuador, Presidente Tito Jara, Jogadores históricos, Cultura Andina no Futebol, Desenvolvimento de jovens talentos.",
+      "keywords_semantic": "Ambato, Rodillo Rojo, rivalidade Macará, futebol equatoriano, Serie A do Equador, identidade andina, Estádio Bellavista, tradição universitária, comunidade estudantil, desenvolvimento juvenil, futebol ofensivo, ídolos locais, ascensão e queda, paixão regional, história esportiva, orgulho ambatenho."
+    },
+    "venue": {
+      "id": 474,
+      "name": "Estadio Bellavista de Ambato",
+      "address": "Avenida Bolivariana",
+      "city": "Ambato",
+      "capacity": 16467,
+      "surface": "grass",
+      "image": "/venues/474.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1152,
+      "name": "Barcelona SC",
+      "code": "BAR",
+      "country": "Ecuador",
+      "founded": 1925,
+      "national": false,
+      "logo": "/teams/1152.png",
+      "keywords": "Barcelona SC, Ídolos: Carlos Luis Morales, Alfaro Moreno, Títulos: Campeonato Equatoriano, Copa Libertadores, Torcida: La Sur Oscura, Identidade Cultural: Ídolo del Astillero, Presidente: Carlos Alfaro Moreno, Técnico: Fabián Bustos, Símbolos: Canário, Estádio Monumental Isidro Romero Carbo, Rivalidade: Emelec, Clássico: Clásico del Astillero, Fundado: 1925, Cores: Amarelo e Preto, Paixão: Torcida Amarela, Tradição: Maior campeão do Equador, Identidade: Orgulho Guayaquileño.",
+      "keywords_semantic": "Guayaquil, rivalidade com Emelec, La Noche Amarilla, torcida Toreros, ídolo Alberto Spencer, Estádio Monumental Isidro Romero Carbo, El Ídolo del Astillero, Copa Libertadores, tradição equatoriana, hegemonia nacional, estilo ofensivo, história rica, orgulho guayaquileño, paixão popular, títulos nacionais."
+    },
+    "venue": {
+      "id": 466,
+      "name": "Estadio Monumental Banco Pichincha",
+      "address": "Avenida Barcelona Sporting Club, Tarqui",
+      "city": "Guayaquil",
+      "capacity": 59283,
+      "surface": "grass",
+      "image": "/venues/466.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1153,
+      "name": "Independiente del Valle",
+      "code": "IND",
+      "country": "Ecuador",
+      "founded": 1958,
+      "national": false,
+      "logo": "/teams/1153.png",
+      "keywords": "Los Negriazules, Sangolquí, La Gloria del Valle, Junior Sornoza, Independiente José Terán, Copa Sudamericana, Estádio Banco Guayaquil, Michael Estrada, Libertadores, Miguel Ángel Ramírez, Cristian Pellerano, Danny Walker, La Familia del Valle, academia de jovens, projeto social, força tática, Rey de Copas do Equador, economia sustentável, José Terán, identidade equatoriana, jovens talentos, La Marea Negra.",
+      "keywords_semantic": "Independiente del Valle, formação juvenil, desenvolvimento de talentos, Libertadores, Sul-Americana, Sangolquí, projeto social, inovação tática, estilo de posse, rivalidade equatoriana, ídolos emergentes, clube ascensão, comunidade local, identidade resiliente, torcida apaixonada, símbolos azul e preto."
+    },
+    "venue": {
+      "id": 18580,
+      "name": "Estadio Banco Guayaquil",
+      "address": "Calle F S/N y Calle I, Chillo-Jijón, Sangolquí",
+      "city": "Quito",
+      "capacity": 12600,
+      "surface": "grass",
+      "image": "/venues/18580.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1154,
+      "name": "Deportivo Cuenca",
+      "code": "CUE",
+      "country": "Ecuador",
+      "founded": 1971,
+      "national": false,
+      "logo": "/teams/1154.png",
+      "keywords": "El Expreso Austral, Alejandro Frezzotti, Campeón Serie A 2004, La Banda del Rojo, Estádio Alejandro Serrano Aguilar, hinchada fervorosa, camiseta vermelha, Luis Soler, Morlacos, identidade andina, rivalidade com Emelec, cultura equatoriana, clube de Cuenca, Andrés Chicaiza, tradição futebolística, Jorge Guzmán (presidente).",
+      "keywords_semantic": "Deportivo Cuenca, Equador, Morlacos, Alejandro Serrano Aguilar, rivalidade, Barcelona SC, Emelec, LigaPro, título 2004, Copa Sudamericana, torcida, vermelho e amarelo, Cuenca, Andes, identidade local, ídolos, histórico, tradição, futebol andino, La Garra, estilo de jogo, perseverança."
+    },
+    "venue": {
+      "id": 468,
+      "name": "Estadio Alejandro Serrano Aguilar Banco del Austro",
+      "address": "Avenida del Estadio y José Peralta",
+      "city": "Cuenca",
+      "capacity": 22830,
+      "surface": "grass",
+      "image": "/venues/468.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1155,
+      "name": "Macara",
+      "code": "MAC",
+      "country": "Ecuador",
+      "founded": 1939,
+      "national": false,
+      "logo": "/teams/1155.png",
+      "keywords": "Celestes, Ambato, Estádio Bellavista, Ídolo de Ambato, hinchada fiel, hinchas celestes, LigaPro, Copa Sudamericana, Paul Vélez, Carlos Feraud, Armando Osma, Derby Ambateño, AsoGuayas, história rica, identidade andina, tradição equatoriana, crescimento constante, rivalidade com Técnico Universitario.",
+      "keywords_semantic": "Ambato, rivalidade, Técnico Universitario, Estádio Bellavista, torcida fiel, ascensão, ídolos locais, futebol equatoriano, história modesta, tradição, paixão, identidade regional, azul celeste, comunidade, Superclássico de Ambato, desenvolvimento jovem, estilo defensivo, competição nacional."
+    },
+    "venue": {
+      "id": 474,
+      "name": "Estadio Bellavista de Ambato",
+      "address": "Avenida Bolivariana",
+      "city": "Ambato",
+      "capacity": 16467,
+      "surface": "grass",
+      "image": "/venues/474.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1156,
+      "name": "Aucas",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 1945,
+      "national": false,
+      "logo": "/teams/1156.png",
+      "keywords": "Aucas, Ídolos: Wellington Sánchez, Gustavo Figueroa, Títulos: Campeão da Série A Equatoriana 2022, Torcida: La Barra del Auca, Identidade Cultural: Tradição indígena, Apelido: \"Papá Aucas\", Estádio: Gonzalo Pozo Ripalda, Presidente: Danny Walker, Técnico: César Farías, Símbolos: Sol e montanhas andinas, Rivalidade: LDU Quito, História: Fundado em 1945, Cores: Amarelo e vermelho.",
+      "keywords_semantic": "Aucas, Ecuador, Quito, Sociedade Esportiva, Ídolos Locais, Rivalidade LDU, Clássico Capitalino, Ascensão Recente, Torcida Apaixonada, Estilo Ofensivo, Tradição Equatoriana, Identidade Cultural, Conquista Nacional, Símbolos Regionais, História Rica, Desenvolvimento Juvenil, Orgulho Local, Campeonato Equatoriano, Paixão Popular, Estádio Chillogallo"
+    },
+    "venue": {
+      "id": 19380,
+      "name": "Estadio Cooprogreso Gonzalo Pozo Ripalda",
+      "address": "Avenida Rumichaca y Calle Moromoro, Chillogallo",
+      "city": "Quito",
+      "capacity": 21689,
+      "surface": "grass",
+      "image": "/venues/19380.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1157,
+      "name": "Universidad Catolica",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 1963,
+      "national": false,
+      "logo": "/teams/1157.png",
+      "keywords": "Los Camarattas, La Chatolei, Jorge Célico, Ídolos: Polo Carrera, Patricio Urrutia, Torcida: La Turba, Títulos Serie B Ecuador, Tradição acadêmica, Identidade universitária, Estádio Olímpico Atahualpa, Rivalidade: SD Quito, Cor azul e branco, Presidente: Miguel Almeida, Técnico: Igor Oca, Formação de jovens talentos, Estilo de jogo ofensivo.",
+      "keywords_semantic": "Universidad Catolica, Quito, Tricolores, futebol equatoriano, história, cultura, rivalidade, El Nacional, Independiente del Valle, títulos, marcos, torcida, Los Camarattas, ídolos, Luis Miguel Escalada, Estádio Olímpico Atahualpa, estilo de jogo, ataque, desenvolvimento de jovens, reputação, tradição, identidade."
+    },
+    "venue": {
+      "id": 465,
+      "name": "Estadio Olímpico Atahualpa",
+      "address": "Avenida 6 de Diciembre y Avenida Naciones Unidas",
+      "city": "Quito",
+      "capacity": 40958,
+      "surface": "grass",
+      "image": "/venues/465.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1158,
+      "name": "LDU de Quito",
+      "code": "QUI",
+      "country": "Ecuador",
+      "founded": 1930,
+      "national": false,
+      "logo": "/teams/1158.png",
+      "keywords": "La U, Rey de Copas, Estádio Casa Blanca, Quito, Los Albos, Libertadores 2008, Sul-Americana 2009, Recopa Sul-Americana, Esteban Paz, Luis Zubeldía, Patricio Urrutia, Claudio Bieler, Franklin Salas, Hernán Barcos, torcida fiel, hinchada blanca, identidade quiteña, rivalidade com Barcelona SC, tradição equatoriana, clube tradicional, história rica, conquistas internacionais.",
+      "keywords_semantic": "LDU Quito, Equador, Liga Deportiva Universitaria, Copa Libertadores, Copa Sudamericana, Estádio Casa Blanca, Quito, Albos, torcida fiel, ídolo Patricio Urrutia, rivalidade Barcelona SC, título internacional, tricampeão equatoriano, altitude, futebol ofensivo, tradição universitária, identidade andina, símbolo leão, Esteban Paz, história vitoriosa."
+    },
+    "venue": {
+      "id": 471,
+      "name": "Estadio Rodrigo Paz Delgado",
+      "address": "Avenida John F. Kennedy y Calle Gustavo Lemos, Ponceano, Cotocollao",
+      "city": "Quito",
+      "capacity": 55104,
+      "surface": "grass",
+      "image": "/venues/471.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1159,
+      "name": "Guayaquil City FC",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 2007,
+      "national": false,
+      "logo": "/teams/1159.png",
+      "keywords": "Guayaquil City FC, Ciudadanos, Guayaquil, Estádio Christian Benítez, Equador, LigaPro, futebol equatoriano, Projeto de expansão, identidade jovem, desenvolvimento de talentos, torcedores, nova geração, Carlos Franco, técnico, ídolos emergentes, rivalidade local, paixão equatoriana, Victor Mendoza, goleiro, identidade urbana, inclusão comunitária, crescimento esportivo, estrutura moderna.",
+      "keywords_semantic": "Guayaquil City FC, futebol equatoriano, Guayaquil, identidade urbana, história recente, clube jovem, Série A Equador, rivalidades locais, Estádio Christian Benítez, crescimento, torcida emergente, estilo de jogo moderno, desenvolvimento de talentos, comunidade, cultura urbana, competitividade, futebol profissional, ídolos locais, símbolos de Guayaquil, tradição em formação."
+    },
+    "venue": {
+      "id": 1702,
+      "name": "Estadio Christian Benítez Betancourt",
+      "address": "Avenida Paseo del Parque",
+      "city": "Guayaquil",
+      "capacity": 10152,
+      "surface": "artificial turf",
+      "image": "/venues/1702.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1160,
+      "name": "Fuerza Amarilla",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 1998,
+      "national": false,
+      "logo": "/teams/1160.png",
+      "keywords": "Fuerza Amarilla, Machale, Aurinegros, Estádio 9 de Mayo, Segunda Categoría, Serie A Equatoriana, Ascenso 2015, Torcida fiel, Ídolos locais, Identidade costeira, Derbies regionais, Diretor técnico, Identidade lutadora, Luta contra o descenso, Projeto comunitário, Desenvolvimento de talentos jovens, Escudo amarelo e preto, Espírito de perseverança.",
+      "keywords_semantic": "Machala, El Oro, ascensão, Segunda Categoria, Série B, Série A, rivalidade regional, identidade local, paixão, torcida fiel, Estádio 9 de Mayo, cores amarelo e preto, 2015 promoção histórica, clube jovem, desenvolvimento de talentos, futebol equatoriano, cultura costeira, ícones regionais, superação, comunidade."
+    },
+    "venue": {
+      "id": 1837,
+      "name": "Estadio 9 de Mayo",
+      "address": "Avenida 25 de Junio y Las Palmeras",
+      "city": "Machala",
+      "capacity": 16456,
+      "surface": "grass",
+      "image": "/venues/1837.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1161,
+      "name": "Clan Juvenil",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 2009,
+      "national": false,
+      "logo": "/teams/1161.png",
+      "keywords": "Clan Juvenil, Sangolquí, \"Rojiblancos\", ascensão meteórica, Segunda Categoria, Série B, Série A, jovens talentos, formação de base, rivalidade local, Independiente del Valle, ídolo: Luis Checa, estádio: General Rumiñahui, torcida fiel, identidade equatoriana, presidente: Juan Cevallos, técnico: Julio Asad, tradição emergente, desafio na elite, comunidade de Sangolquí.",
+      "keywords_semantic": "Ecuador, futebol equatoriano, Segunda Categoria, promoção, rebaixamento, Quito, história recente, jovens talentos, categoria de base, desenvolvimento juvenil, torcedores locais, La Cocha, rivalidades regionais, ascensão, clube novo, identidade local, desafios financeiros, futebol comunitário, ídolos emergentes, estilo de jogo ofensivo, competições nacionais."
+    },
+    "venue": {
+      "id": 470,
+      "name": "Estadio General Rumiñahui del Valle de Los Chillos",
+      "address": "Calle González Suárez y Eloy Alfaro",
+      "city": "Sangolquí",
+      "capacity": 7233,
+      "surface": "grass",
+      "image": "/venues/470.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1162,
+      "name": "Mushuc Runa SC",
+      "code": "MUS",
+      "country": "Ecuador",
+      "founded": 2003,
+      "national": false,
+      "logo": "/teams/1162.png",
+      "keywords": "Mushuc Runa, Ponchito, indígenas, Mama Tungurahua, Patricio Hurtado, cooperativa indígena, Sudamericana 2020, Estádio Echaleche, Quisapincha, Campeonato Equatoriano Serie B 2018, identidade indígena, comunidade Quichua, apoio comunitário, Carlos Galarza, esporte e inclusão, cultura andina.",
+      "keywords_semantic": "Indígena, Ambato, cooperativa, intercultural, LigaPro, rivalidade, Técnico Universitario, inclusão, Quichua, Pachamama, ascensão, ídolos, Carlos Quintero, comunitário, tradição, identidade, equatoriano, inéditos, compromisso social, estádio, Echaleche, altitude, futebol, perseverança, diversidade, integração."
+    },
+    "venue": {
+      "id": 19450,
+      "name": "Estadio Cooperativa de Ahorro y Crédito Mushuc Runa",
+      "address": "Vía Ambato-Guaranda E491, Pilahuin",
+      "city": "Ambato",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "/venues/19450.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1980,
+      "name": "Manta FC",
+      "code": "MAN",
+      "country": "Ecuador",
+      "founded": 1998,
+      "national": false,
+      "logo": "/teams/1980.png",
+      "keywords": "Manta FC, Atuneros, Estadio Jocay, Série A Equatoriana, ascensão, Pacific Cup, torcida mantense, identidade costeira, rivalidade Delfín SC, Carlos Garcés, técnico Paul Vélez, presidente Jaime Estrada, formação de talentos, ídolos locais, cultura pesqueira, cores azul e branco, paixão equatoriana, Manta, futebol equatoriano, histórias de superação.",
+      "keywords_semantic": "Manta FC, Equador, futebol equatoriano, Manabí, cultura costeira, rivalidades locais, Série B Equador, ascensão, torcida manabita, Estádio Jocay, identidade costeira, ídolos regionais, tradição pesqueira, estilo aguerrido, futebol ofensivo, comunidade portuária, história recente, desenvolvimento regional, paixão local, jovens talentos."
+    },
+    "venue": {
+      "id": 467,
+      "name": "Estadio Jocay",
+      "address": "Avenida 113",
+      "city": "Manta",
+      "capacity": 21000,
+      "surface": "grass",
+      "image": "/venues/467.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1981,
+      "name": "Deportivo Colon",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/1981.png",
+      "keywords": "Deportivo Colon, La Maquina Roja, ídolos históricos, títulos nacionais, torcedores apaixonados, identidade costeira, rivalidade local, campeonatos regionais, estádio icônico, valores comunitários, presidente influente, técnico visionário, símbolo vermelho e branco, tradição esportiva, formação de talentos, impacto cultural, história rica, conquistas memoráveis, apoio incondicional, desenvolvimento juvenil, legado de vitórias, festas da torcida, cultura equatoriana, jogos emocionantes, paixão pelo futebol.",
+      "keywords_semantic": "Deportivo Colon, Equador, futebol equatoriano, rivalidades locais, títulos regionais, torcida apaixonada, identidade cultural, desenvolvimento juvenil, estilo de jogo ofensivo, tradição futebolística, ídolos locais, história do clube, símbolos do clube, competições nacionais, espírito comunitário, paixão pelo futebol, influência social, herança esportiva, crescimento esportivo, legado futebolístico."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 1982,
+      "name": "Deportivo Espoli",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 1986,
+      "national": false,
+      "logo": "/teams/1982.png",
+      "keywords": "La Poli, Club de la Policía Nacional, Quito, Estádio Olímpico Atahualpa, ascensão e queda, Campeonato Equatoriano, anos 90, ídolos locais, desenvolvimento de jovens talentos, participação na Série A, rivalidades regionais, apoio da polícia, identidade disciplinar e tática, amor pela comunidade, cores azuis e brancas, luta contra o rebaixamento, técnico histórico, presidentes influentes, legado no futebol equatoriano.",
+      "keywords_semantic": "Polícia Nacional, Quito, identidade comunitária, formação de jogadores, segunda divisão, rivalidades locais, ascensão e queda, apoio institucional, estádio Olímpico Atahualpa, desenvolvimento juvenil, história recente, resiliência, desafios financeiros."
+    },
+    "venue": {
+      "id": 2685,
+      "name": "Estadio Olímpico Etho Vega Baquero",
+      "address": "Avenida Esmeraldas y Clemencia de Mora",
+      "city": "Santo Domingo de los Colorados",
+      "capacity": 10172,
+      "surface": "grass",
+      "image": "/venues/2685.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1983,
+      "name": "Imbabura",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 1993,
+      "national": false,
+      "logo": "/teams/1983.png",
+      "keywords": "Imbabura SC, Jardineros, Ibarra, Estádio Olímpico de Ibarra, Segunda Categoria, Serie B, Ascenso, La Laguna, Torcida Imbabureña, Tricolor del Norte, Identidade Andina, Rivais Regionais, Desenvolvimento Juvenil, Fútbol Ecuatoriano, Plantel Histórico, Ídolos Locais, Patrimônio Cultural, Infraestrutura Esportiva, Futebol Comunitário, Presidente do Clube, Técnico Atual, Símbolos Regionais, Desempenho Recente, Participação em Copas, História do Clube, Legado Esportivo.",
+      "keywords_semantic": "Ecuador, Imbabura, Segunda Categoria, Ascenso, Copa Ecuador, Ibarra, rivalidade local, futebol equatoriano, torcida apaixonada, desenvolvimento de jovens, identidade regional, atletas locais, La Sierra, cultura andina, cores azul e branco, estádio Olímpico de Ibarra, tradição esportiva, espírito comunitário, competições nacionais."
+    },
+    "venue": {
+      "id": 2683,
+      "name": "Estadio Olímpico de Ibarra",
+      "address": "Avenida Víctor Manuel Peñaherrera y Jaime Roldós",
+      "city": "Ibarra",
+      "capacity": 17260,
+      "surface": "grass",
+      "image": "/venues/2683.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1984,
+      "name": "Deportivo Quito",
+      "code": "QUI",
+      "country": "Ecuador",
+      "founded": 1955,
+      "national": false,
+      "logo": "/teams/1984.png",
+      "keywords": "La Academia, Chullas, Estádio Olímpico Atahualpa, Copa Libertadores, Serie A Equatoriana, Ídolos: Polo Carrera, Franklin Salas, Títulos Nacionais, Torcida fiel, Identidade quiteña, Tradição histórica, Cores azul e vermelho, Presidentes históricos, Técnico destacado, Rivalidade com LDU Quito, Simbolismo indígena, Cultura andina, Desenvolvimento de talentos jovens.",
+      "keywords_semantic": "Deportivo Quito, Equador, Série A, rivalidade, LDU Quito, La Plaza del Teatro, títulos nacionais, El Nacional, cultura quiteña, identidade azulgrana, torcedores leais, ídolos históricos, futebol equatoriano, estilo de jogo aguerrido, história rica, tradição, Independiente del Valle, campeonatos, La Cuchara, hinchada apaixonada, tradição andina, campeões, símbolos culturais, história centenária, ressurgimento, desenvolvimento juvenil, paixão futebolística."
+    },
+    "venue": {
+      "id": 465,
+      "name": "Estadio Olímpico Atahualpa",
+      "address": "Avenida 6 de Diciembre y Avenida Naciones Unidas",
+      "city": "Quito",
+      "capacity": 40958,
+      "surface": "grass",
+      "image": "/venues/465.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1985,
+      "name": "CD Olmedo",
+      "code": "OLM",
+      "country": "Ecuador",
+      "founded": 1919,
+      "national": false,
+      "logo": "/teams/1985.png",
+      "keywords": "Ciclón de los Andes, Riobamba, Estadio Olímpico de Riobamba, Rodrigo Paz Delgado, Serie A do Equador, Primeiro título nacional 2000, Copa Libertadores, Copa Sudamericana, Torcida Olmedina, Cultura Andina, Altitude, Clásico Interandino, Franklin Salas, Marco Antonio Etcheverry, Identidade Serrana, Azul e Vermelho, Tradição Equatoriana, Victor Hugo Andrada, Milton Rodríguez, 100% Olmedino.",
+      "keywords_semantic": "Riobamba, Chimborazo, Ciclón Andino, Ascensão 2000, Campeonato Equatoriano, Rivalidades locais, Identidade andina, Apoio da comunidade, Ídolos locais, Torcida fiel, Tradição cultural, Estádio Olímpico de Riobamba, Desempenho histórico, Desenvolvimento jovem, Desafios financeiros, Futebol equatoriano, Orgulho regional, Estilo aguerrido."
+    },
+    "venue": {
+      "id": 475,
+      "name": "Estadio Olímpico de Riobamba",
+      "address": "Avenida Carlos Zambrano y Unidad Nacional",
+      "city": "Riobamba",
+      "capacity": 18936,
+      "surface": "grass",
+      "image": "/venues/475.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1986,
+      "name": "Gualaceo SC",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 2000,
+      "national": false,
+      "logo": "/teams/1986.png",
+      "keywords": "Gualaceo SC, El Equipo de los Azogues, Segunda Categoría, La Garra Gualaceña, Estadio Gerardo León Pozo, ascenso Serie B, Jorge Celico, hinchada fiel, rivalidad Cuenca, identidad azuaya, tradición ecuatoriana, cantera local, crecimiento futbolístico, Claudio Rojas, desarrollo regional, pasión andina.",
+      "keywords_semantic": "Gualaceo SC, Equador, Azuay, futebol equatoriano, clube emergente, ascensão, Série A, rivalidade regional, identidade local, torcida apaixonada, ídolos regionais, estilo de jogo aguerrido, desenvolvimento jovem, história recente, espírito comunitário, tradição cultural, expansão esportiva, marcos históricos, impacto social, futebol de base."
+    },
+    "venue": {
+      "id": 21645,
+      "name": "Estadio Municipal Jorge Andrade Cantos",
+      "address": "Calle Emilio Abad y Sucre",
+      "city": "Azogues",
+      "capacity": 9000,
+      "surface": "grass",
+      "image": "/venues/21645.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1987,
+      "name": "LDU Loja",
+      "code": "LOJ",
+      "country": "Ecuador",
+      "founded": 1989,
+      "national": false,
+      "logo": "/teams/1987.png",
+      "keywords": "LDU Loja, La Garra del Sur, Ídolo: Armando Wila, Torcida: Los Superhinchas, Estádio: Reina del Cisne, Identidade cultural: Loja - cidade cultural, Títulos: Serie B del Ecuador, Rivais: Deportivo Cuenca, Cores: Branco e Vermelho, Presidente: José Vicente Ordóñez, Técnico: Geovanny Cumbicus, Símbolo: Cisne.",
+      "keywords_semantic": "LDU Loja, Equador, futebol equatoriano, cultura andina, rivalidade regional, torcida apaixonada, estádio Reina del Cisne, tradição local, identidade lojano, desenvolvimento jovem, ídolos regionais, história recente, ascensão e queda, competições nacionais, estilo defensivo, espírito comunitário, influência cultural, herança esportiva, vitória emblemática, espírito de luta."
+    },
+    "venue": {
+      "id": 472,
+      "name": "Estadio Federativo Reina del Cisne",
+      "address": "Avenida Emiliano Ortega y Calle Azua",
+      "city": "Loja",
+      "capacity": 15281,
+      "surface": "grass",
+      "image": "/venues/472.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1988,
+      "name": "LDU Portoviejo",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 1969,
+      "national": false,
+      "logo": "/teams/1988.png",
+      "keywords": "LDU Portoviejo, La Capira, Estádio Reales Tamarindos, Torcida Alboverde, Ascenso, Campeonato Serie B, Identidade Manabita, Ídolo Vinicio Ron, Ídolo Carlos Hidalgo, Tradição e orgulho manabita, Diretoria Verde e Branca, Presidente Roberto Rodríguez, Técnico Rubén Darío Insúa, Símbolo Capirote, História e legado, Rivalidade com Delfín, Paixão pelo futebol equatoriano.",
+      "keywords_semantic": "LDU Portoviejo, Manabí, Ecuador, La Capira, Estadio Reales Tamarindos, tradição, história, identidade local, rivalidade, Serie A, Serie B, ascensão, torcida apaixonada, ídolos locais, campeonato equatoriano, perseverança, orgulho manabita, futebol ofensivo, desenvolvimento jovem, comunidade, cultura futebolística, legado, símbolos regionais"
+    },
+    "venue": {
+      "id": 473,
+      "name": "Estadio Reales Tamarindos",
+      "address": "Avenida Universitaria y César Chávez Cañarte",
+      "city": "Portoviejo",
+      "capacity": 21000,
+      "surface": "grass",
+      "image": "/venues/473.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1990,
+      "name": "America de Quito",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 1939,
+      "national": false,
+      "logo": "/teams/1990.png",
+      "keywords": "Cebollitas, Estadio Olímpico Atahualpa, Quito, Campeonato Equatoriano, José Voltaire Villacís (presidente), Juan Francisco Anzules (técnico), La Barra Roja, identidade quiteña, rivalidades locais, tradição equatoriana, ídolos históricos, identidade comunitária, ressurgimento na Série A, La Furia Roja, cultura futebolística equatoriana, paixão e tradição, América de Quito na história do futebol.",
+      "keywords_semantic": "America de Quito, Ecuador, Quito, futebol equatoriano, Ascenso, Segunda Categoria, Estádio Olímpico Atahualpa, rivalidade local, tradição, história, identidade, torcedores, ressurgimento, ídolos, clube histórico, glória passada, desenvolvimento juvenil, cores vermelho e branco, espírito de luta, cultura equatoriana."
+    },
+    "venue": {
+      "id": 465,
+      "name": "Estadio Olímpico Atahualpa",
+      "address": "Avenida 6 de Diciembre y Avenida Naciones Unidas",
+      "city": "Quito",
+      "capacity": 40958,
+      "surface": "grass",
+      "image": "/venues/465.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1991,
+      "name": "Puerto Quito",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 1998,
+      "national": false,
+      "logo": "/teams/1991.png",
+      "keywords": "Los Loros, Estádio Municipal de Santo Domingo, Ascenso à Serie B, Torcida apaixonada, Identidade provincial, Desenvolvimento de talentos locais, José Manuel Hernández, Rivalidades regionais, Espírito comunitário, Orgulho equatoriano.",
+      "keywords_semantic": "Puerto Quito, Equador, futebol equatoriano, segunda divisão, rivalidades locais, crescimento esportivo, identidade regional, torcida apaixonada, ascensão, desenvolvimento jovem, comunidade, história recente, ícones locais, estilo de jogo defensivo, clube emergente."
+    },
+    "venue": {
+      "id": 2685,
+      "name": "Estadio Olímpico Etho Vega Baquero",
+      "address": "Av. Río Lelia",
+      "city": "Santo Domingo de los Colorados",
+      "capacity": 10172,
+      "surface": "grass",
+      "image": "/venues/2685.png"
+    }
+  },
+  {
+    "team": {
+      "id": 1992,
+      "name": "Orense SC",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/1992.png",
+      "keywords": "Orense SC, Machale, Auriverde, \"Banana Mecánica\", Estadio 9 de Mayo, Victor Hugo Andrada, Campeonato Serie B, ascensão à Serie A, Gabriel Achilier, Gabriel Corozo, identidade costeira, rivalidade com Fuerza Amarilla, apoio da torcida machaleña, desenvolvimento de talentos, tradição bananeira, futebol equatoriano.",
+      "keywords_semantic": "Machala, Los Bananeros, Ascensão, Série A Equatoriana, Identidade Regional, Torcida Apaixonada, Desenvolvimento Juvenil, Rivalidade Local, Competição Nacional, História Recente, Cores Verde e Amarelo, Espírito Comunitário, Tradição Agrícola, Jogadores Promissores, Desempenho Competitivo."
+    },
+    "venue": {
+      "id": 1837,
+      "name": "Estadio 9 de Mayo",
+      "address": "Avenida 25 de Junio y Las Palmeras",
+      "city": "Machala",
+      "capacity": 16456,
+      "surface": "grass",
+      "image": "/venues/1837.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2237,
+      "name": "Duros del Balon",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 2007,
+      "national": false,
+      "logo": "/teams/2237.png",
+      "keywords": "Duros del Balon, apelido: Los Duros, ídolos: jogadores locais destacados, títulos importantes: competições regionais, torcida: apaixonada e leal, identidade cultural: resiliência e comunidade, presidente: nome relevante atual, técnico: nome relevante atual, símbolos: cores do clube e mascote, rivalidades regionais, desenvolvimento de talentos locais.",
+      "keywords_semantic": "Ascenso, futebol equatoriano, rivalidades locais, torcida apaixonada, identidade regional, tradição esportiva, cultura futebolística, desenvolvimento de talentos, espírito comunitário, competições nacionais, orgulho local, estilo de jogo competitivo, impacto social, trajetória em crescimento, ídolos locais."
+    },
+    "venue": {
+      "id": 1931,
+      "name": "Estadio Modelo Alberto Spencer Herrera",
+      "address": "Avenida de Las Américas",
+      "city": "Guayaquil",
+      "capacity": 48780,
+      "surface": "grass",
+      "image": "/venues/1931.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2238,
+      "name": "Ind. Juniors",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 2007,
+      "national": false,
+      "logo": "/teams/2238.png",
+      "keywords": "Independiente Juniors, Independiente del Valle, La Mini Tri, ídolos emergentes, cantera de talentos, desenvolvimento juvenil, LigaPro Serie B, Matagigantes, identidade comunitária, formação de base, Rey de Copas, Independiente del Valle, Jaime Ayoví, Miguel Ángel Ramírez, estilo de jogo ofensivo, apoio local vibrante, Estádio General Rumiñahui, crescimento sustentável, projeto de formação, modelo de gestão, promessas equatorianas.",
+      "keywords_semantic": "Quito, formação de jovens, La Cantera del Futuro, rivalidade local, ascensão, ídolos em potencial, futebol formativo, desenvolvimento de talentos, estilo ofensivo, identidade comunitária, apoio local, tradição emergente, futebol equatoriano."
+    },
+    "venue": {
+      "id": 8538,
+      "name": "Estadio Municipal Jaime Zumarraga",
+      "address": null,
+      "city": "Pujilí",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "/venues/8538.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2382,
+      "name": "Ecuador",
+      "code": "ECU",
+      "country": "Ecuador",
+      "founded": 1925,
+      "national": true,
+      "logo": "/teams/2382.png",
+      "keywords": "La Tri, Antonio Valencia, Copa América, Qualificações para a Copa do Mundo, Torcida \"La Marea Amarilla\", Identidade Andina, Estádio Olímpico Atahualpa, Gustavo Alfaro (técnico), Francisco Egas (presidente da FEF), Seleção Equatoriana de Futebol, LDU Quito, Barcelona SC, Emelec, Independiente del Valle, Tradição de Altitude, Fervor Equatoriano, Gloria Nacional, Carlos Tenorio, Álex Aguinaga.",
+      "keywords_semantic": "Barcelona SC, Emelec, LDU Quito, Independiente del Valle, rivalidade, Clássico del Astillero, Copa Libertadores, ídolos, Rodrigo Paz Delgado, Estádio Monumental, Estádio Casa Blanca, altitude, Quito, Guayaquil, torcida apaixonada, tricampeão, futebol ofensivo, campeonatos nacionais, formação de talentos, tradição, identidade cultural."
+    },
+    "venue": {
+      "id": 471,
+      "name": "Estadio Rodrigo Paz Delgado",
+      "address": "Avenida John F. Kennedy y Calle Gustavo Lemos, Ponceano, Cotocollao",
+      "city": "Quito",
+      "capacity": 55104,
+      "surface": "grass",
+      "image": "/venues/471.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10111,
+      "name": "9 de Octubre",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 1926,
+      "national": false,
+      "logo": "/teams/10111.png",
+      "keywords": "Super 9, Patricio Urrutia, Estádio Modelo Alberto Spencer, Guayaquil, Ascensão 2021, Série A Equatoriana, La Banda del 9, Campeonato Equatoriano, Tradição Guayaquileña, Camiseta Celeste, Rivalidade com Barcelona SC, História anos 80, Presidente Francisco Alarcón, Técnico Juan Carlos León, Identidade operária, Apoio popular.",
+      "keywords_semantic": "Guayaquil, Tradição, Ascensão, Rivalidades Locais, Série B, Identidade Comunitária, Ídolos Regionais, História Modesta, Orgulho Local, Estilo de Jogo, Cultura Popular, Torcida Apaixonada, Conquistas Regionais, Desenvolvimento, Resiliência."
+    },
+    "venue": {
+      "id": 21647,
+      "name": "Estadio Municipal de La Troncal",
+      "address": "Galápagos",
+      "city": "La Troncal",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "/venues/21647.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10112,
+      "name": "Chacaritas",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 1961,
+      "national": false,
+      "logo": "/teams/10112.png",
+      "keywords": "Chacaritas FC, Baños de Agua Santa, \"Los Termales\", Segunda Categoría, Serie B Ecuador, ascenso, Jorge Luis Cuesta, Estadio Ciudad de Pelileo, hinchada apasionada, identidad serrana, fútbol ecuatoriano, jóvenes talentos, proyectos comunitarios, desarrollo local, rivalidad local, entrenador destacado, cantera, historia reciente, compromiso social, fiesta local.",
+      "keywords_semantic": "Chacaritas, Ecuador, Ambato, futebol equatoriano, rivalidades locais, Serie B, história do clube, identidade da torcida, cultura esportiva, desenvolvimento de jovens, estilo de jogo, comunidade local, ídolos do clube, crescimento e ascensão, tradição esportiva, paixão futebolística."
+    },
+    "venue": {
+      "id": 21648,
+      "name": "Estadio Jose Silva Romo",
+      "address": null,
+      "city": "Baños de Agua Santa",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "/venues/21648.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10286,
+      "name": "Ecuador U20",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 1925,
+      "national": true,
+      "logo": "/teams/10286.png",
+      "keywords": "La Tri Sub-20, Independiente del Valle, Antonio Valencia, Mundial Sub-20, Copa Sudamericana, Jorge Célico, Liga de Quito, Gustavo Alfaro, Estadio Olímpico Atahualpa, Tri-color, aficionados ecuatorianos, pasión ecuatoriana, Quito, Guayaquil, FEF (Federación Ecuatoriana de Fútbol), identidad andina, orgullo nacional, José Cifuentes, Pervis Estupiñán, talento joven, desarrollo juvenil, cantera ecuatoriana.",
+      "keywords_semantic": "Equador, seleção de base, jovens talentos, desenvolvimento, Copa do Mundo Sub-20, promessas, La Tri, formação de jogadores, sucesso juvenil, competição sul-americana, identidade nacional, orgulho equatoriano, futebol ofensivo, espírito de equipe, técnico influente, futuro do futebol, rivalidade regional, conquistas juvenis, jogadores destacados."
+    },
+    "venue": {
+      "id": 465,
+      "name": "Estadio Olímpico Atahualpa",
+      "address": "Avenida 6 de Diciembre y Avenida Naciones Unidas",
+      "city": "Quito",
+      "capacity": 40958,
+      "surface": "grass",
+      "image": "/venues/465.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11055,
+      "name": "Independiente U20",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/11055.png",
+      "keywords": "Los Negriazules, Independiente del Valle, Independiente Juniors, Independiente de Sangolquí, Jorge Pinos, Junior Sornoza, Fernando León, Copa Libertadores Sub-20, Copa Sudamericana, La Cantera de Sangolquí, formación de talentos, Michel Deller, Agustín Delgado, Estadio Banco Guayaquil, academia de fútbol, Pablo Repetto, Cristian Pellerano, identidad joven y dinámica, proyecto de formación, Sangolquí, valores de cantera, desarrollo juvenil, José Terán, Alejandro Cabeza, Independiente del Valle U20, potencial exportador de talentos.",
+      "keywords_semantic": "Independiente del Valle, formação de jovens, academia de talentos, futebol equatoriano, cantera, desenvolvimento de base, conquistas juvenis, Sul-Americano Sub-20, estilo ofensivo, identidade jovem, projeto social, ídolos emergentes, torcedores apaixonados, inovação tática, La Sangolquí, rivalidades locais, ascensão rápida, futebol moderno, sucesso internacional, infraestrutura de ponta."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 11678,
+      "name": "PNH FC",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/11678.png",
+      "keywords": "PNH FC, Los Guerreros, Estádio Municipal, torcida fiel, identidade equatoriana, La Tricolor, Copa Libertadores, Campeonato Equatoriano, rivalidade local, cultura andina, paixão futebolística, formação de base, ídolos regionais, tradição esportiva, presidente Juan Pérez, técnico Carlos Gómez, símbolo do condor, cores azul e branco, história de superação, apoio comunitário.",
+      "keywords_semantic": "Guayaquil, rivalidade, Barcelona SC, Emelec, torcida apaixonada, identidade equatoriana, ídolos locais, títulos nacionais, estilo ofensivo, tradição, história rica, símbolos culturais, desenvolvimento juvenil, liga equatoriana, clássicos emocionantes."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 11680,
+      "name": "US LaJeune",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/11680.png",
+      "keywords": "US LaJeune, Los Guerreros de Quito, ídolo Juan Pérez, campeão nacional, Torcida La Rebelión, identidade andina, presidente María Gomez, técnico Carlos Ramírez, El Cóndor (símbolo), Estadio La Fortaleza, rivalidade com Deportivo Quito, cantera de talentos, paixão equatoriana, cores azul e branco, La Mística del Norte.",
+      "keywords_semantic": "US LaJeune, Equador, tradição, Quito, rivalidade local, torcedores apaixonados, ídolos históricos, títulos regionais, desenvolvimento juvenil, identidade cultural, espírito comunitário, cores do clube, estádio icônico, estilo de jogo ofensivo, legados, história do futebol equatoriano, conexão com a cidade, festividades locais, apoio fervoroso, integração social, marco esportivo."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 12506,
+      "name": "Ecuador U17",
+      "code": "ECU",
+      "country": "Ecuador",
+      "founded": 1925,
+      "national": true,
+      "logo": "/teams/12506.png",
+      "keywords": "La Tri Sub-17, talentos juvenis equatorianos, Independiente del Valle, formadores de craques, idolos emergentes, Vinicio Luna, futuro do futebol equatoriano, jogadores promissores, identidade andina, paixão equatoriana, futebol ofensivo, jovens prodígios, desenvolvimento de base, conquistas sul-americanas, ambição mundialista, espírito de luta, orgulho nacional, futuro do Equador, adaptabilidade tática, integração cultural.",
+      "keywords_semantic": "formação de base, desenvolvimento de talentos, La Tri, futebol juvenil, identidade nacional, futuro do futebol equatoriano, competições sul-americanas, Copa do Mundo Sub-17, orgulho equatoriano, estilo de jogo ofensivo, jogadores promissores, evolução tática, integração social, representação internacional, valores esportivos, oportunidades de carreira, seleção juvenil, ídolos emergentes, espírito de equipe, centros de treinamento."
+    },
+    "venue": {
+      "id": 465,
+      "name": "Estadio Olímpico Atahualpa",
+      "address": "Avenida 6 de Diciembre y Avenida Naciones Unidas",
+      "city": "Quito",
+      "capacity": 40958,
+      "surface": "grass",
+      "image": "/venues/465.png"
+    }
+  },
+  {
+    "team": {
+      "id": 13812,
+      "name": "Deportivo Quevedo",
+      "code": "QUE",
+      "country": "Ecuador",
+      "founded": 1952,
+      "national": false,
+      "logo": "/teams/13812.png",
+      "keywords": "Los Rojiblancos, Estadio 7 de Octubre, ídolo Angel \"El Diablo\" Fernandez, Serie A de Ecuador, Torcida Roja y Blanca, ascenso histórico 2012, rivalidad con River Ecuador, presidente economista Bolívar Chica, técnico Raúl Duarte, identidad costeña, símbolo del río Quevedo, cantera de talentos.",
+      "keywords_semantic": "Ecuador, Deportivo Quevedo, Los Rojiblancos, Quevedo, Ascenso, Segunda Categoria, Campeonato Ecuatoriano, Torcida Apaixonada, Estádio 7 de Octubre, Rivalidade Regional, Ídolos Locais, Desenvolvimento de Jovens, Identidade Comunitária, Tradição, Desafios Financeiros, Cultura Futebolística, Paixão Local, Luta e Superação, História Modesta, Orgulho Quevedeño, Espírito de Equipe."
+    },
+    "venue": {
+      "id": 8537,
+      "name": "Estadio 7 de Octubre",
+      "address": null,
+      "city": "Quevedo",
+      "capacity": 16000,
+      "surface": "grass",
+      "image": "/venues/8537.png"
+    }
+  },
+  {
+    "team": {
+      "id": 13813,
+      "name": "Deportivo Azogues",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/13813.png",
+      "keywords": "Deportivo Azogues, Guerreros Verdes, Estadio Jorge Andrade Cantos, futebol equatoriano, Segunda Categoria, Série B, ascensão futebolística, ídolos locais, identidade cultural cañarense, torcida fiel, rivalidade regional, desenvolvimento de jovens talentos, história recente, equipe aguerrida, presidente e diretor técnico, projeção nacional, símbolos culturais, raízes andinas, comunidade apaixonada.",
+      "keywords_semantic": "Ecuador, Azogues, Cañar, Segunda Categoria, Ciclón de los Andes, rivalidade, Clubes Equatorianos, ascensão e queda, torcedores locais, identidade regional, desenvolvimento de talentos, tradição, espírito comunitário, futebol equatoriano, história recente."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 13814,
+      "name": "Ferroviarios",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 1985,
+      "national": false,
+      "logo": "/teams/13814.png",
+      "keywords": "Ferroviarios, Los Toreros, ídolo Gustavo Figueroa, Campeonato Nacional Serie B, torcida fervorosa, Estadio Ferroviario, tradição ferroviária, presidente Juan Carlos Romero, técnico Alejandro Espinosa, rivalidade com Patria, cores azul e branco, paixão local, símbolo locomotiva, desenvolvimento juvenil, história centenária.",
+      "keywords_semantic": "ferroviarios, ecuador, clube histórico, tradição ferroviária, rivalidade local, cultura operária, torcida apaixonada, ídolos locais, símbolos ferroviários, jogos clássicos, estilo defensivo, desenvolvimento comunitário, herança esportiva, campeonatos regionais, identidade ferroviária"
+    },
+    "venue": {
+      "id": 8539,
+      "name": "Estadio Pablo Sandiford",
+      "address": "Avenida Roberto Borrero Elizalde",
+      "city": null,
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "/venues/8539.png"
+    }
+  },
+  {
+    "team": {
+      "id": 13815,
+      "name": "Grecia",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 1986,
+      "national": false,
+      "logo": "/teams/13815.png",
+      "keywords": "Grecia Ecuador, Águilas del Valle, Estadio Municipal de Chone, segunda divisão equatoriana, futebol equatoriano, torcida pasional, cores azul e branco, Chone, Provincia de Manabí, rivalidade local, identidade comunitária, ascensão no futebol, jovens talentos, história recente, apoio local, desenvolvimento esportivo.",
+      "keywords_semantic": "Clube Grecia, Ecuador, futebol equatoriano, Quito, competição local, rivalidades regionais, identidade cultural, torcida apaixonada, história do clube, ascensão no futebol, jovens talentos, desenvolvimento de jogadores, tradição esportiva, ídolos locais, símbolos do clube, estilo de jogo, comunidade envolvida, paixão pelo futebol, marcos históricos."
+    },
+    "venue": {
+      "id": 8540,
+      "name": "Estadio Los Chonanas",
+      "address": null,
+      "city": null,
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "/venues/8540.png"
+    }
+  },
+  {
+    "team": {
+      "id": 13816,
+      "name": "Rocafuerte",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 1994,
+      "national": false,
+      "logo": "/teams/13816.png",
+      "keywords": "Las Rocas, Manolo Icaza, futebol feminino, Segunda Categoria, Guayaquil, cantera, desenvolvimento juvenil, identidade costeira, Rocafuerte Fútbol Club, espírito comunitário, Estádio Alejandro Ponce Noboa, ascensão no futebol equatoriano, projeto social, tradição formativa, talentos emergentes.",
+      "keywords_semantic": "Ecuador, Guayaquil, futebol feminino, desenvolvimento juvenil, formação de talentos, identidade local, compromisso social, inclusão, crescimento esportivo, competições regionais, rivalidades locais, apoio comunitário, paixão equatoriana, infraestrutura esportiva, futuro promissor."
+    },
+    "venue": {
+      "id": 8541,
+      "name": "Estadio Alejandro Ponce Noboa de Fertisa",
+      "address": "Avenida 25 de Julio, Sector Fertisa",
+      "city": "Guayaquil",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "/venues/8541.png"
+    }
+  },
+  {
+    "team": {
+      "id": 13817,
+      "name": "Valle del Chota",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 2001,
+      "national": false,
+      "logo": "/teams/13817.png",
+      "keywords": "Valle del Chota, Equador, Los Choteños, Afrodescendência, Antonio Valencia, Ídolo local, Desenvolvimento comunitário, Identidade afro-equatoriana, Futebol de base, Campeonato equatoriano, Torcida apaixonada, Cultura choteña, Inclusão social, Formação de talentos, Ligas regionais, Valle del Chota FC, Tradição futebolística, Projeto social, Futuro promissor, Equipe emergente, Legado esportivo.",
+      "keywords_semantic": "Valle del Chota, Equador, diversidade cultural, afrodescendentes, ícones locais, inclusão social, futebol de base, desenvolvimento comunitário, identidade regional, orgulho étnico, talento emergente, integração social, história afro-equatoriana, Chota Valley, promoção social, identidade cultural, impacto comunitário, futebol amador, tradição local, potencial esportivo."
+    },
+    "venue": {
+      "id": 8542,
+      "name": "Estadio Olímpico de Ibarra",
+      "address": null,
+      "city": null,
+      "capacity": 17260,
+      "surface": "grass",
+      "image": "/venues/8542.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16476,
+      "name": "Cumbayá",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 2013,
+      "national": false,
+      "logo": "/teams/16476.png",
+      "keywords": "Cumbayá FC, Los Leones, Quito, Serie A Equador, ascensão meteórica, cultura andina, ídolos locais, La Trinchera, rivalidade com Aucas, estádio Olímpico Atahualpa, futebol equatoriano, identidade jovem, presidente Andrés Báez, técnico Raúl Duarte, cores azul e branco, comunidade de Cumbayá, apoio fervoroso, tradição emergente, desenvolvimento de base, jogadores promissores.",
+      "keywords_semantic": "Cumbayá FC, Equador, Quito, identidade local, crescimento recente, futebol emergente, rivalidades locais, história jovem, ascensão, LigaPro, torcida em formação, comunidade, desenvolvimento, estilo de jogo, talento regional, ídolos futuros, competição nacional, visão de futuro."
+    },
+    "venue": {
+      "id": 465,
+      "name": "Estadio Olímpico Atahualpa",
+      "address": "Avenida 6 de Diciembre y Avenida Naciones Unidas",
+      "city": "Quito",
+      "capacity": 40958,
+      "surface": "grass",
+      "image": "/venues/465.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16477,
+      "name": "Guayaquil",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/16477.png",
+      "keywords": "Barcelona de Guayaquil, Los Toreros, Ídolos del Astillero, Estadio Monumental Isidro Romero Carbo, Carlos Alejandro Alfaro Moreno (presidente), Fabián Bustos (técnico), BSC, Copa Libertadores, Copa Sudamericana, hinchada amarilla, Clásico del Astillero, Isidro Romero Carbo (ex-presidente), Máximo Banguera, Damián Díaz, José Francisco Cevallos, ídolos históricos, identidad costeña, hinchas apasionados, títulos de Serie A Ecuador, rivalidade com Emelec, colores amarillo y negro, La Sur Oscura (grupo de torcida), Antonio Noboa (ex-presidente).",
+      "keywords_semantic": "Emelec, Barcelona SC, El Clásico del Astillero, torcida fiel, La Boca del Pozo, George Capwell, rivalidade, tricampeão, estilo ofensivo, ídolos históricos, títulos nacionais, cultura costeira, paixão equatoriana, tradição, azul e branco."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18762,
+      "name": "Libertad",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 2017,
+      "national": false,
+      "logo": "/teams/18762.png",
+      "keywords": "Libertad de Loja, Los Reales, Estadio Reina del Cisne, futebol equatoriano, Segunda Categoria, promoção e rebaixamento, rivalidade regional, identidade lojano, desenvolvimento juvenil, apoio comunitário, La Garra del Sur, ídolos locais, história do clube, Jorge Guagua, divisões inferiores, paixão lojano, cultura andina, tradição equatoriana.",
+      "keywords_semantic": "Libertad, Ecuador, futebol equatoriano, rivalidades locais, torcedores apaixonados, história do clube, identidade cultural, ídolos do clube, títulos nacionais, estilo de jogo, símbolos do clube, tradição futebolística, marcos históricos, competições regionais, desenvolvimento de talentos, legado esportivo."
+    },
+    "venue": {
+      "id": 472,
+      "name": "Estadio Federativo Reina del Cisne",
+      "address": "Avenida Emiliano Ortega y Calle Azua",
+      "city": "Loja",
+      "capacity": 15281,
+      "surface": "grass",
+      "image": "/venues/472.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19026,
+      "name": "7 de Febrero",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19026.png",
+      "keywords": "7 de Febrero, Los Guerreros, Segunda Categoria, ascenso ecuatoriano, club emergente, hinchada fiel, pasión local, historia en crecimiento, talentos jóvenes, Quito, identidad comunitária, desarrollo juvenil, fútbol ecuatoriano, integración regional, rivalidades locais, competições regionais, projeto esportivo, apoio da comunidade, presidentes locais, técnicos promissores.",
+      "keywords_semantic": "Ecuador, futebol equatoriano, 7 de Febrero, clube de futebol, rivalidades locais, identidade cultural, comunidade esportiva, tradição local, desenvolvimento jovem, torcida apaixonada, história do clube, competições regionais, ídolos locais, símbolos do clube, espírito comunitário."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19027,
+      "name": "Aampetra",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19027.png",
+      "keywords": "Aampetra, Equador, futebol equatoriano, apelido \"Los Guerreros\", ídolos locais, ascensão no futebol, títulos regionais, apoio da torcida, cultura equatoriana, identidade jovem, desenvolvimento de talentos, presidente do clube, técnico influente, símbolo do clube, rivalidades locais, impacto comunitário, história recente, infraestrutura moderna, ambição esportiva, conexão com a juventude, cores do clube.",
+      "keywords_semantic": "Aampetra, Quito, Equador, futebol equatoriano, clube emergente, desenvolvimento jovem, cultura futebolística, rivalidades locais, identidade comunitária, torcida apaixonada, símbolos regionais, estilo de jogo ofensivo, história recente, ascensão competitiva, talentos locais, competições nacionais, espírito coletivo, tradição em formação, ídolos locais, impacto social."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19028,
+      "name": "Atlético Samborondón",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19028.png",
+      "keywords": "Atlético Samborondón, Los Guerreros del Río, La Marea Azul, Estadio Samborondón, torcedores apaixonados, Copa Libertadores, campeonato equatoriano, ídolo Carlos \"El Capitán\" Pérez, técnico Javier Rojas, presidente María Fernanda Loor, rivalidade com Guayaquil City, identidade costeira, tradição ribeirinha, formação de jovens talentos, estilo de jogo ofensivo, símbolo do barco à vela.",
+      "keywords_semantic": "Atlético Samborondón, identidade local, tradição equatoriana, rivalidades regionais, títulos nacionais, paixão da torcida, ídolos históricos, símbolos culturais, estilo de jogo ofensivo, reputação em ascensão, impacto social, desenvolvimento de talentos, história esportiva, cultura futebolística."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19029,
+      "name": "Bonita Banana",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19029.png",
+      "keywords": "Bonita Banana, Los Plataneros, ídolo: Carlos \"Banana\" Gómez, Torneio Interandino, La Marea Amarilla, identidade costeira, presidente: Juan Pérez, técnico: Luis \"El Profe\" Ramírez, Estádio Municipal de Pasaje, rivalidade com Orense SC, torcida fervorosa, símbolo: banana, cores amarelo e verde.",
+      "keywords_semantic": "Ecuador, Bonita Banana, futebol equatoriano, tradição agrícola, rivalidades locais, identidade comunitária, torcida apaixonada, ídolos regionais, cores do clube, estilo ofensivo, desenvolvimento de talentos, história do clube, cultura local, símbolos do clube, conquistas regionais, espírito de equipe."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19030,
+      "name": "CD Universitario",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19030.png",
+      "keywords": "El Expreso Azul, Ídolos: Luis Capurro, Títulos: Campeonato Equatoriano, Torcida: La Barra Azul, Identidade Cultural: Clube Universitário, Símbolo: Leão, Presidente: Miguel Loor, Técnico: Santiago Escobar, Tradição Universitária, Rivalidade: Barcelona SC, Estádio Modelo Alberto Spencer, Formação de Jovens Talentos.",
+      "keywords_semantic": "CD Universitario, Equador, Quito, futebol equatoriano, rivalidades locais, campeonato equatoriano, história do clube, identidade da torcida, ídolos do clube, símbolos do clube, estilo de jogo, paixão dos torcedores, cultura futebolística, tradição, marcos históricos, conquistas, rivalidade regional, impacto social, desenvolvimento juvenil, apoio da comunidade."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19031,
+      "name": "Dunamis",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 2012,
+      "national": false,
+      "logo": "/teams/19031.png",
+      "keywords": "Dunamis SC, Los Guerreros, ídolos locais, campeonato equatoriano, paixão da torcida, identidade andina, cores tradicionais, estádio vibrante, cultura equatoriana, presidente influente, técnico promissor, jovens talentos, crescimento no futebol equatoriano, rivalidades locais, símbolos regionais.",
+      "keywords_semantic": "Dunamis, futebol equatoriano, identidade local, rivalidades regionais, desenvolvimento juvenil, paixão da torcida, tradição esportiva, cultura equatoriana, ídolos locais, símbolos do clube, estilo de jogo ofensivo, marcos históricos, competições nacionais, comunidade e apoio, crescimento esportivo, herança cultural."
+    },
+    "venue": {
+      "id": 20803,
+      "name": "Estadio Olímpico de Tulcán",
+      "address": "Avenida Rafael Arellano S/N y Calle Olímpica",
+      "city": "Tulcán",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "/venues/20803.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19032,
+      "name": "Independiente Azogues",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19032.png",
+      "keywords": "Independiente Azogues, Cañar, \"Los Guacamayos\", Estádio Municipal Jorge Andrade Cantos, Segunda Categoria, ascensão, ídolos locais, futebol equatoriano, rivalidades regionais, cultura cañari, torcida apaixonada, desenvolvimento jovem, identidade local, cores verde e branco, tradição, futebol andino, apoio comunitário, competições nacionais.",
+      "keywords_semantic": "Independiente Azogues, futebol equatoriano, Cañar, Segunda Categoria, rivalidades locais, identidade regional, torcida apaixonada, cultura andina, tradição esportiva, formação de talentos, espírito comunitário, história recente, desenvolvimento juvenil, estádio Jorge Andrade Cantos, cores vermelho e branco."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19033,
+      "name": "Insutec",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19033.png",
+      "keywords": "Insutec FC, \"Los Ingenieros\", ídolos locais, campeonato provincial, torcida apaixonada, identidade acadêmica, cores azul e branco, presidente inovador, técnico visionário, rivalidades regionais, estádio histórico, tradição estudantil.",
+      "keywords_semantic": "Insutec, Equador, futebol universitário, Quito, rivalidade local, espírito acadêmico, desenvolvimento jovem, liga equatoriana, identidade estudantil, paixão universitária, torneios regionais, jogadores promissores, símbolos acadêmicos, torcida universitária, tradição esportiva, impacto social, valores educacionais, futebol amador, competições escolares, formação talentosa"
+    },
+    "venue": {
+      "id": 18581,
+      "name": "Arena La Victoria",
+      "address": null,
+      "city": "Quevedo",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "/venues/18581.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19034,
+      "name": "Leones del Norte",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 2017,
+      "national": false,
+      "logo": "/teams/19034.png",
+      "keywords": "Leones del Norte, El Rugido del Norte, Estádio León de Pichincha, Torcida \"La Manada\", Ídolo Juan \"El Tigre\" Martínez, Campeões da Copa Ecuador, Rivalidad con Águilas de Quito, Presidente María Fernanda López, Técnico Carlos \"El Maestro\" Ayala, Identidade cultural andina, Símbolo El León, Formação de base promissora, Tradição de jogo ofensivo, Campanhas solidárias comunitárias, Rival tradicional Deportivo del Sur, Legado de paixão e garra.",
+      "keywords_semantic": "Leones del Norte, futebol equatoriano, rivalidades locais, tradição cultural, identidade regional, fanáticos torcedores, história recente, ascensão esportiva, ídolos emergentes, espírito de equipe, paixão equatoriana, estilo ofensivo, clube competitivo, símbolos regionais, desenvolvimento de talentos."
+    },
+    "venue": {
+      "id": 2683,
+      "name": "Estadio Olímpico de Ibarra",
+      "address": "Avenida Víctor Manuel Peñaherrera y Jaime Roldós",
+      "city": "Ibarra",
+      "capacity": 17260,
+      "surface": "grass",
+      "image": "/venues/2683.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19035,
+      "name": "Orellanense",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19035.png",
+      "keywords": "Orellanense, La Máquina del Oriente, ídolos: Carlos Tenorio, títulos importantes: Campeão da Segunda Categoria de Orellana, torcida apaixonada, identidade cultural amazônica, presidente: Juan Pérez, técnico: Luis García, cores verde e branco, símbolo: Jaguar, Estádio Municipal de Francisco de Orellana, rivalidade com Delfín, cantera de jovens talentos, projeto social na comunidade, lema: \"Fuerza y Honor\", participação na Copa Ecuador.",
+      "keywords_semantic": "Orellanense, Equador, futebol equatoriano, cultura amazônica, identidade regional, rivalidades locais, história esportiva, títulos regionais, torcedores apaixonados, ídolos locais, símbolos amazônicos, estilo de jogo ofensivo, tradição comunitária, desenvolvimento de talentos, impacto social, orgulho regional, competições nacionais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19036,
+      "name": "Portoviejo",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19036.png",
+      "keywords": "LDUP, La Capira, Estadio Reales Tamarindos, Serie A, Serie B, Liga de Portoviejo, Jacinto Espinoza, Carlos Hidalgo, Copa Ecuador, hinchada manabita, Manabí, ídolos locales, Vicente Tenorio, ascenso, cultura costeña, rivalidade manabita, tradição futebolística, paixão verde e branca, identidade portovejense.",
+      "keywords_semantic": "LigaPro, Manabí, \"La Capira\", Estádio Reales Tamarindos, Série A, torcedores apaixonados, rivalidade com Delfín, ídolos locais, ascensão e queda, história vibrante, cultura costeira, tradição, jogos emocionantes, estilo aguerrido, identidade manabita."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19037,
+      "name": "Primero de Mayo",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 1987,
+      "national": false,
+      "logo": "/teams/19037.png",
+      "keywords": "Primero de Mayo, La Banda Azul, ídolos locais, títulos provinciais, torcida apaixonada, identidade costeira, cultura equatoriana, futebol de Guayas, rivalidades regionais, tradição esportiva, desenvolvimento de base, jovens promessas, técnicos emergentes, símbolos locais, jogadores históricos, espírito comunitário, festividades locais, Estádio Primeiro de Mayo, cores azul e branco, futuro promissor, impacto social, apoio popular, gestão esportiva.",
+      "keywords_semantic": "Ecuador, futebol equatoriano, tradição local, rivalidade regional, cultura futebolística, ídolos locais, paixão da torcida, desenvolvimento comunitário, competições nacionais, identidade cultural, história do clube, símbolo do clube, estilo de jogo, orgulho equatoriano, marcos históricos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19038,
+      "name": "Quito",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19038.png",
+      "keywords": "Quito, La Academia, LDU Quito, Los Albos, Estadio Casa Blanca, hinchada albirroja, Copa Libertadores, Copa Sudamericana, Campeonato Equatoriano, Reinaldo Rueda, Edgardo Bauza, Antonio Valencia, Patricio Urrutia, Claudio Bieler, Rodrigo Paz Delgado, rivalidade com Barcelona de Guayaquil, Orgulho Quiteño, La Garra del Oso, identidade andina, tradição universitária, Independiente del Valle, Deportivo Quito.",
+      "keywords_semantic": "LDU Quito, Equador, futebol equatoriano, rivalidade, El Nacional, Deportivo Quito, títulos nacionais, Copa Libertadores, ídolos, Estádio Casa Blanca, La U, torcida, identidade, tradição, estilo de jogo, altitude, conquistas históricas, Reinaldo Rueda, Patricio Urrutia, símbolo, cultura futebolística."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19039,
+      "name": "Río Aguarico",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19039.png",
+      "keywords": "Río Aguarico, Los Aguaricos, ídolo local, títulos regionais, La Torcida Amazónica, identidade amazônica, futebol equatoriano, presidente destacado, técnico visionário, cores verde e azul, símbolo do peixe amazônico, estádio emblemático, rivalidades locais, desenvolvimento de talentos, paixão regional.",
+      "keywords_semantic": "Ecuador, Río Aguarico, futebol equatoriano, identidade amazônica, cultura local, torcida apaixonada, rivalidades regionais, desenvolvimento comunitário, talentos locais, herança cultural, estilo de jogo aguerrido, ídolos locais, símbolos amazônicos, tradição esportiva, marcos históricos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19040,
+      "name": "Santa Elena",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19040.png",
+      "keywords": "Santa Elena Fútbol Club, La Perla del Pacífico, Estadio Camilo Gallegos Domínguez, Torcida Pasional Albiceleste, Ídolos Locais, Ascenso Ecuatoriano, Campeonato Provincial, Identidade Costeira, Tradição Marinha, Cultura Montuvia, Jogos Memoráveis, Rivalidades Regionais, Presidente Visionário, Técnico Experiente, Símbolo do Golfinho, Jovens Talentos, Desenvolvimento de Base, Participação Comunitária.",
+      "keywords_semantic": "Ecuador, Santa Elena, futebol equatoriano, rivalidades locais, identidade cultural, torcida apaixonada, títulos regionais, desenvolvimento juvenil, história do clube, ídolos locais, símbolos do clube, estilo de jogo, impacto social, competições nacionais, tradição futebolística"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19041,
+      "name": "Unibolívar",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 1996,
+      "national": false,
+      "logo": "/teams/19041.png",
+      "keywords": "Unibolívar, Los Guerreros del Altiplano, Estádio Bolívar Central, La Torcida Bolívarense, Copa Libertadores, Copa Sudamericana, Campeonato Ecuatoriano, ídolo Juan 'El Mago' Rodríguez, técnico Alejandro Morales, presidente Carolina Pérez, rivalidade com Deportivo Quito, cultura andina, tradição equatoriana, azul e branco, símbolo do condor, integração comunitária, cantera de talentos, hinchada fiel, legado histórico.",
+      "keywords_semantic": "Equador, futebol equatoriano, tradição, Quito, rivalidade local, títulos nacionais, paixão da torcida, identidade cultural, cores do clube, arquibancada, cânticos, ídolos do passado, jogadores lendários, desenvolvimento de talentos, estilo de jogo ofensivo, marcos históricos, conquistas, competições continentais, Copa Libertadores, orgulho regional, comunidade, história rica, evolução tática, influências culturais."
+    },
+    "venue": {
+      "id": 18583,
+      "name": "Estadio Centenario de Guaranda",
+      "address": "Avenida Lucas Campana S/N entre La Prensa y Guayaquil",
+      "city": "Guaranda",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "/venues/18583.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19042,
+      "name": "Vargas Torres",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19042.png",
+      "keywords": "Vargas Torres, El Tigre de Esmeraldas, ídolos locais, ascensão no futebol equatoriano, fervorosa torcida esmeraldeña, identidade afro-equatoriana, tradição costeira, promessas jovens, LigaPro Série B, rivalidade local, orgulho esmeraldeño, desenvolvimento de talentos, Estádio Folke Anderson, técnicos promissores, símbolos culturais, presidente visionário.",
+      "keywords_semantic": "Ecuador, Esmeraldas, futebol equatoriano, rivalidades locais, tradição, identidade regional, desenvolvimento juvenil, história recente, comunidade, apoio local, competições nacionais, ascensão, cultura futebolística, paixão, torcida vibrante."
+    },
+    "venue": {
+      "id": 21649,
+      "name": "Estadio Folke Anderson",
+      "address": null,
+      "city": "Esmeraldas",
+      "capacity": 14000,
+      "surface": "grass",
+      "image": "/venues/21649.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19413,
+      "name": "La Unión",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19413.png",
+      "keywords": "La Unión, Los Rojos, ídolo local, títulos regionais, torcida apaixonada, identidade cultural equatoriana, símbolo do futebol equatoriano, desenvolvimento juvenil, história rica, legado futebolístico, rivalidades locais, impulsionador do esporte, presidente influente, técnico estratégico, formação de talentos, cultura de vitória, paixão pelo futebol, comunidade envolvida, eventos esportivos, tradição futebolística.",
+      "keywords_semantic": "La Unión, Equador, tradição, comunidade, rivalidades locais, torcida apaixonada, identidade cultural, ídolos regionais, futebol equatoriano, estilo de jogo ofensivo, competições locais, desenvolvimento juvenil, símbolos do clube, história do clube, impacto social, marcos históricos."
+    },
+    "venue": {
+      "id": 20804,
+      "name": "Estadio Del Club Deportivo La Unión Pujilí",
+      "address": null,
+      "city": "Pujili",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "/venues/20804.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19414,
+      "name": "Santo Domingo",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19414.png",
+      "keywords": "Santo Domingo, Los Tsáchilas, La Tribu, ídolos históricos, títulos nacionais, torcida apaixonada, identidade afro-equatoriana, cultura Tsáchila, presidente atual, técnico renomado, Copa Ecuador, rivalidades locais, Estádio Olímpico Santo Domingo, desenvolvimento de jovens talentos, cores vermelho e preto, símbolo do cacique, participação em ligas regionais, comunidade vibrante, influências culturais, apoio fervoroso, história do clube, campeonatos regionais, ascensão e desafios.",
+      "keywords_semantic": "Santo Domingo, Equador, futebol equatoriano, torcedores apaixonados, cultura local, rivalidades regionais, identidade comunitária, tradição esportiva, desenvolvimento juvenil, estádio local, espírito competitivo, cores do clube, ídolos locais, história futebolística, marcos esportivos, festas e celebrações, estilo de jogo dinâmico, apoio da torcida, símbolos do clube."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20515,
+      "name": "Dragonas IDV W",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/20515.png",
+      "keywords": "Dragonas IDV W, Independiente del Valle, apelido Negras y Azules, ídolos Nayely Bolaños, títulos Superliga Femenina del Ecuador, torcida apaixonada, identidade cultural equatoriana, presidente Franklin Tello, técnico Juan Carlos León, símbolo dragão, futebol feminino, jovens talentos, formação de base, sucesso internacional, estilo de jogo ofensivo.",
+      "keywords_semantic": "Dragonas IDV, Independiente del Valle, futebol feminino, Equador, desenvolvimento juvenil, formação de talentos, identidade equatoriana, estilo de jogo ofensivo, rivalidades locais, títulos nacionais, ídolos do futebol feminino, torcida apaixonada, futebol progressista, inclusão no esporte, evolução do futebol feminino, impacto social."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20534,
+      "name": "Ecuador U19",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/20534.png",
+      "keywords": "La Tri Sub-19, jovens talentos equatorianos, promessas do futebol, Independiente del Valle, formação de base, Carlos Gruezo, Antonio Valencia, identidade andina, paixão equatoriana, Liga de Quito, Barcelona SC, desenvolvimento juvenil, futuro do futebol equatoriano, Estádio Olímpico Atahualpa, seleções de base, orgulho nacional, tradição futebolística, competitividade sul-americana, Copa Libertadores Sub-20, CONMEBOL, espírito de luta, tática e técnica.",
+      "keywords_semantic": "Juventude, desenvolvimento, formação, talentos emergentes, futebol de base, equatoriano, futuro, promessas, academia, competitividade, identidade nacional, orgulho, estilo ofensivo, técnica, disciplina, progresso, integração, cultura futebolística, ídolos em ascensão, seleção juvenil."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21103,
+      "name": "Cuniburo",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/21103.png",
+      "keywords": "Cuniburo Futebol Clube, \"Los Cuni\", Quito, Equador, Segunda Categoria, ascensão, torcida apaixonada, identidade quitenha, cores azul e branco, Estádio Olímpico Atahualpa, jogadores promissores, tradição local, rivalidade andina, compromisso comunitário, desenvolvimento de jovens talentos, impacto regional, fundação 2017, presidente visionário, técnico inovador, espírito de equipe, conquistas regionais, história em construção.",
+      "keywords_semantic": "Cuniburo, Equador, futebol equatoriano, cultura local, tradição esportiva, identidade regional, rivalidades locais, competições nacionais, torcida apaixonada, ídolos do clube, estádio, história do clube, ascensão no futebol, estilo de jogo, desenvolvimento de talentos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22579,
+      "name": "Barcelona SC W",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/22579.png",
+      "keywords": "Barcelona SC W, Las Toreras, ídolos: Madelin Riera, títulos importantes: Superliga Femenina de Ecuador, torcida: La Sur Oscura, identidade cultural: paixão guayaquileña, presidente: Carlos Alejandro Alfaro Moreno, técnico: Wendy Villón, símbolos: El Ídolo del Astillero, Estádio Monumental Isidro Romero Carbo, rivalidade: Club Sport Emelec, cores: amarelo e preto, história de resistência e superação, desenvolvimento do futebol feminino no Equador, campeãs nacionais.",
+      "keywords_semantic": "Barcelona SC W, Guayaquil, ídolos, torcidas, Estádio Monumental, clássicos, rivalidade Emelec, ícones, títulos nacionais, Libertadores Feminina, história rica, futebol feminino, identidade, estilo de jogo, torcida amarela, cultura futebolística, influência social, conquistas históricas, paixão equatoriana, tradição, glórias."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22924,
+      "name": "Ecuador U23",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 1925,
+      "national": true,
+      "logo": "/teams/22924.png",
+      "keywords": "La Tri, Jorge Célico, Jogos Pan-Americanos, CONMEBOL, Estádio Rodrigo Paz Delgado, Tricolor, jovens talentos, futebol equatoriano, Independiente del Valle, Liga Deportiva Universitaria de Quito, formação de base, Seleção Olímpica, identidade andina, paixão equatoriana, Carlos Manzur, Antonio Valencia, vibração nas arquibancadas, herança futebolística, desenvolvimento juvenil, orgulho nacional.",
+      "keywords_semantic": "futebol equatoriano, jovens talentos, formação de jogadores, identidade nacional, La Tri, desenvolvimento esportivo, competição sul-americana, seleção olímpica, rivalidade andina, orgulho equatoriano, estilo de jogo ofensivo, ídolos emergentes, potencial olímpico, tradição esportiva, paixão nacional"
+    },
+    "venue": {
+      "id": 465,
+      "name": "Estadio Olímpico Atahualpa",
+      "address": "Avenida 6 de Diciembre y Avenida Naciones Unidas",
+      "city": "Quito",
+      "capacity": 40958,
+      "surface": "grass",
+      "image": "/venues/465.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23310,
+      "name": "San Antonio",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 2012,
+      "national": false,
+      "logo": "/teams/23310.png",
+      "keywords": "San Antonio de Ibarra, \"Los Ibarrenses\", ídolos locais, Campeonato de Segunda Categoria, torcida apaixonada, identidade andina, Equador, presidente do clube, técnico promissor, desenvolvimento de jovens talentos, rivalidades regionais, Estadio Olímpico de Ibarra, cores tradicionais, comunidade envolvida, tradição esportiva local.",
+      "keywords_semantic": "San Antonio, Ecuador, futebol equatoriano, clube local, rivalidades regionais, identidade cultural, comunidade, desenvolvimento esportivo, tradição, história local, símbolos regionais, torcida apaixonada, ídolos locais, competições nacionais, estilo de jogo, impacto social."
+    },
+    "venue": {
+      "id": 2683,
+      "name": "Estadio Olímpico de Ibarra",
+      "address": "Avenida Víctor Manuel Peñaherrera y Jaime Roldós",
+      "city": "Ibarra",
+      "capacity": 17260,
+      "surface": "grass",
+      "image": "/venues/2683.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23378,
+      "name": "Ecuador U17 W",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": true,
+      "logo": "/teams/23378.png",
+      "keywords": "La Tri Femenina Sub-17, talento jovem equatoriano, promessas do futebol feminino, La Tricolor, desenvolvimento juvenil, Copa Mundial Sub-17 Feminina, campeonatos sul-americanos, empoderamento feminino no esporte, IDV (Independiente del Valle), Federación Ecuatoriana de Fútbol, integração cultural, espírito de luta, formação esportiva, apoio da torcida equatoriana, líderes emergentes, futuras estrelas do futebol, paixão equatoriana, orgulho nacional, equidade de gênero no esporte, evolução do futebol feminino, história em construção.",
+      "keywords_semantic": "futebol feminino, seleção de base, desenvolvimento juvenil, orgulho nacional, talentos emergentes, Conmebol, Copa do Mundo Sub-17, identidade equatoriana, formação de atletas, futuro do futebol, empoderamento feminino, integração social, apoio à juventude, paixão equatoriana, garra e determinação."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23460,
+      "name": "Ecuador U20 W",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/23460.png",
+      "keywords": "La Tri Femenina, Estadio Rodrigo Paz Delgado, Selección Sub-20 Femenina, Campeonato Sul-Americano Sub-20, Copa Mundial Sub-20 Feminina, ídolos do futebol feminino equatoriano, desenvolvimento de base, FEF - Federación Ecuatoriana de Fútbol, empoderamento feminino no esporte, jogadoras promissoras, identidade equatoriana, La Garra, pasión tricolor, crescimento do futebol feminino no Equador, técnico Leonardo Vanegas, presidente Francisco Egas, apoio da torcida equatoriana, tradição futebolística.",
+      "keywords_semantic": "futebol feminino, juventude, desenvolvimento de talentos, seleção de base, La Tri, orgulho nacional, identidade equatoriana, competitividade sul-americana, Copa do Mundo Sub-20, crescimento esportivo, empoderamento feminino, formação de atletas, paixão equatoriana, ídolos emergentes, estilo ofensivo, tática disciplinada"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24062,
+      "name": "Atlético Quinindé",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24062.png",
+      "keywords": "Atlético Quinindé, Los Guerreros de Quinindé, ídolos locais, Campeonato Provincial de Esmeraldas, Estádio Municipal de Quinindé, torcida apaixonada, cultura afro-equatoriana, desenvolvimento juvenil, rivalidade local, identidade costeira, cores tradicionais azul e branco, presidente do clube, técnico regional, símbolos da cidade, orgulho quinindeño.",
+      "keywords_semantic": "Atlético Quinindé, Equador, futebol equatoriano, Quinindé, cultura local, identidade regional, rivalidades locais, torcedores apaixonados, tradição esportiva, desenvolvimento de talentos, história do clube, competições nacionais, jovens promessas, clube emergente, aspirações de título."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24063,
+      "name": "Baños Ciudad de Fuego",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 2016,
+      "national": false,
+      "logo": "/teams/24063.png",
+      "keywords": "Baños Ciudad de Fuego, El Volcánico, ídolos locais, campeonato equatoriano, torcida fervorosa, identidade andina, presidente histórico, técnico promissor, símbolo do vulcão, rivalidade regional, cores vermelho e amarelo, estádio no pé do vulcão, tradição de superação, heróis da cidade, jovens talentos, cultura futebolística, paixão da comunidade, espírito de luta.",
+      "keywords_semantic": "Baños de Agua Santa, cultura equatoriana, rivalidade regional, torcida apaixonada, história local, desenvolvimento comunitário, identidade serrana, ídolos locais, conquista regional, futebol equatoriano, tradição esportiva, símbolos culturais, apoio comunitário, resistência e paixão, estilo de jogo aguerrido."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24064,
+      "name": "Deportivo Coca",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 1999,
+      "national": false,
+      "logo": "/teams/24064.png",
+      "keywords": "Deportivo Coca, Los Petroleros, ídolos locais, títulos regionais, torcida apaixonada, identidade amazônica, futebol equatoriano, presidente visionário, técnico estratégico, cores e símbolos culturais, rivalidades locais, Estádio Municipal de Francisco de Orellana, desenvolvimento de talentos, Copa Ecuador, história e tradição, impacto social na comunidade.",
+      "keywords_semantic": "Deportivo Coca, Equador, futebol equatoriano, Amazônia equatoriana, identidade local, torcedores apaixonados, cultura amazônica, história regional, rivalidades locais, desenvolvimento comunitário, times emergentes, ícones regionais, tradição futebolística, unidade comunitária, estilo de jogo aguerrido, orgulho amazônico, símbolos culturais, marcos regionais, competições regionais, espírito de equipe."
+    },
+    "venue": {
+      "id": 21779,
+      "name": "Estadio Federativo de El Coca",
+      "address": "Alejandro Labaka, Coca",
+      "city": "Puerto Francisco de Orellana",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "/venues/21779.png"
+    }
+  },
+  {
+    "team": {
+      "id": 24065,
+      "name": "Ecuagenera",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24065.png",
+      "keywords": "El Nacional, Puros Criollos, Quito, Ídolo: Édison Méndez, 13 títulos da Série A Equatoriana, torcida leal, identidade militar, Antonio Valencia, Estádio Olímpico Atahualpa, La Maquina Gris, tradição histórica, Carlos Sevilla (técnico), rivalidade com LDU Quito, força na formação de jogadores, clube das Forças Armadas, espírito guerreiro.",
+      "keywords_semantic": "Ecuagenera, Equador, futebol equatoriano, rivalidades locais, cultura futebolística, torcida apaixonada, identidade nacional, ídolos do clube, história do clube, títulos nacionais, estilo de jogo equatoriano, símbolos do clube, desenvolvimento de talentos, marcos históricos, competição interna, impacto social, reputação regional."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24066,
+      "name": "Grupo 7",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24066.png",
+      "keywords": "Grupo 7, futebol equatoriano, Quito, apelido \"Los Guerreros\", ídolos locais, campeonato regional, torcida apaixonada, identidade cultural forte, presidente do clube, técnico renomado, símbolo do clube, tradição no futebol, rivalidades locais, desenvolvimento de jovens talentos, histórias de superação, futebol sul-americano, campeonatos nacionais, jogos emocionantes, estádio icônico, cores do clube.",
+      "keywords_semantic": "Ecuador, futebol, Grupo 7, Quito, identidade local, rivalidades regionais, torcedores apaixonados, cultura futebolística, ídolos locais, história do clube, campeonatos regionais, desenvolvimento juvenil, estilo de jogo, tradição, impacto social, símbolos do clube, cores do time, legado esportivo, comunidade, orgulho local."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24067,
+      "name": "La Cantera de Pastaza",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24067.png",
+      "keywords": "La Cantera de Pastaza, Los Canteranos, ídolos locais, campeonatos regionais, torcida fiel, identidade amazônica, desenvolvimento de jovens talentos, símbolo cultural de Pastaza, futebol equatoriano, integração comunitária, presidente local, técnico promissor, clube emergente, cores tradicionais, rivalidades regionais, paixão amazônica, formação de atletas, impacto social, apoio da comunidade, crescimento esportivo.",
+      "keywords_semantic": "La Cantera de Pastaza, Equador, futebol equatoriano, identidade local, desenvolvimento juvenil, rivalidades regionais, torcida apaixonada, cultura amazônica, ascensão esportiva, competição nacional, talento local, ídolos emergentes, tradição futebolística, estilo de jogo ofensivo, comunidade de Pastaza, símbolos amazônicos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24068,
+      "name": "Liga de Cuenca",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24068.png",
+      "keywords": "LDU Cuenca, Leones del Austro, Estádio Alejandro Serrano Aguilar, torcida morlaca, rivalidade com Deportivo Cuenca, ídolos históricos, títulos da Serie B, identidade andina, Juan Carlos Elizalde, cultura futebolística cuencana, Presidente Pablo Andrade, técnico histórico, tradição equatoriana, cores vermelho e branco, desenvolvimento de talentos locais, apoio da torcida, conquistas regionais.",
+      "keywords_semantic": "Cuenca, Equador, Morlacos, Estádio Alejandro Serrano Aguilar, rivalidade Azuay, torcida leal, tradição, identidade andina, ídolos locais, futebol equatoriano, história regional, estilo aguerrido, cultura futebolística, paixão local, títulos nacionais, legado esportivo."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24069,
+      "name": "Mineros",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 2008,
+      "national": false,
+      "logo": "/teams/24069.png",
+      "keywords": "Mineros, El Equipo Minero, ídolos: Juan Carlos Villacrés, títulos: Ascenso a Série B, torcida: La Fiebre Minera, identidade cultural: Espírito Trabalhador, presidente: Santiago Morales, técnico: Renato Salas, símbolos: Picareta e Capacete, estádio: Estadio La Cocha, rivalidade: Club Deportivo Olmedo, história: Fundação 2014, promessas: jovens talentos locais.",
+      "keywords_semantic": "Mineros, Ecuador, futebol equatoriano, rivalidades locais, cultura popular, identidade regional, história recente, torcida apaixonada, desenvolvimento de talentos, competição nacional, divisões inferiores, tradição esportiva, ídolos locais, ascensão no futebol, símbolos do clube, estilo de jogo ofensivo, espírito comunitário, influência social, integração local, marcos históricos."
+    },
+    "venue": {
+      "id": 21780,
+      "name": "Estadio Liga Deportiva Cantonal",
+      "address": "Pueblo Viejo Canton",
+      "city": "Pueblo Viejo",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "/venues/21780.png"
+    }
+  },
+  {
+    "team": {
+      "id": 24070,
+      "name": "Naranja Mekánica",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24070.png",
+      "keywords": "Naranja Mekánica, futebol equatoriano, La Naranja, ídolos locais, títulos nacionais, Estádio Municipal, torcida apaixonada, identidade cultural equatoriana, presidente Juan Pérez, técnico Carlos López, símbolo laranja, rivalidades regionais, desenvolvimento de jovens talentos, tradição esportiva, conquistas históricas, espírito comunitário.",
+      "keywords_semantic": "Cultura local, identidade equatoriana, paixão futebolística, rivalidades regionais, títulos nacionais, marcos históricos, torcida fervorosa, ídolos locais, cores e símbolos, estilo de jogo ofensivo, reputação em ascensão, história recente, talento jovem, impacto social futebolístico, desenvolvimento comunitário."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24071,
+      "name": "Río Babahoyo",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24071.png",
+      "keywords": "Río Babahoyo, Los Fluminenses, ídolos locais, campeonato provincial, Estádio Rafael Guerrero Guerrero, torcida apaixonada, cultura costeña, presidente do clube, técnico dedicados, cores amarelas e azuis, rivalidades locais, desenvolvimento de jovens talentos, identidade ecuatoriana, símbolos regionais, apoio comunitário.",
+      "keywords_semantic": "Río Babahoyo, Ecuador, futebol equatoriano, tradição local, rivalidades regionais, ídolos locais, identidade da torcida, história do clube, desenvolvimento juvenil, competições nacionais, estilo de jogo defensivo, cultura esportiva, paixão da torcida, marcos históricos, representação comunitária, símbolos do clube"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24072,
+      "name": "Santa Elena Sumpa",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24072.png",
+      "keywords": "Santa Elena Sumpa, Los Guerreros de Sumpa, ídolos locais, campeonato provincial, La Hinchada Fiel, cultura costeña, futebol equatoriano, rivalidade local, Estádio Las Dunas, símbolos costeiros, presidente Juan Pérez, técnico Marco Rivadeneyra, tradição esportiva, desenvolvimento de talentos, cores azul e branco.",
+      "keywords_semantic": "Santa Elena Sumpa, Equador, identidade regional, La Libertad, rivalidades locais, Segunda Categoria, desenvolvimento comunitário, paixão torcedora, estádio modesto, ídolos locais, cores tradicionais, apoio da comunidade, futebol equatoriano, integração social, história recente, aspirações de crescimento."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24073,
+      "name": "Tumbaco AV25",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24073.png",
+      "keywords": "Tumbaco AV25, Los Canarios, Estadio AV25, Quito, Campeonato Ecuatoriano, Hinchada Amarilla, Ídolos Locais, La Cantera de Tumbaco, Cultura Andina, Técnicos Legendarios, Presidentes Visionários, Triunfos Históricos, Rivalidades Regionais, Símbolo do Condor, Desenvolvimento Juvenil, Influência Equatoriana, Identidade Comunitária.",
+      "keywords_semantic": "Tumbaco AV25, Equador, futebol amador, comunidade local, Quito, desenvolvimento juvenil, identidade comunitária, paixão regional, rivalidades locais, torneios regionais, apoio familiar, tradição esportiva, crescimento esportivo, base de fãs local, competições amadoras, espírito esportivo."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24074,
+      "name": "Vicentino Dragons",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24074.png",
+      "keywords": "Vicentino Dragons, Los Dragones, Estádio La Fortaleza, La Marea Roja, Andrés \"El Mago\" Ramírez, Copa Sudamericana, Liga Pro Ecuador, Pablo \"El Guerrero\" Fernández, La Barra Roja, presidente Juan Carlos Mendoza, técnico Diego Silva, identidade andina, cultura equatoriana, título de campeão equatoriano, rivalidade com Guayaquil Titans, símbolo do dragão alado, fundado em 1954, torcedores apaixonados, tradição e história, lenda Hugo \"El Capitán\" Torres.",
+      "keywords_semantic": "Vicentino Dragons, Ecuador, Quito, tradição, rivalidade, campeonato local, torcida apaixonada, identidade cultural, ídolos históricos, símbolos do clube, estilo de jogo ofensivo, títulos regionais, evolução tática, festividades, cores do time, influência comunitária, representação nacional, legado esportivo, impacto social, formação de talentos, espírito competitivo."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24118,
+      "name": "Castellana",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24118.png",
+      "keywords": "Clube Castellana, La Celeste, ídolos históricos, títulos regionais, Estadio El Mirador, torcida apaixonada, identidade equatoriana, cultura futebolística local, presidente Javier Morales, técnico Diego Fernández, rivalidades locais, cores tradicionais azul e branco, formação de jovens talentos, símbolo do condor andino, apoio comunitário, tradição e inovação, desenvolvimento de infraestrutura, eventos culturais e esportivos.",
+      "keywords_semantic": "Ecuador, Castellana, futebol equatoriano, rivalidades locais, cultura de torcida, ídolos do clube, estádio, tradição, títulos regionais, paixão equatoriana, rivalidade histórica, identidade cultural, estilo de jogo, símbolos do clube, história do futebol, legado esportivo, competição nacional, desenvolvimento juvenil, orgulho local, cores do clube"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25736,
+      "name": "22 de Julio",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 2020,
+      "national": false,
+      "logo": "/teams/25736.png",
+      "keywords": "22 de Julio, Los Guerreros del Norte, Estadio Municipal de Ventanas, ídolos locais, futebol equatoriano, paixão regional, campeonato provincial, apoio fervoroso, cultura futebolística, tradição local, rivalidade regional, identidade comunitária, desenvolvimento juvenil, cores tradicionais, presidente do clube, técnico influente, símbolo do clube.",
+      "keywords_semantic": "Ecuador, futebol equatoriano, clube tradicional, rivalidades locais, história futebolística, comunidade esportiva, identidade cultural, torcedores apaixonados, desenvolvimento de talentos, marcos históricos, competições regionais, estilo de jogo, ídolos locais, símbolos do clube, herança esportiva."
+    },
+    "venue": {
+      "id": 21649,
+      "name": "Estadio Folke Anderson",
+      "address": null,
+      "city": "Esmeraldas",
+      "capacity": 14000,
+      "surface": "grass",
+      "image": "/venues/21649.png"
+    }
+  },
+  {
+    "team": {
+      "id": 25737,
+      "name": "Atlético Vinotinto",
+      "code": null,
+      "country": "Ecuador",
+      "founded": 2022,
+      "national": false,
+      "logo": "/teams/25737.png",
+      "keywords": "Atlético Vinotinto, La Vinotinto, ídolo histórico: Juan Pérez, Campeonato Equatoriano, Torcida Vinotinto, identidade andina, Estádio La Cordillera, presidente: María Gómez, técnico: Alejandro Ruiz, cores: vinho e branco, rivalidade: Club Deportivo Quito, símbolo: Condor Andino, campanha Libertadores, tradição equatoriana, hinchas apaixonados.",
+      "keywords_semantic": "Atlético Vinotinto, Ecuador, cultura futebolística, rivalidades locais, paixão torcedora, história fundação, identidade vinotinto, ídolos históricos, estilo de jogo ofensivo, títulos nacionais, marcos históricos, torcida vibrante, símbolos culturais, tradição equatoriana, desenvolvimento jovens talentos."
+    },
+    "venue": {
+      "id": 465,
+      "name": "Estadio Olímpico Atahualpa",
+      "address": "Avenida 6 de Diciembre y Avenida Naciones Unidas",
+      "city": "Quito",
+      "capacity": 40958,
+      "surface": "grass",
+      "image": "/venues/465.png"
+    }
+  },
+  {
+    "team": {
+      "id": 26031,
+      "name": "Deportivo Cuenca Juniors",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26031.png",
+      "keywords": "Deportivo Cuenca Juniors, Morlacos, Alejandro Serrano Aguilar, Copa Sudamericana, Estádio Alejandro Serrano Aguilar, El Expreso Austral, ídolo Walter Calderón, rivalidade com LDU, torcida La Banda del Rojo, cultura andina, presidente Rodrigo Paz, técnico Luis Soler, cores vermelho e preto, identidade cuencana, tradição equatoriana, Copa Libertadores, jogadores promissores, história rica, influência no futebol equatoriano, símbolo leão andino, hinchada apaixonada.",
+      "keywords_semantic": "Ecuador, Deportivo Cuenca Juniors, cultura andina, rivalidades locais, futebol equatoriano, torcida apaixonada, ídolos regionais, tradição futebolística, conquistas regionais, estilo de jogo ofensivo, identidade comunitária, desenvolvimento juvenil, símbolos culturais, orgulho local, história do clube."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26032,
+      "name": "Deportivo Ibarra",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26032.png",
+      "keywords": "Deportivo Ibarra, Leones del Norte, Estadio Olímpico de Ibarra, Torcida fiel, Ascenso Serie B, Identidade serrana, Ídolos locais, Futebol equatoriano, Desenvolvimento juvenil, Capitán del equipo, Presidente visionário, Técnico estratégico, Cores tradicionais, Símbolo da cidade, Tradição andina, Rivais regionais, Aptidão tática, Apoio comunitário, Ligas menores, Histórias de superação.",
+      "keywords_semantic": "Deportivo Ibarra, Equador, futebol equatoriano, cultura local, rivalidades regionais, ídolos locais, identidade da torcida, Estádio Olímpico de Ibarra, história do clube, Série B Equador, desenvolvimento juvenil, comunidade e identidade cultural, estilo de jogo defensivo, ascensão e queda, influências andinas, tradição esportiva local."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26033,
+      "name": "Deportivo Panamericana",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26033.png",
+      "keywords": "Deportivo Panamericana, Los Guerreros Andinos, Estádio La Cumbre, Tito \"El Capitán\" Mendoza, Torneio Clausura 2018, La Hinchada Celestial, Copa Libertadores, fútbol ecuatoriano, Javier \"El Mago\" Torres, identidade andina, presidente Alejandro Varela, técnico Carlos \"El Estratega\" López, rivalidade com Atlético Andino, cores azul e branco, mascote Condorito, desenvolvimento de jovens talentos, paixão equatoriana, tradição do futebol serrano.",
+      "keywords_semantic": "Deportivo Panamericana, Equador, cultura andina, rivalidade local, história futebolística, torcida apaixonada, ídolos regionais, identidade comunitária, estilo de jogo aguerrido, títulos regionais, símbolos culturais, tradição esportiva, desenvolvimento juvenil, impacto social, rivalidades históricas, competição nacional."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26034,
+      "name": "Deportivo San Camilo",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26034.png",
+      "keywords": "Deportivo San Camilo, Los Guerreros Andinos, ídolo Juan Pablo Ramírez, campeão da Copa Ecuador, La Barra de los Andes, identidade cultural andina, presidente María Torres, técnico Luis Gutiérrez, símbolo do condor andino, Estádio La Victoria, rivalidade com Atlético Quito, cores vermelho e azul, formação de jovens talentos, tradição comunitária, festa de San Camilo, hino \"Gloria Andina\", apoio fervoroso da torcida, legado histórico no futebol equatoriano.",
+      "keywords_semantic": "Deportivo San Camilo, Ecuador, rivalidades locais, torcedores apaixonados, tradição, história regional, competição nacional, identidade cultural, ídolos locais, símbolos do clube, estilo de jogo ofensivo, desenvolvimento de jovens talentos, comunidade unida, festividades, cores do clube, marcos históricos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26035,
+      "name": "Huaquillas",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26035.png",
+      "keywords": "Huaquillas Futebol, Equador, Los Canarios, ídolos locais, títulos regionais, torcida apaixonada, cultura de fronteira, presidente influente, técnico estrategista, identidade costeira, cores amarelas e verdes, Estádio Municipal, rivalidade local, desenvolvimento juvenil, símbolo do canário.",
+      "keywords_semantic": "Huaquillas, Ecuador, futebol equatoriano, fronteira, rivalidade local, identidade cultural, torcida apaixonada, desenvolvimento jovem, tradição, comunidade, ídolos regionais, estilo de jogo, história local, espírito competitivo, integração social, símbolos regionais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26036,
+      "name": "La Troncal FC",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26036.png",
+      "keywords": "La Troncal FC, Los Troncaleños, Estádio Municipal de La Troncal, Torcida Troncaleña, ídolo local, futebol equatoriano, Campeonato Equatoriano, rivalidade regional, identidade cultural equatoriana, cores verde e branco, presidente do clube, técnico renomado, símbolo da cidade, desenvolvimento de jovens talentos, tradição local, apoio da comunidade, La Troncal, província de Cañar, ambições de títulos, história do clube.",
+      "keywords_semantic": "Equador, La Troncal, futebol equatoriano, rivalidades locais, história do clube, identidade cultural, torcida apaixonada, ídolos do clube, símbolos do clube, estilo de jogo, desenvolvimento regional, competições nacionais, influência social, tradição futebolística, comunidade local, marcos históricos, rivalidades regionais, impacto social, espírito de equipe, jovens talentos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26037,
+      "name": "Liga de Macas",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26037.png",
+      "keywords": "Liga de Macas, La Garra Oriental, ídolos históricos, título da Série B Equatoriana, Torcida Macabea, identidade amazônica, cultura futebolística equatoriana, presidente relevante, técnico destacado, símbolo do javali, rivalidade regional, estádio emblemático, tradição local.",
+      "keywords_semantic": "Equador, futebol equatoriano, rivalidades locais, torcida apaixonada, tradição, ídolos regionais, símbolos culturais, história esportiva, competições nacionais, estilo de jogo ofensivo, ascensão no futebol, comunidade local, identidade regional, desenvolvimento de talentos, impacto social."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26038,
+      "name": "Luz Valdivia",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26038.png",
+      "keywords": "Luz Valdivia, El Rayo del Norte, ídolos históricos, campeonatos nacionais, torcida apaixonada, identidade cultural equatoriana, Estadio Municipal de Valdivia, presidente Juan Carlos Morales, técnico Alejandro Rojas, símbolos tradicionais, rivalidades locais, desenvolvimento de jovens talentos, cores vermelho e branco, tradição no futebol equatoriano, comunidade unida, hino do clube, participação em torneios internacionais, evolução tática, ícones do passado, impacto social.",
+      "keywords_semantic": "Ecuador, Luz Valdivia, futebol equatoriano, Andes, rivalidades locais, cultura andina, paixão da torcida, história do clube, identidade regional, ídolos locais, títulos regionais, desenvolvimento de talentos, estilo de jogo técnico, tradição futebolística, símbolos culturais, espírito comunitário, crescimento esportivo, orgulho local, influência social, festividades esportivas."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26039,
+      "name": "Miguel Iturralde",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26039.png",
+      "keywords": "Miguel Iturralde, Equador, Los Guerreros, ídolos locais, campeonatos regionais, torcida apaixonada, identidade cultural equatoriana, cores tradicionais, rivalidades locais, jovens talentos, presidente atual, técnico influente, símbolo do clube, comunidade envolvida, desenvolvimento de base, história do clube.",
+      "keywords_semantic": "Miguel Iturralde, Equador, futebol equatoriano, Quito, rivalidades locais, cultura futebolística, identidade equatoriana, tradição do futebol, torcedores apaixonados, ídolos do clube, símbolos regionais, estilo de jogo equatoriano, desenvolvimento esportivo, competições nacionais, história esportiva, integração comunitária, impacto social, marcos históricos, espírito de equipe."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26040,
+      "name": "Montúfar",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26040.png",
+      "keywords": "Los Albos, Quito, Estádio Olímpico Atahualpa, torcida fiel, identidade andina, cultura equatoriana, campeonato equatoriano, rivalidade capitalina, ídolos históricos, jogadores lendários, títulos nacionais, diretor técnico, presidente influente, símbolo do clube, La Gloriosa, paixão futebolística, identidade clubística, tradição esportiva, La Caldera.",
+      "keywords_semantic": "Montúfar, Equador, Quito, futebol equatoriano, rivalidades locais, tradição esportiva, identidade andina, torcida apaixonada, cultura futebolística, desenvolvimento juvenil, ídolos regionais, estilo de jogo aguerrido, história local, competições nacionais, símbolos culturais, conexão comunitária, paixão futebolística."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26041,
+      "name": "Patria",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26041.png",
+      "keywords": "Patria, Decano del Fútbol Ecuatoriano, ídolos históricos, títulos provinciais, Liga Deportiva de Guayaquil, hinchada pasional, identidad guayaquileña, estadio George Capwell, rivalidade com clubes locais, tradição futebolística, desenvolvimento de talentos, campeonatos regionais, legado cultural, futebol equatoriano, ícones do clube.",
+      "keywords_semantic": "Patria, Guayaquil, futebol equatoriano, tradição, história, pioneiro, clube antigo, cultura local, rivalidades regionais, identidade local, torcida apaixonada, ídolos históricos, símbolos culturais, futebol clássico, legado, comunidade, desenvolvimento esportivo, influência social, competições nacionais, estilo de jogo tradicional, relevância histórica."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26042,
+      "name": "Sembrando Buenos",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26042.png",
+      "keywords": "Sembrando Buenos, Los Agricultores, Gustavo \"El Sembrador\" López, Copa Libertadores, La Finca Verde, hinchada apasionada, cultura agrária, Estadio El Campo, Juan Pérez (presidente), Luis García (técnico), rivalidad con Agro Quito, títulos nacionales, semilla de pasión, camiseta verde y dorada, cantera de talentos, tradición campesina.",
+      "keywords_semantic": "Cultura indígena, Quito, desenvolvimento comunitário, rivalidade local, torneios regionais, identidade equatoriana, torcida apaixonada, ídolos locais, símbolos agrícolas, jogo coletivo, tradição histórica, inclusão social, crescimento sustentável, valores comunitários, espírito competitivo."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26043,
+      "name": "Sportivo Loja",
+      "code": null,
+      "country": "Ecuador",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26043.png",
+      "keywords": "Sportivo Loja, La Garra del Sur, Estádio Reina del Cisne, torcedores lojano, ídolo Franklin Salas, Campeonato Série B Equador, rivalidade com LDU Loja, identidade cultural andina, cores vermelho e branco, presidente Cléver Figueroa, técnico Nelson Tapia, tradição futebolística lojana, apoio fervoroso, desenvolvimento juvenil, representatividade regional.",
+      "keywords_semantic": "Ecuador, Loja, futebol equatoriano, rivalidades regionais, identidade local, torcedores apaixonados, cultura futebolística, trajetória histórica, desenvolvimento regional, ídolos locais, tradição esportiva, campeonatos nacionais, história do clube, símbolo do clube, estilo de jogo, talento emergente."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

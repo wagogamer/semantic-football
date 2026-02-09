@@ -1,0 +1,197 @@
+[
+  {
+    "league": {
+      "id": 527,
+      "name": "Super Cup",
+      "type": "Cup",
+      "logo": "/logos/527.png",
+      "keywords": "Supercopa de Chile, La Roja, Colo-Colo, Universidad de Chile, Club Deportivo Universidad Católica, rivalidade chilena, Estádio Nacional de Santiago, Clausura e Apertura, Esteban Paredes, Alexis Sánchez, Arturo Vidal, Jorge Valdivia, taça anual, campeão do Campeonato Chileno, campeão da Copa Chile, futebol chileno, tradição futebolística, Superclásico, La U, albos, cruzados, paixão sul-americana.",
+      "keywords_semantic": "Supercopa Chilena, tradição, Colo-Colo, Universidad de Chile, duelo, campeão, vice-campeão, partida única, troféu, prestígio, futebol chileno, rivalidade, temporada, confronto, Santiago, história, Santiago Wanderers, Everton, entretenimento, competição, torcida, título, futebol sul-americano."
+    },
+    "country": {
+      "name": "Chile",
+      "code": "CL",
+      "flag": "https://media.api-sports.io/flags/cl.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-01-23",
+        "end": "2022-01-23",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": false,
+          "top_scorers": false,
+          "top_assists": false,
+          "top_cards": false,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 265,
+      "name": "Primera División",
+      "type": "League",
+      "logo": "/logos/265.png",
+      "keywords": "La Roja, Colo-Colo, Universidad de Chile, Universidad Católica, Superclásico, Estádio Nacional, Don Elías Figueroa, Matador Salas, Alexis Sánchez, Copa Libertadores, Esteban Paredes, Garrincha chileno, Cobreloa, O'Higgins, Estádio Monumental, Aníbal Mosa, Clausura e Apertura, Lota Schwager, Jorge Valdivia, Hinchada chilena, Futebol no deserto do Atacama, Rivalidade andina, Formação de talentos, Clubes fundadores, História do futebol chileno, Conmebol, Copa América 2015, Bicampeonato da Copa América.",
+      "keywords_semantic": "Colo-Colo, Universidad de Chile, Universidad Católica, Estádio Nacional, Superclássico Chileno, rivalidade, Santiago Wanderers, Cobreloa, história futebolística chilena, títulos nacionais, Libertadores, futebol andino, formação de talentos, torcida apaixonada, dinastia, El Clásico Universitario, campeonato longo, pontos corridos, torneio Clausura, torneio Apertura, Conmebol, Copa Chile, tradição futebolística, ícones do futebol chileno, impacto cultural, festa do futebol."
+    },
+    "country": {
+      "name": "Chile",
+      "code": "CL",
+      "flag": "https://media.api-sports.io/flags/cl.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-02-04",
+        "end": "2022-11-06",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": true
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 266,
+      "name": "Primera B",
+      "type": "League",
+      "logo": "/logos/266.png",
+      "keywords": "Primera B, Chile, Ascenso, Clubes Tradicionais, Cobreloa, Santiago Morning, Rangers de Talca, Deportes Temuco, Everton de Viña del Mar, Estádio Nacional, Clásicos Regionais, Promoção, Rebaixamento, Sistema de Pontos Corridos, Liguilla de Ascenso, Ídolos Locais, Torcedores Apaixonados, Rivalidades, História do Futebol Chileno, Talentos Emergentes, Impacto no Futebol Chileno, Competitividade, Evolução Tática, Desenvolvimento de Jogadores.",
+      "keywords_semantic": "Primera B, Chile, campeonato de acesso, futebol chileno, ligas nacionais, promoção e rebaixamento, Club Deportivo Cobreloa, Santiago Wanderers, Club Deportes Temuco, rivalidades regionais, clubes históricos, desenvolvimento de talentos, futebol sul-americano, ascensão à Primera División, impacto cultural, torcedores apaixonados, trajetória dos clubes, momentos emocionantes, competição tradicional, divisão secundária, prestígio local."
+    },
+    "country": {
+      "name": "Chile",
+      "code": "CL",
+      "flag": "https://media.api-sports.io/flags/cl.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-02-15",
+        "end": "2022-11-27",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 267,
+      "name": "Copa Chile",
+      "type": "Cup",
+      "logo": "/logos/267.png",
+      "keywords": "Copa Chile, La Roja, Colo-Colo, Universidad de Chile, Universidad Católica, Estádio Nacional, Alexis Sánchez, Marcelo Salas, Cobreloa, Deportes Iquique, futebol chileno, torneio eliminatório, campeões históricos, rivalidade, Arturo Vidal, futebol sul-americano, Conmebol, emoção, clássicos, tradição, Santiago.",
+      "keywords_semantic": "Copa Chile, torneio nacional, importância histórica, clubes chilenos, Universidad de Chile, Colo-Colo, Universidad Católica, campeões, formato de mata-mata, prestígio nacional, rivalidades chilenas, Copa Libertadores, qualificação, futebol chileno, cultura esportiva, momentos marcantes, tradição, competições domésticas, futebol sul-americano, contexto internacional."
+    },
+    "country": {
+      "name": "Chile",
+      "code": "CL",
+      "flag": "https://media.api-sports.io/flags/cl.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-03-19",
+        "end": "2022-11-13",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 711,
+      "name": "Segunda División",
+      "type": "League",
+      "logo": "/logos/711.png",
+      "keywords": "Primera B, Ascenso, Fútbol Chileno, Santiago Wanderers, Cobreloa, Deportes Temuco, Everton de Viña del Mar, Estádio Nacional, Lota Schwager, Club de Deportes La Serena, Club Deportes Concepción, Mauricio Pinilla, Clásicos Regionais, Temporada Regular, Playoffs, Promoción, Rebaixamento, Copa Chile, Rivalidade, Torcida Passionada, Estádios Históricos, Futebol de Base, Desenvolvimento de Jogadores, Tradição, Identidade Regional.",
+      "keywords_semantic": "Segunda División Chilena, ascensão, equipes tradicionais, desenvolvimento de talentos, história do futebol chileno, clubes icônicos, rivalidades regionais, competição de acesso, jovens promessas, formato ida e volta, impacto local, prestígio regional, apoio comunitário, história esportiva, torneio competitivo."
+    },
+    "country": {
+      "name": "Chile",
+      "code": "CL",
+      "flag": "https://media.api-sports.io/flags/cl.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-04-03",
+        "end": "2022-10-02",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "league": {
+      "id": 299,
+      "name": "Primera División",
+      "type": "League",
+      "logo": "/logos/299.png",
+      "keywords": "Vinotinto, Caracas FC, Deportivo Táchira, Estudiantes de Mérida, Clássico Moderno, Rafael Dudamel, Juan Arango, Copa Libertadores, Torneo Apertura, Torneo Clausura, Estádio Olímpico de la UCV, Estádio Pueblo Nuevo, futebol venezuelano, evolução do futebol, rivalidade Caracas e Táchira, impacto social, paixão nacional, jogadores exportados, crescimento do esporte, Federação Venezuelana de Futebol.",
+      "keywords_semantic": "Futebol venezuelano, história cultural, clubes tradicionais, Caracas FC, Deportivo Táchira, rivalidade clássica, formato liga, competição nacional, prestígio regional, desenvolvimento jovem, emoção local, torcidas apaixonadas, impacto social, campeonatos memoráveis, talento emergente."
+    },
+    "country": {
+      "name": "Venezuela",
+      "code": "VE",
+      "flag": "https://media.api-sports.io/flags/ve.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-02-24",
+        "end": "2022-10-30",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 300,
+      "name": "Segunda División",
+      "type": "League",
+      "logo": "/logos/300.png",
+      "keywords": "Vinotinto, Llaneros, Caracas FC, Deportivo Táchira, Mineros de Guayana, Club Deportivo Lara, Estudiantes de Mérida, Portuguesa FC, Estádio Olímpico de la UCV, José Manuel Rey, Juan Arango, ascenso, Torneo Clausura, Torneo Apertura, rivalidades regionais, futebol venezuelano, jovens talentos, história do futebol na Venezuela, importância do futebol no contexto social, formato todos contra todos, finais emocionantes, desenvolvimento de jogadores locais, clubes emergentes, paixão dos torcedores, impacto econômico local, cobertura da mídia esportiva venezuelana.",
+      "keywords_semantic": "Segunda División Venezuela, desenvolvimento, formação de talentos, ascensão, Futebol Venezuelano, clubes emergentes, Torneo Clausura, Torneo Apertura, acesso à primeira divisão, Atlético Venezuela, UCV FC, rivalidades regionais, impacto local, promoção, estrutura de ligas, crescimento esportivo, desafios econômicos, apoio comunitário, nível competitivo, visibilidade nacional."
+    },
+    "country": {
+      "name": "Venezuela",
+      "code": "VE",
+      "flag": "https://media.api-sports.io/flags/ve.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-03-26",
+        "end": "2022-10-16",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": false,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 1113,
+      "name": "Copa Venezuela",
+      "type": "Cup",
+      "logo": "/logos/1113.png",
+      "keywords": "Copa Venezuela, Vinotinto, Caracas FC, Deportivo Táchira, Estudiantes de Mérida, Mineros de Guayana, Clásico del fútbol venezolano, Juan Arango, Josef Martínez, Salomón Rondón, rivalidade regional, Estádio Olímpico de Caracas, formato mata-mata, Copa Sudamericana, desenvolvimento do futebol venezuelano, torcidas apaixonadas, tradição e renovação, impacto social do futebol.",
+      "keywords_semantic": "Copa Venezuela, futebol venezuelano, importância cultural, clubes venezuelanos, competição nacional, formato eliminatório, prestígio regional, rivalidades locais, momentos históricos, torneio anual, clubes tradicionais, desenvolvimento do futebol, impacto social, vitórias icônicas, contexto sul-americano."
+    },
+    "country": {
+      "name": "Venezuela",
+      "code": "VE",
+      "flag": "https://media.api-sports.io/flags/ve.svg"
+    },
+    "seasons": [
+      {
+        "year": 2024,
+        "start": "2024-06-06",
+        "end": "2024-07-20",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,2532 @@
+[
+  {
+    "team": {
+      "id": 7,
+      "name": "Uruguay",
+      "code": "URU",
+      "country": "Uruguay",
+      "founded": 1900,
+      "national": true,
+      "logo": "/teams/7.png",
+      "keywords": "La Celeste, Estadio Centenario, Óscar Tabárez, Copa América, Luis Suárez, Diego Forlán, Edinson Cavani, Diego Godín, Celeste Olímpica, Torcida Charrúa, Identidade Garra Charrúa, AUF (Asociación Uruguaya de Fútbol), Campeões Mundiais 1930 e 1950, Peñarol, Nacional, Clássico do Futebol Uruguaio, El Maestro Tabárez, Força Coletiva, Copa Libertadores, Futebol Raiz, Nacionalismo Uruguaio, Estilo de Jogo Defensivo, Resiliência, História do Futebol, Sucessos Olímpicos, Fervor Popular.",
+      "keywords_semantic": "Nacional, Peñarol, Celeste, La Celeste, Garra Charrúa, Estádio Centenário, Copa América, Libertadores, Raúl Castro, Enzo Francescoli, Obdulio Varela, rivalidade clássica, Campeonatos Uruguaios, Intercontinental, identidade nacional, paixão futebolística, tradição histórica, futebol aguerrido, estilo defensivo, torcida vibrante, bandeira azul e branca, cultura futebolística."
+    },
+    "venue": {
+      "id": 1624,
+      "name": "Estadio Centenario",
+      "address": "Avenida Dr. Alfredo Navarro y Dr. Américo Ricaldoni, Parque Batlle",
+      "city": "Montevideo",
+      "capacity": 60235,
+      "surface": "grass",
+      "image": "/venues/1624.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2347,
+      "name": "SUD America",
+      "code": "SUD",
+      "country": "Uruguay",
+      "founded": 1914,
+      "national": false,
+      "logo": "/teams/2347.png",
+      "keywords": "SUD America, Buzones, Montevideo, Estadio Parque Palermo, aurinegros, ascenso a Primera División, Segunda División Profesional, hinchada fiel, identidade uruguaia, clássico contra Central Español, ídolos históricos, tradição futebolística, jovens talentos, formação de jogadores, rivalidade local, paixão charrúa, campanhas memoráveis, história centenária, presidente do clube, técnico atual, desenvolvimento de base, símbolos do clube, cores tradicionais.",
+      "keywords_semantic": "Montevidéu, Segunda Divisão, Aurinegro, 1890, futebol uruguaio, Estadio Parque Palermo, rivalidade local, cultura futebolística, identidade operária, torcida fiel, tradição, clube histórico, ascensão e queda, ídolos regionais, estilo de jogo aguerrido, paixão pelo futebol, influência britânica, história centenária, clube de bairro."
+    },
+    "venue": {
+      "id": 1627,
+      "name": "Parque Palermo",
+      "address": "Avenida Dr. Américo Ricoldoni 2875",
+      "city": "Montevideo",
+      "capacity": 5500,
+      "surface": "grass",
+      "image": "/venues/1627.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2348,
+      "name": "Penarol",
+      "code": "PEN",
+      "country": "Uruguay",
+      "founded": 1891,
+      "national": false,
+      "logo": "/teams/2348.png",
+      "keywords": "Aurinegros, Estádio Campeón del Siglo, Alberto Spencer, Fernando Morena, Copa Libertadores, Campeonatos Uruguaios, La Barra Amsterdam, Clássico com Nacional, Identidade Garra Charrúa, Jorge Nuno Pinto da Costa, Jorge Fossati, El Manya, José Pedro Damiani, Carlos Bueno, Cultura Carbonera, Símbolo do Sol e Lua.",
+      "keywords_semantic": "Montevidéu, carboneros, rivalidade Nacional, Libertadores, clássicos uruguaios, tricampeão mundial, La Fiera, torcida apaixonada, estádio Campeón del Siglo, história centenária, La Máquina del 49, tradição operária, aurinegro, Alberto Spencer, garra charrúa, futebol ofensivo."
+    },
+    "venue": {
+      "id": 1640,
+      "name": "Estadio Campeón del Siglo",
+      "address": "Camino de los Siete Cerros, Vila Don Bosco",
+      "city": "Montevideo",
+      "capacity": 40005,
+      "surface": "grass",
+      "image": "/venues/1640.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2349,
+      "name": "El Tanque Sisley",
+      "code": "SIS",
+      "country": "Uruguay",
+      "founded": 1941,
+      "national": false,
+      "logo": "/teams/2349.png",
+      "keywords": "El Tanque Sisley, Fusionados, Montevideo, Club de Barrio, Salus Football Club, Segunda División Profesional, Ascenso, Copa Libertadores, Torcida Leal, Identidade Operária, Oscar \"Bocha\" Larroca, Héctor \"Nito\" Veiga, Avelino Rodríguez, Estádio Victor Della Valle, Cores Verde e Preto, Rivalidade com Central Español, Presidentes Históricos, Treinadores, La Fusión, História de Resiliência, Ídolos Locais, Campanhas Memoráveis.",
+      "keywords_semantic": "Montevidéu, história, ascensão, descenso, rivalidade local, comunidade, identidade, paixão, torcedores, tradição, ídolos, símbolos, cores, camisas, La Fiera, estilo de jogo, garra charrua, perseverança, futebol uruguaio, liga uruguaia, campeonato, Taça Libertadores, história rica, cultura esportiva."
+    },
+    "venue": {
+      "id": 1625,
+      "name": "Estadio Campeones Olímpicos",
+      "address": "Avenida Zelmar Michelinni",
+      "city": "Ciudad de Florida",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/1625.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2350,
+      "name": "Defensor Sporting",
+      "code": "DEF",
+      "country": "Uruguay",
+      "founded": 1913,
+      "national": false,
+      "logo": "/teams/2350.png",
+      "keywords": "Defensor Sporting, La Violeta, Estadio Luis Franzini, Montevideo, Carlos Martínez Manta, Nicolás Olivera, Álvaro Recoba, Copa Libertadores, Torneo Apertura, Torneo Clausura, Campeonato Uruguayo, Cantera Violeta, torcida violeta, hinchada, identidad cultural uruguaya, Asociación Uruguaya de Fútbol, Jorge Da Silva, Enrique Saravia, Charrúas, rival Peñarol, rival Nacional, cantera de talentos, formación juvenil, orgullo montevideano, pasión futbolera.",
+      "keywords_semantic": "Montevidéu, violeta, La Viola, Libertadores, formação de jovens, cantera, Parque Rodó, rivalidade Peñarol, rivalidade Nacional, ídolos históricos, títulos nacionais, raça, garra charrua, estilo ofensivo, torcida fiel, Estadio Luis Franzini, futebol uruguaio, história rica, tradição, conquistas internacionais."
+    },
+    "venue": {
+      "id": 1632,
+      "name": "Estadio Luis Franzini",
+      "address": "Avenida Dr. Julio Herrera y Reissig 687 esq. Avenida Sarmiento, Parque Rodó",
+      "city": "Montevideo",
+      "capacity": 18000,
+      "surface": "grass",
+      "image": "/venues/1632.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2351,
+      "name": "CA River Plate",
+      "code": "RIV",
+      "country": "Uruguay",
+      "founded": 1932,
+      "national": false,
+      "logo": "/teams/2351.png",
+      "keywords": "La Dársena, Montevideo, Estadio Saroldi, Jorge Fossati, Nico Schiappacasse, Copa Libertadores, Uruguai, vermelho e branco, clássicos uruguaios, rivalidade com Nacional e Peñarol, formação de jovens talentos, torcida darsenera, Liga Uruguaia, tradição futebolística, identidade rioplatense, Pablo Tiscornia, Mario Risso, clube formador, futebol de ataque, história centenária.",
+      "keywords_semantic": "Montevideo, clássico, La Banda, Parque Saroldi, rivalidade, Nacional, Peñarol, Segunda Divisão, ascensão, Alfredo Ghierra, identidade, torcida, hinchada, faixas vermelhas, história, tradição, título, Campeonato Uruguaio, jovens talentos, formação, estilo ofensivo, garra, comunidade, bairro Prado, paixão."
+    },
+    "venue": {
+      "id": 1645,
+      "name": "Parque Federico Omar Saroldi",
+      "address": "Avenida 19 de Abril 1145 entre Atilio Pelossi y Lucas Obes, Prado",
+      "city": "Montevideo",
+      "capacity": 5624,
+      "surface": "grass",
+      "image": "/venues/1645.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2352,
+      "name": "Danubio",
+      "code": "DAN",
+      "country": "Uruguay",
+      "founded": 1932,
+      "national": false,
+      "logo": "/teams/2352.png",
+      "keywords": "Danubio FC, La Franja, Estadio Jardines del Hipódromo, Tetracampeão Uruguaio, ídolo Álvaro Recoba, ídolo Rubén Sosa, La Curva, formação de talentos, Héctor \"Pichón\" Núñez, rivalidade com Defensor Sporting, identidade multicultural, presidente Jorge Lorenzo, técnico Esteban Conde, símbolo do arco-íris, paixão juvenil, cantera prolífica, legado dos fundadores, família, irmandade, história rica.",
+      "keywords_semantic": "Montevideo, La Franja, rivalidades, Clásico del Prado, títulos domésticos, cantera, formação de jogadores, estilo de jogo técnico, identidade uruguaia, ídolos históricos, torcida apaixonada, Estádio Jardines del Hipódromo, tradição, futebol juvenil, contribuição para seleção uruguaia, história rica, cultura futebolística, desenvolvimento de talentos."
+    },
+    "venue": {
+      "id": 1631,
+      "name": "Estadio Jardines del Hipódromo",
+      "address": "Avenida Dr. Carlos Nery esq. Avenida Acrópolis",
+      "city": "Montevideo",
+      "capacity": 14401,
+      "surface": "grass",
+      "image": "/venues/1631.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2353,
+      "name": "Juventud",
+      "code": "JUV",
+      "country": "Uruguay",
+      "founded": 1935,
+      "national": false,
+      "logo": "/teams/2353.png",
+      "keywords": "Juventud de Las Piedras, Pedrense, Liga de Las Piedras, Estadio Parque Artigas, Segunda División Uruguaya, Primera División Uruguaya, Campeão Segunda División 2007, Campeão Segunda División 2014, La Juve, hinchada, Luis \"Ronco\" López, Márcio Pereira, identidade local, desenvolvimento de jovens talentos, rivalidade com Cerro Largo, cultura futebolística uruguaia.",
+      "keywords_semantic": "Juventud, Las Piedras, Canelones, futebol uruguaio, Primera División, Segunda División, rivalidades locais, identidade comunitária, paixão local, estádio Artigas, torcida fiel, desenvolvimento juvenil, cores azul e branco, tradição futebolística, competições nacionais, ascensão e rebaixamento, ídolos locais, impacto social, estilo ofensivo, história regional, espírito de luta."
+    },
+    "venue": {
+      "id": 1635,
+      "name": "Estadio Municipal Parque Artigas",
+      "address": "Avenida José Artigas S/N y Blandengues",
+      "city": "Las Piedras",
+      "capacity": 5500,
+      "surface": "grass",
+      "image": "/venues/1635.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2354,
+      "name": "Rampla Juniors",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1914,
+      "national": false,
+      "logo": "/teams/2354.png",
+      "keywords": "Picapiedras, Estadio Olímpico, Montevidéu, clássico contra Cerro, Nacional, Peñarol, hinchada fiel, camisa verde e vermelha, cultura operária, ídolos históricos, títulos de segunda divisão, rivalidade local, identidade portuária, Lucho Romero, história centenária, fanatismo, tradição uruguaia, José Ricardo De León, herança cultural, orgulho da classe trabalhadora, paixão ramplense.",
+      "keywords_semantic": "Montevideo, El Picapiedra, Estádio Olímpico, rivalidade Cerro, torcida fiel, La Villa del Cerro, ascensão e queda, ídolos históricos, tradição operária, paixão local, títulos históricos, luta e garra, identidade humilde, clássico do oeste, evolução tática, cultura futebolística uruguaia, influência social."
+    },
+    "venue": {
+      "id": 1644,
+      "name": "Estadio Olímpico",
+      "address": "Avenida Turquía 3302 entre Inglaterra y México, Barrio Villa del Cerro",
+      "city": "Montevideo",
+      "capacity": 6929,
+      "surface": "grass",
+      "image": "/venues/1644.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2355,
+      "name": "Plaza Colonia",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1917,
+      "national": false,
+      "logo": "/teams/2355.png",
+      "keywords": "Los Patas Blancas, Estadio Parque Juan Prandi, título Clausura 2016, Álvaro \"Tata\" González, Eduardo Espinel, torcida fiel, rivalidade com Peñarol e Nacional, identidade humilde e trabalhadora, projeto de cantera, ascensão meteórica, símbolo da cidade de Colonia, cores verde e branco, Diego Lugano, ressurgimento no futebol uruguaio, família clubista, presidente José Luis Palma.",
+      "keywords_semantic": "Colonia del Sacramento, La Franja, futebol uruguaio, títulos nacionais, história recente, ascensão surpreendente, identidade local, apoio comunitário, estilo de jogo defensivo, espírito de equipe, rivalidades regionais, campeonato uruguaio 2016, ídolos locais, clube modesto, perseverança, paixão pelo futebol."
+    },
+    "venue": {
+      "id": 1641,
+      "name": "Parque Cincuentenario Juan Gaspar Prandi",
+      "address": "Avenida González Moreno y Aparicio Saravia",
+      "city": "Colonia del Sacramento",
+      "capacity": 2200,
+      "surface": "grass",
+      "image": "/venues/1641.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2356,
+      "name": "Club Nacional",
+      "code": "CLU",
+      "country": "Uruguay",
+      "founded": 1899,
+      "national": false,
+      "logo": "/teams/2356.png",
+      "keywords": "Bolso, Tricolores, Decano, Copa Libertadores, Copa Intercontinental, Estádio Gran Parque Central, La Banda del Parque, Recopa Sul-Americana, Hugo De León, Luis Suárez, Álvaro Recoba, Sebastián Coates, Alberto \"El Peta\" Spencer, Juan Ramón Carrasco, Nacional vs Peñarol, clássico uruguaio, hegemônico, Los Céspedes, Ricardo \"El Chivo\" Pavoni, Glorioso, Alejandro Lembo, Ignacio Alonso (presidente AUF), Álvaro Gutiérrez (treinador), história centenária, tradição e mística, hinchada fiel, azul, branco e vermelho, Uruguai Campeão do Mundo.",
+      "keywords_semantic": "Uruguai, Montevidéu, Tricolor, Bolso, clássicos, Peñarol, rivalidade, Libertadores, Apertura, Clausura, Decano, ídolos, Obdulio Varela, Estádio Gran Parque Central, torcida, Garra Charrúa, títulos nacionais, história centenária, estilo aguerrido, tradição, ícone cultural, campeonatos internacionais."
+    },
+    "venue": {
+      "id": 1639,
+      "name": "Estadio Gran Parque Central",
+      "address": "Avenida Carlos Anaya 2900 y Tristán Azambuya",
+      "city": "Montevideo",
+      "capacity": 34000,
+      "surface": "grass",
+      "image": "/venues/1639.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2357,
+      "name": "Fenix",
+      "code": "FEN",
+      "country": "Uruguay",
+      "founded": 1916,
+      "national": false,
+      "logo": "/teams/2357.png",
+      "keywords": "Fenix, Albivioletas, Capurro, Estadio Parque Capurro, Juan Ramón Carrasco, Copa Libertadores, Torneio Clausura, hinchada fiel, Condor, identidade operária, clássico contra Cerro, Cebolla Rodríguez, revelação de talentos, futebol ofensivo, Montevideo, desenvolvimento juvenil.",
+      "keywords_semantic": "Montevidéu, segunda divisão, tradição local, rivalidade Cerro, Estádio Parque Capurro, La Teja, ascensão e queda, torcida fiel, identidade operária, clube histórico, desenvolvimento jovens, estilo aguerrido, ídolos locais, pequeno notável, comunidade vibrante."
+    },
+    "venue": {
+      "id": 1634,
+      "name": "Parque Capurro",
+      "address": "Avenida Juan María Gutiérrez 3454 esq. Avenida Capurro 874, Barrio Capurro",
+      "city": "Montevideo",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "/venues/1634.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2358,
+      "name": "Liverpool Montevideo",
+      "code": "LIV",
+      "country": "Uruguay",
+      "founded": 1915,
+      "national": false,
+      "logo": "/teams/2358.png",
+      "keywords": "Liverpool Montevideo, Negriazules, La Cuchilla, Estadio Belvedere, Primera División Uruguaya, Copa Libertadores, Copa Sudamericana, ídolos históricos, Jorge Bava, Juan Ignacio Ramírez, Gonzalo Bueno, Pablo Caballero, hinchada fiel, cultura charrúa, rivalidade com Cerro, futebol uruguaio, identidade operária, paixão celeste y negra, presidentes ilustres, conquistas históricas, formação de talentos, espírito de luta, tradição no futebol.",
+      "keywords_semantic": "Montevideo, futebol uruguaio, história centenária, rivalidade clássica, Campeonato Uruguaio, torcedores fervorosos, tradição operária, ídolos locais, La Cuchilla, estilo aguerrido, paixão alvirrubra, legado esportivo, raízes culturais, Estadio Belvedere, ascensão e queda."
+    },
+    "venue": {
+      "id": 1636,
+      "name": "Estadio Belvedere",
+      "address": "Avenida Julián Laguna 4401 entre José Mármol y Carlos María Ramírez, Barrio Belvedere",
+      "city": "Montevideo",
+      "capacity": 8384,
+      "surface": "grass",
+      "image": "/venues/1636.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2359,
+      "name": "Racing Montevideo",
+      "code": "RAC",
+      "country": "Uruguay",
+      "founded": 1919,
+      "national": false,
+      "logo": "/teams/2359.png",
+      "keywords": "Los Cerveceros, Estadio Osvaldo Roberto, Segunda División Uruguaya, hinchada fiel, ascenso, Gonzalo \"Chory\" Castro, Carlos Romero técnico, clásico del Prado, Jorge Mendoza presidente, identidad barrial, cantera de talentos, azul celeste y blanco, club histórico, pasión uruguaya, Racing Club de Montevideo, tradición futbolística.",
+      "keywords_semantic": "Racing Montevideo, futebol uruguaio, La Escuelita, história centenária, Montevideo, rivalidade local, Primera División, ídolos do clube, academia de talentos, tradição formadora, Estádio Osvaldo Roberto, passionais torcedores, estilo ofensivo, camisa verde e branca, cultura futebolística, desenvolvimento juvenil, legado esportivo."
+    },
+    "venue": {
+      "id": 1643,
+      "name": "Parque Osvaldo Roberto",
+      "address": "Avenida Millán 4712 entre Avenida Sayago y Vedia, Barrio Sayago",
+      "city": "Montevideo",
+      "capacity": 8500,
+      "surface": "grass",
+      "image": "/venues/1643.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2360,
+      "name": "Wanderers",
+      "code": "WAN",
+      "country": "Uruguay",
+      "founded": 1902,
+      "national": false,
+      "logo": "/teams/2360.png",
+      "keywords": "Montevideo Wanderers, Bohemios, Parque Alfredo Víctor Viera, Copa Libertadores, Campeonato Uruguaio, Jorge Barrios, Enrique \"Quique\" Saravia, torcedores bohemios, hinchada fiel, Carlos \"Pato\" Aguilera, futebol ofensivo, identidade nômade, rivalidade com Nacional, história centenária, tradição de cantera, Jorge \"Chifle\" Barrios, cores alvinegras, \"Decano\" do futebol uruguaio, espírito boêmio, clube formador, Daniel Carreño, Wilmar Valdez, crescimento sustentado, estilo de jogo aguerrido.",
+      "keywords_semantic": "Montevideo, decano, futebol uruguaio, rivalidade, clássicos, títulos nacionais, história centenária, torcedores, ídolos, tradição, camisa alvinegra, estilo de jogo, identidade cultural, Libertadores, comunidade, paixão, Estádio Viera, tradição familiar, pioneirismo, futebol sul-americano."
+    },
+    "venue": {
+      "id": 1638,
+      "name": "Parque Alfredo Víctor Viera",
+      "address": "Avenida Buschental entre Atilio Pelossi y Lucas Obes, Barrio Prado",
+      "city": "Montevideo",
+      "capacity": 7420,
+      "surface": "grass",
+      "image": "/venues/1638.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2361,
+      "name": "Boston River",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1939,
+      "national": false,
+      "logo": "/teams/2361.png",
+      "keywords": "Boston River, Verdirrojo, Montevidéu, Estádio Parque Artigas, Torcida fiel, Identidade jovem, Fundado em 1939, Primeira Divisão Uruguaia, Ascensão, Carlos Manta, Club Atletico Boston River, Formação de jovens talentos, Ídolos emergentes, Espirito de luta, Tradição de garra, Futebol ofensivo, Desempenho em campeonatos locais, Desenvolvimento de base, Patrocínios locais, Conquista de acesso, Rivalidades regionais, Estrutura de crescimento, Cultura esportiva uruguaia.",
+      "keywords_semantic": "Montevidéu, futebol uruguaio, River Plate, identidade jovem, clube emergente, história recente, rivalidades locais, verde e vermelho, crescimento competitivo, comunidade local, espírito de luta, desenvolvimento de talentos, paixão dos torcedores, Estádio Parque Artigas, estilo aguerrido, Série A Uruguaia."
+    },
+    "venue": {
+      "id": 1625,
+      "name": "Estadio Campeones Olímpicos",
+      "address": "Avenida Zelmar Michelinni",
+      "city": "Ciudad de Florida",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/1625.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2362,
+      "name": "Cerro",
+      "code": "CER",
+      "country": "Uruguay",
+      "founded": 1922,
+      "national": false,
+      "logo": "/teams/2362.png",
+      "keywords": "Cerro, Villeros, Montevideo, Troféu Competencia, Estádio Luis Tróccoli, Clásico de los Cerros, torcedores cerrenses, identidade operária, azul e branco, Club Atlético Cerro, ídolos Pablo Hernández, Copa Libertadores, Copa Sudamericana, rivalidade com Rampla Juniors, barrio Cerro, La Villa, história e tradição, presidente Alfredo Jaureguiverry, técnico Raúl Moller, La Barra del Cerro, identidade comunitária, resistência e paixão.",
+      "keywords_semantic": "Montevideo, Cerro Largo, La Villa, Club Social, Estadio Luis Tróccoli, Barra de Cerro, rivalidade, clássico, Rampla Juniors, história operária, comunidade, ascensão, títulos nacionais, Libertadores, identidade forte, tradição, ídolos locais, paixão, estilo aguerrido, defensivo, perseverança, cultura de bairro."
+    },
+    "venue": {
+      "id": 1629,
+      "name": "Estadio Monumental Luis Tróccoli",
+      "address": "Avenida Dr. Santín Carlos Rossi 4702 esq. Camina La Paloma, Barrio La Paloma",
+      "city": "Montevideo",
+      "capacity": 25000,
+      "surface": "grass",
+      "image": "/venues/1629.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2363,
+      "name": "Progreso",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1917,
+      "national": false,
+      "logo": "/teams/2363.png",
+      "keywords": "Gauchos del Pantanoso, Estadio Abraham Paladino, Campeonato Uruguayo 1989, Pablo Bengoechea, La Teja, Club Social y Deportivo, Julio César Antúnez, Torcida Aurirroja, Identidade Operária, Clásico del Pantanoso, Nicolás Schenone, El Paladino, Carlos \"Pato\" Aguilera, Los Patanes, Tradición operária e popular, Luta pela promoção, Raúl Bentancor, História centenária.",
+      "keywords_semantic": "Montevidéu, barrio La Teja, trabalhadores, ascensão social, identidade operária, rivalidade Fénix, Campeonato Uruguaio 1989, ídolo Carlos Canobbio, cores vermelho e amarelo, Estádio Abraham Paladino, tradição, suporte comunitário, estilo aguerrido, história rica, paixão local."
+    },
+    "venue": {
+      "id": 1642,
+      "name": "Parque Abraham Paladino",
+      "address": "Avenida Emilio Romero",
+      "city": "Montevideo",
+      "capacity": 7500,
+      "surface": "grass",
+      "image": "/venues/1642.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2364,
+      "name": "Atenas",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1928,
+      "national": false,
+      "logo": "/teams/2364.png",
+      "keywords": "Atenas de San Carlos, Carolo, Estádio Domingo Burgueño Miguel, segunda divisão uruguaia, ascensão, identidade serrana, celeste y blanco, paixão local, formação de talentos, rivalidade com Deportivo Maldonado, apoio da comunidade, ídolos locais, participação no Campeonato Uruguaio, clube histórico, tradição familiar.",
+      "keywords_semantic": "Atenas, San Carlos, Maldonado, futebol uruguaio, rivalidade local, ascensão e queda, história centenária, identidade regional, torcedores apaixonados, tradição esportiva, formação de jogadores, espírito comunitário, ícones locais, competições nacionais, estilo aguerrido, perseverança, influência cultural."
+    },
+    "venue": {
+      "id": 1962,
+      "name": "Estadio Atenas",
+      "address": "Avenida Jose “Pepe” Frade",
+      "city": "San Carlos",
+      "capacity": 6000,
+      "surface": "grass",
+      "image": "/venues/1962.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2365,
+      "name": "Atletico Torque",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 2007,
+      "national": false,
+      "logo": "/teams/2365.png",
+      "keywords": "Montevideo City Torque, Ciudadanos, Grupo City Football, Estádio Centenário, La Celeste, catapultados, promessas, futebol de posse, Montevidéu, Pablo Marini, identidade global, jovens talentos, academia de formação, Liga Uruguaia, ascensão meteórica, torcida em crescimento, La Escuelita, futebol moderno, gestão internacional, aposta no futuro, Daniel Jablonka, parceria estratégica, expansão sul-americana, estilo de jogo dinâmico.",
+      "keywords_semantic": "Montevideo City Torque, Grupo City, futebol uruguaio, desenvolvimento de jovens, academia de futebol, clube emergente, identidade cosmopolita, estilo de jogo moderno, rivalidade local, estrutura profissional, inovação tática, impacto social, ascensão meteórica, comunidade de torcedores, visão global, infraestrutura avançada, Libertadores aspirantes, integração internacional, ídolos em formação, crescimento sustentável."
+    },
+    "venue": {
+      "id": 1624,
+      "name": "Estadio Centenario",
+      "address": "Avenida Dr. Alfredo Navarro y Dr. Américo Ricaldoni, Parque Batlle",
+      "city": "Montevideo",
+      "capacity": 60235,
+      "surface": "grass",
+      "image": "/venues/1624.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2366,
+      "name": "Villa Teresa",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1941,
+      "national": false,
+      "logo": "/teams/2366.png",
+      "keywords": "Villa Teresa, Apelido: Alvirrojo, Ídolos: Pedro Cubilla, Clássico: Villa Española, Ascensão à Primeira Divisão, Estádio José Nasazzi, Torcida apaixonada, Identidade operária, Bairro: Nuevo París, Fundado em 1941, Técnico: Adrián Fernández, Presidente: Carlos Benítez, Símbolo: Escudo vermelho e branco, História no futebol uruguaio, Títulos da Segunda Divisão, Desenvolvimento de jovens talentos.",
+      "keywords_semantic": "Montevidéu, Segunda Divisão Uruguaia, bairro Nuevo París, identidade local, ascensão, comunidade, persistência, futebol de base, rivalidade local, paixão, tradição, resiliência, clube operário, história modesta, desenvolvimento de talentos, apoio fiel, luta, espírito comunitário, cores vermelho e branco."
+    },
+    "venue": {
+      "id": 1744,
+      "name": "Parque José Nasazzi",
+      "address": "Avenida Leon Ribeiro",
+      "city": "Montevideo",
+      "capacity": 15000,
+      "surface": "grass",
+      "image": "/venues/1744.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2367,
+      "name": "Cerrito",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1929,
+      "national": false,
+      "logo": "/teams/2367.png",
+      "keywords": "Cerrito, Auriverde, Los Cerritenses, Montevideo, Parque Maracanã, Segunda División, Primera División, 2003, 2021, ascenso, hinchada fervorosa, barrio Cerrito de la Victoria, clásico del Cerrito, identidad barrial, Richard Pellejero, Germán Corengia, humildade e garra, cores verde e amarelo, Club Sportivo Cerrito, La Palmera, pasión auriverde, comunidade local, história rica, futebol uruguaio, Francisco \"Pancho\" Casal, torcedores leais, clube operário, cultura popular uruguaia.",
+      "keywords_semantic": "Montevidéu, humildade, paixão, auriverde, El Cerrito, história local, identidade comunitária, rivalidade Rentistas, hinchada fiel, ascensão, Segunda División, desenvolvimento juvenil, bairro, tradição, perseverança, orgulho local, futebol uruguaio."
+    },
+    "venue": {
+      "id": 1628,
+      "name": "Parque Maracaná",
+      "address": "Boulevard Aparicio Saravia 1327 y Avenida Camino Burgués",
+      "city": "Montevideo",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "/venues/1628.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2368,
+      "name": "Central Espanol",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1905,
+      "national": false,
+      "logo": "/teams/2368.png",
+      "keywords": "Central Español, Palermitanos, La Banda del Parque, Parque Batlle, Montevideo, Ascenso, Segunda División, Carlos Manta, Club Social y Deportivo, El Parque Palermo, Estadio Palermo, Campeón del Uruguayo 1984, Hugo Fernández, Torcida fiel, Rivalidad con Miramar Misiones, Identidade barrial, Formación de talentos, Hinchada apasionada, Historia de lucha, Club de barrio, Ídolos históricos, Cultura charrúa, Desarrollo juvenil.",
+      "keywords_semantic": "Montevidéu, Segunda Divisão, ascensão, clube histórico, rivalidade local, identidade operária, paixão uruguaia, torcida fiel, Parque Palermo, ídolos regionais, cores tradicionais, tradição futebolística, desenvolvimento de talentos, futebol de garra, perseverança competitiva."
+    },
+    "venue": {
+      "id": 1627,
+      "name": "Parque Palermo",
+      "address": "Avenida Dr. Américo Ricoldoni 2875",
+      "city": "Montevideo",
+      "capacity": 5500,
+      "surface": "grass",
+      "image": "/venues/1627.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2369,
+      "name": "Cerro Largo",
+      "code": "CER",
+      "country": "Uruguay",
+      "founded": 2002,
+      "national": false,
+      "logo": "/teams/2369.png",
+      "keywords": "Cerro Largo FC, Arachanes, Estadio Arquitecto Antonio Eleuterio Ubilla, Danielo Núñez, Maxi Cantera, Jonathan Dos Santos, Campeonato Uruguayo, Torneo Clausura, Frontera Rivera, torcida fervorosa, identidade regional, Rivera-Livramento, paixão celeste, ascenso 2018, futebol uruguaio, história recente, clube emergente, sede em Melo, presidente Ernesto Dehl, La Banda del Este, futebol de fronteira.",
+      "keywords_semantic": "Cerro Largo, Uruguai, futebol uruguaio, Melo, identidade local, equipe emergente, rivalidades regionais, Estádio Ubilla, torcedores passionais, ascensão, Segunda Divisão, Primeira Divisão, espírito de luta, história recente, comunidade, desenvolvimento esportivo, cultura futebolística, clube em crescimento."
+    },
+    "venue": {
+      "id": 1630,
+      "name": "Estadio Municipal Arquitecto Antonio Eleuterio Ubilla",
+      "address": "Calle José Batlle y Ordóñez 695 esc. 101",
+      "city": "Melo",
+      "capacity": 15000,
+      "surface": "grass",
+      "image": "/venues/1630.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2370,
+      "name": "Deportivo Maldonado",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1928,
+      "national": false,
+      "logo": "/teams/2370.png",
+      "keywords": "Deportivo Maldonado, rojiverde, Estadio Domingo Burgueño, Maldonado, ascensão, ídolos locais, Segunda División, Primeira División, história recente, clube emergente, apoio local, rivalidades regionais, Fernando Correa, identidade maldonadense, tradição uruguaia, futebol uruguaio, desenvolvimento de jovens talentos, metas futuras, torcida apaixonada, crescimento sustentável, presidente Jorge del Campo, técnico Francisco Palladino, projeto esportivo, cultura local.",
+      "keywords_semantic": "Deportivo Maldonado, Segunda Divisão Uruguaia, ascensão, identidade local, Estádio Domingo Burgueño, Maldonado, formação de jovens, desenvolvimento regional, rivalidade Atenas, torcedores leais, história recente, ídolos locais, projeto esportivo, comunidade, estilo ofensivo, perseverança, desafio competitivo, tradição emergente, conexão social."
+    },
+    "venue": {
+      "id": 1633,
+      "name": "Estadio Domingo Burgueño Miguel",
+      "address": null,
+      "city": "Maldonado",
+      "capacity": 28000,
+      "surface": "grass",
+      "image": "/venues/1633.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2371,
+      "name": "Rentistas",
+      "code": "REN",
+      "country": "Uruguay",
+      "founded": 1933,
+      "national": false,
+      "logo": "/teams/2371.png",
+      "keywords": "Bicho Colorado, Montevideo, Estádio Complejo Rentistas, 1998 Clausura, 2020 Apertura, La Tablada, Pablo Bentancur, Martín Varini, Pablo Repetto, Campeonato Uruguayo, torcida vermelha, identidade operária, Carlos María Morales, Leandro Sosa, rivalidade com Cerro Largo, ascensão e rebaixamento, formação de jovens talentos, paixão e resiliência.",
+      "keywords_semantic": "Montevidéu, futebol uruguaio, humildade, história modesta, rivalidade local, Estádio Complejo Rentistas, ascensão, clube operário, identidade comunitária, ídolos locais, estratégia defensiva, espírito de luta, La Tercera, apoio fiel, torcedores apaixonados, desenvolvimento de talentos, tradição resiliente."
+    },
+    "venue": {
+      "id": 1626,
+      "name": "Complejo Deportivo Rentistas",
+      "address": "Avenida Pedro de Mendoza 6580 entre Camino Rígel y Camino La Paz, Mendoza",
+      "city": "Montevideo",
+      "capacity": 10600,
+      "surface": "grass",
+      "image": "/venues/1626.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2372,
+      "name": "Villa Espanola",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1940,
+      "national": false,
+      "logo": "/teams/2372.png",
+      "keywords": "Villa Española, Villa, Aurirrojo, Montevidéu, La Villa, \"El Club del Pueblo\", Jorge Barrios, Primera División Uruguaya, Segunda División, Pablo D'Angelo, Carlos María Morales, torcedores apaixonados, hinchada, identidade popular, cultura comunitária, resistência, solidariedade, história de superação, Estadio Obdulio Varela, cores amarelo e vermelho, futebol inclusivo, campanhas sociais, compromisso social, integração comunitária.",
+      "keywords_semantic": "Montevidéu, identidade operária, bairro Villa Española, ascensão e queda, Segunda División, rivalidade local, comunidade unida, cores amarelo e vermelho, paixão popular, clube modesto, luta e resistência, história recente, espírito de superação, futebol uruguaio, integração social, desenvolvimento juvenil, tradição esportiva, fanatismo local, cultura de bairro, símbolos de perseverança."
+    },
+    "venue": {
+      "id": 1647,
+      "name": "Estadio Obdulio Varela",
+      "address": "Calle Tupan",
+      "city": "Montevideo",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "/venues/1647.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2373,
+      "name": "Miramar",
+      "code": "MIR",
+      "country": "Uruguay",
+      "founded": 1906,
+      "national": false,
+      "logo": "/teams/2373.png",
+      "keywords": "Miramar Misiones, Cebrita, Estadio Luis Méndez Piana, Montevidéu, Segunda Divisão Uruguaia, clássico contra Central Español, ídolo Humberto Mello, tradição, torcida fiel, ascensão à Primera División, desenvolvimento de jovens talentos, rivalidade local, identidade cultural montevideana, história no futebol uruguaio, clube formador, partidas históricas, paixão pelo futebol, técnico inspirador, símbolos do futebol uruguaio.",
+      "keywords_semantic": "Miramar Misiones, Montevidéu, fusão, bairro Pocitos, tradição, futebol uruguaio, Segunda Divisão, rivalidades locais, história centenária, identidade comunitária, torcedores apaixonados, ídolos locais, desenvolvimento de talentos, clube formador, espírito de luta, cores alvirrubras, estádio Parque Méndez Piana, futebol amador, clube histórico."
+    },
+    "venue": {
+      "id": 1627,
+      "name": "Parque Palermo",
+      "address": "Avenida Dr. Américo Ricoldoni 2875",
+      "city": "Montevideo",
+      "capacity": 5500,
+      "surface": "grass",
+      "image": "/venues/1627.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2374,
+      "name": "Tacuarembo",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1999,
+      "national": false,
+      "logo": "/teams/2374.png",
+      "keywords": "Tacuarembó Fútbol Club, \"El Tacua\", Estadio Raúl Goyenola, \"El Matador del Norte\", Campeonato Uruguayo de Segunda División, Lionel de Mello, ídolos locais, rivalidade com Cerro Largo, cultura gauchesca, Hinchada \"La Banda del Norte\", cores vermelho e branco, presidente Jorge Castelli, técnico Jorge Castelli, identidade do interior uruguaio, desenvolvimento de talentos jovens, paixão tacuaremboense, folclore e futebol, festivais tradicionais.",
+      "keywords_semantic": "Tacuarembó, futebol uruguaio, identidade regional, Estádio Raúl Goyenola, interior do Uruguai, Torcida fiel, rivalidades locais, ascensões e descensos, futebol de garra, jogadores revelados, cultura gaucha, tradição futebolística, paixão local, comunidade envolvida, ídolos regionais."
+    },
+    "venue": {
+      "id": 1646,
+      "name": "Estadio Raúl Saturnino Goyenola",
+      "address": "Avenida General Antigas 206",
+      "city": "Tacuarembó",
+      "capacity": 8600,
+      "surface": "grass",
+      "image": "/venues/1646.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2375,
+      "name": "Canadian",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 2010,
+      "national": false,
+      "logo": "/teams/2375.png",
+      "keywords": "Canadian Soccer Club, Montevideo, \"La Banda Canadiense\", \"Los Rojos\", Segunda División, ídolo: Pablo Cabrera, identidade cultural: imigração canadense, Estádio Martínez Monegal, símbolo: folha de bordo, Presidente: Jorge Alor, técnico: Juan Carlos Buzzetti, torcida apaixonada, ascensão no futebol uruguaio, desenvolvimento de jovens talentos, rivalidades locais, tradição modesta, ambição de crescimento.",
+      "keywords_semantic": "Montevidéu, Barrio Sur, cultura afro-uruguaia, rivalidade, Campeonato Uruguaio, história centenária, ascensão e queda, paixão da torcida, identidade local, ídolos regionais, tradição, estilo aguerrido, comunidade, símbolos culturais, inclusão social."
+    },
+    "venue": {
+      "id": 2848,
+      "name": "Estadio Batalla de Sarandí",
+      "address": null,
+      "city": "Sarandí Grande",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "/venues/2848.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2376,
+      "name": "Oriental",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1924,
+      "national": false,
+      "logo": "/teams/2376.png",
+      "keywords": "Oriental de La Paz, Apelido: \"La Máquina del Norte\", Fundado: 1924, Ídolos: Juan Carlos Paz, Torcida apaixonada, Identidade cultural local, Campeonato Uruguaio de Segunda Divisão, Estádio: Parque Oriental, Cores: Azul e Branco, Presidente: Juan Pérez, Técnico atual: Manuel Rodríguez, Simbologia: Garra e determinação, Rivalidade regional, Tradição no futebol amador, Desenvolvimento de jovens talentos.",
+      "keywords_semantic": "Montevidéu, Segunda Divisão, rivalidades locais, identidade comunitária, clube histórico, desenvolvimento de jovens, ídolos regionais, paixão local, tradição futebolística, estilo aguerrido, torcida fiel, herança uruguaia, símbolos culturais, identidade de bairro, competição doméstica."
+    },
+    "venue": {
+      "id": 1862,
+      "name": "Parque Oriental",
+      "address": "Avenida Venus 3643 esquina Camino José Batlle y Ordoñez",
+      "city": "La Paz",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "/venues/1862.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2377,
+      "name": "Sportivo Huracan",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1937,
+      "national": false,
+      "logo": "/teams/2377.png",
+      "keywords": "Sportivo Huracán, \"El Globo\", Montevidéu, futebol uruguaio, identidade operária, ídolos locais, Luis \"El Gordo\" Pérez, títulos estaduais, torcedores apaixonados, cultura popular, cores vermelho e branco, estádio tradicional, rivalidades locais, história centenária, desenvolvimento de jovens talentos, legado esportivo.",
+      "keywords_semantic": "Montevidéu, rivalidade local, futebol uruguaio, tradição, identidade cultural, torcida apaixonada, história centenária, ídolos regionais, campeonatos amadores, estilo aguerrido, cores tradicionais, símbolos locais, desenvolvimento comunitário, cultura futebolística, impacto social."
+    },
+    "venue": {
+      "id": 2849,
+      "name": "Parque Pedro Alejandro Bossio",
+      "address": "Dr. Alfredo Moreno y Camino Cibils, Barrio Paso de la Arena",
+      "city": "Montevideo",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "/venues/2849.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2378,
+      "name": "Albion FC",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1891,
+      "national": false,
+      "logo": "/teams/2378.png",
+      "keywords": "Albion FC, Decano del fútbol uruguayo, Decano, Primeira Divisão Uruguaia, identidade britânica, Montevidéu, Estádio Parque Dr. Enrique Falco, camisa tricolor, La Vieja Albion, Carlos Gardel, rivalidade com Montevideo Wanderers, tradição e história, fundado em 1891, La Blanquiroja, desenvolvimento do futebol uruguaio, pioneiro, Alfredo Foglino, William Leslie Poole, amantes do futebol, Ídolos históricos, clube formador, cultura britânica no Uruguai, paixão e orgulho local, torcedores fiéis, legado esportivo, contribuições ao futebol nacional.",
+      "keywords_semantic": "Albion FC, Montevidéu, clube mais antigo, história rica, pioneiro, futebol uruguaio, identidade tradicional, rivalidade local, desenvolvimento juvenil, espírito amador, torcedores leais, ícones históricos, camisas históricas, cultura futebolística, legado esportivo, perseverança, marcos históricos, evolução constante, paixão local, influência britânica, pioneirismo."
+    },
+    "venue": {
+      "id": 1924,
+      "name": "Parque Dr. Enrique Falco Lichtemberger",
+      "address": "Menorca 2111 entre Juan José Castro y Azara, Barrio Malvin Norte",
+      "city": "Montevideo",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "/venues/1924.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2996,
+      "name": "Bella Vista",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1920,
+      "national": false,
+      "logo": "/teams/2996.png",
+      "keywords": "Papas, Bella Vista, Montevideo, Estádio José Nasazzi, Los Papales, José Nasazzi, Segunda División, Ídolos, Torcida Pasión Papal, Identidade operária, Rivalidades, Tradição, Club Atlético Bella Vista, História rica, Ascensão e queda, Lutas, Desenvolvimento jovem, Dedicação comunitária, Cultura uruguaia.",
+      "keywords_semantic": "Montevidéu, cultura uruguaia, futebol amador, história local, rivalidade, torcedores apaixonados, identidade comunitária, ascensão e queda, tradição, cores alvirrubras, desenvolvimento juvenil, competições nacionais, ídolos regionais, estilo de jogo aguerrido, perseverança, La V Azulada."
+    },
+    "venue": {
+      "id": 1744,
+      "name": "Parque José Nasazzi",
+      "address": "Avenida Leon Ribeiro",
+      "city": "Montevideo",
+      "capacity": 15000,
+      "surface": "grass",
+      "image": "/venues/1744.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10185,
+      "name": "Uruguay U23",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1900,
+      "national": true,
+      "logo": "/teams/10185.png",
+      "keywords": "Los Celestes, Óscar Tabárez, Álvaro Recoba, Lodeiro, Jogos Pan-Americanos, Torneio Pré-Olímpico, garra charrúa, Estádio Centenario, Montevidéu, Asociación Uruguaya de Fútbol, cultura futebolística uruguaia, apoio incondicional, desenvolvimento de jovens talentos, tradição olímpica, paixão pelo futebol, formação de base, estilo de jogo aguerrido, identidade nacional, herança futebolística, orgulho uruguaio.",
+      "keywords_semantic": "Uruguay U23, seleção olímpica, jovens talentos, desenvolvimento de jogadores, categorias de base, Celeste Olímpica, história futebolística, Copa América, identidade uruguaia, raça charrua, garra uruguaia, formação tática, Estádio Centenário, olimpíadas de futebol, ídolos emergentes, tradição vencedora, estilo de jogo defensivo, competitividade sul-americana, rivalidade Argentina, orgulho nacional, espírito de equipe."
+    },
+    "venue": {
+      "id": 1624,
+      "name": "Estadio Centenario",
+      "address": "Avenida Dr. Alfredo Navarro y Dr. Américo Ricaldoni, Parque Batlle",
+      "city": "Montevideo",
+      "capacity": 60235,
+      "surface": "grass",
+      "image": "/venues/1624.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10307,
+      "name": "Uruguay U20",
+      "code": "URU",
+      "country": "Uruguay",
+      "founded": 1900,
+      "national": true,
+      "logo": "/teams/10307.png",
+      "keywords": "La Celeste, Tabaré Silva, Copa Mundial Sub-20, Estádio Centenario, Diego Forlán, Rodolfo Rodríguez, Oscar Tabárez, Celeste Olímpica, Torcida Charrúa, Identidade Garra Charrúa, Técnicos lendários, Formação de talentos, Tradição no futebol juvenil, Sucessos continentais Sub-20, História do futebol uruguaio, Legado de campeões mundiais.",
+      "keywords_semantic": "Juventude, formação, talento emergente, Celeste Olímpica, garra charrua, Copa do Mundo Sub-20, torneio sul-americano, base, futuro do futebol uruguaio, Forlán, Suárez, Cavani, identidade nacional, estilo aguerrido, disciplina tática, desenvolvimento de jogadores, orgulho nacional, seleções de base, potencial olímpico, Alcides Ghiggia, Oscar Tabárez."
+    },
+    "venue": {
+      "id": 1624,
+      "name": "Estadio Centenario",
+      "address": "Avenida Dr. Alfredo Navarro y Dr. Américo Ricaldoni, Parque Batlle",
+      "city": "Montevideo",
+      "capacity": 60235,
+      "surface": "grass",
+      "image": "/venues/1624.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11053,
+      "name": "Danubio U20",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/11053.png",
+      "keywords": "La Franja, cantera de talentos, Estadio Jardines del Hipódromo, juveniles promessas, futebol formativo, Marcelo Zalayeta, ídolos em ascensão, títulos juvenis, paixão charrúa, identidade uruguaia, craques do futuro, academia de futebol, desenvolvimento de jovens, cultura de base, Juan Ramón Carrasco, rivalidades tradicionais, tradição formadora, herança futebolística, torcida fiel, espírito competitivo.",
+      "keywords_semantic": "Juventud, formação, cantera, Montevideo, desenvolvimento, talentos, rivalidade, Peñarol, Nacional, La Franja, jovens promessas, torneios juvenis, identidade, garra, ídolos emergentes, estilo disciplinado, tradições, formação de base, futebol uruguaio, futuros craques"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 11058,
+      "name": "Nacional U20",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/11058.png",
+      "keywords": "Bolsilludos, Los Tricolores, Estadio Gran Parque Central, juveniles, cantera, Copa Libertadores Sub-20, Torneo Clausura Sub-20, Torneo Apertura Sub-20, La Banda del Parque, Decano, Nicolás Lodeiro, Sebastián Coates, Álvaro Recoba, desarrollo juvenil, Carlos Blanco (presidente), Alejandro Cappuccio (técnico), formación de talentos, Club Nacional de Football, identidad uruguaya, rivalidad con Peñarol, La Máquina Blanca, pasión futbolera, tradición histórica.",
+      "keywords_semantic": "Nacional U20, Uruguai, Montevidéu, formação de jovens, base, futebol de base, cantera, Tricolores, Los Bolsos, ídolos emergentes, desenvolvimento de talentos, estilo ofensivo, tradição, história rica, rivalidade Peñarol, clássicos, títulos juvenis, torcida apaixonada, cultura futebolística, identidade uruguaia, Garra Charrúa."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 13268,
+      "name": "Rocha",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1999,
+      "national": false,
+      "logo": "/teams/13268.png",
+      "keywords": "Rocha Fútbol Club, Celestes del Este, Estadio Dr. Mario Sobrero, La Paloma, Segunda División Profesional, Torcida Rocha, Identidade litorânea, Paisagem costeira, Projeto de formação, Ídolos locais, Ascensão 2003, Estilo de jogo aguerrido, Desenvolvimento de base, Rivalidades regionais, Apoio comunitário, Tradição no futebol uruguaio, Gestão esportiva, Participação no interior do país, Identidade cultural costeira, História do clube.",
+      "keywords_semantic": "Rocha FC, futebol uruguaio, Estadio Dr. Mario Sobrero, La Celeste del Este, história recente, Segunda División, ascensão e queda, rivalidades locais, identidade costeira, torcida apaixonada, ídolos regionais, desenvolvimento juvenil, estilo defensivo, cultura de praia, espírito comunitário, tradições locais."
+    },
+    "venue": {
+      "id": 8346,
+      "name": "Estadio Dr. Mario Sobrero",
+      "address": "Avenida Mario Anza y Avenida Italia",
+      "city": "Rocha",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "/venues/8346.png"
+    }
+  },
+  {
+    "team": {
+      "id": 15628,
+      "name": "Colón",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1999,
+      "national": false,
+      "logo": "/teams/15628.png",
+      "keywords": "Colón FC, Montevideo, Barrio Brazo Oriental, Apelido: \"Los Rojos\", Fundado em 1907, Torcida apaixonada, Identidade cultural uruguaia, Participação na Segunda Divisão Profissional, Símbolo: Escudo vermelho e branco, Rivalidade local, História centenária, Desenvolvimento de jovens talentos, Contribuição para o futebol uruguaio, Espírito comunitário, Representação no futebol amador, Tradição no futebol de base, Estádio \"Parque Salus\".",
+      "keywords_semantic": "Colón, Montevidéu, Futebol Uruguaio, Clubes Locais, Identidade Bairrista, Tradicionalismo, Rivalidades Regionais, Paixão Local, Desenvolvimento Comunitário, Amadorismo, História Cultural, Torcida Fervorosa, Ídolos Locais, Competição Regional, Identidade Urbana, Futebol de Base, Símbolos Regionais."
+    },
+    "venue": {
+      "id": 18748,
+      "name": "Estadio Miguel Campomar",
+      "address": "Instrucciones 2578, esquina Carmelo Colman",
+      "city": "Juan Lacaze",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "/venues/18748.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16740,
+      "name": "Uruguay Montevideo",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1921,
+      "national": false,
+      "logo": "/teams/16740.png",
+      "keywords": "Decano, Albiverde, Campeonato Uruguaio, Torcida fiel, Barrio La Unión, Identidade operária, Héctor Scarone, Estádio Olímpico, Clásico contra Central Español, Presidentes históricos, Treinadores lendários, Desenvolvimento de base, Símbolo do futebol uruguaio, Tradição centenária, Rivalidade local, Ídolos do passado, Cultura de resistência, Ascensão e queda, História rica, Fervor do torcedor.",
+      "keywords_semantic": "Cultura, Montevidéu, tradição, história, Segunda División, ascensão, rivalidades locais, torcedores apaixonados, ídolos regionais, identidade operária, desenvolvimento juvenil, estilo aguerrido, perseverança, comunidade, paixão, futebol uruguaio."
+    },
+    "venue": {
+      "id": 12660,
+      "name": "Parque ANCAP",
+      "address": "Avenida Dr. Jose Luis de la Peña y Ameghino, Barrio Pueblo Victoria",
+      "city": "Montevideo",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "/venues/12660.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16944,
+      "name": "Uruguay W",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1900,
+      "national": true,
+      "logo": "/teams/16944.png",
+      "keywords": "Uruguay W, Las Celestes, Selección Uruguaya Femenina, Estadio Centenario, Montevideo, Celeste Olímpica, Campeonato Sul-Americano, Copa América Feminina, Mundial Feminino, Asociación Uruguaya de Fútbol, Carolina Birizamberri, ídolos do passado, desenvolvimento do futebol feminino, apoio à base, La Garra Charrúa, Pablo Ferrari (presidente), Ariel Longo (técnico), paixão celeste, hinchada fiel, identidade uruguaia no futebol, futebol feminino no Uruguai, pioneiras do futebol feminino, integração cultural.",
+      "keywords_semantic": "Montevidéu, futebol feminino, Celeste Olímpica, garra charrua, campeonatos locais, rivalidade feminina, ídolos uruguaios, Estádio Charrúa, desenvolvimento feminino, paixão uruguaia, identidade celeste, tradição futebolística, comunidade esportiva, ícones femininos, história futebolística."
+    },
+    "venue": {
+      "id": 22741,
+      "name": "Estadio Banco Guayaquil",
+      "address": "Calle F S/N y Calle I, Chillo-Jijón, Sangolquí",
+      "city": "Quito",
+      "capacity": 12600,
+      "surface": "grass",
+      "image": "/venues/22741.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18295,
+      "name": "La Luz",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1929,
+      "national": false,
+      "logo": "/teams/18295.png",
+      "keywords": "La Luz, Merengues, ascensão recente, Montevidéu, futebol uruguaio, identidade local, paixão pelos jovens, desenvolvimento de talentos, torcida dedicada, estádio Parque Capurro, rivalidade local, campeonatos nacionais, história emergente, ídolos em formação, projeção no futebol, futebol de base, cultura uruguaia, tradição esportiva, presidente em destaque, técnico promissor, projeto de crescimento.",
+      "keywords_semantic": "Montevidéu, história local, ascensão, rivalidades regionais, comunidade, paixão, identidade uruguaia, tradição, crescimento, desafios, cultura futebolística, jovens talentos, torcedores, espírito de equipe, garra, desenvolvimento, futebol amador, legado, perseverança."
+    },
+    "venue": {
+      "id": 12661,
+      "name": "Parque Luis Rivero",
+      "address": "Boulevard José Batlle y Ordóñez y Arroyo Miguelete, Barrio Aires Puros",
+      "city": "Montevideo",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "/venues/12661.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19325,
+      "name": "Alto Perú",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1940,
+      "national": false,
+      "logo": "/teams/19325.png",
+      "keywords": "Alto Perú, Los Peruanos, ídolos históricos, campeonatos regionais, torcida fervorosa, Montevidéu, cultura charrúa, identidade operária, Estádio Municipal, rivalidades locais, presidente emblemático, técnico estratégico, cores azul e branco, hino apaixonante, desenvolvimento de jovens talentos, espírito comunitário, tradição familiar, apoio popular.",
+      "keywords_semantic": "Montevidéu, identidade local, rivalidade, futebol uruguaio, história rica, torcedores apaixonados, títulos nacionais, ídolos do passado, tradição, cultura futebolística, estilo aguerrido, paixão, símbolos do clube, cores tradicionais, estádio emblemático."
+    },
+    "venue": {
+      "id": 11116,
+      "name": "Parque Dr. Carlos Suero",
+      "address": "Instrucciones 2578, esquina Carmelo Colman",
+      "city": "Montevideo",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "/venues/11116.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19326,
+      "name": "Artigas",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1927,
+      "national": false,
+      "logo": "/teams/19326.png",
+      "keywords": "Artigas FC, \"Los Guapos del Norte\", ídolo Juan Carlos Carreño, campeonato Litoral Norte, torcedores apaixonados, cultura gaucha, fronteira com Brasil, presidente José Pérez, técnico Diego Rodríguez, símbolo do cavalo, Estádio Matías González, identidade fronteiriça, rivalidade com Cerro Largo, paixão futebolística uruguaia, tradição local, cores azul e branco.",
+      "keywords_semantic": "Artigas, Uruguay, futebol amador, cultura local, identidade regional, tradição, rivalidades locais, torcedores apaixonados, ídolos locais, competições regionais, história do clube, símbolo cultural, estilo aguerrido, desenvolvimento de talentos, orgulho comunitário, cores do clube."
+    },
+    "venue": {
+      "id": 11116,
+      "name": "Parque Dr. Carlos Suero",
+      "address": "Instrucciones 2578, esquina Carmelo Colman",
+      "city": "Montevideo",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "/venues/11116.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19327,
+      "name": "Barrio Olímpico",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19327.png",
+      "keywords": "Barrio Olímpico, Los Olímpicos, Estadio Central, torcida fiel, paixão uruguaia, ídolo local, campeonato uruguaio, rivalidade clássica, azul e branco, cultura de bairro, tradição futebolística, cantera de talentos, La Barra Brava, presidente Juan Pérez, técnico Diego Martínez, espírito comunitário, identidade forte, Copa Libertadores, história rica, símbolo do bairro.",
+      "keywords_semantic": "Montevidéu, clube amador, rivalidade local, tradição, paixão, identidade comunitária, história rica, orgulho barrial, ídolos locais, torcida fervorosa, futebol de base, estilo aguerrido, camisetas históricas, cores tradicionais, campeonatos regionais, conexão social, cultura futebolística, legado esportivo, festividades, símbolos locais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19328,
+      "name": "Basáñez",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1920,
+      "national": false,
+      "logo": "/teams/19328.png",
+      "keywords": "Basáñez, El Rojo del Paso Molino, Hugo De León, Campeonato Uruguayo de Segunda División, hinchada pasional, identidade operária, clássico com Bella Vista, Estadio Parque Bella Vista, cultura de bairro, transição de amador para profissional, rivalidade local, desenvolvimento de jovens talentos, tradição histórica, símbolo do machado e o martelo, Carlos Aguilera, futebol uruguaio.",
+      "keywords_semantic": "Montevidéu, futebol amador, bairro Cerro, rivalidade local, cultura uruguaia, paixão popular, tradição operária, ascensão e queda, identidade comunitária, clubes de bairro, espírito competitivo, história modesta, cores vermelho e preto, ídolos locais, perseverança, liga amadora, futebol de base, valores comunitários, orgulho barrial, futebol de bairro."
+    },
+    "venue": {
+      "id": 1637,
+      "name": "Parque Luis Méndez Piana",
+      "address": "Avenida Ramón V. Benzano",
+      "city": "Montevideo",
+      "capacity": 6000,
+      "surface": "grass",
+      "image": "/venues/1637.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19329,
+      "name": "Bella Vista de Paysandú",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19329.png",
+      "keywords": "Bella Vista de Paysandú, Papales, Estádio Parque Bella Vista, Paysandú, futebol uruguaio, campeonatos uruguaios, ídolos do Bella Vista, torcida sanducera, identidade cultural de Paysandú, Pablo Forlán, formação de jovens talentos, rivalidade local, tradição no interior do Uruguai, cores amarelo e verde, história do futebol uruguaio, impacto no futebol regional, desenvolvimento esportivo em Paysandú.",
+      "keywords_semantic": "Bella Vista de Paysandú, Uruguay, futebol uruguaio, identidade local, rivalidades regionais, Clube Social, história desportiva, torcedores apaixonados, cores tradicionais, símbolos culturais, estilo de jogo aguerrido, competições nacionais, ídolos locais, tradição esportiva, comunidade, influência local, ascensão e queda, marcos históricos, envolvimento social."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19330,
+      "name": "Boquita",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19330.png",
+      "keywords": "Boquita, Celestes del Este, ídolos locais, Estádio Municipal de Maldonado, torcida fervorosa, campeonatos regionais, identidade maldonadense, cores azul e branco, rivalidade regional, desenvolvimento de jovens talentos, tradição e história local, apoio comunitário, presidente do clube, técnico estratégico, símbolos tradicionais, cultura futebolística uruguaia.",
+      "keywords_semantic": "Montevidéu, rivalidade, clássicos, hinchada, história, tradição, títulos, identidade, paixão, ídolos, azul y oro, garra, futebol uruguaio, La Bombonera, tática, ícones, cultura futebolística, torcedores, legados, competitividade."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19331,
+      "name": "Cooper",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19331.png",
+      "keywords": "Cooper, Montevideo, \"Los Azules\", futebol uruguaio, ídolos locais, campeonatos amadores, torcida apaixonada, identidade operária, cultura futebolística uruguaia, presidentes históricos, técnicos renomados, símbolos do bairro, rivalidades locais, tradição esportiva, história rica, lendas do clube, desenvolvimento de jovens talentos.",
+      "keywords_semantic": "Montevidéu, futebol amador, comunidade local, história uruguaia, torneios regionais, identidade operária, cultura de bairro, rivalidades locais, paixão pelo futebol, desenvolvimento juvenil, ídolos locais, tradição, espírito comunitário, competições amadoras, futebol de base."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19332,
+      "name": "Deportivo Italiano",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1999,
+      "national": false,
+      "logo": "/teams/19332.png",
+      "keywords": "Deportivo Italiano, La Viola, ídolos históricos, títulos uruguaios, torcida apaixonada, identidade italiana, Montevidéu, cultura ítalo-uruguaia, presidente renomado, técnico estrangeiro, estádio local, rivalidades tradicionais, cores vermelho e verde, ascensão no futebol uruguaio, desenvolvimento de jovens talentos, La Viola y su pasión, símbolos tradicionais, comunidade italiana, impacto social, história rica e diversificada.",
+      "keywords_semantic": "Montevidéu, imigração italiana, comunidade italiana, futebol amador, divisões inferiores, La Tribu, torcedor apaixonado, rivalidades locais, história cultural, identidade ítalo-uruguaia, tradição esportiva, clube de bairro, jogos comunitários, cores do clube, espírito amador, integração cultural."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19333,
+      "name": "Durazno",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 2005,
+      "national": false,
+      "logo": "/teams/19333.png",
+      "keywords": "Durazno Fútbol Club, La Roja del Yi, Estadio Silvestre Octavio Landoni, Campeonato del Interior, torcida duraznense, pasión del pueblo, fútbol del interior uruguayo, ídolos locales, Liga de Durazno, cultura gaucha, rivalidad regional, desarrollo juvenil, presidentes históricos, proyectos comunitarios, símbolo del capincho, identidad rural, entrenador destacado, ascenso a divisionales superiores, Durazno capital, tradición futbolística, colores rojo y blanco.",
+      "keywords_semantic": "Durazno, Uruguai, futebol amador, interior, identidade local, tradição, cultura gaucha, rivalidades regionais, história modesta, comunidade, desenvolvimento juvenil, paixão, clube formador, espírito comunitário, orgulho local, estilo aguerrido, torcedores dedicados."
+    },
+    "venue": {
+      "id": 18749,
+      "name": "Estadio Municipal Silvestre Octavio Landoni",
+      "address": "Avenida Brig. General Manuel Oribe",
+      "city": "Durazno",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "/venues/18749.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19334,
+      "name": "Huracán de Paysandú",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19334.png",
+      "keywords": "Los Papales, Estadio Artigas, Paysandú, Torneo Clausura, Campeonato Uruguayo, La Banda del Globito, pasión sanducera, Iván Alonso, Jorge Fossati, Celeste y Blanco, rivalidad con Bella Vista, hinchada fiel, ascenso a Primera División, historia centenaria, fútbol uruguayo, orgullo del interior, cultura futbolística, Federación Uruguaya de Fútbol, identidad charrúa, cantera de talentos.",
+      "keywords_semantic": "Paysandú, tradição, rivalidade local, futebol amador, ídolos regionais, identidade cultural, torcida apaixonada, história local, competição regional, desenvolvimento juvenil, paixão uruguaia, estilo resiliente, comunidade, herança esportiva, representatividade."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19335,
+      "name": "Huracán de Rivera",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19335.png",
+      "keywords": "Huracán de Rivera, Los del Globo, ídolos históricos, campeonatos locais, torcida apaixonada, identidade fronteiriça, Rivera, clássico da fronteira, cultura uruguaia-brasileira, estádio Atilio Paiva Olivera, rivalidade local, futebol amador, desenvolvimento juvenil, cores tradicionais, símbolos do clube.",
+      "keywords_semantic": "Uruguai, Rivera, fronteira, rivalidade local, cultura gaúcha, torcidas apaixonadas, identidade regional, ídolos locais, história do futebol uruguaio, campeonatos regionais, tradição, estilo aguerrido, comunidade, paixão futebolística, clubes do interior, desenvolvimento de talentos, rivalidades históricas, símbolos culturais, influências brasileiras."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19336,
+      "name": "Juanicó",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19336.png",
+      "keywords": "Juanicó FC, Los Bodegueros, Canelones, Liga Departamental de Canelones, futebol amador uruguaio, cultura vinícola, tradição local, identidade canaria, torcedores apaixonados, futebol de proximidade, rivalidades regionais, história centenária, desenvolvimento de talentos locais, competições regionais, integração comunitária, paixão futebolística, ídolos locais, símbolos do clube, cores tradicionais.",
+      "keywords_semantic": "Juanicó, Canelones, futebol amador, liga local, rivalidade regional, tradição, comunidade, paixão, identidade local, cultura uruguaia, desenvolvimento juvenil, jogadores locais, história modesta, espírito de equipe, torcidas pequenas, campeonatos regionais, campo de futebol, apoio comunitário, orgulho local."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19337,
+      "name": "Laureles",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19337.png",
+      "keywords": "Laureles, Los Verdiblancos, ídolo local, campeonatos regionais, torcida apaixonada, cultura futebolística uruguaia, rivalidades locais, tradição esportiva, identidade comunitária, presidente influente, técnico estratégico, símbolo do clube, história rica, formação de talentos, futebol amador, espírito competitivo.",
+      "keywords_semantic": "Laureles, Uruguay, cultura local, patrimônio esportivo, rivalidade regional, títulos nacionais, tradição, torcida apaixonada, ídolos históricos, identidade comunitária, cores do clube, estilo de jogo, desenvolvimento juvenil, impacto social, símbolos do clube, história centenária."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19338,
+      "name": "Lavalleja de Minas",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19338.png",
+      "keywords": "Lavalleja de Minas, La Roja y Blanca, Minas, Estadio Juan Antonio Lavalleja, Hinchada Minuana, Liga Minuana de Fútbol, Campeonatos Departamentales, Identidade Mineira, Ídolo local, Rivalidade com Clubes de Minas, Desenvolvimento de Base, Futebol Amador, Tradição Futbolística, Identidade Cultural Minuana, Espírito de Comunidade, Torneios Regionais, Jovens Talentos Uruguaios, Clubes Históricos do Interior.",
+      "keywords_semantic": "Lavalleja, Minas, futebol uruguaio, Liga Minuana, interior do Uruguai, rivalidades locais, identidade regional, tradição futebolística, torcida apaixonada, campeonatos amadores, desenvolvimento juvenil, ídolos locais, cultura esportiva, história local, estilo aguerrido."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19339,
+      "name": "Lavalleja de Rocha",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19339.png",
+      "keywords": "Lavalleja de Rocha, Arachanes, futebol uruguaio, ídolos locais, campeonatos regionais, torcida apaixonada, Estadio El Tenis, identidade cultural rochense, tradição no interior, clássicos regionais, desenvolvimento de talentos, futebol amador, liga de Rocha, história do clube, símbolos culturais, presidente do clube, técnico influente, crescimento do futebol no interior.",
+      "keywords_semantic": "Lavalleja de Rocha, Uruguai, futebol amador, Liga Rochense de Fútbol, cultura local, tradição, rivalidade regional, torcida apaixonada, identidade comunitária, ídolos locais, desenvolvimento juvenil, competições regionais, história esportiva, espírito de equipe, orgulho rochense, símbolos culturais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19340,
+      "name": "Los Halcones",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1950,
+      "national": false,
+      "logo": "/teams/19340.png",
+      "keywords": "Los Halcones, Uruguai, apelidos, ídolos, títulos importantes, torcida apaixonada, identidade cultural, presidente, técnico, símbolos, Estadio Los Halcones, paixão, rivalidade local, formação talentosa, cores tradicionais, história rica, conquistas nacionais, desenvolvimento de jogadores, participação internacional, comunidade, legado esportivo.",
+      "keywords_semantic": "Los Halcones, futebol uruguaio, Montevidéu, rivalidades locais, cultura charrua, paixão uruguaia, torcida fiel, campeonatos nacionais, estilo aguerrido, ídolos históricos, cores tradicionais, símbolos do clube, história rica, estádio emblemático, legados de jogadores, competições internacionais, espírito de luta, identidade cultural, tradição futebolística, jovens promessas."
+    },
+    "venue": {
+      "id": 19066,
+      "name": "Parque Salus",
+      "address": "Dr. Carlos Ma. De Pena y Calle Yugoeslavia",
+      "city": "Montevideo",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "/venues/19066.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19341,
+      "name": "Mar de Fondo",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1934,
+      "national": false,
+      "logo": "/teams/19341.png",
+      "keywords": "Mar de Fondo, La Academia, ídolos históricos, títulos locais, torcida apaixonada, identidade costeira, rivalidade clássica, cultura uruguaia, futebol de bairro, tradição amadora, presidente Claudio Aranda, técnico Gabriel Silva, estádio El Faro, azul e branco, símbolo do farol, formação de talentos, estilo de jogo aguerrido, comunidade pesqueira, participação em ligas regionais, legado esportivo.",
+      "keywords_semantic": "Montevidéu, futebol amador, tradição local, rivalidade, clubes de bairro, torcedores apaixonados, ídolos locais, cultura uruguaia, história centenária, competições regionais, identidade de comunidade, estilo aguerrido, Copa El País, desenvolvimento de talentos, paixão pelo futebol."
+    },
+    "venue": {
+      "id": 12660,
+      "name": "Parque ANCAP",
+      "address": "Avenida Dr. Jose Luis de la Peña y Ameghino, Barrio Pueblo Victoria",
+      "city": "Montevideo",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "/venues/12660.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19342,
+      "name": "Palermo de Rocha",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19342.png",
+      "keywords": "Palermo de Rocha, Los Rojos del Este, La Bombonera de Rocha, Rocha Fútbol Club, Torneo Departamental, clásico rochense, hinchada apasionada, identidad rochense, Estadio Dr. Mario Sobrero, fútbol uruguayo, tradición local, desarrollo juvenil, historia del club, rivalidad con Lavalleja, cultura futbolística de Rocha.",
+      "keywords_semantic": "Palermo de Rocha, Uruguai, futebol amador, identidade local, rivalidade regional, comunidade, paixão, Estádio Mario Sobrero, tradição, história, desenvolvimento de talentos, La Celeste, torcedores dedicados, cultura uruguaia, ídolos locais, influência social, legado esportivo."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19343,
+      "name": "Parque del Plata",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19343.png",
+      "keywords": "Parque del Plata, Albicelestes, Liga Metropolitana de Fútbol, Daniel Martínez (ídolo), Estadio Parque del Plata, hinchada fiel, cultura costeira, desenvolvimento jovem, rivalidade local, campeonatos regionais, identidade comunitária, apoio popular, tradição uruguaia, cores celeste e branco, futebol amador, paixão pelo esporte, eventos culturais, torneios interbairros, fortalecimento de base, história emergente.",
+      "keywords_semantic": "Parque del Plata, Uruguai, futebol amador, identidade local, comunidade, liga regional, paixão futebolística, torcedores dedicados, desenvolvimento de talentos, história local, rivalidades locais, espírito de equipe, tradição esportiva, competições regionais, crescimento social."
+    },
+    "venue": {
+      "id": 19066,
+      "name": "Parque Salus",
+      "address": "Dr. Carlos Ma. De Pena y Calle Yugoeslavia",
+      "city": "Montevideo",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "/venues/19066.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19344,
+      "name": "Paso de la Arena",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19344.png",
+      "keywords": "Paso de la Arena, Montevideo, Auriblancos, Estadio Paso de la Arena, El Paso, futebol amador, futebol uruguaio, torcida fiel, identidade local, ídolos regionais, ligas de bairro, integração comunitária, paixão pelo futebol, rivalidades locais, desenvolvimento de jovens talentos, campeonatos amadores, cultura futebolística uruguaia, tradição e história, clube de bairro, lazo comunitário, orgulhosos das raízes, apoio local, espírito amador, tradição no futebol, rivalidades históricas, futebol de base, integração social através do esporte.",
+      "keywords_semantic": "Montevidéu, futebol amador, comunidade local, identidade barrial, paixão popular, rivalidades locais, tradição uruguaia, desenvolvimento juvenil, ascensão esportiva, espírito de equipe, torcedores fiéis, futebol de base, cultura futebolística, história regional, ídolos locais."
+    },
+    "venue": {
+      "id": 1626,
+      "name": "Complejo Deportivo Rentistas",
+      "address": "Avenida Pedro de Mendoza 6580 entre Camino Rígel y Camino La Paz, Mendoza",
+      "city": "Montevideo",
+      "capacity": 10600,
+      "surface": "grass",
+      "image": "/venues/1626.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19345,
+      "name": "Piriápolis",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19345.png",
+      "keywords": "Piriápolis FC, Los Piratas, Uruguai, Segunda Divisão Uruguaia, Estádio Municipal de Piria, identidade costeira, torcida apaixonada, tradição local, rivalidade regional, desenvolvimento de jovens talentos, cultura marítima, integração comunitária, futebol amador, La Costa, ascensão no futebol uruguaio.",
+      "keywords_semantic": "Uruguai, Piriápolis, cultura costeira, futebol amador, rivalidades locais, identidade comunitária, paixão regional, desenvolvimento juvenil, torcedores dedicados, espírito de equipe, história local, ídolos regionais, marcos esportivos, estilo aguerrido, tradição esportiva."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19346,
+      "name": "Porongos",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19346.png",
+      "keywords": "Porongos, Club Social y Deportivo Porongos, Fray Bentos, La Espada, La Loma, Campeonato del Interior, Liga de Fútbol de Fray Bentos, ídolos históricos, Torneo Integración, hinchada fiel, pasión local, cultura charrúa, tradición, identidad fraybentina, camiseta tricolor, clásicos regionales, rivalidad local, desarrollo juvenil, Alberto Supparo, Carlos María Morales, orgullo uruguayo.",
+      "keywords_semantic": "Porongos, Uruguay, Trinidad, Lavalleja, futebol amador, história centenária, torcedores apaixonados, títulos regionais, rivalidades locais, identidade comunitária, tradição esportiva, ídolos locais, cultura futebolística, desenvolvimento juvenil, competições departamentais."
+    },
+    "venue": {
+      "id": 22633,
+      "name": "Estadio Juan Antonio Lavalleja",
+      "address": "25 de Mayo y Boulevard Aparicio Saravia",
+      "city": "Trinidad",
+      "capacity": 6000,
+      "surface": "grass",
+      "image": "/venues/22633.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19347,
+      "name": "Potencia",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19347.png",
+      "keywords": "Potencia, Club Atlético Potencia, La Teja, futebol uruguaio, Montevidéu, torcedores apaixonados, clube modesto, história local, identidade comunitária, competições nacionais, desenvolvimento de jovens talentos, divisão de acesso, ídolos locais, rivalidades regionais, tradição esportiva, cores e símbolos, ascensão futebolística, desafios financeiros, presidência influente, treinadores dedicados.",
+      "keywords_semantic": "Montevidéu, futebol amador, história local, rivalidade regional, identidade comunitária, paixão, perseverança, ídolos locais, desenvolvimento de talentos, tradição, cultura uruguaia, espírito de equipe, torcedores fiéis, legado esportivo, estilo defensivo."
+    },
+    "venue": {
+      "id": 1647,
+      "name": "Estadio Obdulio Varela",
+      "address": "Calle Tupan",
+      "city": "Montevideo",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "/venues/1647.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19348,
+      "name": "Progreso Atlántida",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19348.png",
+      "keywords": "Progreso Atlántida, Gauchos del Pantanoso, Estadio Abraham Paladino, Campeonato Uruguayo, Torcida Los Gauchos, Barrio La Teja, Álvaro Recoba, Mauro Guevgeozián, Identidade operária, Jorge \"Polilla\" Da Silva, Ascenso 1989, Rubén Paz, Identidade cultural uruguaia, Arco de La Teja, Ídolos históricos, Rivalidad con Rampla Juniors.",
+      "keywords_semantic": "Uruguay, Progreso Atlántida, futebol uruguaio, cultura do futebol, rivalidades locais, identidade da torcida, história do clube, ídolos do Progreso Atlántida, símbolos do clube, estilo de jogo uruguaio, marcos históricos, títulos regionais, paixão dos torcedores, desenvolvimento de jogadores, tradição futebolística."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19349,
+      "name": "Río Negro",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19349.png",
+      "keywords": "Río Negro, Auri-negros, Fray Bentos, Campeonato del Interior, Clubes del Interior, Torcida Passionate, Identidade Fraybentina, Estadio Liebig's, Ídolos Locais, Fútbol Uruguayo, Tradición Charrúa, Presidente Clubista, Técnico Estrategista, Símbolos Regionais, Desarrollo Juvenil, Rivalidad Local, Cultura de Fútbol, Historia del Club, Espíritu Competitivo.",
+      "keywords_semantic": "Río Negro, Uruguay, futebol uruguaio, clube histórico, Montevidéu, rivalidades locais, identidade cultural, história do futebol, torcedores apaixonados, ídolos do clube, títulos regionais, cores do clube, símbolos tradicionais, estilo de jogo, competições nacionais, legado esportivo, desenvolvimento futebolístico, paixão uruguaia, tradição futebolística."
+    },
+    "venue": {
+      "id": 22634,
+      "name": "Estadio Municipal Casto Martínez Laguarda",
+      "address": "Avenida Larriera y Veinticinco de Agosto",
+      "city": "San José de Mayo",
+      "capacity": 3810,
+      "surface": "grass",
+      "image": "/venues/22634.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19350,
+      "name": "Salto",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 2002,
+      "national": false,
+      "logo": "/teams/19350.png",
+      "keywords": "Club Atlético Salto, Naranjeros, Estadio Ernesto Dickinson, clásico salteño, Torneo Apertura, Torneo Clausura, Litoral Norte, ídolos: José Leandro Andrade, La Naranja Mecánica, hinchada salteña, cultura futebolística uruguaia, rivalidade com Ferro Carril, campeonatos do interior, futebol amador uruguaio, Liga Salteña de Fútbol, identidade regional, paixão salteña, desenvolvimento de talentos, tradição esportiva local.",
+      "keywords_semantic": "Club Atlético Universitario, Salto, Uruguai, futebol local, rivalidade regional, Torneio Interior, história futebolística, comunidade, paixão local, identidade salteña, ídolos locais, cultura futebolística, torcedores apaixonados, desenvolvimento juvenil, competições amadoras, tradição esportiva, clubes de bairro, estilo de jogo aguerrido, espírito comunitário."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19351,
+      "name": "Salus",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19351.png",
+      "keywords": "Salus, Azul del Oeste, Club de Villa Colón, Montevideo, futebol uruguaio, Segunda División Amateur, ídolos locais, tradição futebolística, comunidade envolvente, rivalidades históricas, desenvolvimento de jogadores jovens, estádio Parque Salus, identidade cultural uruguaia, paixão pelo futebol, torcedores fiéis, história centenária, campeonatos de divisões inferiores, tradição de bairro, ícones do clube, presidentes históricos, técnicos influentes, cultura desportiva, espírito comunitário.",
+      "keywords_semantic": "Montevidéu, futebol uruguaio, história centenária, Segunda Divisão, desenvolvimento juvenil, rivalidades locais, identidade comunitária, espírito amador, paixão popular, tradição esportiva, ídolos regionais, cultura de base, resiliência competitiva, identidade operária, cores azul e branco."
+    },
+    "venue": {
+      "id": 19066,
+      "name": "Parque Salus",
+      "address": "Dr. Carlos Ma. De Pena y Calle Yugoeslavia",
+      "city": "Montevideo",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "/venues/19066.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19352,
+      "name": "Santa Emilia de Cardona",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19352.png",
+      "keywords": "Santa Emilia, Cardona, Aurinegros, Liga de Soriano, futebol amador uruguaio, orgulho local, ídolos regionais, estádio Parque Santa Emilia, torcida apaixonada, rivalidade local, identidade comunitária, tradição futebolística, formação de talentos, cores amarelo e preto, cultura esportiva uruguaia.",
+      "keywords_semantic": "Santa Emilia de Cardona, Uruguay, futebol amador, liga regional, comunidade local, identidade cultural, paixão futebolística, torneios locais, rivalidade regional, tradição esportiva, desenvolvimento juvenil, orgulho comunitário, ídolos locais, símbolos regionais, estilo de jogo tradicional, apoio da torcida, história local, integração social, eventos esportivos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19353,
+      "name": "Universal de San José",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19353.png",
+      "keywords": "Los Universales, El Decano de San José, Estadio Casto Martínez Laguarda, Carlos \"Pato\" Aguilera, Campeão da Copa Artigas, Tradição Maragata, Torcida Celeste y Blanca, Identidade Charrúa, José Pedro Damiani, Celestiales, Rivalidade com San José FC, Clássico Maragato, Juan Ramón Carrasco, Formação de Jovens Talentos, La Cantera Inagotable, Cultura Gaucha, Festas de San José, Orgulho Josefinense.",
+      "keywords_semantic": "Uruguai, San José, futebol amador, tradição local, rivalidade regional, campeonatos locais, torcedores apaixonados, identidade comunitária, história futebolística, competições nacionais, estádio local, ídolos regionais, símbolos culturais, estilo de jogo aguerrido, desenvolvimento juvenil."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19354,
+      "name": "Universitario de Salto",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19354.png",
+      "keywords": "Universitario de Salto, vermelho e branco, La U, Salto, Torneo del Interior, La Roja de Salto, estádio Ernesto Dickinson, clássicos com Ferro Carril, futebol amador uruguaio, Mario Leguizamón, campeão departamental, adeptos fervorosos, cultura local, rivalidade regional, identidade saltenha, Liga Salteña de Fútbol, formação de talentos, tradição no interior, torcedores apaixonados, futebol de interior.",
+      "keywords_semantic": "Uruguay, Salto, futebol amador, identidade local, cultura esportiva, rivalidade regional, ligas locais, tradição, torcedores apaixonados, ídolos locais, desenvolvimento de talentos, campeonatos regionais, história comunitária, símbolos culturais, orgulho municipal."
+    },
+    "venue": {
+      "id": 22635,
+      "name": "Complejo Universitario",
+      "address": null,
+      "city": "Salto",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "/venues/22635.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19355,
+      "name": "Wanderers Juvenil",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19355.png",
+      "keywords": "Wanderers Juvenil, Montevideo, Bohemios, El Vagabundo, Copa Libertadores, Campeonato Uruguaio, La Blanqueada, Juan Verzeri, Alfredo Ghierra, torcida fiel, identidade boêmia, estádio Parque Alfredo Víctor Viera, futebol de toque, história rica, formação de base, tradição uruguaia, paixão celeste, rivalidade clássica, uniformes alvinegros, jovens promessas.",
+      "keywords_semantic": "Montevidéu, tradição, história, rivalidade, torcedores, ídolos, paixão, clássicos, garra, identidade, campeonatos, ascensão, comunidade, formação, jogadores, estilo de jogo, perseverança, legado."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19356,
+      "name": "Wanderers Santa Lucia",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19356.png",
+      "keywords": "Wanderers Santa Lucia, Bohemios, ídolos locais, títulos regionais, torcida apaixonada, identidade cultural uruguaia, futebol de base, rivalidades locais, presidente atual, técnico destacado, símbolo tradicional, sede histórica, participação em campeonatos uruguaios, cores do clube, estádio local, legado esportivo, desenvolvimento de talentos.",
+      "keywords_semantic": "Wanderers Santa Lucia, futebol uruguaio, cultura local, Montevidéu, rivalidade, história do clube, torcedores apaixonados, identidade comunitária, ídolos locais, tradição esportiva, estilo de jogo, desenvolvimento de jovens talentos, conquistas regionais, símbolos do clube, paixão futebolística, legado cultural."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 19410,
+      "name": "Paysandu",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/19410.png",
+      "keywords": "Peñarol, Carboneros, Estádio Campeón del Siglo, Libertadores, Copa Intercontinental, Idolos: Fernando Morena, Alberto Spencer, Torcida aurinegra, Presidente: Ignacio Ruglio, Técnico: Alfredo Arias, Superclásico, Garra Charrúa, Identidade Manya, Glórias continentais, Campeonatos Uruguaios, Rivalidade com Nacional, Cultura futebolística uruguaia.",
+      "keywords_semantic": "Paysandu, Montevidéu, Uruguai, futebol uruguaio, história, tradição, rivalidade local, Primera División, títulos nacionais, ídolos do Paysandu, torcida apaixonada, identidade cultural, cores do clube, estilo de jogo, legado esportivo, paixão futebolística, símbolos do clube."
+    },
+    "venue": {
+      "id": 22636,
+      "name": "Estadio Parque Artigas",
+      "address": "Artigas y Colon",
+      "city": "Paysandú",
+      "capacity": 23000,
+      "surface": "grass",
+      "image": "/venues/22636.png"
+    }
+  },
+  {
+    "team": {
+      "id": 19411,
+      "name": "Platense",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1935,
+      "national": false,
+      "logo": "/teams/19411.png",
+      "keywords": "Tano, Decano del Fútbol Uruguayo, Vicente \"Capote\" Etcheverry, Víctor Hugo Diogo, Campeonato Uruguayo, Estadio Parque Juan Gaspar Prandi, Marrón y Blanco, hinchada calamar, rivalidade com Rampla Juniors, identidade de humildade e luta, futebol de garra, jogadores formados na base, tradição e história no futebol uruguaio, Néstor Gonçalves, Esteban Gesto, presidente Pablo Hernandez, técnico Matías Rosa, símbolo da tenacidade.",
+      "keywords_semantic": "Montevidéu, história, tradição, campeonato uruguaio, rivalidade, futebol amador, comunidade, identidade, paixão, ídolos locais, ascensão, clube de bairro, garra, perseverança, herança cultural."
+    },
+    "venue": {
+      "id": 1647,
+      "name": "Estadio Obdulio Varela",
+      "address": "Calle Tupan",
+      "city": "Montevideo",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "/venues/1647.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20002,
+      "name": "Central de San José",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/20002.png",
+      "keywords": "Central de San José, Palermitanos, Estadio Casto Martínez Laguarda, Liga Departamental de San José, Clásico del Sur, Torcedores albinegros, Cultura camponesa, Ídolo: Juan Carlos González, Ídolo: Héctor Scarone, Rivalidade com Nacional de San José, Festa da Virgen de los Treinta y Tres, Presidente: Jorge Fernández, Técnico: Martín Díaz, Identidade maragata, Campeão del Interior, Tradição e paixão, Desenvolvimento de jovens talentos, Símbolo: Estrela Centralista.",
+      "keywords_semantic": "Central de San José, Uruguai, futebol uruguaio, San José, rivalidades locais, futebol amador, identidade regional, torcedores apaixonados, tradição futebolística, desenvolvimento juvenil, ídolos locais, história do clube, cores do clube, campeonatos amadores, comunidade, cultura futebolística, estilo de jogo defensivo, apoio local, marcos históricos, competições regionais, orgulho sanjosé."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20003,
+      "name": "Juventud de Colonia",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/20003.png",
+      "keywords": "La Farola, Estadio Parque Artigas, Los Pedreros, Copa Libertadores, Segunda División Profesional, Celeste y Blanco, Jorge Giordano, ídolos históricos, hinchada fiel, Colonia del Sacramento, tradición charrúa, fútbol uruguayo, ascenso a Primera División, rivalidad local, cantera de talentos, cultura futbolística, pasión por el fútbol, directiva comprometida, historia rica, desarrollo juvenil, orgullo coloniense.",
+      "keywords_semantic": "Uruguai, Colonia del Sacramento, futebol uruguaio, história local, rivalidades regionais, Segunda Divisão, ascensão esportiva, torcedores apaixonados, comunidade local, identidade cultural, símbolos do clube, jovens talentos, desenvolvimento de base, futebol aguerrido, tradição esportiva, paixão alvinegra."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20537,
+      "name": "Uruguay U19",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/20537.png",
+      "keywords": "Celeste Olímpica, Juan Verzeri, Copa San Isidro de Curuguaty, desenvolvimento juvenil, talentos emergentes, futebol de base, AUF (Asociación Uruguaya de Fútbol), Celestitos, garra charrúa, formação de jogadores, projeto de base, futebol uruguaio, revelação de talentos, semillero uruguayo, identidade charrúa.",
+      "keywords_semantic": "juvenil, formação, talento, desenvolvimento, garra, Celeste, base, promessas, tradição, futebol-arte, futuro, ídolos, paixão, competitividade, rivalidades, sul-americano, identidade, história, academia, potencial, seleção, tática, disciplina, valores, inspiração"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21212,
+      "name": "Uruguay U17",
+      "code": null,
+      "country": "Uruguay",
+      "founded": 1900,
+      "national": true,
+      "logo": "/teams/21212.png",
+      "keywords": "La Celeste, Diego Forlán, Copa Mundial Sub-17, garra charrúa, Estadio Centenario, AUF (Asociación Uruguaya de Fútbol), formação de talentos, paixão uruguaia, técnico Alejandro Garay, desenvolvimento juvenil, Fabián Coito, futebol de base, Celeste Olímpica, jovens promessas, identidade celeste, tradição futebolística uruguaia.",
+      "keywords_semantic": "juvenil, formação, talento emergente, seleções de base, desenvolvimento, promessas, futebol uruguaio, identidade celeste, garra charrúa, competição internacional, Copa do Mundo Sub-17, Conmebol, história esportiva, orgulho nacional, Tabárez, cantera, estilo aguerrido, futuro do futebol, ídolos em ascensão, espírito competitivo"
+    },
+    "venue": {
+      "id": 1624,
+      "name": "Estadio Centenario",
+      "address": "Avenida Dr. Alfredo Navarro y Dr. Américo Ricaldoni, Parque Batlle",
+      "city": "Montevideo",
+      "capacity": 73609,
+      "surface": "grass",
+      "image": "/venues/1624.png"
+    }
+  },
+  {
+    "team": {
+      "id": 22215,
+      "name": "Deutscher",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/22215.png",
+      "keywords": "Deutscher, Montevidéu, Futebol Uruguaio, Clubes de Imigrantes, Tradição Alemã, Liga Uruguaia, Hinchas, História, Identidade Cultural, Clubes Amadores, Campeonato Uruguaio, Símbolos Culturais, Fútbol Charrúa, Integração Cultural, Comunidade Alemã, Desenvolvimento Esportivo, Rivalidades Locais, História do Futebol no Uruguai.",
+      "keywords_semantic": "imigração alemã, Montevidéu, tradição, futebol amador, rivalidades históricas, clubes uruguaios, identidade local, cultura alemã no Uruguai, história do futebol, pioneirismo, símbolos culturais, torcedores apaixonados, legado esportivo, desenvolvimento do futebol, influência alemã, participação histórica, resiliência, ícones do clube, contribuições sociais, comunidade alemã, competições locais, tradição esportiva, herança cultural, espírito competitivo, intercâmbio cultural"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22216,
+      "name": "Estudiantes del Plata",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/22216.png",
+      "keywords": "Estudiantes del Plata, La Furia Roja, Jose \"Pepe\" Delgado, campeonatos uruguayos, torcida fervorosa, identidade montevideana, Estadio Municipal, clássico contra Huracán Buceo, formação de talentos, estilo de jogo aguerrido, presidente Martín González, técnico Diego López, símbolo do leão, rivalidade histórica, tradição centenária, academia juvenil, paixão charrúa.",
+      "keywords_semantic": "Uruguai, Montevidéu, rivalidade, clássicos, Libertadores, garra charrua, La Plata, ídolos, torcedores, identidade, tradição, história, títulos nacionais, estádio, hinchada, paixão, fidelidade, estratégia, defensiva, formação, cantera, jovens talentos, cultura futebolística, legado, influência, campeonatos estaduais, torcida organizada, bandeiras, cânticos, memórias."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22217,
+      "name": "Lito",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/22217.png",
+      "keywords": "Lito, Club Atlético Lito, Montevideo, Los Azulgranas, futebol uruguaio, Campeonato Uruguaio, ídolos locais, história do futebol uruguaio, torcedores apaixonados, identidade cultural uruguaia, rivalidades tradicionais, desenvolvimento de talentos, Estadio Parque Central, influência histórica, legado esportivo, tradições do futebol sul-americano.",
+      "keywords_semantic": "Montevidéu, tradição, rivalidade local, futebol amador, história uruguaia, cultura futebolística, ícones regionais, identidade comunitária, paixão local, desenvolvimento juvenil, competições domésticas, clubes históricos, influência social, torcedores dedicados, campeonatos regionais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22221,
+      "name": "Campana",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/22221.png",
+      "keywords": "Campana, Club Atlético Campana, ídolos históricos, títulos locais, torcida apaixonada, identidade cultural uruguaia, símbolos tradicionais, presidente do clube, técnico atual, cores tradicionais, rivalidades regionais, história centenária, desenvolvimento de jovens talentos, infraestrutura do clube, impacto na comunidade local, estádio do Campana, conquistas históricas, tradição no futebol uruguaio.",
+      "keywords_semantic": "Campana Fútbol Club, Uruguay, Canelones, tradição local, rivalidades regionais, história modesta, futebol amador, comunidade, identificação local, paixão uruguaia, desenvolvimento de talentos, espírito competitivo, identidade cultural."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22222,
+      "name": "Ferro Carril",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/22222.png",
+      "keywords": "Ferroviários, Los Carboneros, Copa Montevideo, Alfredo Larrosa, torcedores fervorosos, Estádio Batoví, tradição ferroviária, Javier Pérez (presidente), Raul Castro (técnico), derby com Central Uruguay Railway, camisa verde e preta, Jorge \"El Maquinista\" Rodríguez, cultura operária, história centenária, paixão pelo futebol uruguaio, escudo com locomotiva.",
+      "keywords_semantic": "ferroviário, cultura operária, tradição ferroviária, Montevidéu, identidade local, rivalidades regionais, história centenária, paixão popular, torcida fiel, herança operária, campeonatos locais, ídolos históricos, cores tradicionais, estilo aguerrido, legado cultural, competição doméstica, símbolos ferroviários, jogos clássicos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22223,
+      "name": "Huracán Treinta y Tres",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/22223.png",
+      "keywords": "Huracán Treinta y Tres, Los Albiverdes, Estadio Centro Empleados de Comercio, ídolos locais, campeonato departamental, fervor celeste e branco, torcedores huracanenses, identidade treintaitresina, rivalidade local, futebol uruguaio, presidente do clube, técnico de destaque, símbolos do clube, tradição no interior do Uruguai, paixão pelo futebol.",
+      "keywords_semantic": "Huracán Treinta y Tres, Uruguay, futebol uruguaio, Treinta y Tres, rivalidade local, identidade regional, comunidade, paixão, tradição, ídolos locais, cores do clube, história futebolística, liga uruguaia, Estádio Estadio Municipal, desenvolvimento de jovens, cultura local, apoio dos torcedores, campeonatos regionais, estilo de jogo, clubes amadores, espírito de equipe."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22224,
+      "name": "Libertad San Carlos",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/22224.png",
+      "keywords": "Libertad San Carlos, Albicelestes, San Carlos, Estadio Dr. Mario Sobrero, Torneo Apertura, Torneo Clausura, Copa Uruguay, hinchada carolina, pasión serrana, ídolos históricos, identidad carolina, fútbol uruguayo, Jorge Giordano, Club Atlético Libertad, rivalidad local, tradición futbolística, cantera de talentos, campeonato departamental, cultura futbolera uruguaya, José Ignacio Rivero, colores celeste y blanco, orgullo carolino, La Barra del Libertad.",
+      "keywords_semantic": "Libertad San Carlos, Uruguai, futebol uruguaio, Maldonado, cultura local, rivalidade, competições regionais, identidade de torcida, ídolos locais, história do clube, marcos históricos, tradição futebolística, desenvolvimento jovem, paixão pelo futebol, cores do clube, comunidade, estilo de jogo, perseverança, orgulho local, reconhecimento regional, apoio comunitário."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22225,
+      "name": "Litoral",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/22225.png",
+      "keywords": "Litoral, Paysandú, Albinegros, Campeonato del Litoral, Néstor \"Tito\" Gonçalves, Estadio Artigas, rivalidade com Bella Vista, ídolos locais, cultura futebolística uruguaia, futebol amador, tradição regional, apoio comunitário, Copa El País, desenvolvimento de jovens talentos, rivalidade regional.",
+      "keywords_semantic": "Montevidéu, futebol uruguaio, rivalidade local, torcida apaixonada, tradição, campeonatos regionais, história centenária, ídolos locais, identidade cultural, desenvolvimento de talentos, estilo aguerrido, símbolos do clube, legado esportivo, participação comunitária, cultura futebolística."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22226,
+      "name": "Nacional CNF",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/22226.png",
+      "keywords": "Bolso, Tricolores, El Decano, Gran Parque Central, Copa Libertadores, Copa Intercontinental, Recopa Sul-Americana, Abdon Porte, Atilio García, Luis Suárez, Hugo De León, Iván Alonso, Alvaro Recoba, Gustavo Munúa, Ignacio Ruglio, Torcida Los Céspedes, Identidade Tricolor, Rivalidade com Peñarol, La Banda del Parque, Alma Nacional, Identidade Charrúa, Títulos Uruguaios, Los Albos, Cultura Futbolística Uruguaia, História Centenária.",
+      "keywords_semantic": "Nacional, Montevidéu, tricolor, bolso, decano, clássico, Peñarol, Libertadores, Uruguai, Gran Parque Central, torcida, Rey de Copas, Hugo De León, Luis Suárez, cultura futebolística, La Blanca, La Banda del Parque, campeonatos uruguaios, rivalidade, tradição, história, identidade, paixão, estilo competitivo, charrúa, ídolos históricos, legado."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22227,
+      "name": "Sportivo Bella Italia",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/22227.png",
+      "keywords": "Sportivo Bella Italia, La Dársena, ídolos históricos, títulos regionais, torcida apaixonada, identidade cultural uruguaia, Montevidéu, rivalidades locais, tradição futebolística, comunidade italiana, fundação histórica, Antonio Rossi (presidente), Carlos Menéndez (técnico), Estádio Bella Italia, bandeira tricolor, desenvolvimento de jovens talentos, festas tradicionais, hinos e cantos, legado esportivo, impacto social na comunidade.",
+      "keywords_semantic": "Montevidéu, rivalidade local, tradição, história rica, identidade uruguaia, torcedores apaixonados, ídolos locais, cultura futebolística, marcos históricos, comunidade, estilo de jogo aguerrido, força regional, competição nacional, cores tradicionais, símbolo clube, legado esportivo, influência social, espírito de luta, campeonato uruguaio, tradição de bairro."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22228,
+      "name": "Terremoto",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/22228.png",
+      "keywords": "Terremoto FC, La Tormenta Celeste, ídolo Juan \"El Huracán\" López, títulos nacionais uruguaios, torcida apaixonada, identidade cultural uruguaia, Estádio Granizo, presidente Carlos Montes, técnico Diego \"El Sismo\" Fernández, rivalidade local, cores azul e branco, símbolo do terremoto, formação de jovens talentos, campeonato Clausura, campeonato Apertura.",
+      "keywords_semantic": "Montevidéu, rivalidade, tradição, La Barra, Celeste, garra charrua, Libertadores, paixão, ídolos, torcida fiel, estilo ofensivo, campeonatos nacionais, história rica, identidade cultural, estádio emblemático, Copa Libertadores, clássicos, hino, azul e branco, jovens talentos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22229,
+      "name": "Wanderers Durazno",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/22229.png",
+      "keywords": "Wanderers Durazno, Bohemios, Duraznenses, Estadio Silvestre Octavio Landoni, torcida albirroja, futebol uruguaio, liga local, identidade rural, tradição, desenvolvimento de talentos, cultura gaúcha, paixão pelo futebol, rivalidade regional, campeonatos locais, ídolos regionais, dirigentes locais, comunidade de Durazno, símbolos culturais, orgulho interiorano, história no futebol uruguaio.",
+      "keywords_semantic": "Wanderers Durazno, futebol uruguaio, Durazno, rivalidades locais, identidade regional, tradição futebolística, torcida apaixonada, história local, ligas amadoras, desenvolvimento de talentos, espírito comunitário, ícones locais, estilo de jogo aguerrido, competições regionais, símbolos culturais, paixão pelo futebol."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22549,
+      "name": "Club Nacional de Football W",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/22549.png",
+      "keywords": "Bolso, Tricolor, Decano, Estadio Gran Parque Central, Libertadores 1971, Libertadores 1980, Libertadores 1988, Recopa 1989, Copa Intercontinental 1971, Copa Intercontinental 1980, Copa Intercontinental 1988, Luis Artime, Atilio García, Héctor Scarone, Juan Ramón Carrasco, Álvaro Recoba, Hugo De León, Torcida Los Bolsos, Hugo De León, Santiago Rodríguez, Alejandro Curbelo, José Decurnex, Albo, Identidade Nacional, Cultura Uruguaia, Raízes Montevideanas, Juan Carlos Blanco, Gutiérrez.",
+      "keywords_semantic": "Montevidéu, Tricolor, Libertadores, El Decano, Gran Parque Central, rivalidade Peñarol, clássico uruguaio, La Banda del Parque, títulos uruguaios, Copa Intercontinental, La Máquina Blanca, ídolos Atilio García, cultura futebolística uruguaia, Rey de Copas, estilo ofensivo."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22758,
+      "name": "San Marcos",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/22758.png",
+      "keywords": "San Marcos, \"Los Santos\", ídolos históricos, títulos da liga local, torcida apaixonada, estádio emblemático, identidade cultural uruguaia, paixão pelo futebol, rivalidades regionais, cores tradicionais, desenvolvimento de jovens talentos, presidente influente, técnico renomado, símbolo do clube, La Celeste influência, lenda local.",
+      "keywords_semantic": "San Marcos, Uruguai, Montevidéu, futebol amador, rivalidade local, paixão regional, identidade comunitária, tradição, história local, torcida fiel, competições regionais, desenvolvimento juvenil, ídolos locais, cultura uruguaia, estilo aguerrido, símbolos do clube."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23380,
+      "name": "Uruguay U17 W",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": true,
+      "logo": "/teams/23380.png",
+      "keywords": "La Celeste, Seleção Feminina Sub-17 do Uruguai, Rosana Gómez (treinadora), Celia Sosa (ídolo), Campeonato Sul-Americano Sub-17, paixão charrúa, desenvolvimento de base, AUF (Asociación Uruguaya de Fútbol), garra uruguaia, Celeste Olímpica, futuras gerações, Estádio Charrúa, Jorge Vivaldo (presidente da AUF), identidade cultural uruguaia, futebol feminino em ascensão, espírito de equipe, apoio da torcida, tradição futbolística.",
+      "keywords_semantic": "futebol feminino, seleção sub-17, desenvolvimento juvenil, Conmebol, Copa do Mundo Feminina Sub-17, Garra Charrúa, formação de talentos, Montevidéu, futebol base, identidade uruguaia, Celeste Olímpica, futebol sul-americano, categorias de base, crescimento esportivo, torneios juvenis, paixão nacional, ídolos emergentes, talento jovem, oportunidades internacionais, tradição futebolística"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23462,
+      "name": "Uruguay U20 W",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/23462.png",
+      "keywords": "La Celeste, Celestitas, Mundial Sub-20 Feminino, categoria de base, desenvolvimento do futebol feminino, OFI, AUF, Montevidéu, Tabaréz, conquista, garra charrúa, identidade uruguaia, formação de talentos, futuro do futebol uruguaio, força feminina, empoderamento, Copa América Feminina Sub-20, apoio da torcida, cultura do mate, tradição futebolística, Aníbal \"Maño\" Ruiz, Estádio Centenario, Luis Suárez, Edinson Cavani, Forlán, Diego Godín, Fabián Coito.",
+      "keywords_semantic": "futebol feminino, seleção sub-20, jovens talentos, Celeste Olímpica, desenvolvimento juvenil, Copa do Mundo Feminina Sub-20, Conmebol, tradição futebolística, força emergente, identidade uruguaia, garra charrúa, formação de atletas, futebol de base, espírito competitivo, ídolos em ascensão, cultura esportiva, igualdade de gênero, torcedoras apaixonadas, rivalidade sul-americana, legado esportivo."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24669,
+      "name": "Atlético Arsenal",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24669.png",
+      "keywords": "Atlético Arsenal, Los Gunners, Estadio Olímpico, La Barra del Arsenal, El Clásico del Prado, títulos de liga uruguaia, Copa Libertadores, ídolos históricos, Juan \"El Mago\" Fernández, cultura charrúa, paixão e fidelidade, presidente Ricardo López, técnico Martín Santamaría, símbolo canhão, rivalidade com Defensor Sporting, formação de base, hinchada fiel, cores vermelho e branco.",
+      "keywords_semantic": "Uruguai, Montevidéu, futebol uruguaio, identidade local, rivalidades regionais, torcida apaixonada, La Barra, tradições futebolísticas, competições nacionais, ídolos históricos, azul e branco, estilo aguerrido, defesa sólida, conquistas nacionais, cultura futebolística, orgulho bairrista, formação de talentos, estádio acolhedor, hino emblemático, espírito de luta."
+    },
+    "venue": {
+      "id": 22637,
+      "name": "Estadio Ernesto Dickinson",
+      "address": "Fernando Irazoqui",
+      "city": "Salto",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/22637.png"
+    }
+  },
+  {
+    "team": {
+      "id": 24670,
+      "name": "Atlético Florida",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24670.png",
+      "keywords": "Atlético Florida, Albirrojos, Estádio Campeones Olímpicos, futebol uruguaio, interior uruguaio, Liga de Florida, paixão albirroja, rivalidade local, tradições de Florida, campeonatos departamentais, identidade floridense, torcida albirroja, ídolos regionais, cultura esportiva uruguaia, presidente do clube, técnico do Atlético Florida, crescimento do futebol amador, competições interdepartamentais, símbolos do clube, história do Atlético Florida.",
+      "keywords_semantic": "Atlético Florida, Uruguay, futebol uruguaio, cultura local, rivalidade regional, história do clube, campeonatos locais, torcida apaixonada, ídolos do clube, símbolos do time, estilo de jogo, identidade regional, tradição esportiva, futebol amador, ligas regionais, comunidade, paixão pelo futebol."
+    },
+    "venue": {
+      "id": 22638,
+      "name": "Estadio Artigas Lacassy Loroña",
+      "address": null,
+      "city": "Florida",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "/venues/22638.png"
+    }
+  },
+  {
+    "team": {
+      "id": 24671,
+      "name": "Berlín",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24671.png",
+      "keywords": "Berlín, Los Albinegros, Montevideo, Estadio Berlín, La Barra del Berlín, Copa Libertadores, Campeonato Uruguaio, Derby de Montevideo, ídolo Juan Pérez, técnico Carlos Rodríguez, presidente María González, identidade charrúa, paixão celeste, rivalidade histórica, tradições uruguaias, futebol arte, torcida fanática, La Celeste, cultura futebolística uruguaia.",
+      "keywords_semantic": "Uruguai, Montevidéu, futebol amador, clubes locais, rivalidades regionais, identidade comunitária, tradição esportiva, paixão pela torcida, desenvolvimento de jovens, história do futebol uruguaio, cultura futebolística, espírito de equipe, competições locais, ídolos locais, participação comunitária, orgulho local, jogos amistosos, torcedores dedicados, evolução do clube."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24672,
+      "name": "Boca Juniors Melo",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24672.png",
+      "keywords": "Boca Juniors Melo, Xeneizes de Melo, Estádio Arquitecto Antonio Eleuterio Ubilla, Torcida Auriazul, Identidade Cultural Melense, Clássico de Cerro Largo, Ídolos Locais, Campeão Uruguaio de Segunda Divisão, Paixão Auriverde, Desenvolvimento de Jovens Talentos, Fanáticos de Melo, História Futebolística, Campeonato Uruguaio, Clubes de Bairro, Tradição e Orgulho, Símbolo do Cerro Largo, Técnicos Relevantes, Presidente Atual, Desempenho em Competições Nacionais, Rivalidade Regional, Comunidade Unida.",
+      "keywords_semantic": "Uruguai, futebol amador, história local, comunidade, rivalidades regionais, paixão, torcedores, identidade, tradição, desenvolvimento jovem, competições locais, conexão social, apoio local, ídolos locais, cultura futebolística, espírito comunitário, integração, legado, símbolos, orgulho."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24673,
+      "name": "Bristol",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24673.png",
+      "keywords": "Bristol, Montevidéu, \"La Academia\", Campeonato Uruguaio, Estádio Parque Bristol, tradição futebolística, ídolos históricos, identidade cultural, rivalidades locais, torcida fanática, desenvolvimento de jovens talentos, história centenária, símbolos do clube, cores preto e branco, paixão uruguaia, legado esportivo, dirigentes influentes, conquistas regionais, futebol amador, cultura charrúa.",
+      "keywords_semantic": "Montevidéu, Segunda Divisão, história local, rivalidades regionais, comunidade, ídolos locais, identidade de bairro, desenvolvimento juvenil, futebol de base, paixão uruguaia, tradição esportiva, clubes históricos, cultura futebolística, crescimento, torcida fiel, tradição comunitária, herança esportiva."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24674,
+      "name": "Central de Durazno",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24674.png",
+      "keywords": "Central de Durazno, \"Rojos del Yi\", Estadio Silvestre Octavio Landoni, Duraznenses, campeonato del interior, liga local, Club Atlético Central, hinchada apasionada, rivalidade com Wanderers de Durazno, cultura duraznense, ídolo local, tradição futebolística, Durazno capital do futebol, torcedores fiéis, história rica no futebol uruguaio, desenvolvimento de jovens talentos, La Banda Roja, presidente histórico, técnicos influentes.",
+      "keywords_semantic": "Durazno, Central de Durazno, futebol uruguaio, rivalidades locais, Liga de Durazno, tradição futebolística, identidade regional, torcedores apaixonados, cultura charrua, história do clube, ídolos locais, desenvolvimento juvenil, estilo de jogo aguerrido, competições regionais, comunidade duraznense, símbolos do clube, orgulho local, campeonatos amadores."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24675,
+      "name": "Darling",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24675.png",
+      "keywords": "Darling FC, Montevideo, futebol uruguaio, Los Albos, bairro Jacinto Vera, ídolos locais, rivalidade clássica, campeonatos amadores, tradição futebolística, paixão fervorosa, fiel torcida, cultura barrial, identidade comunitária, desenvolvimento juvenil, história centenária, cores alvinegras, símbolos de luta, futebol de raiz, fortes valores sociais, conexão com a comunidade.",
+      "keywords_semantic": "Montevidéu, tradição, história, futebol uruguaio, clube histórico, legado, identidade local, paixão, torcida fiel, ídolos, rivalidades locais, cultura futebolística, comunidade, crescimento, desafios, identidade esportiva, desenvolvimento de talentos, orgulho, impacto social, memórias."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24676,
+      "name": "Estudiantes Tacuarembó",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24676.png",
+      "keywords": "Estudiantes Tacuarembó, Albirojos, ídolos locais, Liga de Tacuarembó, Estádio Ing. Raúl Goyenola, torcida fiel, identidade cultural uruguaia, futebol interiorano, desenvolvimento de jovens talentos, tradição no futebol uruguaio, presidente do clube, técnico destacado, rivalidades regionais, participação em torneios nacionais, símbolos do clube.",
+      "keywords_semantic": "Estudiantes Tacuarembó, futebol uruguaio, identidade local, Tacuarembó, rivalidades regionais, cultura gaúcha, torcedores apaixonados, desenvolvimento de talentos, história recente, competições nacionais, espírito comunitário, ídolos locais, ascensão no futebol, estilo aguerrido, tradição esportiva, símbolos regionais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24677,
+      "name": "Estudiantil Sanducero",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24677.png",
+      "keywords": "Estudiantil Sanducero, \"Albinegro\", Paysandú, Estádio Parque Estudiantil, Torcida \"Albinegra\", Copa El País, Liga Departamental de Fútbol de Paysandú, Clássico com Bella Vista, Identidade sanducera, Desenvolvimento de jovens talentos, Juan Carlos Umpiérrez, Rivalidade local, Cultura futebolística uruguaia, História e tradição, Paixão e orgulho regional, Contribuição para o futebol uruguaio.",
+      "keywords_semantic": "Paysandú, identidade local, futebol uruguaio, Segunda División Amateur, rivalidade local, história esportiva, comunidade, paixão, tradição, ídolos regionais, cores do clube, torcida fiel, desenvolvimento de talentos, espírito de equipe, competição regional."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24678,
+      "name": "Ferrocarrilero",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24678.png",
+      "keywords": "Ferrocarrilero, Uruguay, La Máquina del Riel, ídolos históricos, títulos regionais, fervor ferroviário, torcida apaixonada, identidade operária, símbolo do trem, desenvolvimento local, futebol amador, rivalidade local, tradição ferroviária, cores tradicionais, potencial de ascensão, história rica.",
+      "keywords_semantic": "Ferrocarrilero, Uruguay, futebol amador, clube ferroviário, identidade operária, Montevidéu, rivalidades locais, tradição ferroviária, comunidade, paixão, torcida leal, história ferroviária, competição regional, espírito de luta, clubes de bairro, representatividade social."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24679,
+      "name": "Melo Wanderers",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24679.png",
+      "keywords": "Melo Wanderers, Los Albos, Estadio Arquitecto Antonio Eleuterio Ubilla, Cerro Largo, futebol uruguaio, ídolo local, rivalidade regional, cultura futebolística uruguaia, desenvolvimento de talentos, tradição futebolística, identidade local, paixão da torcida, campeonatos regionais, história do clube, jogadores promissores, apoio comunitário, símbolos do clube, técnico influente, presidente do clube.",
+      "keywords_semantic": "Melo Wanderers, Uruguai, Cerro Largo, futebol uruguaio, cultura local, identidade regional, rivalidades locais, história do clube, torcedores apaixonados, ídolos do clube, tradição esportiva, campeonatos nacionais, desenvolvimento de talentos, estilo de jogo, símbolos do clube, comunidade, engajamento social."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24680,
+      "name": "Peñarol de Rivera",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24680.png",
+      "keywords": "Carboneros del Norte, Estadio Atanasio Bonfiglio, Aurinegros, Rivalidade com Nacional de Rivera, Torcida fiel riverense, Ascenso Uruguaio, Tradição uruguaia, Desenvolvimento de juvenis, Hector \"El Loco\" Pérez, Clássico do Interior, Cultura fronteiriça, Identidade gaúcha-uruguaia, Cores preto e amarelo, La Barra del Norte, Títulos regionais, Presença no Interior del país, Orgulho riverense, Festa aurinegra, Técnico local, Presidente do clube, História no futebol uruguaio, Ídolos regionais, Conexão com Peñarol de Montevidéu.",
+      "keywords_semantic": "Peñarol de Rivera, identidade local, fronteira Brasil-Uruguai, rivalidade regional, futebol uruguaio, cultura fronteiriça, torcida apaixonada, tradição futebolística, competições nacionais, desenvolvimento jovem, ídolos locais, história rica, influência cultural, ascensão esportiva, orgulho regional, rivalidade histórica, estilo de jogo aguerrido, paixão futebolística."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 24681,
+      "name": "Pirata Juniors",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/24681.png",
+      "keywords": "Pirata Juniors, La Maquina Celeste, Montevideanos, Estádio del Corsario, El Capitán, Torcida Pirata, Títulos Nacionais, Ídolo: Juan \"El Bucanero\" González, Rivalidade Clássica, Presidente: Roberto \"Capitán\" Silva, Técnico: Diego \"El Navegante\" Torres, Cultura Celeste, Navegação e Mar, Espírito Guerreiros do Mar, Tradição e Orgulho, Símbolo: Bandeira Pirata, Maracanazo, Formação de Jovens Talentos, Celeiro de Goleadores, Academia Pirata, Lema: \"Conquistando os Mares\".",
+      "keywords_semantic": "Uruguai, Pirata Juniors, Montevidéu, futebol uruguaio, rivalidades locais, títulos regionais, torcida apaixonada, ídolos históricos, bandeira pirata, estilo aguerrido, tradição futebolística, cultura celeste, paixão pelo futebol, história rica, identidade comunitária, jogos emocionantes, clássico uruguaio, símbolos icônicos, desenvolvimento juvenil."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25013,
+      "name": "18 de Julio",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/25013.png",
+      "keywords": "18 de Julio, Rocha Fútbol Club, Los Verdirrojos, Estadio Mario Sobrero, Ídolos Locais, Clássico de Rocha, Copa El País, Torcida Rochense, Identidade Interiorana, Cultura Gaúcha, Fútbol Chacarero, Liga Rochense de Fútbol, Desarrollo Juvenil, Rivalidade Com Lavalleja, Tradição de Formação, Integração Comunitária, História Regional, Vicente de Castelnovo, Orgulho Departamental, Projeto Social \"Cantera Verdirroja\".",
+      "keywords_semantic": "18 de Julio, Uruguai, futebol uruguaio, Rivera, rivalidades regionais, clubes locais, identidade comunitária, paixão local, torcedores dedicados, história regional, competições amadoras, desenvolvimento juvenil, cultura futebolística, tradição esportiva, ídolos locais, impacto social, estilo de jogo ofensivo, espírito de equipe, símbolos do clube, comunidade unida."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25014,
+      "name": "Frontera Rivera",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/25014.png",
+      "keywords": "Frontera Rivera, Verdirrojo, Estadio Atilio Paiva Olivera, Clásico del Norte, hinchada riverense, cultura gaúcha-uruguaia, fronteira Brasil-Uruguai, Copa El País, Ascenso a la Primera División, ídolo local, rivalidade Tacuarembó, identidade fronteiriça, paixão e tradição, desenvolvimento de talentos jovens, integração cultural, presidente do clube, técnico atual, legado regional, torcedores apaixonados.",
+      "keywords_semantic": "Uruguay, Rivera, fronteira, cultura fronteiriça, rivalidade local, torcidas apaixonadas, ídolos regionais, história local, estilo aguerrido, futebol uruguaio, tradição, identidade cultural, campeonatos locais, clubes amadores, paixão pelo futebol, integração cultural, simbolismo regional, herança futebolística, comunidade, orgulho local, desenvolvimento de talentos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 25057,
+      "name": "Peñarol W",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/25057.png",
+      "keywords": "Carboneros, Mirasoles, Estadio Campeón del Siglo, Pablo Bengoechea, Fernando Morena, Copa Libertadores, Torcida Aurinegra, Clássico do Uruguai, Identidade Charrua, Rodolfo Catino, Álvaro Gutiérrez, Los Aromos, Tradição e Garra, Estrelas Amarelas e Pretas, Rivalidade com Nacional, História Gloriosa, Bicampeonato Mundial, Cultura Peñarolense, Hino do Peñarol, La Máquina del 61.",
+      "keywords_semantic": "Peñarol, Montevidéu, carboneros, clássico, Nacional, Libertadores, cinco copas, Glorioso Decano, aurinegros, hinchada, Manya, Estádio Campeón del Siglo, Pablo Bengoechea, Alberto Spencer, tradição, identidade uruguaia, garra charrúa, estilo aguerrido, rivalidade histórica, conquistas internacionais, cultura torcedora, história centenária, futebol sul-americano, paixão, ídolos lendários."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 26699,
+      "name": "Atenas Tala",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/26699.png",
+      "keywords": "Atenas Tala, Gigante del Interior, Estadio Atenas, Cerro Largo, Segunda División Uruguaya, ascenso, comunidade talaense, celeste y blanco, Santiago Ostolaza, ídolos locais, cultura interiorana, rivalidade Cerro Largo, Jorge Giordano, formação de jogadores, paixão uruguaia, identidade regional, ícones locais, desenvolvimento de talentos, apoio fervoroso, futebol de interior.",
+      "keywords_semantic": "Atenas Tala, Uruguai, clube histórico, futebol amador, identidade local, comunidade, rivalidades regionais, liga uruguaia, tradição esportiva, paixão dos torcedores, cores do clube, ícones locais, trajetória, desenvolvimento de talentos, competições nacionais, cultura futebolística."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 27068,
+      "name": "Uruguay U18",
+      "code": null,
+      "country": "Uruguay",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/27068.png",
+      "keywords": "La Celeste, Óscar Tabárez, jovens promessas, Garra Charrúa, Copa Mundial Sub-18, Estádio Centenario, formação de base, AUF (Asociación Uruguaya de Fútbol), tradição futebolística, identidade uruguaia, desenvolvimento juvenil, futebol de base, Forlán, Suárez, Cavani, paixão nacional, espírito competitivo, orgulho uruguaio, seleções de base, talentos emergentes, futuro do futebol uruguaio.",
+      "keywords_semantic": "futebol juvenil, formação de talentos, Celeste Olímpica, desenvolvimento de jogadores, CONMEBOL, futuro do futebol uruguaio, garra charrua, Copa América de base, infraestrutura de base, academia de futebol, ídolos emergentes, legado futebolístico, identidade uruguaia, estilo de jogo ofensivo, tradição de base, força mental, rivalidades juvenis, scouting internacional, espírito de equipe, paixão nacional"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]
