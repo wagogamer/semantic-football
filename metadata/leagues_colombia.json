@@ -6,7 +6,8 @@
       "type": "League",
       "logo": "/logos/239.png",
       "keywords": "Los Cafeteros, Atlético Nacional, Millonarios, América de Cali, Independiente Santa Fe, El Dorado, Faustino Asprilla, René Higuita, El Campín, Estadio Atanasio Girardot, rivalidades intensas, clássico capitalino, formato de Apertura e Clausura, paixão colombiana, hinchadas fervorosas, título nacional, evolução tática, exportação de talentos, impacto social, Conmebol Libertadores, clubes emergentes, história rica, equilíbrio competitivo.",
-      "keywords_semantic": "Colombian, football, league, history, Atlético Nacional, Millonarios, América de Cali, Deportivo Cali, Independiente Medellín, Santa Fe, competition, round-robin, playoffs, domestic, rivalries, clásico, international, Libertadores, Sudamericana, cultural, passion, fans, stadiums, Bogotá, Medellín, Cali, Barranquilla, emotion, identity, legacy, tradition"
+      "keywords_semantic": "Colombian, football, league, history, Atlético Nacional, Millonarios, América de Cali, Deportivo Cali, Independiente Medellín, Santa Fe, competition, round-robin, playoffs, domestic, rivalries, clásico, international, Libertadores, Sudamericana, cultural, passion, fans, stadiums, Bogotá, Medellín, Cali, Barranquilla, emotion, identity, legacy, tradition",
+      "keywords_es": "Categoría Primera A, Fútbol Profesional Colombiano, El Dorado, Liga BetPlay Dimayor, Millonarios, Atlético Nacional, América de Cali, Independiente Santa Fe, Deportivo Cali, Junior de Barranquilla, La Mechita, Los Verdolagas, Los Embajadores, El Ballet Azul, El Poderoso de la Montaña, rivalidad apasionada, hinchada vibrante, fútbol cafetero, talento joven, cuna de estrellas, pasión y tradición, estadio lleno, clásicos colombianos."
     },
     "country": {
       "name": "Colombia",
@@ -45,7 +46,8 @@
       "type": "League",
       "logo": "/logos/240.png",
       "keywords": "La Aplanadora del Caribe, Colombia, Atlético Bucaramanga, Cúcuta Deportivo, Unión Magdalena, Independiente Santa Fe, América de Cali, ascenso, descenso, Estadio Metropolitano de Techo, clásico costeño, Carlos Valderrama, Faustino Asprilla, rivalidade, formato de todos contra todos, quadrangulares finais, promoção para a Primeira A, paixão dos torcedores, futebol de segunda divisão, desenvolvimento de talentos.",
-      "keywords_semantic": "Primera B, Colômbia, ascensão, descenso, clubes emergentes, promoção, história local, Atlético Huila, Cortuluá, Rivalidade regional, desenvolvimento talento, formato liga, futebol colombiano, competição nacional, impacto cultural, infraestrutura esportiva."
+      "keywords_semantic": "Primera B, Colômbia, ascensão, descenso, clubes emergentes, promoção, história local, Atlético Huila, Cortuluá, Rivalidade regional, desenvolvimento talento, formato liga, futebol colombiano, competição nacional, impacto cultural, infraestrutura esportiva.",
+      "keywords_es": "Torneo de ascenso, Colombia, cantera de talentos, fútbol cafetero, clásico del ascenso, Deportivo Pereira, Cúcuta Deportivo, Atlético Huila, pasión regional, hinchadas fervorosas, promesas del fútbol, ascenso y descenso, historia de superación, equipos emergentes."
     },
     "country": {
       "name": "Colombia",
@@ -84,7 +86,8 @@
       "type": "Cup",
       "logo": "/logos/241.png",
       "keywords": "Copa Colombia, Los Cafeteros, Atlético Nacional, Millonarios, Independiente Santa Fe, Junior de Barranquilla, América de Cali, Deportivo Cali, formato eliminatório, ida e volta, torcidas apaixonadas, rivalidade regional, Estádio Atanasio Girardot, Estádio El Campín, Atlético Nacional campeão, Teófilo Gutiérrez, Carlos Valderrama, Faustino Asprilla, importância doméstica, revelação de talentos, qualificação para torneios internacionais, tradição e prestígio, história desde 1950, futebol colombiano.",
-      "keywords_semantic": "Copa Colombia, torneio nacional, clubes colombianos, importância cultural, formato eliminatório, Atlético Nacional, Millonarios, Independiente Santa Fe, Deportivo Cali, prestígio local, classificação internacional, rivalidade regional, futebol colombiano, história recente, Copa BetPlay, momentos decisivos, taça doméstica, surpresas do torneio, contexto sul-americano."
+      "keywords_semantic": "Copa Colombia, torneio nacional, clubes colombianos, importância cultural, formato eliminatório, Atlético Nacional, Millonarios, Independiente Santa Fe, Deportivo Cali, prestígio local, classificação internacional, rivalidade regional, futebol colombiano, história recente, Copa BetPlay, momentos decisivos, taça doméstica, surpresas do torneio, contexto sul-americano.",
+      "keywords_es": "Copa BetPlay, tierra de cafeteros, torneo de la emoción, equipos de tradición, Atlético Nacional, Millonarios, Independiente Santa Fe, Junior de Barranquilla, Deportivo Cali, hinchadas apasionadas, cuna de talentos, pasión futbolera, clásico del fútbol colombiano, identidad cafetera, torneo de eliminación directa, fútbol alegre, el país del vallenato, rivalidades históricas."
     },
     "country": {
       "name": "Colombia",
@@ -123,7 +126,8 @@
       "type": "Cup",
       "logo": "/logos/713.png",
       "keywords": "Superliga Colombiana, Colombia, Atlético Nacional, Millonarios, Deportivo Cali, América de Cali, El Clásico, Estádio El Campín, James Rodríguez, Carlos Valderrama, rivalidade histórica, formato de ida e volta, taça nacional, futebol colombiano, paixão torcedora, campeão do Apertura, campeão do Finalización, Conmebol, tradição esportiva, impacto social.",
-      "keywords_semantic": "Colômbia, Superliga, Atlético Nacional, Independiente Santa Fe, rivalidade, clássicos, campeão, torneio de abertura, torneio de encerramento, formato de liga, competição nacional, prestígio, Conmebol, história do futebol colombiano, cultura futebolística, Barranquilla, Medellín, Bogotá, momentos marcantes, identidade regional, paixão dos torcedores, impacto social."
+      "keywords_semantic": "Colômbia, Superliga, Atlético Nacional, Independiente Santa Fe, rivalidade, clássicos, campeão, torneio de abertura, torneio de encerramento, formato de liga, competição nacional, prestígio, Conmebol, história do futebol colombiano, cultura futebolística, Barranquilla, Medellín, Bogotá, momentos marcantes, identidade regional, paixão dos torcedores, impacto social.",
+      "keywords_es": "Superliga Colombiana, Fútbol Profesional Colombiano, Cafeteros, Tierra de Escarabajos, Millonarios, Atlético Nacional, Junior de Barranquilla, Independiente Santa Fe, América de Cali, Clásicos Colombianos, Pasión Futbolera, El Dorado del Fútbol, Cuna de Estrellas, La Hinchada, La Tricolor, Estadio El Campín, Fútbol en Altura, La Magia del Caribe."
     },
     "country": {
       "name": "Colombia",
@@ -162,7 +166,8 @@
       "type": "League",
       "logo": "/logos/712.png",
       "keywords": "Liga Femenina, Colombia, fútbol femenino, Atlético Huila, América de Cali, Independiente Santa Fe, Deportivo Cali, Millonarios F.C., Dimayor, Yoreli Rincón, Catalina Usme, crecimiento del fútbol femenino, empoderamiento deportivo, formato de liga, torneos cortos, final única, campeonas históricas, inclusión femenina, desarrollo juvenil, rivalidades regionales, fútbol profesional femenino en Colombia.",
-      "keywords_semantic": "futebol feminino, Colômbia, Dimayor, Atlético Huila, América de Cali, Independiente Santa Fe, crescimento do esporte, igualdade de gênero, empoderamento feminino, liga profissional, Copa Libertadores Feminina, desenvolvimento de talentos, rivalidades regionais, impacto social, formato de competição, história do futebol feminino, evolução cultural, destaque internacional, inclusão esportiva, torcidas apaixonadas"
+      "keywords_semantic": "futebol feminino, Colômbia, Dimayor, Atlético Huila, América de Cali, Independiente Santa Fe, crescimento do esporte, igualdade de gênero, empoderamento feminino, liga profissional, Copa Libertadores Feminina, desenvolvimento de talentos, rivalidades regionais, impacto social, formato de competição, história do futebol feminino, evolução cultural, destaque internacional, inclusão esportiva, torcidas apaixonadas",
+      "keywords_es": "Liga Femenina, Colombia, empoderamiento, crecimiento, balompié femenino, Atlético Huila, América de Cali Femenino, Independiente Santa Fe Femenino, pioneras, pasión cafetera, jugadoras talentosas, fútbol en expansión, orgullo colombiano, evolución deportiva."
     },
     "country": {
       "name": "Colombia",

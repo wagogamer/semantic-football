@@ -6,7 +6,8 @@
       "type": "League",
       "logo": "/logos/262.png",
       "keywords": "Liga MX, México, Chivas Guadalajara, América, Cruz Azul, Tigres UANL, Monterrey, El Clásico Nacional, Estadio Azteca, Apertura e Clausura, Liguilla, Descenso, Cuauhtémoc Blanco, Hugo Sánchez, Rafael Márquez, Juan Carlos Osorio, Torneo Bicentenario, transmissão Televisa, rivalidades históricas, cantera mexicana, Estadio Universitario, impacto econômico, paixão nacional, gol olímpico, técnico estrangeiro, torcida fervorosa.",
-      "keywords_semantic": "história, cultura, clubes mexicanos, América, Chivas, Monterrey, Tigres, Pumas, clássicos, rivalidades regionais, formato de torneio, Apertura, Clausura, liguilla, prestígio, torcida apaixonada, internacionalização, Libertadores, CONCACAF Champions League, ídolos históricos, momentos épicos, Estádio Azteca, Estádio Universitário, Estádio Jalisco, futebol latino-americano"
+      "keywords_semantic": "história, cultura, clubes mexicanos, América, Chivas, Monterrey, Tigres, Pumas, clássicos, rivalidades regionais, formato de torneio, Apertura, Clausura, liguilla, prestígio, torcida apaixonada, internacionalização, Libertadores, CONCACAF Champions League, ídolos históricos, momentos épicos, Estádio Azteca, Estádio Universitário, Estádio Jalisco, futebol latino-americano",
+      "keywords_es": "Liga MX, México, La Primera División, Fútbol Azteca, Pasión Azteca, Club América, Chivas de Guadalajara, Rayados de Monterrey, Tigres UANL, Cruz Azul, Pumas UNAM, Clásico Nacional, Apertura y Clausura, Estadio Azteca, La Máquina Celeste, Águilas, Rebaño Sagrado, Rayados, La Pandilla, Felinos, Afición Mexicana, Estrellas Mexicanas, Historia Centenaria, Ascenso y Descenso, Cantera Mexicana, Tradición Futbolera, Fierro Mexicano."
     },
     "country": {
       "name": "Mexico",
@@ -45,7 +46,8 @@
       "type": "Cup",
       "logo": "/logos/857.png",
       "keywords": "Campeón de Campeones, México, Liga MX, Tigres UANL, Club América, Chivas Guadalajara, Club León, Estadio Azteca, Estadio Universitario, clássico mexicano, troféu simbólico, campeão de campeões, rivalidade, Apertura, Clausura, Ignacio Ambriz, André-Pierre Gignac, Cuauhtémoc Blanco, Guillermo Ochoa, Jorge Campos, tradição, prestígio, formato de jogo único, supercopa mexicana, herança cultural, paixão nacional, torcida fervorosa.",
-      "keywords_semantic": "Campeón de Campeones, México, futebol mexicano, importância histórica, título honorífico, clubes campeões, rivalidade nacional, prestígio, tradição, confronto anual, Torneio Clausura, Torneio Apertura, campeão dos campeões, troféu, competição especial, Liga MX, América, Chivas, Tigres, Estádio Azteca, cultura esportiva mexicana, supercopa."
+      "keywords_semantic": "Campeón de Campeones, México, futebol mexicano, importância histórica, título honorífico, clubes campeões, rivalidade nacional, prestígio, tradição, confronto anual, Torneio Clausura, Torneio Apertura, campeão dos campeões, troféu, competição especial, Liga MX, América, Chivas, Tigres, Estádio Azteca, cultura esportiva mexicana, supercopa.",
+      "keywords_es": "Campeón de Campeones, México, Supercopa, tradición histórica, Liga MX, Club América, Chivas de Guadalajara, Cruz Azul, Tigres UANL, Pumas UNAM, clásico nacional, pasión azteca, rivalidad eterna, fútbol de élite, Estadio Azteca, orgullo mexicano, espíritu competitivo."
     },
     "country": {
       "name": "Mexico",
@@ -84,7 +86,8 @@
       "type": "League",
       "logo": "/logos/673.png",
       "keywords": "Las Amazonas, Las Águilas, Tigres UANL Femenil, América Femenil, Chivas Femenil, Rayadas de Monterrey, Estadio Azteca, Estadio Universitario, Apertura y Clausura, Clásico Regio Femenil, Clásico Nacional Femenil, Desarrollos juveniles, Crecimiento del fútbol femenino, Norma de menores, Estrellas emergentes, Stephany Mayor, Katty Martínez, Rebeca Bernal, Diana García, Impacto social, Profesionalización, Inclusión de mujeres en el deporte, Expansión de equipos, Competencia internacional, Liguilla, Final única, Dominio de Tigres y Rayadas, Rivalidades históricas, Afición apasionada.",
-      "keywords_semantic": "futebol feminino, México, Liga MX Femenil, crescimento esportivo, igualdade de gênero, América Latina, Tigres UANL, América, Chivas Guadalajara, Monterrey, clássicos nacionais, rivalidade, desenvolvimento juvenil, impacto social, inclusão, formato liga, talento emergente, competição crescente, prestígio regional, história recente, cultura esportiva, empoderamento feminino, televisão e mídia, fãs apaixonados, evolução do futebol, impacto cultural, torcidas."
+      "keywords_semantic": "futebol feminino, México, Liga MX Femenil, crescimento esportivo, igualdade de gênero, América Latina, Tigres UANL, América, Chivas Guadalajara, Monterrey, clássicos nacionais, rivalidade, desenvolvimento juvenil, impacto social, inclusão, formato liga, talento emergente, competição crescente, prestígio regional, história recente, cultura esportiva, empoderamento feminino, televisão e mídia, fãs apaixonados, evolução do futebol, impacto cultural, torcidas.",
+      "keywords_es": "Liga MX Femenil, México, crecimiento exponencial, empoderamiento femenino, pasión azteca, Tigres UANL Femenil, América Femenil, Chivas Femenil, Monterrey Femenil, igualdad de género, desarrollo juvenil, espíritu competitivo, identidad mexicana, \"Las Amazonas\", \"Las Águilas\", rivalidad histórica, afición entregada, torneo Apertura, torneo Clausura."
     },
     "country": {
       "name": "Mexico",
@@ -123,7 +126,8 @@
       "type": "League",
       "logo": "/logos/263.png",
       "keywords": "Liga de Expansión MX, México, clubes de desenvolvimento, ascenso, descenso, clubes tradicionais, Dorados de Sinaloa, Leones Negros, Atlante, Mineros de Zacatecas, desenvolvimento de talentos, jovens promessas, formato de competição, torneio Apertura, torneio Clausura, Estadio Azulgrana, Estadio Jalisco, Estadio Banorte, história do futebol mexicano, impacto social, plataforma para jovens jogadores, investimento em infraestrutura, torcidas apaixonadas.",
-      "keywords_semantic": "desenvolvimento, jovens talentos, ascensão, clubes de tradição, futuro promisso, segunda divisão, formação de jogadores, ascenso, liga emergente, competição, crescimento, rivalidades regionais, vitrine, plataforma, méxico, futebol mexicano, estrutura de base, oportunidade, potencial, prestígio em ascensão"
+      "keywords_semantic": "desenvolvimento, jovens talentos, ascensão, clubes de tradição, futuro promisso, segunda divisão, formação de jogadores, ascenso, liga emergente, competição, crescimento, rivalidades regionais, vitrine, plataforma, méxico, futebol mexicano, estrutura de base, oportunidade, potencial, prestígio em ascensão",
+      "keywords_es": "Liga de Plata, México, desarrollo de talentos, cantera de la Liga MX, clubes históricos, ascenso y descenso, Dorados de Sinaloa, Leones Negros, Atlante, Potros de Hierro, cultura futbolera mexicana, pasión por el balón, estadio caliente, afición devota, jóvenes promesas, tradición futbolística, segunda categoría, identidad nacional, historia en formación."
     },
     "country": {
       "name": "Mexico",
@@ -162,7 +166,8 @@
       "type": "League",
       "logo": "/logos/861.png",
       "keywords": "U20 League, México, jovens talentos, futuras estrelas, Club América Sub-20, Chivas Sub-20, Tigres UANL Sub-20, Pachuca Sub-20, desenvolvimento de atletas, formação de base, promessas do futebol mexicano, estrutura de categorias de base, competição nacional, rivalidades regionais, scouting, preparação para o profissional, Liga MX, torneio de aspirantes, oportunidades para jovens, academia de futebol, crescimento esportivo.",
-      "keywords_semantic": "sub-20, formação de jovens, talentos emergentes, desenvolvimento de jogadores, futuro do futebol, academia de futebol, clubes mexicanos, promessas do futebol, competição juvenil, Torneio de Base, FMF, aprendizado tático, experiência internacional, vitrine de talentos, crescimento esportivo"
+      "keywords_semantic": "sub-20, formação de jovens, talentos emergentes, desenvolvimento de jogadores, futuro do futebol, academia de futebol, clubes mexicanos, promessas do futebol, competição juvenil, Torneio de Base, FMF, aprendizado tático, experiência internacional, vitrine de talentos, crescimento esportivo",
+      "keywords_es": "Liga de Promesas, México, cantera de talentos, semillero del fútbol mexicano, futuro del balompié, formación de estrellas, Club América Sub-20, Chivas Sub-20, Tigres UANL Sub-20, Pachuca Sub-20, dinámica juvenil, pasión tricolor, jóvenes promesas, ADN futbolístico mexicano."
     },
     "country": {
       "name": "Mexico",
@@ -201,7 +206,8 @@
       "type": "League",
       "logo": "/logos/872.png",
       "keywords": "Ascenso MX, Lobos BUAP, Dorados de Sinaloa, Club León, Apertura, Clausura, Estádio Banorte, promoção, rebaixamento, Estádio Universitario BUAP, Sergio Bueno, Carlos Bianchezi, formato de pontos corridos, playoffs, rivalidade local, talentos emergentes, torcida apaixonada, desenvolvimento de jovens, importância regional, futebol mexicano.",
-      "keywords_semantic": "Liga Premier Serie B, futebol mexicano, desenvolvimento de talentos, clubes de base, formação de atletas, ascensão e descenso, competitividade nacional, jovens promessas, clubes locais, tradição regional, plataforma de crescimento, impacto social, infraestrutura esportiva, rivalidades emergentes, federação mexicana, oportunidades de carreira, visibilidade internacional."
+      "keywords_semantic": "Liga Premier Serie B, futebol mexicano, desenvolvimento de talentos, clubes de base, formação de atletas, ascensão e descenso, competitividade nacional, jovens promessas, clubes locais, tradição regional, plataforma de crescimento, impacto social, infraestrutura esportiva, rivalidades emergentes, federação mexicana, oportunidades de carreira, visibilidade internacional.",
+      "keywords_es": "Ascenso MX, Sultanes del Norte, Potros del Centro, pasión azteca, lucha por la promoción, Cañeros del Sur, Furia Tapatía, cantera de talentos, tradición futbolera, Guerreros del Bajío, orgullo regional, rivalidades locales."
     },
     "country": {
       "name": "Mexico",
@@ -240,7 +246,8 @@
       "type": "League",
       "logo": "/logos/722.png",
       "keywords": "Liga MX, Águilas do América, Chivas Guadalajara, Clásico Nacional, Tigres UANL, Monterrey, Pumas UNAM, Estádio Azteca, Estádio Jalisco, Liguilla, Apertura e Clausura, Juan Carlos Osorio, Cuauhtémoc Blanco, Hugo Sánchez, Guillermo Ochoa, rivalidade América vs Chivas, Carlos Vela, importância cultural no México, formato de playoffs, clubes de tradição, La Máquina do Cruz Azul, León, Pachuca, Necaxa, Toluca, histórico de campeões, paixão nacional, torcida mexicana.",
-      "keywords_semantic": "Liga MX, futebol mexicano, história cultural, América, Chivas Guadalajara, clássicos, rivalidades, formato Apertura-Clausura, prestígio nacional, Tigres UANL, Monterrey, Pumas UNAM, Cruz Azul, América vs Chivas, impacto Latino-americano, Estádio Azteca, León, Pachuca, Toluca, Libertadores, Concacaf Champions League, desenvolvimento jovem, torcida apaixonada, tradição futebolística, evolução tática, clubes históricos, sucesso internacional."
+      "keywords_semantic": "Liga MX, futebol mexicano, história cultural, América, Chivas Guadalajara, clássicos, rivalidades, formato Apertura-Clausura, prestígio nacional, Tigres UANL, Monterrey, Pumas UNAM, Cruz Azul, América vs Chivas, impacto Latino-americano, Estádio Azteca, León, Pachuca, Toluca, Libertadores, Concacaf Champions League, desenvolvimento jovem, torcida apaixonada, tradição futebolística, evolução tática, clubes históricos, sucesso internacional.",
+      "keywords_es": "Liga MX, México, El Tri, Chivas, América, Tigres, Monterrey, Pumas, Cruz Azul, Águilas, Cementeros, Rayados, Regios, Clásico Nacional, Estadio Azteca, Aztecas, Estadio Jalisco, Guadalajara, León, Toluca, Apertura, Clausura, Cantera, Pasión azteca, Fútbol de altura, Cultura del balompié, La Máquina, Felinos, La Fiera."
     },
     "country": {
       "name": "Mexico",
@@ -279,7 +286,8 @@
       "type": "Cup",
       "logo": "/logos/662.png",
       "keywords": "Copa por México, Liga MX, Chivas Guadalajara, Club América, Estadio Azteca, clássico nacional, Tigres UANL, Monterrey Rayados, Cruz Azul, Pumas UNAM, futebol mexicano, Guillermo Ochoa, Andrés Guardado, jovens promessas, rivalidades regionais, formato de torneio amistoso, pré-temporada, paixão mexicana, torcidas vibrantes, história do futebol mexicano, desenvolvimento do talento local.",
-      "keywords_semantic": "Copa por México, torneio amistoso, pré-temporada, clubes mexicanos, clássico nacional, América, Chivas, rivalidades locais, preparação, futebol mexicano, Estadio Azteca, importância cultural, formato de grupos, prestígio nacional, rivalidades históricas, contexto latino-americano."
+      "keywords_semantic": "Copa por México, torneio amistoso, pré-temporada, clubes mexicanos, clássico nacional, América, Chivas, rivalidades locais, preparação, futebol mexicano, Estadio Azteca, importância cultural, formato de grupos, prestígio nacional, rivalidades históricas, contexto latino-americano.",
+      "keywords_es": "Copa por México, México, torneo amistoso, preparación pretemporada, clubes de la Liga MX, competencia veraniega, Estadio Azteca, Estadio Universitario, Clásico Nacional, tradición futbolera, América, Chivas, Tigres, Cruz Azul, pasión azteca, fervor mexicano, rivalidades históricas, espectáculo deportivo, afición vibrante, identidad mexicana, orgullo futbolero, emoción tricolor."
     },
     "country": {
       "name": "Mexico",
@@ -318,7 +326,8 @@
       "type": "League",
       "logo": "/logos/1017.png",
       "keywords": "La Liga MX, fútbol mexicano, Tigres UANL, Club América, Chivas Guadalajara, Cruz Azul, Estadio Azteca, jovens talentos, cantera, jogadores promissores, formação de base, Copa do Mundo 2026, infraestrutura esportiva, Carlos Vela, Hirving Lozano, evolução tática, rivalidades clássicas, torcida apaixonada, desenvolvimento juvenil, preparação olímpica, competição de grupos, eliminatórias diretas.",
-      "keywords_semantic": "México, sub-23, jovens talentos, desenvolvimento, formação de atletas, clubes mexicanos, escalonamento, vitrine de talentos, futebol de base, promessas do futebol, torneio de aspirantes, competição nacional, trampolim para o profissional, categorias de base, projeção internacional, estrutura de liga."
+      "keywords_semantic": "México, sub-23, jovens talentos, desenvolvimento, formação de atletas, clubes mexicanos, escalonamento, vitrine de talentos, futebol de base, promessas do futebol, torneio de aspirantes, competição nacional, trampolim para o profissional, categorias de base, projeção internacional, estrutura de liga.",
+      "keywords_es": "Liga Sub-23, México, cantera mexicana, talento joven, futuras estrellas, formación de jugadores, desarrollo juvenil, fútbol azteca, semillero tricolor, promesas del balompié, Club América Sub-23, Chivas Sub-23, Tigres UANL Sub-23, Pachuca Sub-23, Cruz Azul Sub-23, identidad nacional, pasión futbolera, rivalidad histórica, orgullo mexicano."
     },
     "country": {
       "name": "Mexico",

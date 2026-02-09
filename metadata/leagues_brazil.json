@@ -6,7 +6,8 @@
       "type": "Cup",
       "logo": "/logos/612.png",
       "keywords": "Nordestão, Brasil, Bahia, Sport Recife, Fortaleza, Clássico-Rei, Lampions League, Arena Castelão, Estádio Fonte Nova, Trivela do Nordeste, Rivalidade regional, Campeão Invicto, Torcida apaixonada, Estilo de jogo ofensivo, Jogadores promissores, Fase de grupos, Mata-mata, Decisão por pênaltis, Campeão nordestino.",
-      "keywords_semantic": "Copa do Nordeste, futebol brasileiro, importância regional, clubes nordestinos, Bahia, Sport Recife, Fortaleza, Ceará, rivalidades regionais, torneio eliminatório, fase de grupos, prestígio local, cultura nordestina, clássicos regionais, torcida apaixonada, Lampions League, tradição, desenvolvimento regional, ascensão de talentos, identidade cultural."
+      "keywords_semantic": "Copa do Nordeste, futebol brasileiro, importância regional, clubes nordestinos, Bahia, Sport Recife, Fortaleza, Ceará, rivalidades regionais, torneio eliminatório, fase de grupos, prestígio local, cultura nordestina, clássicos regionais, torcida apaixonada, Lampions League, tradição, desenvolvimento regional, ascensão de talentos, identidade cultural.",
+      "keywords_es": "Nordestão, Lampions League, Brasil, fervor regional, rivalidades históricas, clubes importantes: Bahia, Ceará, Fortaleza, Sport Recife, cultura nordestina, pasión del Nordeste, hinchadas fervorosas, identidad regional, Arretados, Batalla del Nordeste."
     },
     "country": {
       "name": "Brazil",
@@ -45,7 +46,8 @@
       "type": "League",
       "logo": "/logos/629.png",
       "keywords": "Galo, Raposa, América Mineiro, Atlético Mineiro, Cruzeiro, Belo Horizonte, clássico mineiro, Estádio Mineirão, Campeonato Mineiro, Toca da Raposa, Levir Culpi, Vanderlei Luxemburgo, Reinaldo, Tostão, Dadá Maravilha, rivalidade, troféu Inconfidência, Torneio do Interior, mata-mata, fase de grupos, Mineirão lotado, tradição, hegemonia estadual, futebol arte, torcida apaixonada, Campeonato Estadual, futebol mineiro.",
-      "keywords_semantic": "Campeonato Mineiro, futebol brasileiro, importância regional, Atlético Mineiro, Cruzeiro, América Mineiro, rivalidade estadual, clássico mineiro, competição estadual, tradição futebolística, história rica, formato de pontos corridos, mata-mata, prestígio local, cultura mineira, talento jovem, clubes tradicionais, torcida apaixonada, troféu estadual, relevância histórica."
+      "keywords_semantic": "Campeonato Mineiro, futebol brasileiro, importância regional, Atlético Mineiro, Cruzeiro, América Mineiro, rivalidade estadual, clássico mineiro, competição estadual, tradição futebolística, história rica, formato de pontos corridos, mata-mata, prestígio local, cultura mineira, talento jovem, clubes tradicionais, torcida apaixonada, troféu estadual, relevância histórica.",
+      "keywords_es": "Campeonato Mineiro, Brasil, Estadual, Tradição, Galo, Raposa, Coelho, Atlético Mineiro, Cruzeiro, América Mineiro, Clássico das Multidões, Rivalidad, Belo Horizonte, Mineros, Futebol Arte, Torcida apaixonada."
     },
     "country": {
       "name": "Brazil",
@@ -84,7 +86,8 @@
       "type": "League",
       "logo": "/logos/475.png",
       "keywords": "Paulistão, Brasil, Corinthians, Palmeiras, Santos, São Paulo FC, Choque-Rei, Majestoso, Clássico Alvinegro, Vila Belmiro, Morumbi, Pacaembu, Arena Corinthians, Allianz Parque, Tite, Telê Santana, Pelé, Sócrates, Rivellino, Raí, Campeonato mais antigo, Campeonato estadual, Formato pontos corridos, Fase de grupos, Mata-mata, Final eletrizante, Futebol arte, Torcida apaixonada, Rivalidade histórica, Tradição futebolística, Formação de talentos.",
-      "keywords_semantic": "Paulistão, Campeonato Paulista, tradição, São Paulo, Corinthians, Palmeiras, Santos, rivalidade, clássicos, futebol brasileiro, clubes históricos, estadual, competição de elite, revelação de talentos, torcida apaixonada, formato regional, prestígio local, confronto emblemático, cultura futebolística, década de ouro."
+      "keywords_semantic": "Paulistão, Campeonato Paulista, tradição, São Paulo, Corinthians, Palmeiras, Santos, rivalidade, clássicos, futebol brasileiro, clubes históricos, estadual, competição de elite, revelação de talentos, torcida apaixonada, formato regional, prestígio local, confronto emblemático, cultura futebolística, década de ouro.",
+      "keywords_es": "Paulistão, Brasil, São Paulo, Corinthians, Palmeiras, Santos, São Paulo FC, Clásico Paulista, Majestoso, Derby Paulista, Futebol Arte, Torcida, Gaviões da Fiel, Mancha Verde, Peixe, Tricolor Paulista, Alvinegro, Campeonato Estadual, História, Rivalidad, Tradición."
     },
     "country": {
       "name": "Brazil",
@@ -123,7 +126,8 @@
       "type": "League",
       "logo": "/logos/477.png",
       "keywords": "Gauchão, Rio Grande do Sul, Grêmio, Internacional, Gre-Nal, Estádio Beira-Rio, Arena do Grêmio, Taça Farroupilha, Taça Piratini, Brasil de Pelotas, Juventude, Caxias, Estádio Centenário, Paulo Roberto Falcão, Renato Portaluppi, D'Alessandro, rivalidade, tradição, clubes do interior, formato de turno e returno, mata-mata, campeões tradicionais, torcida apaixonada, Copa Sul-Minas, futebol regional, ídolos gaúchos, importância local, identidade cultural, cobertura midiática, história centenária.",
-      "keywords_semantic": "Campeonato Gaúcho, Grêmio, Internacional, clássicos, Grenal, futebol sulista, tradição, Porto Alegre, clubes históricos, rivalidade, gauchão, Estádio Beira-Rio, Arena do Grêmio, formato estadual, prestígio local, Novo Hamburgo, Caxias, Juventude, futebol brasileiro, competição regional, cultura gaúcha."
+      "keywords_semantic": "Campeonato Gaúcho, Grêmio, Internacional, clássicos, Grenal, futebol sulista, tradição, Porto Alegre, clubes históricos, rivalidade, gauchão, Estádio Beira-Rio, Arena do Grêmio, formato estadual, prestígio local, Novo Hamburgo, Caxias, Juventude, futebol brasileiro, competição regional, cultura gaúcha.",
+      "keywords_es": "Gauchão, Brasil, tradición futbolística, Porto Alegre, Grêmio, Internacional, Grenal, fervor regional, pampas, chimarrão, hinchada apasionada, raíces gauchas, clásico del sur, fútbol aguerrido, identidad gaúcha."
     },
     "country": {
       "name": "Brazil",
@@ -162,7 +166,8 @@
       "type": "League",
       "logo": "/logos/606.png",
       "keywords": "Furacão, Coxa, Atlético Paranaense, Coritiba, Clássico Atletiba, Paraná Clube, Estádio Couto Pereira, Arena da Baixada, Títulos Estaduais, Rivalidade, Torcida Organizada, Campeonato Estadual, Futebol Brasileiro, Jovens Promessas, História do Futebol Paranaense, Clubes do Interior, Lendas do Futebol Paranaense, Importância Regional, Finais Memoráveis, Rodada de Clássicos.",
-      "keywords_semantic": "Campeonato Paranaense, tradição, Atlético Paranaense, Coritiba, Paraná Clube, clássicos regionais, formato estadual, rivalidade Atletiba, clubes emergentes, talentos locais, impacto cultural, rivalidade estadual, futebol sul-brasileiro, competições estaduais, história futebolística, prestígio local, desenvolvimento de jogadores, dinâmicas regionais, hegemonia estadual, torneio tradicional."
+      "keywords_semantic": "Campeonato Paranaense, tradição, Atlético Paranaense, Coritiba, Paraná Clube, clássicos regionais, formato estadual, rivalidade Atletiba, clubes emergentes, talentos locais, impacto cultural, rivalidade estadual, futebol sul-brasileiro, competições estaduais, história futebolística, prestígio local, desenvolvimento de jogadores, dinâmicas regionais, hegemonia estadual, torneio tradicional.",
+      "keywords_es": "Furacão do Paraná, Brasil, estado de Paraná, Atlético Paranaense, Coritiba, Clássico Paratiba, Arena da Baixada, Couto Pereira, fútbol brasileño, hinchada apasionada, rivalidad intensa, Curitiba, Liga vibrante, crecimiento futbolístico, tradición futbolera, talentos emergentes, torcidas organizadas."
     },
     "country": {
       "name": "Brazil",
@@ -201,7 +206,8 @@
       "type": "League",
       "logo": "/logos/604.png",
       "keywords": "Catarinense, Avaí, Figueirense, Chapecoense, Criciúma, Joinville, clássico da capital, ressacada, scarpelli, verdão do oeste, Tigre do sul, Arena Condá, título estadual, rivalidade catarinense, finais emocionantes, estadual competitivo, formação de talentos, revelação de jogadores, tradição sulista, hegemonia regional.",
-      "keywords_semantic": "Campeonato Catarinense, Avaí, Figueirense, Chapecoense, Criciúma, Joinville, Florianópolis, rivalidade estadual, clubes tradicionais, futebol catarinense, Estádio da Ressacada, Arena Condá, Estádio Orlando Scarpelli, título estadual, formato round-robin, mata-mata, torcida apaixonada, história regional, prestígio local, Copa do Brasil, Série A, Série B, campeões estaduais."
+      "keywords_semantic": "Campeonato Catarinense, Avaí, Figueirense, Chapecoense, Criciúma, Joinville, Florianópolis, rivalidade estadual, clubes tradicionais, futebol catarinense, Estádio da Ressacada, Arena Condá, Estádio Orlando Scarpelli, título estadual, formato round-robin, mata-mata, torcida apaixonada, história regional, prestígio local, Copa do Brasil, Série A, Série B, campeões estaduais.",
+      "keywords_es": "Campeonato Catarinense, Brasil, fútbol del sur, tradición regional, Avaí, Figueirense, Chapecoense, Joinville, clásico de Florianópolis, pasión catarinense, rivalidad estadual, Leão da Ilha, Verdão do Oeste, JEC, Estádio da Ressacada, Arena Condá, cultura futbolera, fervor torcedor, historia futbolística, Santa Catarina."
     },
     "country": {
       "name": "Brazil",
@@ -240,7 +246,8 @@
       "type": "League",
       "logo": "/logos/630.png",
       "keywords": "Apelido: Chicote da Fronteira, Países envolvidos: Brasil, Clubes tradicionais: Cuiabá, Operário, Mixto, União Rondonópolis, Momentos históricos: Final de 2006 entre Mixto e Cuiabá, Jogadores lendários: Bife, Júnior Rocha, Importância esportiva: Revelação de talentos regionais, Formato de disputa: Fase de grupos seguida por mata-mata.",
-      "keywords_semantic": "Campeonato Matogrossense, futebol brasileiro, Cuiabá, Mixto, Operário VG, rivalidades regionais, Mato Grosso, tradição local, competição estadual, torneio anual, desenvolvimento de talentos, final emocionante, clubes emergentes, cultura futebolística, torcida apaixonada, história regional, prestígio local."
+      "keywords_semantic": "Campeonato Matogrossense, futebol brasileiro, Cuiabá, Mixto, Operário VG, rivalidades regionais, Mato Grosso, tradição local, competição estadual, torneio anual, desenvolvimento de talentos, final emocionante, clubes emergentes, cultura futebolística, torcida apaixonada, história regional, prestígio local.",
+      "keywords_es": "Matogrossense, Brasil, Futebol Brasileiro, Cuiabá, Operário FC, Luverdense, Rivalidades Regionais, Pantanal, Sertanejo, Calor Intenso, Passión Futebolística, Tradición Local, Campeonato Estadual, Torcedores Apaixonados, Futebol Interiorano."
     },
     "country": {
       "name": "Brazil",
@@ -279,7 +286,8 @@
       "type": "League",
       "logo": "/logos/621.png",
       "keywords": "Campeonato Piauiense, Brasil, River-PI, Flamengo-PI, Altos, 4 de Julho, Parnahyba, estádio Albertão, Clássico Rivengo, Zé do Povo, Sima, Saci, tradição nordestina, futebol nordestino, Copa do Nordeste, torcidas apaixonadas, rivalidades locais, estadual brasileiro, formato de pontos corridos, mata-mata, revelação de talentos, calendário estadual, importância regional.",
-      "keywords_semantic": "Campeonato Piauiense, futebol brasileiro, clubes tradicionais, River-PI, Flamengo-PI, rivalidade regional, Estádio Albertão, história local, cultura piauiense, estadual brasileiro, torneio anual, formato pontos corridos, mata-mata, promoção Série D, revelação de talentos, identidade regional, torcidas apaixonadas."
+      "keywords_semantic": "Campeonato Piauiense, futebol brasileiro, clubes tradicionais, River-PI, Flamengo-PI, rivalidade regional, Estádio Albertão, história local, cultura piauiense, estadual brasileiro, torneio anual, formato pontos corridos, mata-mata, promoção Série D, revelação de talentos, identidade regional, torcidas apaixonadas.",
+      "keywords_es": "Campeonato Piauiense, Brasil, Teresina, River-PI, Flamengo-PI, Altos, rivalidad, pasión nordestina, historia emergente, \"Galo Carijó\", \"Leão do Piauí\", fútbol regional, fervor local, cultura nordestina, tradición futbolera, \"Jacaré\", clubes históricos."
     },
     "country": {
       "name": "Brazil",
@@ -318,7 +326,8 @@
       "type": "League",
       "logo": "/logos/624.png",
       "keywords": "Fla-Flu, Mengão, Botafogo, Vasco da Gama, Maracanã, Clássicos dos Milhões, Zico, Garrincha, Romário, Renato Gaúcho, Taça Guanabara, Taça Rio, Lances Imortais, Trivela, Futebol Arte, Rivalidade Carioca, Torcida Jovem, Futebol Raiz, Decisão por Penaltis, Campeão Carioca, Futebol de Várzea, Estádio São Januário, Estádio Nilton Santos, Futebol Brasileiro, Rivalidade Histórica, Libertadores, Campeonato Carioca.",
-      "keywords_semantic": "Campeonato Carioca, futebol brasileiro, Rio de Janeiro, Flamengo, Fluminense, Vasco da Gama, Botafogo, rivalidade, clássicos, Maracanã, tradição, história, Taça Guanabara, estadual, prestígio regional, clubes cariocas, torcida apaixonada, ídolos, Garrincha, Zico, dinâmico, formato mata-mata, cultura futebolística, herança esportiva."
+      "keywords_semantic": "Campeonato Carioca, futebol brasileiro, Rio de Janeiro, Flamengo, Fluminense, Vasco da Gama, Botafogo, rivalidade, clássicos, Maracanã, tradição, história, Taça Guanabara, estadual, prestígio regional, clubes cariocas, torcida apaixonada, ídolos, Garrincha, Zico, dinâmico, formato mata-mata, cultura futebolística, herança esportiva.",
+      "keywords_es": "Carioca, Brasil, fútbol arte, Rio de Janeiro, Flamengo, Fluminense, Vasco da Gama, Botafogo, Maracanazo, pasión carioca, Zico, Garrincha, torcida, clásico Fla-Flu, samba, futbolistas habilidosos, Copacabana, fútbol de playa, cultura futbolera, arquibancada, campeón carioca, identidad brasileña."
     },
     "country": {
       "name": "Brazil",
@@ -357,7 +366,8 @@
       "type": "League",
       "logo": "/logos/628.png",
       "keywords": "Goianão, Goiás Esporte Clube, Vila Nova, Atlético Goianiense, Ovelha, Esmeraldino, Clássico do Cerrado, Estádio Serra Dourada, torcidas apaixonadas, revelação de talentos, rivalidade regional, hegemonia estadual, Campeonato Goiano, tradição goiana, futebol no Centro-Oeste, craques emergentes, formato de pontos corridos, mata-mata, título estadual, história do futebol goiano.",
-      "keywords_semantic": "Campeonato Goiano, Goiás, Vila Nova, clássico, Atlético Goianiense, Anapolina, tradição, estadual, pontos corridos, mata-mata, torcidas, rivalidades, futebol brasileiro, Goiânia, Anápolis, título regional, herança cultural, desenvolvimento de talentos, prestígio local, finais emocionantes, hegemonia, competições regionais."
+      "keywords_semantic": "Campeonato Goiano, Goiás, Vila Nova, clássico, Atlético Goianiense, Anapolina, tradição, estadual, pontos corridos, mata-mata, torcidas, rivalidades, futebol brasileiro, Goiânia, Anápolis, título regional, herança cultural, desenvolvimento de talentos, prestígio local, finais emocionantes, hegemonia, competições regionais.",
+      "keywords_es": "Campeonato Goiano, Brasil, Goianão, Goiás, Vila Nova, Atlético Goianiense, Esmeraldino, Dragão, Clásico do Cerrado, Fútbol del Centro-Oeste, Torcida apaixonada, Rivalidades locales, Descentralización del fútbol brasileño, Historia regional, Pasión goiana, Desarrollo de talentos."
     },
     "country": {
       "name": "Brazil",
@@ -396,7 +406,8 @@
       "type": "League",
       "logo": "/logos/609.png",
       "keywords": "Ceará Sporting Club, Fortaleza Esporte Clube, Leão do Pici, Vovô, Clássico-Rei, Estádio Castelão, Estádio Presidente Vargas, Fares Lopes, Campeonato Estadual, torcida apaixonada, futebol nordestino, revelação de talentos, hegemonia cearense, rivalidade histórica, campeões estaduais, Cacareco, tradição, mata-mata, pontos corridos, Copa do Nordeste, futebol brasileiro, Brasil.",
-      "keywords_semantic": "Campeonato Cearense, Fortaleza, Ceará, Clássico-Rei, futebol nordestino, tradição, Estádio Castelão, rivalidade local, clubes históricos, formato estadual, competição regional, futebol brasileiro, identidade cultural, títulos estaduais, torcida apaixonada."
+      "keywords_semantic": "Campeonato Cearense, Fortaleza, Ceará, Clássico-Rei, futebol nordestino, tradição, Estádio Castelão, rivalidade local, clubes históricos, formato estadual, competição regional, futebol brasileiro, identidade cultural, títulos estaduais, torcida apaixonada.",
+      "keywords_es": "Nordeste, Vozão, Fortaleza, Tricolor de Aço, Ceará, Alvinegro, Clásico-Rei, Leão do Pici, Barras Bravas, Pasión Nordestina, Estadio Castelão, Futebol-arte, Sertão, Rivalidad histórica, Festa da torcida, Cultura cearense, Fortaleza EC, Ceará SC, Identidad nordestina, Fervo en la grada."
     },
     "country": {
       "name": "Brazil",
@@ -435,7 +446,8 @@
       "type": "League",
       "logo": "/logos/626.png",
       "keywords": "Sergipe, Confiança, Itabaiana, Clássico Maior, Arena Batistão, Hexagonal Final, rivalidade, título estadual, torcidas apaixonadas, revelação de talentos, futebol nordestino, Aracaju, campeonatos estaduais, mata-mata, tradição local, finais emocionantes, craques sergipanos, história do futebol sergipano, equipes emergentes, ídolos regionais.",
-      "keywords_semantic": "Campeonato Sergipano, Sergipe, futebol nordestino, importância regional, Confiança, Sergipe FC, rivalidade local, tradição estadual, Estádio Batistão, formato mata-mata, história futebolística, clubes emergentes, cultura esportiva, torneio estadual, finais emocionantes, torcida apaixonada, ascensão nacional."
+      "keywords_semantic": "Campeonato Sergipano, Sergipe, futebol nordestino, importância regional, Confiança, Sergipe FC, rivalidade local, tradição estadual, Estádio Batistão, formato mata-mata, história futebolística, clubes emergentes, cultura esportiva, torneio estadual, finais emocionantes, torcida apaixonada, ascensão nacional.",
+      "keywords_es": "Galo do Sertão, Estrela do Norte, Frevo e Forró, Lampiões, Clássico da Paz, Futebol Nordestino, Dragão do Bairro Industrial, Confiança, Sergipe, Itabaiana, Tricolor da Serra, Campeonato Estadual, Identidad Nordestina, Rivalidades Regionais, Estádio Batistão, Torcidas Apaixonadas."
     },
     "country": {
       "name": "Brazil",
@@ -474,7 +486,8 @@
       "type": "League",
       "logo": "/logos/605.png",
       "keywords": "Paulistão A3, futebol paulista, clubes do interior, acesso e rebaixamento, torcida apaixonada, clássicos regionais, São Paulo, equipes tradicionais, Ferroviária, Marília, Noroeste, Juventus da Mooca, talentosos jogadores revelados, rivalidades locais, estádios acanhados, formação de atletas, importância regional, calendário anual, emoção nas arquibancadas, disputas acirradas, tradição e paixão, jovens promessas, história do futebol brasileiro.",
-      "keywords_semantic": "Campeonato Paulista, Série A3, futebol brasileiro, divisões estaduais, clubes tradicionais, ascensão e descenso, interior de São Paulo, rivalidades regionais, torcida local, desenvolvimento de talentos, competição acirrada, cultura futebolística paulista, base para divisões superiores, história do futebol paulista, momentos decisivos."
+      "keywords_semantic": "Campeonato Paulista, Série A3, futebol brasileiro, divisões estaduais, clubes tradicionais, ascensão e descenso, interior de São Paulo, rivalidades regionais, torcida local, desenvolvimento de talentos, competição acirrada, cultura futebolística paulista, base para divisões superiores, história do futebol paulista, momentos decisivos.",
+      "keywords_es": "Paulistão A3, Brasil, tercer nivel paulista, fútbol paulista, clubes tradicionales, hinchada apasionada, ascenso a la A2, Portuguesa Santista, Nacional-SP, Juventus da Mooca, derbis locales, cultura futbolística paulista, Garotos da Rua Javari, Canindé, pasión brasileña, rivalidades históricas, cantera paulista."
     },
     "country": {
       "name": "Brazil",
@@ -513,7 +526,8 @@
       "type": "League",
       "logo": "/logos/476.png",
       "keywords": "Paulistão A2, São Paulo, clubes tradicionais, Portuguesa, São Caetano, Juventus da Mooca, XV de Piracicaba, Bragantino, acesso à elite, futebol brasileiro, rivalidades regionais, Estádio Canindé, Estádio Anacleto Campanella, jovens talentos, revelação de jogadores, formato de pontos corridos, mata-mata, torcida apaixonada, clássicos do interior, evolução tática, importância para o estado, história do futebol paulista.",
-      "keywords_semantic": "Paulista A2, segunda divisão, futebol brasileiro, times paulistas, promoção, rebaixamento, tradição, clubes emergentes, São Paulo, estadual, futebol regional, acesso à elite, história local, talentos revelados, competitividade, torcida apaixonada, rivalidades regionais, formato de pontos corridos, campeões históricos, ascensão, prestígio regional."
+      "keywords_semantic": "Paulista A2, segunda divisão, futebol brasileiro, times paulistas, promoção, rebaixamento, tradição, clubes emergentes, São Paulo, estadual, futebol regional, acesso à elite, história local, talentos revelados, competitividade, torcida apaixonada, rivalidades regionais, formato de pontos corridos, campeões históricos, ascensão, prestígio regional.",
+      "keywords_es": "Paulistão A2, Brasil, ascenso, descenso, fútbol paulista, clubes históricos, Portuguesa, Juventus, identidad paulista, hinchada apasionada, tradición futbolística, São Bento, rivalidades locales, cantera de talentos, fútbol de São Paulo, Taboão da Serra, derbis regionales, pasión brasileña, fútbol de segunda división, historia futbolera, equipos emergentes."
     },
     "country": {
       "name": "Brazil",
@@ -552,7 +566,8 @@
       "type": "League",
       "logo": "/logos/603.png",
       "keywords": "Belo, Galo da Borborema, Botafogo-PB, Campinense, Treze, Clássico dos Maiorais, Estádio Almeidão, Estádio Amigão, João Pessoa, Campina Grande, Nordestão, Fase de Grupos, Mata-mata, Finais, Campeão Paraibano, Futebol Nordestino, Rivalidades Locais, Torcida Passionada, História do Futebol Paraibano, Lúcio Curió, Warley, Importância Regional, Participação na Copa do Brasil.",
-      "keywords_semantic": "Campeonato Paraibano, futebol nordestino, Botafogo-PB, Treze, Campinense, tradição regional, rivalidade Clássico dos Maiorais, cultura nordestina, Estádio Almeidão, Estádio Amigão, estaduais brasileiros, formato pontos corridos, mata-mata, relevância local, história futebolística Paraíba, paixão local, torcida fervorosa, prestígio regional, identidade cultural, desenvolvimento talentos locais."
+      "keywords_semantic": "Campeonato Paraibano, futebol nordestino, Botafogo-PB, Treze, Campinense, tradição regional, rivalidade Clássico dos Maiorais, cultura nordestina, Estádio Almeidão, Estádio Amigão, estaduais brasileiros, formato pontos corridos, mata-mata, relevância local, história futebolística Paraíba, paixão local, torcida fervorosa, prestígio regional, identidade cultural, desenvolvimento talentos locais.",
+      "keywords_es": "Paraibano, Brasil, Nordeste, Clássico dos Maiorais, Treze, Botafogo-PB, Campinense, Estádio Almeidão, fervor regional, rivalidad, Força do Interior, Torcida apaixonada, tradição e paixão, futebol de João Pessoa, orgulho paraibano."
     },
     "country": {
       "name": "Brazil",
@@ -591,7 +606,8 @@
       "type": "League",
       "logo": "/logos/611.png",
       "keywords": "Capixabão, Espírito Santo, Rio Branco-ES, Desportiva Ferroviária, Vitória-ES, Estádio Kléber Andrade, rivalidade histórica, revelação de talentos, futebol capixaba, torcida apaixonada, título estadual, formato de pontos corridos, mata-mata, campeões históricos, tradição esportiva, clubes emergentes.",
-      "keywords_semantic": "Campeonato Capixaba, Espírito Santo, futebol brasileiro, história local, clubes tradicionais, Rio Branco, Desportiva Ferroviária, Estrela do Norte, Serra, competição estadual, rivalidades regionais, formato mata-mata, cultura futebolística, ascensão à Série D, desenvolvimento de talentos, prestígio local."
+      "keywords_semantic": "Campeonato Capixaba, Espírito Santo, futebol brasileiro, história local, clubes tradicionais, Rio Branco, Desportiva Ferroviária, Estrela do Norte, Serra, competição estadual, rivalidades regionais, formato mata-mata, cultura futebolística, ascensão à Série D, desenvolvimento de talentos, prestígio local.",
+      "keywords_es": "Capixabão, Espírito Santo, tradición futbolera, Estrela do Norte, Rio Branco, Desportiva Ferroviária, pasión litoraleña, fervor capixaba, raíces locales, rivalidades históricas, hinchada vibrante, fútbol regional, ascenso y desarrollo, cantera de talentos."
     },
     "country": {
       "name": "Brazil",
@@ -630,7 +646,8 @@
       "type": "League",
       "logo": "/logos/522.png",
       "keywords": "Barezão, Amazonas, Manaus FC, Nacional-AM, Rio Negro, Estádio da Colina, Gavião do Norte, clássico Rio-Nal, Estádio Vivaldo Lima (Vivaldão), Fast Clube, Princesa do Solimões, São Raimundo-AM, Robson Marinho, revelação de talentos, futebol de várzea, arena da Amazônia, rivalidade local, tradição cultural, torcida apaixonada, fase de grupos, mata-mata.",
-      "keywords_semantic": "Amazonense, Campeonato Estadual, futebol brasileiro, Manaus FC, Nacional-AM, Rio Negro, Fast Clube, Zonal Norte, rivalidades regionais, Arena da Amazônia, cultura local, tradição, desenvolvimento de talentos, competição estadual, prestígio local, história futebolística, momentos icônicos, paixão regional, clubes tradicionais, desafios logísticos, impacto social, torcida apaixonada."
+      "keywords_semantic": "Amazonense, Campeonato Estadual, futebol brasileiro, Manaus FC, Nacional-AM, Rio Negro, Fast Clube, Zonal Norte, rivalidades regionais, Arena da Amazônia, cultura local, tradição, desenvolvimento de talentos, competição estadual, prestígio local, história futebolística, momentos icônicos, paixão regional, clubes tradicionais, desafios logísticos, impacto social, torcida apaixonada.",
+      "keywords_es": "Barelona da Floresta, Brasil, Manaus, Estádio Vivaldo Lima, Nacional, Rio Negro, Fast Clube, Derby dos Milhões, futebol amazónico, tradição local, paixão ribeirinha, rivalidade histórica, amazonia verde, cultura indígena, fervor torcedor."
     },
     "country": {
       "name": "Brazil",
@@ -669,7 +686,8 @@
       "type": "League",
       "logo": "/logos/602.png",
       "keywords": "Baianão, Bahia, Vitória, Tradição, Rivalidade, Fonte Nova, Nordestão, Futebol Arte, Torcida apaixonada, Título estadual, Clássico Ba-Vi, Goleadores históricos, Revelação de talentos, Águia de Haia, Esporte Clube Bahia, Estádio Barradão, Superação, Craques baianos, Campeonato regional, Disputa acirrada.",
-      "keywords_semantic": "Campeonato Baiano, Bahia, futebol brasileiro, estadual, importância regional, Bahia, Vitória, clássico Ba-Vi, história, clubes tradicionais, rivalidade, fase de grupos, mata-mata, nordeste, torcidas apaixonadas, título estadual, revelação de talentos."
+      "keywords_semantic": "Campeonato Baiano, Bahia, futebol brasileiro, estadual, importância regional, Bahia, Vitória, clássico Ba-Vi, história, clubes tradicionais, rivalidade, fase de grupos, mata-mata, nordeste, torcidas apaixonadas, título estadual, revelação de talentos.",
+      "keywords_es": "Baianão, Brasil, tradición futbolera, Campeonato Baiano, Esporte Clube Bahia, Vitória, Baía de Todos os Santos, torcida apasionada, rivalidad Ba-Vi, Axé, cultura afrobrasileña, Nordestão, Barradão, Fonte Nova, Salvador de Bahía."
     },
     "country": {
       "name": "Brazil",
@@ -708,7 +726,8 @@
       "type": "League",
       "logo": "/logos/610.png",
       "keywords": "Brasiliense, Candangão, Brasília, Gama, Brasiliense FC, Ceilândia, Legião FC, Sobradinho, clássico Verde-Amarelo, Mané Garrincha, Estádio Bezerrão, artilheiros históricos, rivalidade local, Taça JK, futebol candango, base do futebol brasiliense, tradição, formato de disputa, ascensão e descenso, Copa Verde, jogadores revelados, importância regional, campeonatos estaduais, torcida apaixonada, cobertura midiática local.",
-      "keywords_semantic": "Brasiliense, campeonato estadual, Brasil, futebol regional, clubes do Distrito Federal, Gama, Brasiliense FC, Ceilândia, tradição local, rivalidade regional, Estádio Mané Garrincha, desenvolvimento de talentos, competição de base, formato eliminatório, cultura futebolística, prestígio estadual, torcida apaixonada, história do futebol brasileiro, Brasília, integração social, Copa Verde, rivalidade Gama x Brasiliense."
+      "keywords_semantic": "Brasiliense, campeonato estadual, Brasil, futebol regional, clubes do Distrito Federal, Gama, Brasiliense FC, Ceilândia, tradição local, rivalidade regional, Estádio Mané Garrincha, desenvolvimento de talentos, competição de base, formato eliminatório, cultura futebolística, prestígio estadual, torcida apaixonada, história do futebol brasileiro, Brasília, integração social, Copa Verde, rivalidade Gama x Brasiliense.",
+      "keywords_es": "Candango, Brasil, competitividad local, clubes emergentes, fervor futbolístico, Brasilia, Legião FC, Brasiliense FC, Ceilândia EC, Gama, rivalidades regionales, pasión candanga, identidad brasiliense, tradición futbolera."
     },
     "country": {
       "name": "Brazil",
@@ -747,7 +766,8 @@
       "type": "League",
       "logo": "/logos/616.png",
       "keywords": "Estadual, Rio Grande do Norte, ABC, América de Natal, Clássico Rei, Frasqueirão, Arena das Dunas, título estadual, Potiba, Alecrim, Matutão, Poti, jogadores locais, revelações, ídolos regionais, rivalidade, hegemonia, futebol nordestino, tradição, torcida apaixonada, competição acirrada, fase de grupos, mata-mata, decisão emocionante.",
-      "keywords_semantic": "Campeonato Potiguar, futebol brasileiro, importância regional, clubes tradicionais, ABC, América de Natal, rivalidade, Nordeste do Brasil, formato estadual, cultura local, competição anual, história futebolística, títulos estaduais, Estádio Maria Lamas Farache, Estádio Arena das Dunas, torcida apaixonada."
+      "keywords_semantic": "Campeonato Potiguar, futebol brasileiro, importância regional, clubes tradicionais, ABC, América de Natal, rivalidade, Nordeste do Brasil, formato estadual, cultura local, competição anual, história futebolística, títulos estaduais, Estádio Maria Lamas Farache, Estádio Arena das Dunas, torcida apaixonada.",
+      "keywords_es": "Campeonato Potiguar, Brasil, fútbol nordestino, rivalidad natal, América de Natal, ABC Futebol Clube, clásico rei, fútbol potiguar, pasión en Natal, Arena das Dunas, Dragão, Elefante, cultura potiguar, tradición futbolística, torcidas vibrantes, historia del Nordeste."
     },
     "country": {
       "name": "Brazil",
@@ -786,7 +806,8 @@
       "type": "League",
       "logo": "/logos/608.png",
       "keywords": "Sampaio Corrêa, Moto Club, Estádio Castelão, Bolivão, Papão do Norte, clássico maranhense, rivalidade histórica, torcida apaixonada, futebol nordestino, São Luís, Imperatriz, Maranhão Atlético Clube, títulos estaduais, jovens talentos, Copa do Nordeste, fase de grupos, mata-mata, acesso à Série D, tradição, cultura maranhense, ídolos regionais, goleadas históricas, campeões estaduais, evolução do futebol local, clubes do interior, desenvolvimento de atletas.",
-      "keywords_semantic": "Campeonato Maranhense, futebol brasileiro, história regional, Sampaio Corrêa, Moto Club, clássicos locais, rivalidade estadual, formato estadual, prestígio regional, cultura maranhense, times tradicionais, competição anual, futebol nordestino, tradição local, clubes emblemáticos, torcida apaixonada."
+      "keywords_semantic": "Campeonato Maranhense, futebol brasileiro, história regional, Sampaio Corrêa, Moto Club, clássicos locais, rivalidade estadual, formato estadual, prestígio regional, cultura maranhense, times tradicionais, competição anual, futebol nordestino, tradição local, clubes emblemáticos, torcida apaixonada.",
+      "keywords_es": "Sampaio Corrêa, Moto Club, Papão do Norte, Bolívia Querida, Estádio Castelão, Nordestão, Maranhão, Futbol nordestino, Clásico dos Milhões, Litoral cultural, Herencia indígena, Rivalidad regional, Tricolor de São Pantaleão, Rubro-Negro maranhense, Torcida apasionada."
     },
     "country": {
       "name": "Brazil",
@@ -825,7 +846,8 @@
       "type": "League",
       "logo": "/logos/622.png",
       "keywords": "Leão da Ilha, Timbu, Santinha, Sport Club do Recife, Náutico, Santa Cruz, Clássico dos Clássicos, Clássico das Multidões, Arruda, Ilha do Retiro, Aflitos, Rivalidade, Final emocionante, Ídolos locais, Rivalidade histórica, Fervor da torcida, Futebol nordestino, Tradição, Campeonato Estadual, Futebol raiz, Formato mata-mata, Hexagonal final, Torneio início, João Caixero, Rivalidade acirrada, Celeiro de craques, Cultura pernambucana.",
-      "keywords_semantic": "Campeonato Pernambucano, tradição, Sport Recife, Náutico, Santa Cruz, Clássico dos Clássicos, Clássico das Multidões, regional, nordeste brasileiro, torcidas apaixonadas, história, título estadual, rivalidades locais, futebol brasileiro, Copa do Nordeste, desenvolvimento de talentos, jogos emocionantes."
+      "keywords_semantic": "Campeonato Pernambucano, tradição, Sport Recife, Náutico, Santa Cruz, Clássico dos Clássicos, Clássico das Multidões, regional, nordeste brasileiro, torcidas apaixonadas, história, título estadual, rivalidades locais, futebol brasileiro, Copa do Nordeste, desenvolvimento de talentos, jogos emocionantes.",
+      "keywords_es": "Nordestão, Brasil, Clásico dos Clássicos, Timbu, Leão, Santa Cruz, Sport Recife, Náutico, Central, Fútbol nordestino, Caldeirão, Rivalidad, Festa junina, Torcida, Estádio Arruda, Ilha do Retiro, Historia centenaria."
     },
     "country": {
       "name": "Brazil",
@@ -864,7 +886,8 @@
       "type": "Cup",
       "logo": "/logos/618.png",
       "keywords": "Copinha, Brasil, torneio de base, revelação de talentos, clubes brasileiros, futuro do futebol, São Paulo, tradição, jovens promessas, categorias de base, formação de jogadores, Corinthians, São Paulo FC, Palmeiras, Santos, Grêmio, Flamengo, Fluminense, Vasco da Gama, Cruzeiro, Atlético Mineiro, jogadores históricos, Neymar, Kaká, Casemiro, formato eliminatório, visibilidade internacional, olheiros, vitrine, competição anual, janeiro, vitrine de talentos, importância na formação, rivalidades estaduais, intercâmbio cultural, valorização da base.",
-      "keywords_semantic": "Copa São Paulo de Futebol Júnior, torneio de base, revelação de talentos, futebol brasileiro, categorias de base, clubes tradicionais, juventude esportiva, competição de prestígio, desenvolvimento de jogadores, Taça São Paulo, Corinthians, Palmeiras, São Paulo FC, Santos FC, rivalidades regionais, vitrine para olheiros, cultura futebolística, tradição esportiva, formação de atletas, torneio anual."
+      "keywords_semantic": "Copa São Paulo de Futebol Júnior, torneio de base, revelação de talentos, futebol brasileiro, categorias de base, clubes tradicionais, juventude esportiva, competição de prestígio, desenvolvimento de jogadores, Taça São Paulo, Corinthians, Palmeiras, São Paulo FC, Santos FC, rivalidades regionais, vitrine para olheiros, cultura futebolística, tradição esportiva, formação de atletas, torneio anual.",
+      "keywords_es": "Copinha, Brasil, cantera, promesas futbolísticas, futuros cracks, revelación juvenil, torneo sub-20, São Paulo, talento brasileño, vitrina de jóvenes, base del fútbol brasileño, sueño del profesionalismo, clubes formadores, Corinthians, Palmeiras, Santos, São Paulo FC, brasileirinho, esencia del fútbol, pasión juvenil."
     },
     "country": {
       "name": "Brazil",
@@ -903,7 +926,8 @@
       "type": "Cup",
       "logo": "/logos/632.png",
       "keywords": "Supercopa do Brasil, Flamengo, Palmeiras, Atlético Mineiro, Grêmio, Maracanã, Mineirão, Beira-Rio, Mané Garrincha, título simbólico, campeões de temporada, confronto épico, disputa de gigantes, Libertadores, Brasileirão, Clássico dos Milhões, Gabigol, Hulk, Renato Gaúcho, Abel Ferreira, torcida apaixonada, rivalidade, troféu nacional, jogo único, decisão emocionante, espetáculo esportivo, transmissão ao vivo, premiação financeira, calendário futebolístico.",
-      "keywords_semantic": "Supercopa do Brasil, futebol brasileiro, importância cultural, título nacional, Flamengo, Palmeiras, clubes campeões, confronto de campeões, formato mata-mata, prestígio nacional, rivalidade interestadual, momento decisivo, abertura de temporada, CBF, campeão da Copa do Brasil, campeão do Campeonato Brasileiro, competição anual, troféu, legado esportivo."
+      "keywords_semantic": "Supercopa do Brasil, futebol brasileiro, importância cultural, título nacional, Flamengo, Palmeiras, clubes campeões, confronto de campeões, formato mata-mata, prestígio nacional, rivalidade interestadual, momento decisivo, abertura de temporada, CBF, campeão da Copa do Brasil, campeão do Campeonato Brasileiro, competição anual, troféu, legado esportivo.",
+      "keywords_es": "Supercopa do Brasil, Brasil, Fútbol Arte, Paixão de Multidões, Campeones de Serie A, Flamengo, Palmeiras, Corinthians, Clássicos Brasileiros, Sambódromo de Goles, Rivalidade Histórica, Torcida Organizada, Jogo Bonito, Estilo Brasileño, Magia de Ronaldinho, Zico, Fútbol Samba."
     },
     "country": {
       "name": "Brazil",
@@ -942,7 +966,8 @@
       "type": "League",
       "logo": "/logos/631.png",
       "keywords": "Tocantinense, Tocantins, Palmas Futebol e Regatas, Interporto, Gurupi, Araguaína, TEC - Tocantinópolis, Estádio Nilton Santos, Campeonato Estadual, clubes emergentes, rivalidades regionais, futebol do Norte, revelação de talentos, formato de pontos corridos, fase eliminatória, ascensão de novos clubes, futebol de base, campeões históricos, destaque regional, identidade cultural, ídolos locais, desenvolvimento esportivo, tradição estadual, torcida apaixonada.",
-      "keywords_semantic": "Tocantinense, futebol brasileiro, campeonato estadual, Tocantins, clubes locais, tradição regional, competição anual, prestígio local, rivalidades estaduais, talentos emergentes, cultura futebolística, final emocionante, torcidas apaixonadas, desenvolvimento esportivo, história futebolística local."
+      "keywords_semantic": "Tocantinense, futebol brasileiro, campeonato estadual, Tocantins, clubes locais, tradição regional, competição anual, prestígio local, rivalidades estaduais, talentos emergentes, cultura futebolística, final emocionante, torcidas apaixonadas, desenvolvimento esportivo, história futebolística local.",
+      "keywords_es": "Tocantinense, Brasil, campeonato estadual, Palmas, Gurupi, Interporto, fútbol amazónico, pasión norteña, identidad regional, torcidas, calor tropical, talento emergente, rivalidades locales, tradición futbolera, Copa Verde, desarrollo juvenil."
     },
     "country": {
       "name": "Brazil",
@@ -981,7 +1006,8 @@
       "type": "Cup",
       "logo": "/logos/77.png",
       "keywords": "Maceió, CRB, CSA, Galo, Azulão, Clássico das Multidões, Estádio Rei Pelé, Zumbi Esporte Clube, Murici, ASA, Arapiraca, Rivalidade histórica, Torcida apaixonada, Futebol nordestino, Formação de talentos, Primeira Divisão, Hexagonal final, Finais emocionantes, Futebol arte, Ídolos locais, Desenvolvimento regional, Cultura alagoana, Tradição e paixão.",
-      "keywords_semantic": "Alagoano, Campeonato Estadual, Alagoas, CSA, CRB, clássico das multidões, clubes tradicionais, futebol nordestino, títulos estaduais, cultura futebolística, Estádio Rei Pelé, rivalidade regional, história local, formato de pontos corridos, mata-mata, competição regional, torcida apaixonada, futebol brasileiro, importância cultural, futebol alagoano."
+      "keywords_semantic": "Alagoano, Campeonato Estadual, Alagoas, CSA, CRB, clássico das multidões, clubes tradicionais, futebol nordestino, títulos estaduais, cultura futebolística, Estádio Rei Pelé, rivalidade regional, história local, formato de pontos corridos, mata-mata, competição regional, torcida apaixonada, futebol brasileiro, importância cultural, futebol alagoano.",
+      "keywords_es": "Nordestão, Brasil, tradición futbolera, CRB, CSA, Derbi das Multidões, pasión nordestina, fútbol regional, clásico alagoano, hinchada fervorosa, Zumbi dos Palmares, talento local, Estádio Rei Pelé, rivalidad histórica, cultura alagoana, fútbol brasileño."
     },
     "country": {
       "name": "Brazil",
@@ -1020,7 +1046,8 @@
       "type": "League",
       "logo": "/logos/623.png",
       "keywords": "Mato Grosso do Sul, Operário-MS, Comercial-MS, Dourados, Naviraiense, Estádio Morenão, clássicos regionais, torcida apaixonada, revelação de talentos, rivalidade local, formato de pontos corridos, fases eliminatórias, tradição estadual, Copa do Brasil, acesso à Série D, heróis locais, crescimento do futebol regional, impacto social, desenvolvimento esportivo, cobertura da mídia local.",
-      "keywords_semantic": "Sul-Matogrossense, Mato Grosso do Sul, futebol brasileiro, clubes regionais, Esporte Clube Comercial, Operário Futebol Clube, história local, competição estadual, rivalidade Comercial vs Operário, Copa do Brasil, talentos emergentes, cultura futebolística, festa regional, formato de pontos corridos, importância para o estado, desenvolvimento de jogadores, tradição esportiva, impacto social, integração comunitária, campeonato estadual, torneio de acesso, equipes tradicionais, cenário futebolístico brasileiro."
+      "keywords_semantic": "Sul-Matogrossense, Mato Grosso do Sul, futebol brasileiro, clubes regionais, Esporte Clube Comercial, Operário Futebol Clube, história local, competição estadual, rivalidade Comercial vs Operário, Copa do Brasil, talentos emergentes, cultura futebolística, festa regional, formato de pontos corridos, importância para o estado, desenvolvimento de jogadores, tradição esportiva, impacto social, integração comunitária, campeonato estadual, torneio de acesso, equipes tradicionais, cenário futebolístico brasileiro.",
+      "keywords_es": "Sul-Matogrossense, Brasil, \"Pantanal\", futebol regional, Operário de Dourados, Comercial, Sete de Dourados, tradição, rivalidades locais, \"Galo\", \"Colorados\", desenvolvimento de talentos, paixão local, Mato Grosso do Sul, \"Jacaré\", futebol interiorano."
     },
     "country": {
       "name": "Brazil",
@@ -1059,7 +1086,8 @@
       "type": "League",
       "logo": "/logos/615.png",
       "keywords": "Rondoniense, Porto Velho, Genus, Ji-Paraná, Vilhena, Ariquemes, União Cacoalense, Campeonato Estadual, clubes emergentes, craques locais, tradição amazônica, rivalidades regionais, torcidas apaixonadas, revelação de talentos, formato de pontos corridos, mata-mata, final eletrizante, ascensão ao cenário nacional, impacto econômico local, gramados amazônicos, calor e umidade, paixão pelo futebol, desenvolvimento esportivo, integração regional.",
-      "keywords_semantic": "Rondoniense, futebol estadual, Brasil, Vilhena, Genus, União Cacoalense, importância regional, clubes emergentes, campeonato estadual, formato de liga, rivalidades locais, desenvolvimento de talentos, futebol amazônico, cultura esportiva, torcidas apaixonadas, impacto social."
+      "keywords_semantic": "Rondoniense, futebol estadual, Brasil, Vilhena, Genus, União Cacoalense, importância regional, clubes emergentes, campeonato estadual, formato de liga, rivalidades locais, desenvolvimento de talentos, futebol amazônico, cultura esportiva, torcidas apaixonadas, impacto social.",
+      "keywords_es": "Futebol amazónico, Brasil profundo, Porto Velho Esporte Clube, União Cacoalense, Clásico de la Amazonía, fervor rondoniense, Estadio Aluízio Ferreira, pasión amazónica, talento emergente, Leão do Norte, identidad amazónica, rivalidad regional, fútbol selvático."
     },
     "country": {
       "name": "Brazil",
@@ -1098,7 +1126,8 @@
       "type": "League",
       "logo": "/logos/627.png",
       "keywords": "Paysandu, Remo, Leão Azul, Papão da Curuzu, Mangueirão, clássicos Re-Pa, Bicolor, Campeonato Paraense, Belém, futebol amazônico, Clube do Remo, Paysandu Sport Club, Estádio do Mangueirão, rivalidade histórica, títulos estaduais, Copa Verde, torcida apaixonada, Parazão, revelação de talentos, Copa do Brasil, Série C, Série B, Pará, Norte do Brasil, tradição regional, século XX, Derbies emocionantes, Fafá de Belém, cultura paraense, festa nas arquibancadas, disputas acirradas, glórias estaduais, hegemonia local.",
-      "keywords_semantic": "Campeonato Paraense, futebol brasileiro, clubes paraenses, Remo, Paysandu, Clássico Rei da Amazônia, rivalidade, Norte do Brasil, tradição, Estádio Mangueirão, campeonatos estaduais, cultura paraense, competição regional, história do futebol, Copa Verde, torneio estadual, futebol na Amazônia, campeões paraenses, torcidas apaixonadas, desenvolvimento regional."
+      "keywords_semantic": "Campeonato Paraense, futebol brasileiro, clubes paraenses, Remo, Paysandu, Clássico Rei da Amazônia, rivalidade, Norte do Brasil, tradição, Estádio Mangueirão, campeonatos estaduais, cultura paraense, competição regional, história do futebol, Copa Verde, torneio estadual, futebol na Amazônia, campeões paraenses, torcidas apaixonadas, desenvolvimento regional.",
+      "keywords_es": "Parazão, Brasil, fútbol amazónico, Clásico Re-Pa, Paysandu, Remo, Leão Azul, Papão da Curuzu, cultura amazónica, fervor futbolístico, historia centenaria, Estadio Mangueirão, torcedores apasionados, rivalidad histórica, Belém do Pará, tradição futbolística."
     },
     "country": {
       "name": "Brazil",
@@ -1137,7 +1166,8 @@
       "type": "Cup",
       "logo": "/logos/73.png",
       "keywords": "Copa do Brasil, Brasil, torneio mata-mata, Flamengo, Palmeiras, Grêmio, Atlético Mineiro, Fluminense, Corinthians, Vasco da Gama, Cruzeiro, Estádio do Maracanã, Maracanazo, rivalidades regionais, Dida, Romário, Zico, Ronaldo Fenômeno, grande vitrine, acesso à Libertadores, zebras históricas, formato eliminatório, emoção dos pênaltis, Taça, clubes de todas as divisões, surpresa, ascensão de clubes menores.",
-      "keywords_semantic": "Copa do Brasil, torneio mata-mata, prestígio nacional, clubes tradicionais, CBF, relevância histórica, diversidade regional, surpresas, zebras, grandes finais, Maracanã, Mineirão, clássicos regionais, rivalidade Flamengo x Vasco, Atlético Mineiro, Palmeiras, Corinthians, Grêmio, Cruzeiro, Internacional, título inédito, Libertadores da América, qualificação internacional, tradição, emoção, torcida apaixonada, cobertura televisiva, competição democrática."
+      "keywords_semantic": "Copa do Brasil, torneio mata-mata, prestígio nacional, clubes tradicionais, CBF, relevância histórica, diversidade regional, surpresas, zebras, grandes finais, Maracanã, Mineirão, clássicos regionais, rivalidade Flamengo x Vasco, Atlético Mineiro, Palmeiras, Corinthians, Grêmio, Cruzeiro, Internacional, título inédito, Libertadores da América, qualificação internacional, tradição, emoção, torcida apaixonada, cobertura televisiva, competição democrática.",
+      "keywords_es": "Copa do Brasil, Brasil, Torneo de eliminación directa, Importancia nacional, Clubes de todas las divisiones, Santos, Flamengo, Corinthians, Palmeiras, Gremio, Atlético Mineiro, Fútbol brasileño, Cultura futbolística, Pasión del fútbol, Mata-mata, Tradición futbolística, Hinchadas fervorosas, Emoción en cada partido, Título codiciado, Fiesta del fútbol, Estilo de jogo bonito, Estrellas emergentes."
     },
     "country": {
       "name": "Brazil",
@@ -1176,7 +1206,8 @@
       "type": "League",
       "logo": "/logos/520.png",
       "keywords": "Galo Carijó, Estrelão, Rio Branco FC, Atlético Acreano, Arena da Floresta, clássico acreano, Copa do Brasil, Série D, futebol amazônico, revelação de talentos, rivalidade local, ascensão no cenário nacional, tradição regional, comunidade apaixonada, desafio logístico, clima amazônico, hegemonia estadual, torcidas vibrantes, história do futebol acreano.",
-      "keywords_semantic": "Campeonato Acreano, futebol brasileiro, importância regional, clubes tradicionais, Atlético Acreano, Rio Branco, clássicos locais, campeonato estadual, tradição cultural, rivalidades regionais, desenvolvimento local, formato de disputa, paixão acreana, talentos emergentes, identidade esportiva."
+      "keywords_semantic": "Campeonato Acreano, futebol brasileiro, importância regional, clubes tradicionais, Atlético Acreano, Rio Branco, clássicos locais, campeonato estadual, tradição cultural, rivalidades regionais, desenvolvimento local, formato de disputa, paixão acreana, talentos emergentes, identidade esportiva.",
+      "keywords_es": "Estadual, Brasileño, Amazónico, Rio Branco, Estrelão, Alto Acre, Galvez, Atlético Acreano, Humaitá, Cancha de la Selva, Ribereño, Fútbol Amazónico, Pasión del Norte, Identidad Acreana, Fuerza del Bosque."
     },
     "country": {
       "name": "Brazil",
@@ -1215,7 +1246,8 @@
       "type": "League",
       "logo": "/logos/71.png",
       "keywords": "Brasileirão, Flamengo, Corinthians, Palmeiras, Santos, São Paulo FC, Internacional, Grêmio, Atlético Mineiro, Maracanã, Mineirão, Morumbi, Engenhão, Roberto Dinamite, Zico, Pelé, Romário, Ronaldo Fenômeno, Rivaldo, Kaká, Neymar, Garrincha, Clássicos, Fla-Flu, Majestoso, Gre-Nal, Choque-Rei, Campeonato por pontos corridos, Rebaixamento, Libertadores, Copa do Brasil, Hexa, Tetra, Tríplice Coroa, Arte do Futebol, Torcida, Paixão Nacional, Seleção Brasileira, Futebol-arte.",
-      "keywords_semantic": "Brasileirão, história, cultura futebolística, Flamengo, Palmeiras, Corinthians, clássicos, pontos corridos, prestígio, Maracanã, rivalidades, Libertadores, ídolos, torcida apaixonada, campeões, tradição, Grêmio, Atlético Mineiro, São Paulo, Vasco, internacionalização, competitividade."
+      "keywords_semantic": "Brasileirão, história, cultura futebolística, Flamengo, Palmeiras, Corinthians, clássicos, pontos corridos, prestígio, Maracanã, rivalidades, Libertadores, ídolos, torcida apaixonada, campeões, tradição, Grêmio, Atlético Mineiro, São Paulo, Vasco, internacionalização, competitividade.",
+      "keywords_es": "Brasileirão, País do Futebol, Rivalidade, Clásico, Flamengo, Palmeiras, Corinthians, Santos, Galo Mineiro, Tricolor Paulista, Mengão, Timão, Alvinegro, Torcidas, Samba, Futebol Arte, Penta Campeão, Estádios Históricos, Maracanã, Mineirão, Maracanazo, Exportación de Talentos, Jogo Bonito, Cultura do Futebol."
     },
     "country": {
       "name": "Brazil",
@@ -1254,7 +1286,8 @@
       "type": "League",
       "logo": "/logos/72.png",
       "keywords": "Serie B, Brasileirão, acesso à Série A, rebaixamento, clubes tradicionais, Vasco da Gama, Cruzeiro, Botafogo, Grêmio, Ponte Preta, Guarani, Avaí, torcida apaixonada, Maracanazo da Série B, jogadores revelação, estádios históricos, rivalidade regional, emoção até a última rodada, pontos corridos, mata-mata, ascensão e queda, clássico do interior, goleadores históricos, ídolos locais, surpresa no campeonato, ascensão meteórica, zebra da rodada, luta contra o descenso.",
-      "keywords_semantic": "segunda divisão, acesso, rebaixamento, futebol brasileiro, clubes tradicionais, competição acirrada, desenvolvimento de talentos, rivalidades regionais, gramados históricos, torcida apaixonada, prestígio nacional, ascensão, desafios financeiros, talentos emergentes, batalhas épicas, formato de pontos corridos, fases decisivas, emoção garantida, história rica, clubes em ascensão"
+      "keywords_semantic": "segunda divisão, acesso, rebaixamento, futebol brasileiro, clubes tradicionais, competição acirrada, desenvolvimento de talentos, rivalidades regionais, gramados históricos, torcida apaixonada, prestígio nacional, ascensão, desafios financeiros, talentos emergentes, batalhas épicas, formato de pontos corridos, fases decisivas, emoção garantida, história rica, clubes em ascensão",
+      "keywords_es": "Brasileirão Série B, Brasil, ascenso a Serie A, competitividad, historia de rivalidades, equipos tradicionales, Cruzeiro, Vasco da Gama, Gremio, Botafogo, lucha por el ascenso, pasión brasileña, estadios icónicos, torcidas fervorosas, fútbol regional, talento emergente."
     },
     "country": {
       "name": "Brazil",
@@ -1293,7 +1326,8 @@
       "type": "League",
       "logo": "/logos/75.png",
       "keywords": "Serie C, Terceira Divisão, Brasileirão, Acesso à Série B, Mata-mata, Clubes do interior, Tradição regional, Brasil, Times emergentes, Estádios acanhados, Torcida apaixonada, Futebol raiz, Caxias, Paysandu, Remo, Juventude, Botafogo-SP, Bragantino, Rivalidades locais, Superação, Rebaixamento, Formato de grupos, Fase de classificação, Fase eliminatória, Promessas do futebol, Jogos decisivos, Emoção até o fim, Dificuldades financeiras, Evolução tática, História do futebol brasileiro.",
-      "keywords_semantic": "formação de talentos, clubes tradicionais, acesso à Série B, rivalidades regionais, futebol brasileiro, desenvolvimento de jogadores, competição de pontos corridos, história local, clubes emergentes, ascensão e queda, competitividade regional, diversidade cultural, torcida apaixonada, importância comunitária, estrutura de divisões."
+      "keywords_semantic": "formação de talentos, clubes tradicionais, acesso à Série B, rivalidades regionais, futebol brasileiro, desenvolvimento de jogadores, competição de pontos corridos, história local, clubes emergentes, ascensão e queda, competitividade regional, diversidade cultural, torcida apaixonada, importância comunitária, estrutura de divisões.",
+      "keywords_es": "Terceirona, Brasil, desarrollo de talentos, ascenso, clubes históricos, fútbol competitivo, estadios tradicionales, Figueirense, Paysandu, Botafogo-PB, Santa Cruz, cultura futbolística, pasión regional, torcidas fervorosas, identidad local, campeonatos disputados."
     },
     "country": {
       "name": "Brazil",
@@ -1332,7 +1366,8 @@
       "type": "League",
       "logo": "/logos/76.png",
       "keywords": "Quarta divisão, clubes emergentes, acesso à Série C, jovens talentos, descobertas regionais, diversidade cultural, futebol raiz, calendário extenso, mata-mata, fase de grupos, interior do Brasil, rivalidades locais, torcida apaixonada, ascensão no futebol, tradição regional.",
-      "keywords_semantic": "futebol brasileiro, divisão inferior, desenvolvimento de talentos, Campeonato Brasileiro Série D, clubes emergentes, acesso à Série C, visibilidade regional, competição nacional, rivalidades locais, clubes tradicionais, ascensão no futebol, formato eliminatório, prestígio crescente, diversidade cultural, vitrine de jogadores"
+      "keywords_semantic": "futebol brasileiro, divisão inferior, desenvolvimento de talentos, Campeonato Brasileiro Série D, clubes emergentes, acesso à Série C, visibilidade regional, competição nacional, rivalidades locais, clubes tradicionais, ascensão no futebol, formato eliminatório, prestígio crescente, diversidade cultural, vitrine de jogadores",
+      "keywords_es": "Quarta Divisão, Brasil, Liga de Acesso, Clubes Tradicionales, Fútbol Regional, Talento Emergente, Ascenso, Clubes Locales, Pasión del Interior, Estádio Vazio, Hinchadas Fervorosas, Proyección de Jóvenes, Cultura Futbolera, Cuna de Estrellas, Estado de São Paulo, Estado de Minas Gerais, Estado de Santa Catarina, Estado de Paraná, Estado de Rio Grande do Sul, Estado de Goiás, Estado de Bahia."
     },
     "country": {
       "name": "Brazil",
@@ -1371,7 +1406,8 @@
       "type": "League",
       "logo": "/logos/607.png",
       "keywords": "Mundão, Estádio Canarinho, Boa Vista, Atlético Roraima, São Raimundo-RR, Baré, River-RR, Náutico-RR, Clássico Bareima, futebol amazônico, rivalidade local, talentos emergentes, torcida apaixonada, clima equatorial, formato round-robin, fase de grupos, mata-mata, campeão estadual, vaga na Copa Verde, integração regional, história do futebol roraimense, craques locais.",
-      "keywords_semantic": "Roraimense, campeonato estadual, futebol brasileiro, clubes de Roraima, importância local, Baré, Atlético Roraima, São Raimundo-RR, rivalidades regionais, desenvolvimento do futebol, formato de pontos corridos, prestígio estadual, cultura futebolística, história esportiva, futebol na Amazônia."
+      "keywords_semantic": "Roraimense, campeonato estadual, futebol brasileiro, clubes de Roraima, importância local, Baré, Atlético Roraima, São Raimundo-RR, rivalidades regionais, desenvolvimento do futebol, formato de pontos corridos, prestígio estadual, cultura futebolística, história esportiva, futebol na Amazônia.",
+      "keywords_es": "Boa Vista, Estádio Ribeirão, Campeonato Roraimense, São Raimundo-RR, Baré, Atlético Roraima, fútbol amazónico, pasión norteña, rivalidad local, cultura indígena, torcedores, clima tropical, desarrollo regional, historia emergente, talentos jóvenes."
     },
     "country": {
       "name": "Brazil",
@@ -1410,7 +1446,8 @@
       "type": "League",
       "logo": "/logos/74.png",
       "keywords": "Brasileirão Feminino, Guerreiras do Brasil, Corinthians Feminino, Ferroviária, Marta, Formiga, Cristiane, Artilheiras, Empowerment feminino, CBF, Futebol feminino no Brasil, Crescimento do futebol feminino, Goleadas históricas, Rivalidades estaduais, Estádios icônicos, Semi-profissionalização, Torneio de pontos corridos, Finais emocionantes, Importância social, Inclusão no esporte, Jogadoras revelação, Libertadores Feminina, Seleção Brasileira Feminina, Estrelas emergentes, Apoio à base, Clubes tradicionais, Desafios estruturais, Visibilidade midiática, Igualdade de gênero no esporte.",
-      "keywords_semantic": "importância histórica, crescimento feminino, clubes tradicionais, Corinthians Women, Ferroviária Women, Santos Women, mudanças sociais, igualdade de gênero, formato de pontos corridos, prestígio nacional, destaque internacional, rivalidades regionais, base para seleção, desenvolvimento do esporte, transmissão televisiva, inclusão social"
+      "keywords_semantic": "importância histórica, crescimento feminino, clubes tradicionais, Corinthians Women, Ferroviária Women, Santos Women, mudanças sociais, igualdade de gênero, formato de pontos corridos, prestígio nacional, destaque internacional, rivalidades regionais, base para seleção, desenvolvimento do esporte, transmissão televisiva, inclusão social",
+      "keywords_es": "Brasileirão Feminino, Brasil, Jogo Bonito, Marta, Aline Pellegrino, Corinthians Feminino, Ferroviária, Santos Futebol Clube, Rainhas do Futebol, Garra Brasileira, Levantamento de Taça, Futebol Arte, Pioneiras do Futebol, Goleadas Históricas, Torcidas Apaixonadas, Samba e Futebol, Potência Sudamericana."
     },
     "country": {
       "name": "Brazil",
@@ -1449,7 +1486,8 @@
       "type": "League",
       "logo": "/logos/614.png",
       "keywords": "Furacão, Coxa, Atlético Paranaense, Coritiba, Paraná Clube, Clássico Atletiba, Arena da Baixada, Couto Pereira, Copa Sul-Americana, revelação de talentos, categoria de base, jogadores promissores, rivalidade local, estadual brasileiro, formato mata-mata, fase de grupos, dominância regional, títulos históricos, torcida apaixonada, futebol paranaense, tradição esportiva, confronto regional, clubes emergentes, impacto social, desenvolvimento do futebol.",
-      "keywords_semantic": "Paranaense, Segunda Divisão, Futebol Brasileiro, Campeonato Estadual, Paraná, Clubes Tradicionais, Ascensão, Rebaixamento, Competição Regional, Cultura Local, Clubes Emergentes, História do Futebol, Rivalidades Locais, Desenvolvimento de Talentos, Torcidas Apaixonadas, Estádios Regionais, Identidade Cultural, Futebol de Base, Prestígio Local, Desafios Competitivos"
+      "keywords_semantic": "Paranaense, Segunda Divisão, Futebol Brasileiro, Campeonato Estadual, Paraná, Clubes Tradicionais, Ascensão, Rebaixamento, Competição Regional, Cultura Local, Clubes Emergentes, História do Futebol, Rivalidades Locais, Desenvolvimento de Talentos, Torcidas Apaixonadas, Estádios Regionais, Identidade Cultural, Futebol de Base, Prestígio Local, Desafios Competitivos",
+      "keywords_es": "Segundona Paranaense, Brasil, desarrollo de talento, clubes emergentes, fútbol regional, Atlético Paranaense B, Coritiba B, Paraná Clube, cuna de promesas, pasión local, hinchada fervorosa, historia en crecimiento, campeonatos regionales, rivalidades emergentes, fútbol de ascenso, identidad paranaense."
     },
     "country": {
       "name": "Brazil",
@@ -1488,7 +1526,8 @@
       "type": "League",
       "logo": "/logos/851.png",
       "keywords": "Campeonato Carioca A2, Série A2, Rio de Janeiro, Flamengo, Vasco da Gama, Fluminense, Botafogo, clubes tradicionais, Madureira, Bangu, Olaria, Nova Iguaçu, Resende, futebol carioca, acesso à elite, Estádio Maracanã, Estádio São Januário, Estádio Luso-Brasileiro, rivalidades regionais, torcida apaixonada, jogadores revelação, clássicos locais, formato de pontos corridos, fase de grupos, mata-mata, finais emocionantes, importância histórica, tradição no futebol brasileiro, ídolos locais, desenvolvimento de jovens talentos.",
-      "keywords_semantic": "Carioca A2, segunda divisão, futebol carioca, campeonato estadual, clubes tradicionais, acesso à elite, Botafogo, Vasco, Fluminense, Flamengo, rivalidade regional, história do futebol brasileiro, clubes emergentes, Maracanã, prestígio local, ascensão e queda, paixão carioca, talentos locais, impacto cultural, torcida, tradição futebolística."
+      "keywords_semantic": "Carioca A2, segunda divisão, futebol carioca, campeonato estadual, clubes tradicionais, acesso à elite, Botafogo, Vasco, Fluminense, Flamengo, rivalidade regional, história do futebol brasileiro, clubes emergentes, Maracanã, prestígio local, ascensão e queda, paixão carioca, talentos locais, impacto cultural, torcida, tradição futebolística.",
+      "keywords_es": "Carioca A2, Brasil, Campeonato Carioca de Segunda División, ascenso al Cariocão, clubes tradicionales, Fluminense de Feira, Olaria, América RJ, rivalidad local, pasión carioca, fervor de torcidas, estadio Maracanã, Río de Janeiro, cuna del samba, fútbol de barrio, historia del fútbol brasileño, cantera de talentos."
     },
     "country": {
       "name": "Brazil",
@@ -1527,7 +1566,8 @@
       "type": "League",
       "logo": "/logos/521.png",
       "keywords": "Zerão, Estádio Glicério Marques, Macapá, Santos-AP, Ypiranga-AP, Trem Desportivo Clube, Clube Atlético Cristal, Independente-AP, São José-AP, rivalidade, título estadual, futebol nortista, revelações locais, base do futebol amapaense, campeonato estadual, formato de pontos corridos, mata-mata, paixão local, tradição esportiva, torcidas apaixonadas.",
-      "keywords_semantic": "Amapaense, futebol brasileiro, campeonato estadual, importância regional, clubes tradicionais, Ypiranga, Trem, Santos-AP, rivalidades locais, jogadores promissores, cultura futebolística, desenvolvimento esportivo, formato de disputa, história do futebol no Amapá, competição anual, torneio estadual."
+      "keywords_semantic": "Amapaense, futebol brasileiro, campeonato estadual, importância regional, clubes tradicionais, Ypiranga, Trem, Santos-AP, rivalidades locais, jogadores promissores, cultura futebolística, desenvolvimento esportivo, formato de disputa, história do futebol no Amapá, competição anual, torneio estadual.",
+      "keywords_es": "Amapazão, Brasil, región amazónica, pasión futbolera, Macapá, Independente, Santos-AP, Ypiranga-AP, Estadio Zerão, fervor local, rivalidades intensas, talentos emergentes, identidad amazónica, fútbol comunitario, legado cultural."
     },
     "country": {
       "name": "Brazil",
@@ -1566,7 +1606,8 @@
       "type": "League",
       "logo": "/logos/619.png",
       "keywords": "Campeonato Mineiro, Raposa, Galo, Coelho, Atlético Mineiro, Cruzeiro, América Mineiro, Mineirão, clássico mineiro, estadual, rivalidade histórica, títulos estaduais, futebol arte, jogadores revelação, torcida apaixonada, Belo Horizonte, interior de Minas, história do futebol mineiro, formato pontos corridos, fase de grupos, semifinais, finais, hegemonia, ídolos mineiros, Campeonato Mineiro Módulo II, acesso à elite, clubes tradicionais de Minas Gerais, destaque regional, importância cultural, base de talentos, rivalidades regionais.",
-      "keywords_semantic": "Campeonato Mineiro, segunda divisão, futebol regional, clubes mineiros, acesso à elite, rivalidades locais, torneio estadual, Atlético Mineiro, Cruzeiro, América Mineiro, times emergentes, história do futebol mineiro, competição de base, desenvolvimento de talentos, tradição mineira, futebol brasileiro."
+      "keywords_semantic": "Campeonato Mineiro, segunda divisão, futebol regional, clubes mineiros, acesso à elite, rivalidades locais, torneio estadual, Atlético Mineiro, Cruzeiro, América Mineiro, times emergentes, história do futebol mineiro, competição de base, desenvolvimento de talentos, tradição mineira, futebol brasileiro.",
+      "keywords_es": "Segunda División Mineira, Brasil, Campeonato Mineiro Módulo II, fútbol brasileño, cantera de talentos, Atlético Mineiro B, Cruzeiro B, América Mineiro B, clubes emergentes, pasión futbolera, Minas Gerais, rivalidades locales, fútbol regional, ascenso y descenso, jóvenes promesas, identidad minera, cultura futbolística brasileña, tradición minera, torcedores, fervor local."
     },
     "country": {
       "name": "Brazil",
@@ -1605,7 +1646,8 @@
       "type": "League",
       "logo": "/logos/478.png",
       "keywords": "Gauchão, Rio Grande do Sul, Grêmio, Internacional, Gre-Nal, Estádio Beira-Rio, Arena do Grêmio, Juventude, Caxias, Ypiranga, Novo Hamburgo, Taça Farroupilha, Taça Piratini, Renato Gaúcho, Falcão, Paulo Baier, Rivalidade, Tradição, Clássicos, Torcida apaixonada, Charrua, Grenal do Século, Libertadores 1983, Copa do Brasil 2007, Dupla Gre-Nal, Formato de mata-mata, Turno e returno, Interior gaúcho, Futebol raiz, Identidade regional.",
-      "keywords_semantic": "Segunda Divisão Gaúcha, Campeonato Gaúcho Série A2, futebol brasileiro, clubes tradicionais, acesso à elite, rivalidades regionais, desenvolvimento de talentos, história local, cultura gaúcha, competição estadual, ascensão e rebaixamento, Novo Hamburgo, Brasil de Pelotas, Ypiranga, comunidade local, estádios icônicos, torcida apaixonada, impacto regional, competição acirrada, clubes emergentes."
+      "keywords_semantic": "Segunda Divisão Gaúcha, Campeonato Gaúcho Série A2, futebol brasileiro, clubes tradicionais, acesso à elite, rivalidades regionais, desenvolvimento de talentos, história local, cultura gaúcha, competição estadual, ascensão e rebaixamento, Novo Hamburgo, Brasil de Pelotas, Ypiranga, comunidade local, estádios icônicos, torcida apaixonada, impacto regional, competição acirrada, clubes emergentes.",
+      "keywords_es": "Gauchão Série A2, Brasil, fútbol regional, tradición gaucha, Grêmio Esportivo Brasil, Rua da Praia, clásico pelotense, torcidas apasionadas, Chavante, Farroupilha, Río Grande do Sul, rivalidades históricas, expansión del fútbol, ascenso y descenso, cancha de barrio, hinchada fervorosa."
     },
     "country": {
       "name": "Brazil",
@@ -1644,7 +1686,8 @@
       "type": "League",
       "logo": "/logos/620.png",
       "keywords": "Cearense Série B, Futebol Nordestino, Fortaleza, Ceará, Ferroviário, Icasa, Clássico das Cores, Estádio Castelão, Estádio Presidente Vargas, Acesso à Série A, Torcida apaixonada, Rivalidade regional, Ascensão no futebol cearense, Talentos locais, Tradição no futebol, Campeão Cearense, Técnica e raça, Desenvolvimento de jovens, Futebol raiz, Paixão cearense.",
-      "keywords_semantic": "Cearense-2, campeonato estadual, futebol brasileiro, clubes cearenses, futebol nordestino, acesso à elite, Fortaleza, Ceará, Icasa, rivalidade local, desenvolvimento de talentos, clubes emergentes, tradição regional, história esportiva, competição acirrada, futebol de base, oportunidade de ascensão, cultura futebolística, paixão local, identidade regional."
+      "keywords_semantic": "Cearense-2, campeonato estadual, futebol brasileiro, clubes cearenses, futebol nordestino, acesso à elite, Fortaleza, Ceará, Icasa, rivalidade local, desenvolvimento de talentos, clubes emergentes, tradição regional, história esportiva, competição acirrada, futebol de base, oportunidade de ascensão, cultura futebolística, paixão local, identidade regional.",
+      "keywords_es": "Série B Cearense, Brasil, pasión nordestina, ascenso y descenso, competencia regional, clubes tradicionales cearenses, Estádio Presidente Vargas, Fortaleza y Ceará, fútbol de barrio, torcedores leales, rivalidades locales, talento emergente, identidad cearense, \"Leões\" y \"Vovôs\", fervor futbolístico nordestino, proyecto de cantera, historia del fútbol cearense."
     },
     "country": {
       "name": "Brazil",
@@ -1683,7 +1726,8 @@
       "type": "League",
       "logo": "/logos/613.png",
       "keywords": "Baianão, Bahia, Vitória, Tricolor de Aço, Leão da Barra, Fonte Nova, Barradão, rivalidade Ba-Vi, títulos estaduais, futebol nordestino, Zico, Bebeto, revelações, Mata-mata, fase de grupos, torcida apaixonada, campeões históricos, tradição local, regionalismo, importância cultural.",
-      "keywords_semantic": "Campeonato Baiano, futebol brasileiro, Bahia, clubes locais, acesso à elite, competição estadual, Estádio Pituaçu, rivalidade regional, Esporte Clube Bahia, Vitória da Conquista, Ypiranga, formação de talentos, tradição nordestina, história do futebol baiano, Taça Estado da Bahia, ascensão futebolística."
+      "keywords_semantic": "Campeonato Baiano, futebol brasileiro, Bahia, clubes locais, acesso à elite, competição estadual, Estádio Pituaçu, rivalidade regional, Esporte Clube Bahia, Vitória da Conquista, Ypiranga, formação de talentos, tradição nordestina, história do futebol baiano, Taça Estado da Bahia, ascensão futebolística.",
+      "keywords_es": "Baianão, Brasil, Campeonato Baiano, fútbol nordestino, Bahia, Vitória, clásicos baianos, Aratu, Barradão, Fonte Nova, afición apasionada, axé, carnaval futbolero, rivalidad histórica, talentos emergentes, cultura afrobrasileña, Bahêa, Leão da Barra, Tricolor de Aço, fútbol raiz."
     },
     "country": {
       "name": "Brazil",
@@ -1722,7 +1766,8 @@
       "type": "Cup",
       "logo": "/logos/742.png",
       "keywords": "Copa Paulista, Paulistão, São Paulo, clubes paulistas, Juventus da Mooca, Ferroviária, XV de Piracicaba, Mirassol, Ituano, revelação de talentos, acesso à Série D, título estadual, tradição futebolística, interior de São Paulo, estádio Moisés Lucarelli, torcidas apaixonadas, calendário alternativo, suporte aos clubes menores, rivalidades regionais, Rogério Ceni, formação de jovens jogadores.",
-      "keywords_semantic": "Copa Paulista, futebol brasileiro, clubes paulistas, competição estadual, importância regional, desenvolvimento de talentos, chance para jovens jogadores, calendário alternativo, clubes tradicionais, vitrine para clubes menores, formato mata-mata, prestígio estadual, oportunidade internacional, rivalidades locais, acesso à Copa do Brasil, cultura futebolística paulista, São Paulo, interior paulista."
+      "keywords_semantic": "Copa Paulista, futebol brasileiro, clubes paulistas, competição estadual, importância regional, desenvolvimento de talentos, chance para jovens jogadores, calendário alternativo, clubes tradicionais, vitrine para clubes menores, formato mata-mata, prestígio estadual, oportunidade internacional, rivalidades locais, acesso à Copa do Brasil, cultura futebolística paulista, São Paulo, interior paulista.",
+      "keywords_es": "Copa Paulista, Brasil, fútbol regional, cantera de talentos, Paulistão, clubes emergentes, oportunidad de desarrollo, clubes históricos, Corinthians, Palmeiras, São Paulo, Santos, Ferroviária, Botafogo-SP, rivalidades locales, pasión paulista, fervor futbolístico, tradición brasileña, fútbol formativo, campeonato estadual, vitrina de jóvenes."
     },
     "country": {
       "name": "Brazil",
@@ -1761,7 +1806,8 @@
       "type": "Cup",
       "logo": "/logos/740.png",
       "keywords": "Brasileirão de Base, jovens talentos, promessa do futebol, categorias de base, Flamengo sub-20, Palmeiras sub-20, São Paulo sub-20, Corinthians sub-20, Grêmio sub-20, Internacional sub-20, revelações, futuro do futebol brasileiro, formação de atletas, Ney Franco, Carlos Amadeu, garotos do Ninho, Cotia, base do Timão, Galo Forte Vingador, Meninos da Vila, craques em ascensão, observação de talentos, desenvolvimento esportivo, competição sub-20, formato de grupos, mata-mata, final emocionante, vitrine para o exterior, scout internacional, integração com o profissional.",
-      "keywords_semantic": "sub-20, base, formação de talentos, categorias de base, promessas do futebol, jovens jogadores, clubes tradicionais, desenvolvimento, torneio nacional, rivalidades regionais, futuro do futebol, competição juvenil, Flamengo, Palmeiras, São Paulo, Grêmio, intercâmbio internacional, visibilidade, formação de atletas, campeonato de jovens, prestígio nacional, evolução técnica, observação de talentos, vitrine para clubes."
+      "keywords_semantic": "sub-20, base, formação de talentos, categorias de base, promessas do futebol, jovens jogadores, clubes tradicionais, desenvolvimento, torneio nacional, rivalidades regionais, futuro do futebol, competição juvenil, Flamengo, Palmeiras, São Paulo, Grêmio, intercâmbio internacional, visibilidade, formação de atletas, campeonato de jovens, prestígio nacional, evolução técnica, observação de talentos, vitrine para clubes.",
+      "keywords_es": "Campeonato Brasileiro Sub-20, Brasil, cantera de talentos, jóvenes promesas, futuro del fútbol brasileño, base del fútbol brasileño, Grêmio Sub-20, Flamengo Sub-20, Palmeiras Sub-20, São Paulo Sub-20, Atlético Mineiro Sub-20, Corinthians Sub-20, escuela de samba, jogo bonito, formación de cracks, pasión juvenil, cuna de campeones, identidad brasileña, plantel sub-20, torcedores de base."
     },
     "country": {
       "name": "Brazil",
@@ -1800,7 +1846,8 @@
       "type": "Cup",
       "logo": "/logos/741.png",
       "keywords": "Brasileirão de Aspirantes, jovens talentos, Sub-23, Grêmio, Internacional, Santos, Atlético Paranaense, revelação de jogadores, plataforma para novos craques, futuro do futebol brasileiro, formação de atletas, vitrine para clubes, competição de base, desenvolvimento esportivo, emoção nas categorias inferiores, formato de disputa em grupos, fase eliminatória, tradição de clubes brasileiros, promoção para o time principal, ascensão de carreiras, rivalidades regionais, destaque de promessas, observação de olheiros, preparação para o profissional.",
-      "keywords_semantic": "Brasileiro de Aspirantes, desenvolvimento de talentos, sub-23, clubes de elite, jovens promessas, vitrine para atletas, formação de jogadores, futuro do futebol brasileiro, competição emergente, oportunidades profissionais, categorias de base, calendário brasileiro, rivalidades regionais, crescimento profissional, observação de talentos."
+      "keywords_semantic": "Brasileiro de Aspirantes, desenvolvimento de talentos, sub-23, clubes de elite, jovens promessas, vitrine para atletas, formação de jogadores, futuro do futebol brasileiro, competição emergente, oportunidades profissionais, categorias de base, calendário brasileiro, rivalidades regionais, crescimento profissional, observação de talentos.",
+      "keywords_es": "Sub-23, Brasil, Talento joven, Futuro del fútbol brasileño, Base de formación, Grêmio, Internacional, Santos, Atlético Paranaense, Corinthians, Promesas del fútbol, Rivalidades regionales, Fútbol espectáculo, Samba y balón, Cantera brasileña."
     },
     "country": {
       "name": "Brazil",
@@ -1839,7 +1886,8 @@
       "type": "League",
       "logo": "/logos/936.png",
       "keywords": "Catarinense Série B, Santa Catarina, acesso à elite, Avaí, Figueirense, Criciúma, Joinville, Chapecoense, estádio da Ressacada, estádio Orlando Scarpelli, torcidas apaixonadas, rivalidade estadual, classificação, quadrangular final, jogadores promissores, tradição local, ascensão de clubes, formato de pontos corridos, finais emocionantes, história do futebol catarinense, talentos revelados.",
-      "keywords_semantic": "Campeonato Catarinense Série B, futebol brasileiro, Santa Catarina, acesso à elite, clubes tradicionais, rivalidade regional, ascensão, competição estadual, Joinville, Brusque, Criciúma, história local, desenvolvimento de talentos, estádios, torcidas apaixonadas, calendário esportivo, formato de pontos corridos, importância local."
+      "keywords_semantic": "Campeonato Catarinense Série B, futebol brasileiro, Santa Catarina, acesso à elite, clubes tradicionais, rivalidade regional, ascensão, competição estadual, Joinville, Brusque, Criciúma, história local, desenvolvimento de talentos, estádios, torcidas apaixonadas, calendário esportivo, formato de pontos corridos, importância local.",
+      "keywords_es": "Série B Catarinense, Brasil, Ascenso a Catarinense Serie A, Identidad regional, Hombres del sur, Fútbol de Santa Catarina, Clubes emergentes, Tradição e Paixão, Brusque, Criciúma, Chape, Clásicos del sur, Rivalidades locales, Hinchadas fervorosas, Desafíos del ascenso, Proyección de talentos."
     },
     "country": {
       "name": "Brazil",
@@ -1878,7 +1926,8 @@
       "type": "League",
       "logo": "/logos/625.png",
       "keywords": "Fla-Flu, Botafogo, Vasco da Gama, Flamengo, Fluminense, Maracanã, Zico, Garrincha, Romário, \"Clássico dos Milhões\", \"Clássico Vovô\", \"Clássico das Multidões\", Taça Guanabara, Taça Rio, final emocionante, rivalidade histórica, futebol arte, torcidas apaixonadas, Campeonato Carioca, tradição carioca, hegemonia estadual.",
-      "keywords_semantic": "Campeonato Carioca, futebol carioca, clubes tradicionais, Flamengo, Fluminense, Vasco da Gama, Botafogo, rivalidades, clássicos, Maracanã, futebol brasileiro, prestígio regional, história cultural, Rio de Janeiro, Taça Guanabara, Taça Rio, formato estadual, emoção local, times emergentes, revelação de talentos, competição acirrada."
+      "keywords_semantic": "Campeonato Carioca, futebol carioca, clubes tradicionais, Flamengo, Fluminense, Vasco da Gama, Botafogo, rivalidades, clássicos, Maracanã, futebol brasileiro, prestígio regional, história cultural, Rio de Janeiro, Taça Guanabara, Taça Rio, formato estadual, emoção local, times emergentes, revelação de talentos, competição acirrada.",
+      "keywords_es": "Segundona Carioca, Brasil, Río de Janeiro, tradición futbolera, clásico carioca, clubes históricos, Fluminense de Feira, América-RJ, Olaria, Portuguesa, futbol-arte, torcida apasionada, rivalidades locales, talento emergente, cuna de estrellas, vibrante cultura futbolística."
     },
     "country": {
       "name": "Brazil",
@@ -1917,7 +1966,8 @@
       "type": "Cup",
       "logo": "/logos/617.png",
       "keywords": "Copa do Brasil Sub-20, Brasil, categorias de base, jovens talentos, Grêmio, Flamengo, São Paulo, Palmeiras, times tradicionais, mata-mata, promessas do futebol brasileiro, revelação de jogadores, vitrine para jovens, torneio nacional de base, Atlético Mineiro, Cruzeiro, Corinthians, Fluminense, rivalidades regionais, desenvolvimento esportivo, CBF, futebol formativo, campeões passados, revelação de craques, busca por títulos.",
-      "keywords_semantic": "Copa do Brasil U20, desenvolvimento de talentos, categorias de base, jovens promessas, clubes formadores, competição eliminatória, prestígio juvenil, revelação de jogadores, rivalidades regionais, vitrine para scouts, futebol brasileiro, torneio de base, aspirantes a profissional, calendário nacional, oportunidade para jovens."
+      "keywords_semantic": "Copa do Brasil U20, desenvolvimento de talentos, categorias de base, jovens promessas, clubes formadores, competição eliminatória, prestígio juvenil, revelação de jogadores, rivalidades regionais, vitrine para scouts, futebol brasileiro, torneio de base, aspirantes a profissional, calendário nacional, oportunidade para jovens.",
+      "keywords_es": "Copa do Brasil U20, Brasil, cantera brasileña, semillero de talentos, jóvenes promesas, futuro del fútbol, clubes formadores, categoría sub-20, Corinthians U20, Flamengo U20, Palmeiras U20, Grêmio U20, Santos U20, Fluminense U20, Atlético Mineiro U20, Internacional U20, pasión verdeamarela, samba y fútbol, juego bonito, cuna de cracks, espíritu brasileño, desarrollo juvenil."
     },
     "country": {
       "name": "Brazil",
@@ -1956,7 +2006,8 @@
       "type": "Cup",
       "logo": "/logos/843.png",
       "keywords": "Copa Verde, Brasil, clubes da região Norte, clubes da região Centro-Oeste, clubes do Espírito Santo, clubes do Pará, Paysandu, Remo, Brasília, Luverdense, Caxias-MA, campeonato regional, sustentabilidade, preservação ambiental, título inédito, premiação em dinheiro, vaga na Copa do Brasil, Copa Verde 2014, primeira edição, Estádio Mangueirão, rivalidade regional, edições anuais, futebol brasileiro, integração entre estados, desenvolvimento do esporte, vitórias históricas, gol decisivo, jogadores revelação.",
-      "keywords_semantic": "Copa Verde, Brasil, competição regional, sustentabilidade, clubes Norte e Centro-Oeste, rivalidades regionais, futebol brasileiro, importância ecológica, torneio de mata-mata, premiação em dinheiro, integração regional, Copa do Brasil, Remo, Paysandu, Cuiabá, Brasília, campeonato emergente, desenvolvimento local, impacto ambiental, tradição crescente, visibilidade nacional."
+      "keywords_semantic": "Copa Verde, Brasil, competição regional, sustentabilidade, clubes Norte e Centro-Oeste, rivalidades regionais, futebol brasileiro, importância ecológica, torneio de mata-mata, premiação em dinheiro, integração regional, Copa do Brasil, Remo, Paysandu, Cuiabá, Brasília, campeonato emergente, desenvolvimento local, impacto ambiental, tradição crescente, visibilidade nacional.",
+      "keywords_es": "Copa Verde, Brasil, torneo regional, sustentabilidad, biodiversidad, integración amazónica, clubes emergentes, Paysandu, Remo, Cuiabá, Manaus, fútbol amazónico, rivalidad regional, desarrollo deportivo, fútbol de la selva, pasión local, talentos ocultos."
     },
     "country": {
       "name": "Brazil",
@@ -1995,7 +2046,8 @@
       "type": "League",
       "logo": "/logos/1030.png",
       "keywords": "Goianão, Goiás, Atlético Goianiense, Vila Nova, Estádio Serra Dourada, torcidas apaixonadas, goianidade, Campeonato Goiano, rivalidade regional, craques emergentes, futebol do Centro-Oeste, revelação de talentos, tradição esportiva, formato de pontos corridos, mata-mata, título estadual, clássicos goianos, futebol brasileiro, Copa do Brasil, ídolos locais.",
-      "keywords_semantic": "Campeonato Goiano, Divisão de Acesso, clubes tradicionais, Goiás Esporte Clube, Vila Nova, Anápolis, desenvolvimento regional, competições estaduais, rivalidades locais, promoção, rebaixamento, futebol brasileiro, revelação de talentos, cultura goiana, futebol interiorano, ascensão, prestígio local, torneios estaduais, história do futebol goiano."
+      "keywords_semantic": "Campeonato Goiano, Divisão de Acesso, clubes tradicionais, Goiás Esporte Clube, Vila Nova, Anápolis, desenvolvimento regional, competições estaduais, rivalidades locais, promoção, rebaixamento, futebol brasileiro, revelação de talentos, cultura goiana, futebol interiorano, ascensão, prestígio local, torneios estaduais, história do futebol goiano.",
+      "keywords_es": "Goiano Módulo II, Brasil, Campeonato Goiano de Segunda División, fútbol goiano, clubes emergentes, ascenso brasileño, cultura del Cerrado, Vila Nova, Goiânia, Anápolis, Aparecida, Garotos do Goiás, pasión goiana, torcedores fervorosos, rivalidades regionales, talentos en desarrollo."
     },
     "country": {
       "name": "Brazil",
@@ -2034,7 +2086,8 @@
       "type": "Cup",
       "logo": "/logos/1035.png",
       "keywords": "Torneio Internacional, Vasco da Gama, Fluminense, Maracanã, 1951, Pioneiro, Palmeiras, Juventus, Sporting, Nacional, Estrela Vermelha, Lendário, Título Mundial, Intercontinental, Gilmar dos Santos Neves, Ademir de Menezes, Disputa de Pontos Corridos, Convidados Internacionais, Início do Futebol Globalizado, Prestígio Internacional, Campeões Continentais, Público Recorde.",
-      "keywords_semantic": "Copa Rio, torneio internacional, 1951, competição de clubes, Palmeiras, Vasco da Gama, importância histórica, precursor Copa Libertadores, prestígio internacional, clubes europeus, origem torneios intercontinentais, rivalidades Brasil-Europa, título mundial, FIFA reconhecimento, legado cultural."
+      "keywords_semantic": "Copa Rio, torneio internacional, 1951, competição de clubes, Palmeiras, Vasco da Gama, importância histórica, precursor Copa Libertadores, prestígio internacional, clubes europeus, origem torneios intercontinentais, rivalidades Brasil-Europa, título mundial, FIFA reconhecimento, legado cultural.",
+      "keywords_es": "Copa Rio, Brasil, Torneo Internacional, Años 1950, Importancia Histórica, Clubes Brasileños, Invitados Europeos, Palmeiras, Fluminense, Cuna de Campeones, Futbol Samba, Prestigio Mundial, Legado Histórico, Rivalidad Internacional, Memoria del Fútbol."
     },
     "country": {
       "name": "Brazil",
@@ -2073,7 +2126,8 @@
       "type": "Cup",
       "logo": "/logos/1036.png",
       "keywords": "Copa Santa Catarina, Brasil, Figueirense, Joinville, Criciúma, Avaí, Chapecoense, clássico catarinense, taça estadual, futebol sulista, Arena Condá, Estádio Orlando Scarpelli, Estádio da Ressacada, revelação de talentos, rivalidade regional, tradição local, acesso à Copa do Brasil, campeões estaduais, futebol catarinense, calendário esportivo, competição anual.",
-      "keywords_semantic": "Copa Santa Catarina, futebol brasileiro, importância regional, clubes catarinenses, Joinville, Figueirense, Avaí, Criciúma, Brusque, Chapecoense, competição estadual, acesso à Copa do Brasil, formato eliminatório, rivalidades locais, desenvolvimento de talentos, tradição regional, calendário futebolístico, Santa Catarina, cultura futebolística."
+      "keywords_semantic": "Copa Santa Catarina, futebol brasileiro, importância regional, clubes catarinenses, Joinville, Figueirense, Avaí, Criciúma, Brusque, Chapecoense, competição estadual, acesso à Copa do Brasil, formato eliminatório, rivalidades locais, desenvolvimento de talentos, tradição regional, calendário futebolístico, Santa Catarina, cultura futebolística.",
+      "keywords_es": "Catarinense, Brasil, Copa Santa Catarina, fútbol regional, Avaí, Figueirense, Joinville, Chapecoense, Brusque, rivalidad del sur, identidad cultural, pasión catarinense, tradición futbolística, fervor del estado, hinchada fervorosa, estadio Ressacada, clásico catarinense, desarrollo de talentos, cantera local, fútbol del sur, campeonato estadual."
     },
     "country": {
       "name": "Brazil",
@@ -2112,7 +2166,8 @@
       "type": "League",
       "logo": "/logos/1037.png",
       "keywords": "Paraibano 2, futebol paraibano, Brasil, Botafogo-PB, Treze, Campinense, clássico dos Maiorais, Estádio Almeidão, Estádio Amigão, revelação de talentos, acesso à elite, rivalidade regional, tradição nordestina, Copa do Nordeste, Copa do Brasil, formato de pontos corridos, mata-mata, torcidas apaixonadas, história do futebol paraibano, ídolos locais, importância regional.",
-      "keywords_semantic": "futebol brasileiro, segunda divisão, Paraíba, clubes locais, promoção, rebaixamento, torneio estadual, competição regional, origem cultural, talentos emergentes, rivalidades locais, tradição futebolística, desenvolvimento esportivo, história regional, formato de liga, impacto social, ascensão clubes, contexto brasileiro, cenário estadual, prestígio local"
+      "keywords_semantic": "futebol brasileiro, segunda divisão, Paraíba, clubes locais, promoção, rebaixamento, torneio estadual, competição regional, origem cultural, talentos emergentes, rivalidades locais, tradição futebolística, desenvolvimento esportivo, história regional, formato de liga, impacto social, ascensão clubes, contexto brasileiro, cenário estadual, prestígio local",
+      "keywords_es": "Segundona Paraibana, Brasil, ascenso al Paraibano, fútbol nordestino, Treze, Botafogo-PB, Campinense, clubes emergentes, pasión paraibana, fervor regional, talento local, identidad nordestina, rivalidades tradicionales, torcidas entusiastas, desarrollo juvenil."
     },
     "country": {
       "name": "Brazil",
@@ -2151,7 +2206,8 @@
       "type": "Cup",
       "logo": "/logos/1059.png",
       "keywords": "Recopa Catarinense, Santa Catarina, Avaí, Figueirense, Chapecoense, Criciúma, clássico catarinense, rivalidade estadual, futebol brasileiro, troféu estadual, campeão catarinense, Copa Santa Catarina, Estádio da Ressacada, Estádio Orlando Scarpelli, torcida apaixonada, ídolos catarinenses, futebol do sul do Brasil, título simbólico, mata-mata, confronto único.",
-      "keywords_semantic": "Recopa Catarinense, Santa Catarina, futebol brasileiro, clubes catarinenses, Avaí, Figueirense, Chapecoense, Criciúma, campeão estadual, campeão da Copa Santa Catarina, competição anual, rivalidades regionais, troféu estadual, prestígio local, história do futebol catarinense, abertura de temporada, futebol sul-brasileiro."
+      "keywords_semantic": "Recopa Catarinense, Santa Catarina, futebol brasileiro, clubes catarinenses, Avaí, Figueirense, Chapecoense, Criciúma, campeão estadual, campeão da Copa Santa Catarina, competição anual, rivalidades regionais, troféu estadual, prestígio local, história do futebol catarinense, abertura de temporada, futebol sul-brasileiro.",
+      "keywords_es": "Campeonato Catarinense, Brasil, O Leão da Ilha, O Verdão, Clássico Barriga Verde, Avaí, Figueirense, Chapecoense, Joinville, Criciúma, Futebol Catarinense, Derbi do Oeste, Tradição Sulista, Futebol do Sul do Brasil, A Paixão do Torcedor, Estado de Santa Catarina, Rivalidad Regional, História do Futebol Catarinense."
     },
     "country": {
       "name": "Brazil",
@@ -2190,7 +2246,8 @@
       "type": "League",
       "logo": "/logos/1062.png",
       "keywords": "Paulistão A4, clubes do interior, Copa Paulista, Derbi regional, Estádio do Interior, times tradicionais, acesso e rebaixamento, Ituano, São Bento, XV de Piracicaba, Ferroviária, talentos emergentes, rivalidades locais, torcidas apaixonadas, futebol de várzea, história do futebol paulista, campeões do passado, ascensão para divisões superiores, jogadores revelação, tradição esportiva, impacto regional.",
-      "keywords_semantic": "Campeonato Paulista, futebol regional, clubes paulistas, tradição local, divisões inferiores, acesso à elite, rivalidades paulistas, desenvolvimento de talentos, história do futebol paulista, clubes emergentes, formato de pontos corridos, prestígio estadual, competição regional, ascensão no futebol brasileiro, identidade cultural, torcida local, futebol de base, momentos decisivos."
+      "keywords_semantic": "Campeonato Paulista, futebol regional, clubes paulistas, tradição local, divisões inferiores, acesso à elite, rivalidades paulistas, desenvolvimento de talentos, história do futebol paulista, clubes emergentes, formato de pontos corridos, prestígio estadual, competição regional, ascensão no futebol brasileiro, identidade cultural, torcida local, futebol de base, momentos decisivos.",
+      "keywords_es": "Paulistão, Brasil, fútbol brasileño, campeonato estadual, São Paulo, Corinthians, Palmeiras, São Paulo FC, Santos, rivalidades históricas, fútbol arte, torcida, clásico paulista, Galo de Itu, Ferroviária, Portuguesa, tradición futbolística, cantera de talentos, samba y fútbol, hinchada apasionada."
     },
     "country": {
       "name": "Brazil",
@@ -2229,7 +2286,8 @@
       "type": "Cup",
       "logo": "/logos/1063.png",
       "keywords": "Copa Alagoas, Brasil, CRB, CSA, ASA, clássico das multidões, Estádio Rei Pelé, Maceió, rivalidade regional, futebol nordestino, revelação de talentos, torneio estadual, formato mata-mata, equipes emergentes, tradição alagoana, base para o Campeonato Alagoano, destaque local, torcida apaixonada, competição acirrada, calendário do futebol brasileiro.",
-      "keywords_semantic": "Copa Alagoas, futebol brasileiro, Alagoas, clubes alagoanos, competição estadual, torneio regional, rivalidades locais, importância cultural, CRB, CSA, ASA, Murici, história do futebol alagoano, formato mata-mata, prestígio estadual, campeões estaduais, desenvolvimento regional, base para competições nacionais."
+      "keywords_semantic": "Copa Alagoas, futebol brasileiro, Alagoas, clubes alagoanos, competição estadual, torneio regional, rivalidades locais, importância cultural, CRB, CSA, ASA, Murici, história do futebol alagoano, formato mata-mata, prestígio estadual, campeões estaduais, desenvolvimento regional, base para competições nacionais.",
+      "keywords_es": "Copa Alagoas, Brasil, fútbol nordestino, desarrollo regional, cantera de talentos, CSA, CRB, rivalidad alagoana, pasión alvinegra, torcidas fervorosas, tradición futbolera, clubes emergentes, identidad barrial, cultura futbolística, competencia estadual, orgullo regional."
     },
     "country": {
       "name": "Brazil",
@@ -2268,7 +2326,8 @@
       "type": "League",
       "logo": "/logos/1069.png",
       "keywords": "Goianão Sub-20, Brasil, Goiás, Vila Nova, Atlético Goianiense, Goiás Esporte Clube, revelação de talentos, base do futebol goiano, promessas do futebol, Estádio Serra Dourada, Estádio Olímpico, rivalidades regionais, formação de atletas, craques do futuro, campeonato estadual, categorias de base, jovens promissores, desenvolvimento esportivo, competição de base, tradição goiana no futebol.",
-      "keywords_semantic": "Goiano U20, Brasil, futebol juvenil, desenvolvimento de talentos, formação de jogadores, categorias de base, Atlético Goianiense, Goiás Esporte Clube, Vila Nova, rivalidades regionais, competição estadual, jovens promessas, campeonatos estaduais, vitrine para clubes, integração com times principais, base do futebol brasileiro, torneio de desenvolvimento."
+      "keywords_semantic": "Goiano U20, Brasil, futebol juvenil, desenvolvimento de talentos, formação de jogadores, categorias de base, Atlético Goianiense, Goiás Esporte Clube, Vila Nova, rivalidades regionais, competição estadual, jovens promessas, campeonatos estaduais, vitrine para clubes, integração com times principais, base do futebol brasileiro, torneio de desenvolvimento.",
+      "keywords_es": "Garotos do Cerrado, Brasil, cantera prodigiosa, revelación brasileña, Vila Nova, Goiás Esporte Clube, Atlético Goianiense, pasión juvenil, talentos emergentes, futuro del fútbol brasileño, formación de estrellas, fervor goiano, vibrante juventud futbolera, promesas del Cerrado, herederos del jogo bonito."
     },
     "country": {
       "name": "Brazil",
@@ -2307,7 +2366,8 @@
       "type": "League",
       "logo": "/logos/1071.png",
       "keywords": "Paranaense Sub-20, Brasil, promessas do futebol, Atlético Paranaense, Coritiba, Paraná Clube, categorias de base, formação de talentos, competição estadual, clássicos regionais, revelação de jogadores, rivalidade local, desenvolvimento juvenil, tradição futebolística, campeonato de aspirantes, jovens promessas, destaque nacional, talentos emergentes, preparação para o profissionalismo, craques do futuro.",
-      "keywords_semantic": "Paranaense U20, formação de talentos, jovens promessas, base do futebol brasileiro, clubes formadores, desenvolvimento juvenil, Atlético Paranaense, Coritiba FC, Paraná Clube, rivalidade estadual, competição de base, vitrine para scouts, categoria de base, revelação de jogadores, torneio juvenil, tradição paranaense, futebol paranaense, talentos emergentes, destaque jovem, prestígio regional, campeonato estadual."
+      "keywords_semantic": "Paranaense U20, formação de talentos, jovens promessas, base do futebol brasileiro, clubes formadores, desenvolvimento juvenil, Atlético Paranaense, Coritiba FC, Paraná Clube, rivalidade estadual, competição de base, vitrine para scouts, categoria de base, revelação de jogadores, torneio juvenil, tradição paranaense, futebol paranaense, talentos emergentes, destaque jovem, prestígio regional, campeonato estadual.",
+      "keywords_es": "Futebol de base, Brasil, cantera, talentos emergentes, futuro del fútbol, categoría juvenil, desarrollo de jóvenes, Atlético Paranaense, Furacão, formación de estrellas, promesas brasileñas, cultura futbolística, pasión juvenil, competencia formativa."
     },
     "country": {
       "name": "Brazil",
@@ -2346,7 +2406,8 @@
       "type": "League",
       "logo": "/logos/1073.png",
       "keywords": "Bahia, Vitória, Tricolor de Aço, Leão da Barra, jovens talentos, revelação de craques, base forte, rivalidade Ba-Vi, futebol nordestino, campeões estaduais, formação de atletas, desenvolvimento juvenil, estádio de Pituaçu, emoção no gramado, tradição no futebol de base, Bahia de Feira, Juazeirense, crescimento esportivo, competição acirrada, título estadual sub-20.",
-      "keywords_semantic": "futebol, Bahia, sub-20, categorias de base, jovens talentos, formação de atletas, clubes baianos, rivalidades regionais, desenvolvimento esportivo, torneio estadual, futuro do futebol, Esporte Clube Bahia, Esporte Clube Vitória, campeonatos estaduais, tradição cultural, competições juvenis, revelação de jogadores, times emergentes, futebol brasileiro, intercâmbio de talentos."
+      "keywords_semantic": "futebol, Bahia, sub-20, categorias de base, jovens talentos, formação de atletas, clubes baianos, rivalidades regionais, desenvolvimento esportivo, torneio estadual, futuro do futebol, Esporte Clube Bahia, Esporte Clube Vitória, campeonatos estaduais, tradição cultural, competições juvenis, revelação de jogadores, times emergentes, futebol brasileiro, intercâmbio de talentos.",
+      "keywords_es": "Baianinho, Brasil, cantera de talentos, jóvenes promesas, fútbol nordestino, Esquadrão de Aço, Leão da Barra, Tricolor Baiano, Ba-Vi, Salvador de Bahía, Axé y fútbol, torcidas apasionadas, rivalidades históricas, formación de jugadores, futuro del fútbol brasileño."
     },
     "country": {
       "name": "Brazil",
@@ -2385,7 +2446,8 @@
       "type": "League",
       "logo": "/logos/1076.png",
       "keywords": "Catarinense U20, Brasil, Figueirense, Avaí, Criciúma, Joinville, Chapecoense, base de talentos, formação de jovens, revelação de jogadores, futebol de base, futuro do futebol, rivalidade regional, tradição estadual, competição juvenil, desenvolvimento esportivo, categorias de base, promessas do futebol, campeonato estadual, destaque sul-americano, jovens promissores.",
-      "keywords_semantic": "Catarinense U20, futebol juvenil, Santa Catarina, formação de talentos, clubes catarinenses, rivalidades estaduais, jovens promessas, desenvolvimento de atletas, base do futebol brasileiro, competição regional, torneio de base, categorias de base, revelação de jogadores, tradição esportiva, futebol catarinense."
+      "keywords_semantic": "Catarinense U20, futebol juvenil, Santa Catarina, formação de talentos, clubes catarinenses, rivalidades estaduais, jovens promessas, desenvolvimento de atletas, base do futebol brasileiro, competição regional, torneio de base, categorias de base, revelação de jogadores, tradição esportiva, futebol catarinense.",
+      "keywords_es": "Catarinense Sub-20, Brasil, cantera brasileña, jóvenes promesas, formación de talento, Chapecoense, Avaí, Figueirense, Joinville, Criciúma, Garra catarinense, escuela de fútbol, futuro del fútbol brasileño, campeones del mañana, pasión futbolera, semillero de estrellas."
     },
     "country": {
       "name": "Brazil",
@@ -2424,7 +2486,8 @@
       "type": "Cup",
       "logo": "/logos/1082.png",
       "keywords": "Copa Rio U20, Brasil, categorias de base, jovens talentos, Flamengo, Fluminense, Vasco da Gama, Botafogo, revelação de jogadores, formação de atletas, torneio estadual, clubes cariocas, futuro do futebol, vitrine para scouts, competição de juniores, desenvolvimento esportivo, tradição do Rio de Janeiro, rivalidade local, oportunidades para jovens, legado esportivo, ídolos em formação.",
-      "keywords_semantic": "Copa Rio U20, categorias de base, desenvolvimento de jovens talentos, futebol brasileiro, torneio sub-20, clubes emergentes, vitrine de jogadores, formação de atletas, tradição esportiva, revelação de talentos, futebol de base, competições estaduais, scouting, jovens promessas, competição de desenvolvimento."
+      "keywords_semantic": "Copa Rio U20, categorias de base, desenvolvimento de jovens talentos, futebol brasileiro, torneio sub-20, clubes emergentes, vitrine de jogadores, formação de atletas, tradição esportiva, revelação de talentos, futebol de base, competições estaduais, scouting, jovens promessas, competição de desenvolvimento.",
+      "keywords_es": "Copa Rio Sub-20, Brasil, semillero de talentos, futuras estrellas, cantera brasileña, fútbol juvenil, historia de campeones, promesas del fútbol, jóvenes prodigios, clubes formadores, desarrollo de jugadores, cuna de cracks, tradición futbolera, formación y competencia, revelación de talentos."
     },
     "country": {
       "name": "Brazil",
@@ -2463,7 +2526,8 @@
       "type": "League",
       "logo": "/logos/1086.png",
       "keywords": "Paulistão Sub-20, Brasil, categorias de base, revelação de talentos, Federação Paulista de Futebol, Corinthians, São Paulo, Palmeiras, Santos, rivalidade estadual, jovens promessas, formação de jogadores, Cotia, La Masia Brasileira, Morumbi, Pacaembu, Allianz Parque, Vila Belmiro, jogadores lendários, futuro do futebol brasileiro, torneio de desenvolvimento, competição acirrada, formato de grupos, fase eliminatória, busca pelo título, destaque juvenil.",
-      "keywords_semantic": "Paulista Sub-20, base, formação de talentos, jovens promessas, clubes paulistas, categorias de base, desenvolvimento de jogadores, futuro do futebol brasileiro, rivalidades regionais, São Paulo FC, Palmeiras, Santos, Corinthians, competição estadual, Copa São Paulo de Futebol Júnior, visibilidade para jovens, scouting, vitrine para clubes europeus, tradição no futebol brasileiro."
+      "keywords_semantic": "Paulista Sub-20, base, formação de talentos, jovens promessas, clubes paulistas, categorias de base, desenvolvimento de jogadores, futuro do futebol brasileiro, rivalidades regionais, São Paulo FC, Palmeiras, Santos, Corinthians, competição estadual, Copa São Paulo de Futebol Júnior, visibilidade para jovens, scouting, vitrine para clubes europeus, tradição no futebol brasileiro.",
+      "keywords_es": "Paulistão de Base, Brasil, cantera, desarrollo juvenil, Corinthians Sub-20, Palmeiras Sub-20, Santos Sub-20, São Paulo Sub-20, Grêmio Osasco Audax Sub-20, fútbol formativo, futuras estrellas, talentos brasileños, Academia del Fútbol, promesas del fútbol, cuna de cracks, identidad futbolística, jóvenes prodigios, semillero brasileño, pasión por el fútbol."
     },
     "country": {
       "name": "Brazil",
@@ -2502,7 +2566,8 @@
       "type": "League",
       "logo": "/logos/1088.png",
       "keywords": "Galo da Madrugada, Timbu, Leão do Norte, Sport Recife, Náutico, Santa Cruz, Arena Pernambuco, Estádio dos Aflitos, Clássico das Multidões, base reveladora, categorias de base, rivalidade local, talentos pernambucanos, formação de jogadores, Regatas, Pernambuco, competições estaduais, futebol de base, tradição nordestina, ídolos do futuro.",
-      "keywords_semantic": "Pernambucano U20, desenvolvimento juvenil, Sport Recife, Náutico, Santa Cruz, talentos emergentes, torneio estadual, Nordeste do Brasil, rivalidades regionais, base do futebol brasileiro, formação de jogadores, clubes tradicionais, competições de base, conexão cultural, vitrine para jovens, futebol brasileiro, categorias de base, história local, oportunidade de carreira, observação de talentos, tradição futebolística."
+      "keywords_semantic": "Pernambucano U20, desenvolvimento juvenil, Sport Recife, Náutico, Santa Cruz, talentos emergentes, torneio estadual, Nordeste do Brasil, rivalidades regionais, base do futebol brasileiro, formação de jogadores, clubes tradicionais, competições de base, conexão cultural, vitrine para jovens, futebol brasileiro, categorias de base, história local, oportunidade de carreira, observação de talentos, tradição futebolística.",
+      "keywords_es": "Pernambucano Sub-20, Brasil, Talento joven, Fábrica de futuros cracks, Recife, Tradição nordestina, Santa Cruz Sub-20, Sport Recife Sub-20, Náutico Sub-20, Força local, Rivalidades intensas, Desarrolladores de talento, Estilo brasileño, Futuro del fútbol nordestino."
     },
     "country": {
       "name": "Brazil",
@@ -2541,7 +2606,8 @@
       "type": "League",
       "logo": "/logos/1096.png",
       "keywords": "Matogrossense 2, Brasil, Operário-VG, União Rondonópolis, Luverdense, Mixto, Cuiabá, rivalidades regionais, Arena Pantanal, futebol mato-grossense, revelação de talentos, acesso à elite, história do futebol local, torcida apaixonada, clássicos estaduais, calendário esportivo brasileiro, divisões de acesso, campeões estaduais, tradição do futebol mato-grossense, jogadores promissores.",
-      "keywords_semantic": "Campeonato Estadual, Mato Grosso, futebol brasileiro, clubes locais, Cuiabá, Operário-VG, Sinop, tradição regional, revelação de talentos, competição de acesso, rivalidades regionais, formato de pontos corridos, importância cultural, torneio de clubes, história estadual, prestígio local."
+      "keywords_semantic": "Campeonato Estadual, Mato Grosso, futebol brasileiro, clubes locais, Cuiabá, Operário-VG, Sinop, tradição regional, revelação de talentos, competição de acesso, rivalidades regionais, formato de pontos corridos, importância cultural, torneio de clubes, história estadual, prestígio local.",
+      "keywords_es": "Matogrossense 2, Brasil, fútbol regional, verdão, cuiabanos, rivalidades locales, campeonatos estatales, clubes emergentes, mixtura cultural, tradição do futebol, calor amazónico, talentos ocultos."
     },
     "country": {
       "name": "Brazil",
@@ -2580,7 +2646,8 @@
       "type": "Cup",
       "logo": "/logos/1097.png",
       "keywords": "Copa Espírito Santo, futebol capixaba, clubes tradicionais, Desportiva Ferroviária, Rio Branco-ES, Real Noroeste, Estrela do Norte, Tupy-ES, torcida apaixonada, revelação de talentos, competição estadual, futebol de base, Espírito Santo, rivalidades locais, gramados capixabas, formato de mata-mata, acesso à Copa Verde, história do futebol capixaba, emoção nos estádios, desenvolvimento esportivo regional.",
-      "keywords_semantic": "Copa Espírito Santo, futebol brasileiro, torneio estadual, clubes capixabas, importância local, competição anual, formato eliminatório, prestígio regional, revelação de talentos, Desportiva Ferroviária, Rio Branco, rivalidade local, tradição capixaba, futebol emergente, desenvolvimento esportivo."
+      "keywords_semantic": "Copa Espírito Santo, futebol brasileiro, torneio estadual, clubes capixabas, importância local, competição anual, formato eliminatório, prestígio regional, revelação de talentos, Desportiva Ferroviária, Rio Branco, rivalidade local, tradição capixaba, futebol emergente, desenvolvimento esportivo.",
+      "keywords_es": "Torneio Capixaba, Brasil, Espírito Santo, Clubes Tradicionales, Rio Branco-ES, Desportiva Ferroviária, Producción de Talentos, Fútbol Regional, Cultura Capixaba, Rivalidades Locales, Ascenso y Promoción, Identidad Brasileña, Pasión Futbolera, Torcida Vibrante, Desafío Estatal."
     },
     "country": {
       "name": "Brazil",
@@ -2619,7 +2686,8 @@
       "type": "League",
       "logo": "/logos/1098.png",
       "keywords": "Paulista Série B, futebol brasileiro, interior de São Paulo, clubes tradicionais, Juventus da Mooca, Ferroviária, Bragantino, Guarani, rivalidades regionais, o \"Noroeste\" de Bauru, estádio lotado, talentos emergentes, revelação de jogadores, acesso à Série A3, formato de pontos corridos, mata-mata decisivo, torcida apaixonada, futebol raiz, história do campeonato, importância local, desenvolvimento regional, craques do interior.",
-      "keywords_semantic": "Paulista Série B, divisões inferiores, futebol brasileiro, clubes emergentes, plataforma de talentos, história local, competição estadual, rivalidades regionais, desenvolvimento de jogadores, prestígio local, torcidas apaixonadas, ascensão futebolística, formato de grupos, tradição paulista, momentos decisivos, contextos comunitários, impacto cultural."
+      "keywords_semantic": "Paulista Série B, divisões inferiores, futebol brasileiro, clubes emergentes, plataforma de talentos, história local, competição estadual, rivalidades regionais, desenvolvimento de jogadores, prestígio local, torcidas apaixonadas, ascensão futebolística, formato de grupos, tradição paulista, momentos decisivos, contextos comunitários, impacto cultural.",
+      "keywords_es": "Paulistão B, Brasil, Ascenso a Série A3, Fútbol paulista, Tricolor del Interior, Canarinho B, Derbis regionales, Torcedores apasionados, Clubes tradicionales, Historia futbolística, Talento emergente, Ginga brasileña, Cultura caipira, Futbolistas del interior, Liga competitiva, Identidad paulista."
     },
     "country": {
       "name": "Brazil",
@@ -2658,7 +2726,8 @@
       "type": "League",
       "logo": "/logos/1100.png",
       "keywords": "Brasiliense Sub-20, jovens talentos, formação de base, futuros craques, futebol brasileiro, Brasília, categorias de base, desenvolvimento de jogadores, clubes locais, Estádio Bezerrão, rivalidade regional, Grêmio Anápolis, Samambaia FC, Ceilândia EC, Luziânia, revelações do futebol, Olheiros de clubes, Copa São Paulo de Juniores, destaque juvenil, sonho de profissionalização, torcidas locais, campeonatos juvenis.",
-      "keywords_semantic": "Desenvolvimento de jovens, categorias de base, talentos emergentes, formação de jogadores, competição de base, clubes do Distrito Federal, torneio sub-20, futebol brasiliense, futuro do futebol brasileiro, preparação profissional, destaque juvenil, oportunidades para jovens, campeonatos regionais, observação de talentos, vitrine para clubes maiores."
+      "keywords_semantic": "Desenvolvimento de jovens, categorias de base, talentos emergentes, formação de jogadores, competição de base, clubes do Distrito Federal, torneio sub-20, futebol brasiliense, futuro do futebol brasileiro, preparação profissional, destaque juvenil, oportunidades para jovens, campeonatos regionais, observação de talentos, vitrine para clubes maiores.",
+      "keywords_es": "Brasília, jóvenes talentos, cantera, futuro del fútbol brasileño, promesas, campeonato de base, formación de jugadores, Grêmio Brasiliense, Real Brasília, Brasilia Futebol Academia, tradición futbolística, desarrollo juvenil, pasión brasileña, fútbol de base, formación integral, campeones del mañana."
     },
     "country": {
       "name": "Brazil",
@@ -2697,7 +2766,8 @@
       "type": "League",
       "logo": "/logos/1106.png",
       "keywords": "Carioca C, Brasil, clubes pequenos, futebol carioca, rivalidades locais, Estádio de Moça Bonita, Estádio Aniceto Moscoso, Bangu, Madureira, Olaria, tradição suburbana, talento emergente, acesso à Série B, paixão regional, futebol de várzea, torcida local, jogos emocionantes, formato de mata-mata, divisões inferiores, campeões históricos, oportunidade para jovens jogadores, identidade cultural, futebol raiz, clima quente, dia de clássico.",
-      "keywords_semantic": "Carioca C, importância regional, clubes emergentes, futebol brasileiro, acesso à elite, formato estadual, rivalidades locais, tradição carioca, desenvolvimento de talentos, competição de base, cultura futebolística, história do Rio de Janeiro, prestígio estadual, clubes menores, cenário carioca."
+      "keywords_semantic": "Carioca C, importância regional, clubes emergentes, futebol brasileiro, acesso à elite, formato estadual, rivalidades locais, tradição carioca, desenvolvimento de talentos, competição de base, cultura futebolística, história do Rio de Janeiro, prestígio estadual, clubes menores, cenário carioca.",
+      "keywords_es": "Carioca C, Brasil, fútbol regional, Rio de Janeiro, campeonatos locales, clubes emergentes, Fluminense de Feira, Nova Iguaçu, tradición futbolera, talentos jóvenes, garra carioca, pasión futbolística, torcedores, cultura del samba, rivalidades locales."
     },
     "country": {
       "name": "Brazil",
@@ -2736,7 +2806,8 @@
       "type": "League",
       "logo": "/logos/1107.png",
       "keywords": "Galo, Raposa, Coelho, Atlético Mineiro, Cruzeiro, América-MG, clássicos mineiros, categorias de base, revelação de talentos, Arena Independência, Mineirão, futebol de formação, rivalidade estadual, jovens promessas, títulos estaduais, formação de jogadores, campeonato sub-20, desenvolvimento esportivo, talentos emergentes, estrutura de base, futuro do futebol brasileiro.",
-      "keywords_semantic": "Mineiro U20, futebol juvenil, categorias de base, formação de talentos, Atlético Mineiro U20, Cruzeiro U20, América Mineiro U20, rivalidade mineira, desenvolvimento de jogadores, campeonato estadual, tradição esportiva, competição regional, aspirações profissionais, craques do futuro, cenário brasileiro, jovens promessas, clubes de Minas Gerais, Copa São Paulo de Futebol Júnior, observação de talentos, potencial internacional."
+      "keywords_semantic": "Mineiro U20, futebol juvenil, categorias de base, formação de talentos, Atlético Mineiro U20, Cruzeiro U20, América Mineiro U20, rivalidade mineira, desenvolvimento de jogadores, campeonato estadual, tradição esportiva, competição regional, aspirações profissionais, craques do futuro, cenário brasileiro, jovens promessas, clubes de Minas Gerais, Copa São Paulo de Futebol Júnior, observação de talentos, potencial internacional.",
+      "keywords_es": "Campeonato Mineiro Sub-20, Brasil, cantera brasileña, promesas del fútbol, Atlético Mineiro, Cruzeiro, América Mineiro, fogueo juvenil, talento emergente, futebol arte, formación de estrellas, Belo Horizonte, pasión futbolera, fútbol de base, futuro del fútbol brasileño, jóvenes prodigios, tradición futbolística."
     },
     "country": {
       "name": "Brazil",
@@ -2775,7 +2846,8 @@
       "type": "League",
       "logo": "/logos/1108.png",
       "keywords": "Sergipe, Dragão do Bairro Industrial, Confiança, Itabaiana, Gipão, rivalidade local, Grêmio Sergipano, base do futebol sergipano, talentos emergentes, futuro do futebol brasileiro, jovens promessas, Estádio Batistão, tradição nordestina, formação de atletas, Caju x Colorado, partidas emocionantes, desenvolvimento juvenil, clubes históricos, competitividade regional, oportunidades para jovens.",
-      "keywords_semantic": "Sergipano U20, futebol de base, desenvolvimento de talentos, clubes sergipanos, formação de jovens atletas, Confiança, Itabaiana, rivalidades regionais, competições estaduais, descoberta de talentos, plataforma para profissionais, torneio de jovens, tradição do futebol nordestino, campeonatos estaduais, futuro do futebol brasileiro."
+      "keywords_semantic": "Sergipano U20, futebol de base, desenvolvimento de talentos, clubes sergipanos, formação de jovens atletas, Confiança, Itabaiana, rivalidades regionais, competições estaduais, descoberta de talentos, plataforma para profissionais, torneio de jovens, tradição do futebol nordestino, campeonatos estaduais, futuro do futebol brasileiro.",
+      "keywords_es": "Sergipano Sub-20, Brasil, cantera de talentos, promesas del fútbol, futuro del fútbol brasileño, clubes formadores, Tricolor da Serra, Gipão, Alvinegro, Dragão, identidad nordestina, fervor juvenil, pasión sergipana, Aracaju, rivalidades juveniles, fútbol de base, desarrollo de jugadores, esencia brasileña, cultura futbolística nordestina, herencia futbolística, talento emergente."
     },
     "country": {
       "name": "Brazil",
@@ -2814,7 +2886,8 @@
       "type": "League",
       "logo": "/logos/1110.png",
       "keywords": "Galo da Praia, Brasil, CRB, CSA, Estádio Rei Pelé, talentos emergentes, formação de base, Campeonato Alagoano, rivalidade local, Maceió, descobrindo craques, tradição nordestina, futebol jovem, Copa São Paulo de Futebol Júnior, visibilidade nacional, formato de pontos corridos, fase final, revelação de talentos, infraestrutura esportiva, apoio das torcidas, futuro do futebol brasileiro.",
-      "keywords_semantic": "futebol brasileiro, categoria de base, desenvolvimento de talentos, CRB, CSA, Alagoas, rivalidade local, formação de jovens, competição estadual, futuro do futebol, prestígio regional, Copa do Nordeste, campeonatos juvenis, clubes emergentes, tradição esportiva, descoberta de talentos, base do futebol brasileiro, intercâmbio de jogadores, campeonatos sub-20, rivalidade histórica"
+      "keywords_semantic": "futebol brasileiro, categoria de base, desenvolvimento de talentos, CRB, CSA, Alagoas, rivalidade local, formação de jovens, competição estadual, futuro do futebol, prestígio regional, Copa do Nordeste, campeonatos juvenis, clubes emergentes, tradição esportiva, descoberta de talentos, base do futebol brasileiro, intercâmbio de jogadores, campeonatos sub-20, rivalidade histórica",
+      "keywords_es": "Guerreiros Alagoanos, Brasil, cantera brasileña, promesas del fútbol, Palmeiras dos Índios, Coruripe, CSA Sub-20, CRB Sub-20, talento juvenil, forjadores de futuro, fútbol nordestino, pasión alagoana, base formativa, jóvenes prodigios, identidad alagoana."
     },
     "country": {
       "name": "Brazil",
@@ -2853,7 +2926,8 @@
       "type": "League",
       "logo": "/logos/1112.png",
       "keywords": "Ceará, Fortaleza, Vovô, Leão do Pici, Estádio Castelão, Estádio Presidente Vargas, base forte, revelação de talentos, jovens promessas, Clássico-Rei, futebol nordestino, tradição local, rivalidade histórica, formação de atletas, futuro do futebol brasileiro, campeonato estadual, sistema de grupos, fase eliminatória, torcidas apaixonadas, desenvolvimento regional.",
-      "keywords_semantic": "formação de base, talentos emergentes, Ceará, Fortaleza, revelação de jogadores, desenvolvimento juvenil, futuro do futebol, categorias de base, rivalidade local, tradição regional, competição estadual, jovens promessas, clubes cearenses, torneio sub-20, futebol nordestino, preparação profissional, campeonato juvenil, esportes regionais, ascensão de jogadores."
+      "keywords_semantic": "formação de base, talentos emergentes, Ceará, Fortaleza, revelação de jogadores, desenvolvimento juvenil, futuro do futebol, categorias de base, rivalidade local, tradição regional, competição estadual, jovens promessas, clubes cearenses, torneio sub-20, futebol nordestino, preparação profissional, campeonato juvenil, esportes regionais, ascensão de jogadores.",
+      "keywords_es": "Cearense U20, Brasil, cantera de talentos, futuros cracks, Fortaleza, Ceará, jóvenes promesas, fervor nordestino, pasión futbolera, tradición juvenil, nueva generación, formación de ídolos, campeonato sub-20, fútbol nordestino, desarrollo futbolístico."
     },
     "country": {
       "name": "Brazil",
@@ -2892,7 +2966,8 @@
       "type": "League",
       "logo": "/logos/1114.png",
       "keywords": "Campeonato Carioca Sub-20, Brasil, Flamengo, Fluminense, Vasco da Gama, Botafogo, categorias de base, jovens talentos, formação de jogadores, clássicos cariocas, rivalidade regional, Estádio Maracanã, craques emergentes, tradição futebolística, revelação de futuros ídolos, Taça Guanabara, Taça Rio, fase de grupos, mata-mata, título estadual.",
-      "keywords_semantic": "Juventude, formação, tradição, talentos emergentes, Flamengo, Fluminense, Vasco da Gama, Botafogo, rivalidade carioca, desenvolvimento de jogadores, base, competição regional, prestígio local, história, revelações, cenário brasileiro, futebol de base, clássico, categorias de base, competição anual, torcida jovem."
+      "keywords_semantic": "Juventude, formação, tradição, talentos emergentes, Flamengo, Fluminense, Vasco da Gama, Botafogo, rivalidade carioca, desenvolvimento de jogadores, base, competição regional, prestígio local, história, revelações, cenário brasileiro, futebol de base, clássico, categorias de base, competição anual, torcida jovem.",
+      "keywords_es": "Carioca Sub-20, Brasil, cantera, promesas del fútbol, jóvenes talentos, Flamengo, Fluminense, Botafogo, Vasco da Gama, fútbol carioca, Gávea, Maracanã, pasión brasileña, juego bonito, formación de estrellas, futuro del fútbol brasileño, rivalidad clásica, torcidas, alegría del pueblo, cuna de cracks."
     },
     "country": {
       "name": "Brazil",
@@ -2931,7 +3006,8 @@
       "type": "League",
       "logo": "/logos/1115.png",
       "keywords": "Paraense B2, Campeonato Paraense, clubes do Pará, clubes tradicionais do Pará, futebol paraense, Brasil, Águia de Marabá, Castanhal, Remo, Paysandu, Tuna Luso, Estádio Mangueirão, jogadores revelação, talentos locais, acesso à elite, formato de disputa estadual, rivalidade regional, futebol amazônico, torcida apaixonada, cultura paraense, história do campeonato, importância estadual.",
-      "keywords_semantic": "Paraense B2, futebol brasileiro, competição estadual, clubes emergentes, divisão inferior, desenvolvimento local, talentos regionais, rivalidades locais, história regional, acesso à elite, formato de pontos corridos, prestígio estadual, cenário esportivo paraense, crescimento de clubes, tradição futebolística."
+      "keywords_semantic": "Paraense B2, futebol brasileiro, competição estadual, clubes emergentes, divisão inferior, desenvolvimento local, talentos regionais, rivalidades locais, história regional, acesso à elite, formato de pontos corridos, prestígio estadual, cenário esportivo paraense, crescimento de clubes, tradição futebolística.",
+      "keywords_es": "Parazão, Brasil, fútbol amazónico, clubes emergentes, pasión regional, Castanhal, bragantinense, fútbol de raíz, talento local, torcida fervorosa, desarrollo juvenil, rivalidades locales."
     },
     "country": {
       "name": "Brazil",
@@ -2970,7 +3046,8 @@
       "type": "League",
       "logo": "/logos/1120.png",
       "keywords": "Paraibano U20, futebol de base, Brasil, Botafogo-PB, Treze, Campinense, Estádio Almeidão, jovens talentos, revelação de jogadores, disputa regional, mata-mata, fase de grupos, formação de atletas, rivalidade local, crescimento esportivo, Copa do Nordeste Sub-20, futuro do futebol brasileiro, Nordeste do Brasil, tradição esportiva, desenvolvimento de talentos, visibilidade nacional.",
-      "keywords_semantic": "Paraibano U20, futebol de base, clubes paraibanos, revelação de talentos, desenvolvimento juvenil, campeonatos estaduais, cultura futebolística, esporte regional, rivalidades locais, potencial internacional, torneio sub-20, prestígio estadual, Atlético de Cajazeiras, Botafogo-PB, Treze, Campinense, formação de jogadores, tradição esportiva, competição juvenil, destaque regional."
+      "keywords_semantic": "Paraibano U20, futebol de base, clubes paraibanos, revelação de talentos, desenvolvimento juvenil, campeonatos estaduais, cultura futebolística, esporte regional, rivalidades locais, potencial internacional, torneio sub-20, prestígio estadual, Atlético de Cajazeiras, Botafogo-PB, Treze, Campinense, formação de jogadores, tradição esportiva, competição juvenil, destaque regional.",
+      "keywords_es": "Paraibano U20, Brasil, cantera de talentos, promesas del fútbol, fervor nordestino, Botafogo-PB, Treze, Campinense, alma juvenil, fútbol base, formación de estrellas, pasión paraibana, rivalidad clásica, cuna de futuros profesionales, identidad nordestina, jóvenes promesas."
     },
     "country": {
       "name": "Brazil",
@@ -3009,7 +3086,8 @@
       "type": "League",
       "logo": "/logos/1124.png",
       "keywords": "Ceará Sporting Club, Fortaleza Esporte Clube, Clássico-Rei, Estádio Castelão, futebol nordestino, rivalidade histórica, torcida apaixonada, campeonatos estaduais, jogadores revelação, clubes emergentes, tradição cearense, formato de pontos corridos, mata-mata, Ferroviário Atlético Clube, Guarany de Sobral, Icasa Futebol Clube, importância regional, base de talentos, Copa do Nordeste, influência cultural.",
-      "keywords_semantic": "futebol brasileiro, campeonato estadual, terceira divisão, clubes locais, Ceará, desenvolvimento de talentos, futebol regional, competições amadoras, rivalidades locais, clubes emergentes, panorama esportivo, identidade cultural, história do futebol, acesso à elite, campeonatos de base."
+      "keywords_semantic": "futebol brasileiro, campeonato estadual, terceira divisão, clubes locais, Ceará, desenvolvimento de talentos, futebol regional, competições amadoras, rivalidades locais, clubes emergentes, panorama esportivo, identidade cultural, história do futebol, acesso à elite, campeonatos de base.",
+      "keywords_es": "Cearense 3, Brasil, fútbol nordestino, equipos emergentes, Ceará, Fortaleza, pasión nordestina, Estádio Presidente Vargas, fervor local, liga regional, clubes de barrio, tradición futbolera, desarrollo de talentos, torcidas, identidad cearense, fútbol comunitario."
     },
     "country": {
       "name": "Brazil",
@@ -3048,7 +3126,8 @@
       "type": "League",
       "logo": "/logos/1125.png",
       "keywords": "Leão da Ilha, Timbu, Tricolor do Arruda, Sport Recife, Náutico, Santa Cruz, Clássico dos Clássicos, Clássico das Multidões, Estádio Ilha do Retiro, Estádio dos Aflitos, Estádio do Arruda, Givanildo Oliveira, Rivaldo, Juninho Pernambucano, Campeonato Estadual, formato de pontos corridos, mata-mata, tradição nordestina, rivalidade histórica, torcida apaixonada, títulos estaduais, hegemonia regional.",
-      "keywords_semantic": "Pernambucano, segunda divisão, clubes tradicionais, acesso à elite, rivalidade local, futebol nordestino, clubes emergentes, competição regional, história pernambucana, talentos locais, cultura futebolística, torneio estadual, ascensão futebolística, desenvolvimento de jogadores, formato competitivo."
+      "keywords_semantic": "Pernambucano, segunda divisão, clubes tradicionais, acesso à elite, rivalidade local, futebol nordestino, clubes emergentes, competição regional, história pernambucana, talentos locais, cultura futebolística, torneio estadual, ascensão futebolística, desenvolvimento de jogadores, formato competitivo.",
+      "keywords_es": "Pernambucano-2, Brasil, fútbol nordestino, ascenso y descenso, pasión local, clubes históricos, Náutico, Santa Cruz, Sport Recife, Leão do Norte, Clássico das Multidões, identidad regional, fervor pernambucano, cultura nordestina, hinchada vibrante, rivalidades intensas."
     },
     "country": {
       "name": "Brazil",
@@ -3087,7 +3166,8 @@
       "type": "League",
       "logo": "/logos/1128.png",
       "keywords": "Brasileirão Sub-17, jovens talentos, categorias de base, Grêmio, Flamengo, Palmeiras, São Paulo, formação de atletas, futuras estrelas, torneio nacional, promessas do futebol, desenvolvimento juvenil, campeões do futuro, rivalidade regional, clubes formadores, revelações, craques emergentes, estrutura de competição, scouting, observação de talentos.",
-      "keywords_semantic": "formação de base, talentos emergentes, futebol juvenil, desenvolvimento de jogadores, clubes históricos, futuro do futebol brasileiro, rivalidades regionais, competição nacional, prospectos promissores, CBF, categorias de base, jovens talentos, academias de futebol, vitrine para scouts, formação técnica, campeonato de aspirantes, revelação de craques, tradição esportiva, clubes formadores, torneio sub-17, intercâmbio de talentos, oportunidades internacionais, desenvolvimento esportivo, legado futebolístico, jovens promessas, scouting, panorama juvenil."
+      "keywords_semantic": "formação de base, talentos emergentes, futebol juvenil, desenvolvimento de jogadores, clubes históricos, futuro do futebol brasileiro, rivalidades regionais, competição nacional, prospectos promissores, CBF, categorias de base, jovens talentos, academias de futebol, vitrine para scouts, formação técnica, campeonato de aspirantes, revelação de craques, tradição esportiva, clubes formadores, torneio sub-17, intercâmbio de talentos, oportunidades internacionais, desenvolvimento esportivo, legado futebolístico, jovens promessas, scouting, panorama juvenil.",
+      "keywords_es": "Brasileirão Sub-17, Brasil, semillero de talentos, futuras estrellas, fútbol juvenil, cantera brasileña, desarrollo de jugadores, promesas del balón, Grêmio Sub-17, Flamengo Sub-17, Palmeiras Sub-17, Corinthians Sub-17, São Paulo Sub-17, técnica y habilidad, Jogo Bonito, cuna del fútbol, jóvenes prodigios, pasión brasileña, talentos emergentes."
     },
     "country": {
       "name": "Brazil",
@@ -3126,7 +3206,8 @@
       "type": "League",
       "logo": "/logos/1133.png",
       "keywords": "Goianão, Goiás Esporte Clube, Vila Nova, Atlético Goianiense, Estádio Serra Dourada, Campeonato Goiano, rivalidade regional, futebol goiano, craques do passado, Evair, Túlio Maravilha, base de talentos, tradição esportiva, torneio estadual, formato de pontos corridos, mata-mata, títulos históricos, paixão goiana, torcida vibrante, ascensão de clubes menores, revelação de jogadores, impacto local, clubes emergentes, calendário esportivo brasileiro.",
-      "keywords_semantic": "Liga Goiano 3, futebol brasileiro, divisões inferiores, clubes regionais, Goiás, desenvolvimento de talentos, clubes emergentes, importância local, competição estadual, rivalidades regionais, acesso e descenso, descoberta de jogadores, torneio estadual, crescimento esportivo, formato de liga, história do futebol goiano."
+      "keywords_semantic": "Liga Goiano 3, futebol brasileiro, divisões inferiores, clubes regionais, Goiás, desenvolvimento de talentos, clubes emergentes, importância local, competição estadual, rivalidades regionais, acesso e descenso, descoberta de jogadores, torneio estadual, crescimento esportivo, formato de liga, história do futebol goiano.",
+      "keywords_es": "Goianão, Brasil, tradición futbolística, Estádio Serra Dourada, Goiás Esporte Clube, Vila Nova, Atlético Goianiense, fervor goiano, \"Verdão\", \"Tigre\", \"Dragão\", apasionados hinchas, rivalidad local, talento emergente, cantera futbolística, cultura sertaneja, orgullo regional."
     },
     "country": {
       "name": "Brazil",
@@ -3165,7 +3246,8 @@
       "type": "League",
       "logo": "/logos/1134.png",
       "keywords": "Barezão, Manaus FC, Nacional-AM, Rio Negro, Fast Clube, Princesa do Solimões, Estádio da Colina, Estádio Ismael Benigno, futebol manauara, rivalidades locais, Amazônia, talentos regionais, ascensão ao cenário nacional, torcidas apaixonadas, Campeonato Estadual, formato de pontos corridos, fase final, heróis locais, tradição amazônica, desenvolvimento do futebol na região.",
-      "keywords_semantic": "Amazonense Série B, futebol regional, Amazonas, clubes locais, ascensão, rebaixamento, desenvolvimento esportivo, Manaus FC, Fast Clube, tradição regional, competição estadual, promoção, rivalidades locais, futebol brasileiro, torcidas apaixonadas, impacto social, talentos emergentes"
+      "keywords_semantic": "Amazonense Série B, futebol regional, Amazonas, clubes locais, ascensão, rebaixamento, desenvolvimento esportivo, Manaus FC, Fast Clube, tradição regional, competição estadual, promoção, rivalidades locais, futebol brasileiro, torcidas apaixonadas, impacto social, talentos emergentes",
+      "keywords_es": "Barezão, Brasil, selva amazónica, Manaus, Nacional FC, Rio Negro, São Raimundo, cultura indígena, rivalidad regional, estadio Arena da Amazônia, pasión futbolera, calor amazónico, talento emergente, fútbol brasileño, historia amazónica, fervor local."
     },
     "country": {
       "name": "Brazil",
@@ -3204,7 +3286,8 @@
       "type": "League",
       "logo": "/logos/1135.png",
       "keywords": "Sergipão, Brasil, Confiança, Sergipe, Itabaiana, Clássico Maior, Batistão, Hexagonal Final, Torneio Início, Rivalidade, Título Estadual, Aracaju, Estrela do Nordeste, Estádio Lourival Baptista, Futebol Nordestino, Campeão Sergipano, Formato de pontos corridos, Mata-mata, Ídolos Locais, Base Reveladora.",
-      "keywords_semantic": "Sergipano-2, futebol brasileiro, divisões inferiores, clubes locais, importância regional, rivalidades estaduais, desenvolvimento de talentos, clubes emergentes, história local, competição estadual, acesso à elite, cultura futebolística, torcidas apaixonadas, formato de pontos corridos, prestígio estadual, tradição regional."
+      "keywords_semantic": "Sergipano-2, futebol brasileiro, divisões inferiores, clubes locais, importância regional, rivalidades estaduais, desenvolvimento de talentos, clubes emergentes, história local, competição estadual, acesso à elite, cultura futebolística, torcidas apaixonadas, formato de pontos corridos, prestígio estadual, tradição regional.",
+      "keywords_es": "Sergipão, Brasil, Nordeste, Aracaju, Confiança, Sergipe, River Plate-SE, Clásico dos Maiorais, fútbol regional, pasión nordestina, talentos emergentes, rivalidad local, cultura brasileña, fútbol de base, identidad sergipana."
     },
     "country": {
       "name": "Brazil",
@@ -3243,7 +3326,8 @@
       "type": "League",
       "logo": "/logos/1138.png",
       "keywords": "Apelidos: Furacão, Coxa, Leão do Vale, Fantasma,  \nPaíses envolvidos: Brasil,  \nClubes tradicionais: Atlético Paranaense, Coritiba, Paraná Clube, Londrina,  \nMomentos históricos: Clássico Atletiba, Decisões emocionantes, Ascensão de novos talentos,  \nJogadores lendários: Sicupira, Alex, Kleberson, Dirceu Krüger,  \nImportância esportiva: Revelação de jovens talentos, Tradição regional, Rivalidades intensas,  \nFormato de disputa: Fase de grupos, Mata-mata, Decisão em dois jogos, Turno e returno.",
-      "keywords_semantic": "futebol regional, Paraná, clubes locais, desenvolvimento de talentos, terceira divisão, competição estadual, Atlético-PR, Coritiba, Paraná Clube, visibilidade local, rivalidades regionais, cenário futebolístico, torcidas apaixonadas, formação de jogadores, história do futebol paranaense."
+      "keywords_semantic": "futebol regional, Paraná, clubes locais, desenvolvimento de talentos, terceira divisão, competição estadual, Atlético-PR, Coritiba, Paraná Clube, visibilidade local, rivalidades regionais, cenário futebolístico, torcidas apaixonadas, formação de jogadores, história do futebol paranaense.",
+      "keywords_es": "Campeonato Paranaense Série C, Brasil, fútbol brasileño, regional, clubes emergentes, Atlético Paranaense, Coritiba, Paraná Clube, Operário Ferroviário, rivalidad local, talentos jóvenes, fervor paranaense, garra y pasión, hinchada vibrante, futbol de ascenso, tradición futbolística, desarrollo de cantera, fútbol interior."
     },
     "country": {
       "name": "Brazil",
@@ -3282,7 +3366,8 @@
       "type": "League",
       "logo": "/logos/1139.png",
       "keywords": "Potiguar U-20, Rio Grande do Norte, futebol de base, ABC, América de Natal, Alecrim, revelação de talentos, categorias de base, formação de jogadores, jovens promessas, futuro do futebol brasileiro, estaduais de base, competição juvenil, tradição nordestina, rivalidade local, desenvolvimento esportivo, clubes potiguares, campeões estaduais, futuro craque, torneio juvenil.",
-      "keywords_semantic": "futebol de base, formação de talentos, Rio Grande do Norte, clubes potiguares, ABC FC, América de Natal, jovens promessas, desenvolvimento juvenil, competição regional, campeonato estadual, revelação de jogadores, rivalidades locais, prestígio regional, torneio sub-20, história do futebol potiguar"
+      "keywords_semantic": "futebol de base, formação de talentos, Rio Grande do Norte, clubes potiguares, ABC FC, América de Natal, jovens promessas, desenvolvimento juvenil, competição regional, campeonato estadual, revelação de jogadores, rivalidades locais, prestígio regional, torneio sub-20, história do futebol potiguar",
+      "keywords_es": "Campeonato Potiguar Sub-20, Brasil, cantera, desarrollo juvenil, promesas del fútbol, ABC, América de Natal, potiguar, talentos emergentes, formación de jugadores, cultura futbolística brasileña, forja de estrellas, pasión nordestina, fútbol base."
     },
     "country": {
       "name": "Brazil",
@@ -3321,7 +3406,8 @@
       "type": "League",
       "logo": "/logos/1141.png",
       "keywords": "Brasiliense B, futebol brasileiro, clubes do Distrito Federal, campeonato estadual, Ceilândia, Brasiliense FC, Gama, Luziânia, rivalidade local, talentos emergentes, acesso à elite, formato de pontos corridos, mata-mata, torcida apaixonada, tradição regional, desenvolvimento de base, impacto econômico local.",
-      "keywords_semantic": "Liga Brasiliense B, campeonato estadual, futebol brasileiro, clubes do Distrito Federal, importância regional, categorias de base, revelação de talentos, formato de pontos corridos, segunda divisão, acesso e descenso, rivalidades locais, clubes emergentes, desenvolvimento do futebol, torneio de clubes, prestígio local."
+      "keywords_semantic": "Liga Brasiliense B, campeonato estadual, futebol brasileiro, clubes do Distrito Federal, importância regional, categorias de base, revelação de talentos, formato de pontos corridos, segunda divisão, acesso e descenso, rivalidades locais, clubes emergentes, desenvolvimento do futebol, torneio de clubes, prestígio local.",
+      "keywords_es": "Candangão, Brasil, fútbol de Brasilia, Estádio Mané Garrincha, Gama, Brasiliense, Sobradinho, Ceilândia, Legião, Atlético Taguatinga, rivalidad regional, pasión futbolera del Distrito Federal, desarrollo de nuevos talentos, cuna de promesas futbolísticas, fervor brasiliense, torcidas, cultura del cerrado, tradición futbolera emergente."
     },
     "country": {
       "name": "Brazil",
@@ -3360,7 +3446,8 @@
       "type": "League",
       "logo": "/logos/1142.png",
       "keywords": "Atlético Mineiro, Cruzeiro, América Mineiro, Raposa, Galo, Coelho, clássico mineiro, Estádio Mineirão, Estádio Independência, Campeonato Mineiro, título estadual, hegemonia, rivalidade, Reinaldo, Tostão, Dirceu Lopes, João Leite, Toninho Cerezo, Ronaldinho Gaúcho, formação de base, hegemonia regional, troféu do interior, fase de grupos, mata-mata, final única, tradição mineira, futebol brasileiro.",
-      "keywords_semantic": "Campeonato Mineiro, terceira divisão, futebol regional, Minas Gerais, clubes mineiros, história local, competição estadual, desenvolvimento de talentos, rivalidades locais, prestígio regional, acesso à segunda divisão, clubes tradicionais, cultura futebolística mineira, torneio de acesso, equipes emergentes."
+      "keywords_semantic": "Campeonato Mineiro, terceira divisão, futebol regional, Minas Gerais, clubes mineiros, história local, competição estadual, desenvolvimento de talentos, rivalidades locais, prestígio regional, acesso à segunda divisão, clubes tradicionais, cultura futebolística mineira, torneio de acesso, equipes emergentes.",
+      "keywords_es": "Campeonato Mineiro Série C, Brasil, fútbol regional, clubes emergentes, Belo Horizonte, rivalidades locales, talentos jóvenes, clubes mineros, pasión futbolera, campeonato estadual, Atlético Mineiro, Cruzeiro, equipos históricos, fútbol brasileño, identidad minera, desarrollo de jugadores, hinchada apasionada, tradición futbolística, Troféu Inconfidência."
     },
     "country": {
       "name": "Brazil",
@@ -3399,7 +3486,8 @@
       "type": "League",
       "logo": "/logos/1143.png",
       "keywords": "Estaduais, categorias de base, revelação de talentos, promessas do futebol, clubes tradicionais, rivalidade regional, Palmeiras, Flamengo, Corinthians, São Paulo, Grêmio, Internacional, Cruzeiro, Atlético Mineiro, Fluminense, Vasco da Gama, Botafogo, jogadores prodígios, olheiros, formação de atletas, desenvolvimento juvenil, campeões estaduais, torcida, futuro do futebol brasileiro, competição acirrada, jovens promessas, destaque nacional, formato de pontos corridos, mata-mata, estrutura de base.",
-      "keywords_semantic": "base, formação, talentos, jovens, categorias de base, promessas, desenvolvimento, clubes locais, futuro, revelação, competitividade, observadores, sub-20, rivalidade regional, tradição, futebol de base, campeonatos estaduais, visibilidade, captação, potencial, crescimento, intercâmbio, identidade, paixão local, história, cultura do futebol, aspirantes, clubes formadores, integração, torneio juvenil, destaque."
+      "keywords_semantic": "base, formação, talentos, jovens, categorias de base, promessas, desenvolvimento, clubes locais, futuro, revelação, competitividade, observadores, sub-20, rivalidade regional, tradição, futebol de base, campeonatos estaduais, visibilidade, captação, potencial, crescimento, intercâmbio, identidade, paixão local, história, cultura do futebol, aspirantes, clubes formadores, integração, torneio juvenil, destaque.",
+      "keywords_es": "Estadual Junior U20, Brasil, cantera de talentos, promesas del fútbol, Sub-20, futuro del fútbol brasileño, jóvenes prodigios, formación de estrellas, base del fútbol brasileño, Grêmio, Internacional, Flamengo, Fluminense, Palmeiras, Santos, Corinthians, identidad brasileña, futebol arte, pasión juvenil, desarrollo de jugadores, tradición formativa, semillero de cracks."
     },
     "country": {
       "name": "Brazil",
@@ -3438,7 +3526,8 @@
       "type": "League",
       "logo": "/logos/1145.png",
       "keywords": "Campeonato Paraense B1, Brasil, Papão, Remo, Paysandu, Leão Azul, Mangueirão, Re-Pa, Estádio Baenão, Curuzu, Club do Remo, Paysandu Sport Club, Águia de Marabá, Castanhal, Paragominas, Tuna Luso, Estrela do Norte, rivalidade, futebol paraense, Série B1, segunda divisão, acesso, talentos locais, futebol regional, tradição, torcida apaixonada, campeões estaduais, Taça Cidade de Belém, histórias de superação, formação de jogadores.",
-      "keywords_semantic": "Paraense B1, futebol brasileiro, segunda divisão, Pará, clubes locais, competição estadual, acesso à elite, talentos emergentes, tradição regional, campeonato estadual, rivalidades locais, história do futebol paraense, clubes do interior, cultura futebolística, desenvolvimento de jogadores, torcida apaixonada."
+      "keywords_semantic": "Paraense B1, futebol brasileiro, segunda divisão, Pará, clubes locais, competição estadual, acesso à elite, talentos emergentes, tradição regional, campeonato estadual, rivalidades locais, história do futebol paraense, clubes do interior, cultura futebolística, desenvolvimento de jogadores, torcida apaixonada.",
+      "keywords_es": "Parazão, Brasil, Norte del país, Club do Remo, Paysandu, Estadio Mangueirão, clásico Re-Pa, fervor amazónico, Leão Azul, Papão da Curuzu, torcidas apasionadas, cultura belemense, fútbol amazónico."
     },
     "country": {
       "name": "Brazil",
@@ -3477,7 +3566,8 @@
       "type": "Cup",
       "logo": "/logos/1146.png",
       "keywords": "Nordeste, CRB, CSA, Clássico das Multidões, Estádio Rei Pelé, futebol alagoano, Galo da Praia, Azulão, torcida apaixonada, rivalidade histórica, Copa do Nordeste, Série B, hegemonia estadual, revelação de talentos, quadrangular final, mata-mata, tradição local, base de formação.",
-      "keywords_semantic": "Campeonato Alagoano, segunda divisão, futebol brasileiro, promoção, rebaixamento, clubes alagoanos, rivalidades regionais, CSA, CRB, histórico local, desenvolvimento de talentos, ascensão, Nordeste, competição estadual, tradição, cultura futebolística."
+      "keywords_semantic": "Campeonato Alagoano, segunda divisão, futebol brasileiro, promoção, rebaixamento, clubes alagoanos, rivalidades regionais, CSA, CRB, histórico local, desenvolvimento de talentos, ascensão, Nordeste, competição estadual, tradição, cultura futebolística.",
+      "keywords_es": "Segundona Alagoana, Brasil, Ascenso a la élite, Clubes del noreste, História y pasión, CSA, CRB, Clásico das Multidões, Identidad alagoana, Talento emergente, Fútbol nordestino, Lucha y garra, Rivalidades locales, Espíritu comunitario."
     },
     "country": {
       "name": "Brazil",
@@ -3516,7 +3606,8 @@
       "type": "League",
       "logo": "/logos/1148.png",
       "keywords": "Sampaio Corrêa, Maranhão Atlético, Moto Club, Superclássico, Estádio Castelão, São Luís, Bolívia Querida, Papão do Norte, Tubarão, Copa do Nordeste, revelação de talentos, rivalidade local, acesso à Série A, futebol nordestino, tradição maranhense, finais emocionantes, torcida apaixonada, calendário estadual, futebol de base, clubes do interior.",
-      "keywords_semantic": "Maranhense, segunda divisão, futebol estadual, clubes locais, acesso à elite, tradição regional, Sampaio Corrêa, Moto Club, rivalidade local, desenvolvimento de talentos, história esportiva, formato de pontos corridos, torneio de ascensão, cultura maranhense, futebol nordestino."
+      "keywords_semantic": "Maranhense, segunda divisão, futebol estadual, clubes locais, acesso à elite, tradição regional, Sampaio Corrêa, Moto Club, rivalidade local, desenvolvimento de talentos, história esportiva, formato de pontos corridos, torneio de ascensão, cultura maranhense, futebol nordestino.",
+      "keywords_es": "Série B Maranhense, Brasil, Ascenso Maranhense, Cultura Nordestina, Sampaio Corrêa, Moto Club, Juventude Samas, Fútbol Maranhense, Estadio Castelão, Pasión Nordestina, Clásicos Maranhenses, Talento Local, Fútbol Regional, Identidad Maranhense, Hinchadas Leales."
     },
     "country": {
       "name": "Brazil",
@@ -3555,7 +3646,8 @@
       "type": "League",
       "logo": "/logos/1149.png",
       "keywords": "Campeonato Potiguar, Rio Grande do Norte, ABC Futebol Clube, América de Natal, Baraúnas, Alecrim, Clássico Rei, Frasqueirão, Arena das Dunas, Rivalidade Natalense, Campeonato Estadual, Estádio Maria Lamas Farache, Estádio Nazarenão, Torcida Alvirrubra, Hexagonal Final, Mata-mata, Decisão por pênaltis, Atacante Wallyson, Técnico Ferdinando Teixeira, Base reveladora, Futebol do Nordeste, Tradição local, Formato de dois turnos, Início da temporada brasileira, Fase preliminar, Futebol arte, Desenvolvimento regional.",
-      "keywords_semantic": "Campeonato Potiguar, futebol brasileiro, Rio Grande do Norte, clubes tradicionais, ABC, América de Natal, rivalidade local, formato estadual, torneio regional, desenvolvimento de talentos, ascensão à primeira divisão, cultura nordestina, competição semi-profissional, história esportiva, paixão local."
+      "keywords_semantic": "Campeonato Potiguar, futebol brasileiro, Rio Grande do Norte, clubes tradicionais, ABC, América de Natal, rivalidade local, formato estadual, torneio regional, desenvolvimento de talentos, ascensão à primeira divisão, cultura nordestina, competição semi-profissional, história esportiva, paixão local.",
+      "keywords_es": "Segundona do Rio Grande do Norte, Brasil, Fútbol Potiguar, América de Natal, ABC F.C., Tradición Potiguar, Clásico Rei, Potiguar de Mossoró, Rivalidad Natal-Mossoró, Identidad Nordestina, Hinchada Apasionada, Cultura Sertaneja, Futbolistas Promesa, Desafío Ascenso, Estadio Frasqueirão, Espíritu Alvirrubro, Cultura Forrozeira."
     },
     "country": {
       "name": "Brazil",
@@ -3594,7 +3686,8 @@
       "type": "League",
       "logo": "/logos/1150.png",
       "keywords": "Gauchão, Grêmio, Internacional, Gre-Nal, Porto Alegre, Rio Grande do Sul, Estádio Beira-Rio, Estádio Arena do Grêmio, Renato Portaluppi, D'Alessandro, Paulo Nunes, Rivalidade, Clássico, Futebol Gaúcho, Tradição, Torcida Apaixonada, Final Emocionante, Tabela de Pontos, Segunda Fase, Decisão por Pênaltis, Craques Locais, Dominância Gaúcha, Zico Gaúcho, Futebol Raiz, Campeonato Estadual, Identidade Regional, Caxias, Juventude, Novo Hamburgo, Ypiranga.",
-      "keywords_semantic": "Campeonato Gaúcho Série A3, futebol brasileiro, terceira divisão estadual, clubes locais, desenvolvimento de talentos, rivalidades regionais, acesso à Série A2, competições de base, clubes emergentes, futebol gaúcho, importância regional, gramados do interior, festividade local, paixão comunitária, história do futebol gaúcho."
+      "keywords_semantic": "Campeonato Gaúcho Série A3, futebol brasileiro, terceira divisão estadual, clubes locais, desenvolvimento de talentos, rivalidades regionais, acesso à Série A2, competições de base, clubes emergentes, futebol gaúcho, importância regional, gramados do interior, festividade local, paixão comunitária, história do futebol gaúcho.",
+      "keywords_es": "Gauchão, Brasil, Tricolor dos Pampas, Gre-Nal, Internacional, Grêmio, Fútbol gaucho, Porto Alegre, Chimarrão, Bombacha, Raíces gauchas, Pelotas, Juventude, Identidad sureña, Passo Fundo, Tradición campeira."
     },
     "country": {
       "name": "Brazil",
@@ -3633,7 +3726,8 @@
       "type": "League",
       "logo": "/logos/1151.png",
       "keywords": "Leão da Ilha, Timbu, Santa Cruz, Sport Recife, Náutico, Tricolor do Arruda, Clássico dos Clássicos, Clássico das Multidões, Hexacampeonato do Sport, Rivalidade histórica, Ilha do Retiro, Aflitos, Arruda, Zico, Juninho Pernambucano, Rivaldo, Falcão, Campeonato Estadual, Torcida apaixonada, Mata-mata, Fase de grupos, Interior pernambucano, Futebol nordestino, Cultura local, História centenária, Craques regionais, Importância regional, Tradição futebolística.",
-      "keywords_semantic": "Campeonato Pernambucano, futebol brasileiro, clubes tradicionais, Sport Recife, Náutico, Santa Cruz, rivalidade regional, importância cultural, formato estadual, competições locais, história do futebol, times emergentes, gramados nordestinos, torcida apaixonada, pernambucano série A3, desenvolvimento de talentos, rivalidades históricas, campeonatos estaduais, futebol nordestino, relevância local."
+      "keywords_semantic": "Campeonato Pernambucano, futebol brasileiro, clubes tradicionais, Sport Recife, Náutico, Santa Cruz, rivalidade regional, importância cultural, formato estadual, competições locais, história do futebol, times emergentes, gramados nordestinos, torcida apaixonada, pernambucano série A3, desenvolvimento de talentos, rivalidades históricas, campeonatos estaduais, futebol nordestino, relevância local.",
+      "keywords_es": "Pernambucano - 3, Brasil, pasión del nordeste, rivalidades locales, historia futbolística, ascenso y descenso, Central-PE, Porto-PE, Atlético Pernambucano, fervor pernambucano, \"Leão do Norte\", fútbol de barrio, talento emergente, torcedores apasionados, identidad regional."
     },
     "country": {
       "name": "Brazil",
@@ -3672,7 +3766,8 @@
       "type": "League",
       "logo": "/logos/1154.png",
       "keywords": "Catarinense Série C, clubes emergentes, futebol catarinense, Joinville, Brusque, Marcílio Dias, Tubarão, rivalidades regionais, promoção para Série B, talentos locais, estádios menores, tradição estadual, Santa Catarina, divisão de acesso, calendário esportivo brasileiro, futebol de base.",
-      "keywords_semantic": "Catarinense-3, futebol brasileiro, Santa Catarina, clubes emergentes, competições estaduais, acesso à segunda divisão, rivalidades locais, desenvolvimento de talentos, história regional, prestígio local, formato de grupos, promoção e rebaixamento, cultura futebolística regional, impacto comunitário, campeonatos estaduais brasileiros."
+      "keywords_semantic": "Catarinense-3, futebol brasileiro, Santa Catarina, clubes emergentes, competições estaduais, acesso à segunda divisão, rivalidades locais, desenvolvimento de talentos, história regional, prestígio local, formato de grupos, promoção e rebaixamento, cultura futebolística regional, impacto comunitário, campeonatos estaduais brasileiros.",
+      "keywords_es": "Liga Catarinense - 3, Brasil, Campeonato Catarinense Série C, fútbol regional, Santa Catarina, clubes emergentes, Garra do Sul, pasión local, equipos en ascenso, fervor catarinense, Joinville, Chapecoense B, Avaí B, tradición futbolística, rivalidades locales, desarrollo de talento joven, fútbol amateur, identidad catarinense, hinchas apasionados, estadio modesto, cultura futbolera."
     },
     "country": {
       "name": "Brazil",
@@ -3711,7 +3806,8 @@
       "type": "League",
       "logo": "/logos/1155.png",
       "keywords": "Carioca B2, futebol carioca, clubes tradicionais, Rio de Janeiro, Série B2, acesso, rebaixamento, times locais, rivalidade regional, estádios menores, jogadores promissores, torcida apaixonada, campeonato estadual, Fluminense, Botafogo, Vasco, Flamengo, Resende, Madureira, clássicos regionais, calendário esportivo, formato de disputa, quadrangular final, fase de grupos, mata-mata, tradição esportiva, desenvolvimento de talentos, cultura futebolística, paixão pelo futebol.",
-      "keywords_semantic": "futebol brasileiro, campeonato estadual, divisões inferiores, clubes tradicionais, Rio de Janeiro, rivalidades locais, promoção e rebaixamento, desenvolvimento de talentos, cultura futebolística, torcidas apaixonadas, história esportiva, competição regional, formato de pontos corridos, clubes emergentes, cenário esportivo brasileiro"
+      "keywords_semantic": "futebol brasileiro, campeonato estadual, divisões inferiores, clubes tradicionais, Rio de Janeiro, rivalidades locais, promoção e rebaixamento, desenvolvimento de talentos, cultura futebolística, torcidas apaixonadas, história esportiva, competição regional, formato de pontos corridos, clubes emergentes, cenário esportivo brasileiro",
+      "keywords_es": "Série B2 Carioca, Brasil, tercera división de Río de Janeiro, clubes históricos, fútbol carioca, Fluminense de Feira, Nova Cidade, tradición futbolística, cantera de talentos, rivalidades locales, torcidas apasionadas, ascenso y descenso, fútbol de barrio, identidad carioca, cultura futbolística brasileña."
     },
     "country": {
       "name": "Brazil",
@@ -3750,7 +3846,8 @@
       "type": "League",
       "logo": "/logos/1157.png",
       "keywords": "Galo Elétrico, Leão Azul, Papão da Curuzu, Belém, Remo, Paysandu, Tuna Luso, Estádio Mangueirão, Estádio da Curuzu, Estádio Evandro Almeida, rivalidade Re-Pa, categoria de base, formação de talentos, promessa do futebol, desenvolvimento juvenil, Copa São Paulo de Futebol Júnior, futebol paraense, torcidas apaixonadas, talentos locais, tradição do futebol no Pará.",
-      "keywords_semantic": "futebol de base, talentos emergentes, Pará, desenvolvimento juvenil, formação de jogadores, clubes locais, campeonato regional, futuro do futebol, competições estaduais, Copa Norte, juventude esportiva, rivalidades regionais, prestígio regional, clubes tradicionais, cultura futebolística, potencial internacional, descoberta de talentos, esportes no Brasil, herança futebolística, tradição esportiva"
+      "keywords_semantic": "futebol de base, talentos emergentes, Pará, desenvolvimento juvenil, formação de jogadores, clubes locais, campeonato regional, futuro do futebol, competições estaduais, Copa Norte, juventude esportiva, rivalidades regionais, prestígio regional, clubes tradicionais, cultura futebolística, potencial internacional, descoberta de talentos, esportes no Brasil, herança futebolística, tradição esportiva",
+      "keywords_es": "Parazão Sub-20, Brasil, cantera amazónica, promesas del fútbol, talentos emergentes, Remo, Paysandu, Leão Azul, Papão da Curuzu, garra amazónica, fervor juvenil, fútbol de base, herederos del Mangueirão, identidad paraense."
     },
     "country": {
       "name": "Brazil",
@@ -3789,7 +3886,8 @@
       "type": "Cup",
       "logo": "/logos/1158.png",
       "keywords": "Copa Gaúcha, Brasil, Gauchão, Grêmio, Internacional, Juventude, Caxias, Grenal, clássico, futebol gaúcho, tradição, torcidas apaixonadas, estádio Beira-Rio, Arena do Grêmio, Estádio Alfredo Jaconi, Estádio Centenário, Paulo Roberto Falcão, Renato Gaúcho, Dunga, Rivalidade histórica, título estadual, mata-mata, fase de grupos, campeões estaduais, hegemonia, emoção nos estádios, cultura gaúcha, churrasco, chimarrão, paixão pelo futebol.",
-      "keywords_semantic": "Copa Gaúcha, futebol brasileiro, Rio Grande do Sul, clubes gaúchos, Grêmio, Internacional, Juventude, tradição regional, rivalidade Gre-Nal, formato eliminatório, prestígio estadual, campeonatos regionais, desenvolvimento de talentos, cultura gaúcha, paixão local, história futebolística."
+      "keywords_semantic": "Copa Gaúcha, futebol brasileiro, Rio Grande do Sul, clubes gaúchos, Grêmio, Internacional, Juventude, tradição regional, rivalidade Gre-Nal, formato eliminatório, prestígio estadual, campeonatos regionais, desenvolvimento de talentos, cultura gaúcha, paixão local, história futebolística.",
+      "keywords_es": "Copa Gaúcha, Brasil, fútbol gaucho, tradición gaucha, Inter, Grêmio, clásicos del sur, rivalidad Porto Alegre, fútbol regional, pasión del sur, gauchada, identidad riograndense, fútbol de Rio Grande do Sul, Arena do Grêmio, Beira-Rio, hinchada fervorosa, cultura pampeana, campeones del sur, fútbol brasileño, torneos estaduales, historia futbolística gaucha, tradición local, pasión interminable."
     },
     "country": {
       "name": "Brazil",
@@ -3828,7 +3926,8 @@
       "type": "Cup",
       "logo": "/logos/1165.png",
       "keywords": "Copa Fares Lopes, Brasil, Federação Cearense de Futebol, clubes cearenses, Ceará Sporting Club, Fortaleza Esporte Clube, Ferroviário Atlético Clube, Clássico-Rei, Estádio Castelão, revelação de talentos, calendário regional, título estadual, competição de acesso, Copa do Brasil, futebol nordestino, rivalidade local, desenvolvimento de base, torcida apaixonada, cultura futebolística cearense, impacto no cenário nacional, sistema de mata-mata, tradição regional.",
-      "keywords_semantic": "Copa Fares Lopes, futebol cearense, competição regional, clubes cearenses, importância local, vitrine de talentos, federação cearense, formato mata-mata, campeões regionais, rivalidades locais, desenvolvimento de jogadores, incentivo ao futebol, competição estadual, futebol brasileiro, clubes emergentes."
+      "keywords_semantic": "Copa Fares Lopes, futebol cearense, competição regional, clubes cearenses, importância local, vitrine de talentos, federação cearense, formato mata-mata, campeões regionais, rivalidades locais, desenvolvimento de jogadores, incentivo ao futebol, competição estadual, futebol brasileiro, clubes emergentes.",
+      "keywords_es": "Copa Fares Lopes, Brasil, Torneo cearense, Fortaleza, Ceará, Ferroviário, Clásico-Rei, Estado do Ceará, fútbol nordestino, talento local, desarrollo juvenil, cultura futbolera, pasión cearense."
     },
     "country": {
       "name": "Brazil",
