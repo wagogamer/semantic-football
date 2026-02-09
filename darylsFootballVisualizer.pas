@@ -127,12 +127,9 @@ type
     procedure OnLeagueSearchChange(Sender: TObject);
     procedure OnTeamSearchChange(Sender: TObject);
     function ExtractPredominantColor(const AImagePath: string): TColor;
-<<<<<<< HEAD
     function ResolveMetadataPath: string;
-=======
     function CountryCodeToFlagEmoji(const ACountryCode, ACountryName: string): string;
     function NormalizeCountryCode(const ACode, ACountryName: string): string;
->>>>>>> origin/codex/load-countries-into-dxnavbar1-alphabetically
     procedure PopulateLeaguesList;
     procedure PopulateTeamsList;
     procedure FilterLeagues(const ASearchText: string);
