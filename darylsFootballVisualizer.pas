@@ -9,6 +9,7 @@ uses
   dxLayoutLookAndFeels, dxLayoutContainer, dxLayoutControl,
   dxSkinsForm, dxSkinsFluentDesignForm, dxCore, System.ImageList, Vcl.ImgList,
   cxImageList, dxNavBarCollns, dxNavBarBase, System.JSON, System.Generics.Collections,
+  System.Generics.Defaults,
   cxImage, cxLabel, cxTextEdit, cxButtons, dxBevel, Vcl.ExtCtrls,
   dxGDIPlusClasses, dxLayoutControlAdapters, dxLayoutcxEditAdapters,
   cxGroupBox, cxMemo, cxListBox, dxScrollbarAnnotations, dxPanel, Vcl.StdCtrls;
@@ -126,7 +127,12 @@ type
     procedure OnLeagueSearchChange(Sender: TObject);
     procedure OnTeamSearchChange(Sender: TObject);
     function ExtractPredominantColor(const AImagePath: string): TColor;
+<<<<<<< HEAD
     function ResolveMetadataPath: string;
+=======
+    function CountryCodeToFlagEmoji(const ACountryCode, ACountryName: string): string;
+    function NormalizeCountryCode(const ACode, ACountryName: string): string;
+>>>>>>> origin/codex/load-countries-into-dxnavbar1-alphabetically
     procedure PopulateLeaguesList;
     procedure PopulateTeamsList;
     procedure FilterLeagues(const ASearchText: string);
@@ -380,84 +386,153 @@ begin
   end;
 end;
 
+function TForm1.NormalizeCountryCode(const ACode, ACountryName: string): string;
+begin
+  Result := UpperCase(ACode.Trim);
+
+  if Length(Result) = 3 then
+    Result := Copy(Result, 1, 2);
+
+  if Length(Result) <> 2 then
+  begin
+    if SameText(ACountryName, 'Argentina') then Result := 'AR'
+    else if SameText(ACountryName, 'Bolivia') then Result := 'BO'
+    else if SameText(ACountryName, 'Brazil') then Result := 'BR'
+    else if SameText(ACountryName, 'Chile') then Result := 'CL'
+    else if SameText(ACountryName, 'Colombia') then Result := 'CO'
+    else if SameText(ACountryName, 'Ecuador') then Result := 'EC'
+    else if SameText(ACountryName, 'Mexico') then Result := 'MX'
+    else if SameText(ACountryName, 'Paraguay') then Result := 'PY'
+    else if SameText(ACountryName, 'Peru') then Result := 'PE'
+    else if SameText(ACountryName, 'Uruguay') then Result := 'UY'
+    else if SameText(ACountryName, 'Venezuela') then Result := 'VE'
+    else
+      Result := '';
+  end;
+end;
+
+function TForm1.CountryCodeToFlagEmoji(const ACountryCode, ACountryName: string): string;
+var
+  Code: string;
+begin
+  Code := NormalizeCountryCode(ACountryCode, ACountryName);
+
+  if Length(Code) = 2 then
+    Result := WideChar($D83C) + WideChar($DDE6 + (Ord(Code[1]) - Ord('A'))) +
+              WideChar($D83C) + WideChar($DDE6 + (Ord(Code[2]) - Ord('A')))
+  else
+    Result := '';
+end;
+
 procedure TForm1.LoadCountryFlags;
 var
   Team: TTeamData;
+  League: TLeagueData;
   Country: TCountryInfo;
-  FlagPath: string;
-  ImageIndex: Integer;
-  Picture: TPicture;
   Countries: TDictionary<string, TCountryInfo>;
-  I, J: Integer;
-  TempCountry: TCountryInfo;
+  CountryKey: string;
   FlagsLoaded: Integer;
+
+  procedure TryLoadLocalFlag(ACountry: TCountryInfo);
+  var
+    FlagPath: string;
+    Picture: TPicture;
+    ImageIndex: Integer;
+  begin
+    FlagPath := FMetadataPath + 'crests\' + LowerCase(ACountry.Name) + '.png';
+
+    if (not FileExists(FlagPath)) and (ACountry.Code <> '') then
+      FlagPath := FMetadataPath + 'crests\' + LowerCase(ACountry.Code) + '.png';
+
+    if FileExists(FlagPath) then
+    begin
+      ACountry.FlagPath := FlagPath;
+
+      Picture := TPicture.Create;
+      try
+        Picture.LoadFromFile(FlagPath);
+        ImageIndex := cxImageList1.Add(Picture.Graphic, nil);
+        ACountry.ImageIndex := ImageIndex;
+        ACountry.PredominantColor := ExtractPredominantColor(FlagPath);
+      finally
+        Picture.Free;
+      end;
+    end;
+  end;
 begin
   Countries := TDictionary<string, TCountryInfo>.Create;
   FlagsLoaded := 0;
-  
+
   try
-    // Find all national teams and create country entries
+    // Create country entries from national teams
     for Team in FAllTeams do
     begin
-      if Team.IsNational and (not Countries.ContainsKey(Team.Country)) then
+      if Team.IsNational and (Team.Country <> '') then
       begin
-        Country := TCountryInfo.Create;
-        Country.Name := Team.Country;
-        Country.Code := Team.Code;
-        Country.NationalTeam := Team;
-        
-        // Try to load flag image from crests folder
-        FlagPath := FMetadataPath + 'crests\' + LowerCase(Team.Country) + '.png';
-        
-        if not FileExists(FlagPath) then
-          FlagPath := FMetadataPath + 'crests\' + LowerCase(Team.Code) + '.png';
-        
-        if FileExists(FlagPath) then
+        CountryKey := Team.Country.Trim;
+        if not Countries.ContainsKey(CountryKey) then
         begin
-          Country.FlagPath := FlagPath;
-          
-          // Add to image list
-          Picture := TPicture.Create;
-          try
-            Picture.LoadFromFile(FlagPath);
-            ImageIndex := cxImageList1.Add(Picture.Graphic, nil);
-            Country.ImageIndex := ImageIndex;
-            Inc(FlagsLoaded);
-            
-            // Extract predominant color
-            Country.PredominantColor := ExtractPredominantColor(FlagPath);
-          finally
-            Picture.Free;
-          end;
+          Country := TCountryInfo.Create;
+          Country.Name := CountryKey;
+          Country.Code := NormalizeCountryCode(Team.Code, Team.Country);
+          Country.NationalTeam := Team;
+          Country.FlagPath := '';
+          Country.ImageIndex := -1;
+          Country.PredominantColor := $006B3410; // Default green
+
+          TryLoadLocalFlag(Country);
+
+          Countries.Add(CountryKey, Country);
+          FCountries.Add(Country);
+        end;
+      end;
+    end;
+
+    // Ensure countries from leagues json are also available in navbar
+    for League in FAllLeagues do
+    begin
+      if League.CountryName <> '' then
+      begin
+        CountryKey := League.CountryName.Trim;
+        if not Countries.ContainsKey(CountryKey) then
+        begin
+          Country := TCountryInfo.Create;
+          Country.Name := CountryKey;
+          Country.Code := NormalizeCountryCode(League.CountryCode, League.CountryName);
+          Country.NationalTeam := nil;
+          Country.FlagPath := '';
+          Country.ImageIndex := -1;
+          Country.PredominantColor := $006B3410; // Default green
+
+          TryLoadLocalFlag(Country);
+
+          Countries.Add(CountryKey, Country);
+          FCountries.Add(Country);
         end
         else
         begin
-          Country.ImageIndex := -1;
-          Country.PredominantColor := $006B3410; // Default green
+          Country := Countries.Items[CountryKey];
+          if (Country.Code = '') and (League.CountryCode <> '') then
+            Country.Code := NormalizeCountryCode(League.CountryCode, League.CountryName);
         end;
-        
-        Countries.Add(Team.Country, Country);
-        FCountries.Add(Country);
       end;
     end;
-    
-    // Sort countries alphabetically using bubble sort
-    for I := 0 to FCountries.Count - 2 do
-    begin
-      for J := I + 1 to FCountries.Count - 1 do
+
+    FCountries.Sort(TComparer<TCountryInfo>.Construct(
+      function(const Left, Right: TCountryInfo): Integer
       begin
-        if CompareText(FCountries[I].Name, FCountries[J].Name) > 0 then
-        begin
-          TempCountry := FCountries[I];
-          FCountries[I] := FCountries[J];
-          FCountries[J] := TempCountry;
-        end;
-      end;
+        Result := CompareText(Left.Name, Right.Name);
+      end));
+
+    for Country in FCountries do
+    begin
+      if (Country.ImageIndex >= 0) or (Country.Code <> '') then
+        Inc(FlagsLoaded);
     end;
-    
-    Caption := Caption + Format(' - %d countries, %d flags loaded', 
+
+    Caption := Caption + Format(' - %d countries, %d flags loaded',
       [FCountries.Count, FlagsLoaded]);
-    
+
   finally
     Countries.Free;
   end;
@@ -467,17 +542,23 @@ procedure TForm1.CreateNavBarCountries;
 var
   Country: TCountryInfo;
   NavItem: TdxNavBarItem;
+  FlagEmoji: string;
 begin
   // Add countries to navigation bar
   for Country in FCountries do
   begin
     NavItem := TdxNavBarItem.Create(Self);
-    NavItem.Caption := Country.Name;
+    FlagEmoji := CountryCodeToFlagEmoji(Country.Code, Country.Name);
+    if FlagEmoji <> '' then
+      NavItem.Caption := FlagEmoji + ' ' + Country.Name
+    else
+      NavItem.Caption := Country.Name;
+
     NavItem.Hint := Country.Name;
     NavItem.SmallImageIndex := Country.ImageIndex;
     NavItem.Tag := Integer(Country);
     NavItem.OnClick := OnNavBarItemClick;
-    
+
     dxNavBar1Group1.CreateLink(NavItem);
   end;
 end;
