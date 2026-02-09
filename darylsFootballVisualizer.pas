@@ -126,6 +126,7 @@ type
     procedure OnLeagueSearchChange(Sender: TObject);
     procedure OnTeamSearchChange(Sender: TObject);
     function ExtractPredominantColor(const AImagePath: string): TColor;
+    function ResolveMetadataPath: string;
     procedure PopulateLeaguesList;
     procedure PopulateTeamsList;
     procedure FilterLeagues(const ASearchText: string);
@@ -147,7 +148,7 @@ uses
 
 procedure TForm1.FormCreate(Sender: TObject);
 begin
-  FMetadataPath := ExtractFilePath(Application.ExeName) + 'metadata\';
+  FMetadataPath := ResolveMetadataPath;
   FCountries := TObjectList<TCountryInfo>.Create(True);
   FAllTeams := TObjectList<TTeamData>.Create(True);
   FAllLeagues := TObjectList<TLeagueData>.Create(True);
@@ -194,13 +195,20 @@ begin
     Exit;
   end;
   
-  // Load all team files
-  if FindFirst(FMetadataPath + 'clubes_*.json', faAnyFile, SearchRec) = 0 then
+  // Load all team files (club + national-team datasets)
+  if FindFirst(FMetadataPath + '*.json', faAnyFile, SearchRec) = 0 then
   begin
     repeat
-      FileName := FMetadataPath + SearchRec.Name;
-      LoadTeamsFromFile(FileName);
-      Inc(TeamsCount);
+      if (SearchRec.Attr and faDirectory) = 0 then
+      begin
+        FileName := FMetadataPath + SearchRec.Name;
+        if (Pos('clubes_', LowerCase(SearchRec.Name)) = 1) or
+           (Pos('internationals', LowerCase(SearchRec.Name)) > 0) then
+        begin
+          LoadTeamsFromFile(FileName);
+          Inc(TeamsCount);
+        end;
+      end;
     until FindNext(SearchRec) <> 0;
     FindClose(SearchRec);
   end;
@@ -218,6 +226,28 @@ begin
   
   Caption := Format('Football Visualizer - Loaded %d teams, %d leagues from %d+%d files', 
     [FAllTeams.Count, FAllLeagues.Count, TeamsCount, LeaguesCount]);
+end;
+
+function TForm1.ResolveMetadataPath: string;
+const
+  FolderName = 'metadata';
+var
+  CandidateBase: string;
+  I: Integer;
+begin
+  // Try exe folder and a few parent folders (IDE/debug builds normally run from Win32\Debug).
+  CandidateBase := ExcludeTrailingPathDelimiter(ExtractFilePath(Application.ExeName));
+  for I := 0 to 4 do
+  begin
+    Result := IncludeTrailingPathDelimiter(CandidateBase) + FolderName + '\';
+    if DirectoryExists(Result) then
+      Exit;
+
+    CandidateBase := ExtractFileDir(CandidateBase);
+  end;
+
+  // Fallback: keep expected path near the executable (error message in LoadMetadata will explain it).
+  Result := IncludeTrailingPathDelimiter(ExtractFilePath(Application.ExeName)) + FolderName + '\';
 end;
 
 procedure TForm1.LoadTeamsFromFile(const AFileName: string);
