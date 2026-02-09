@@ -510,7 +510,13 @@ var
   Country: TCountryInfo;
   NavItem: TdxNavBarItem;
   FlagEmoji: string;
+  I: Integer;
 begin
+  // Remove design-time/default links so runtime list is strictly alphabetical.
+  dxNavBar1Group1.ClearLinks;
+  for I := dxNavBar1.Items.Count - 1 downto 0 do
+    dxNavBar1.Items[I].Free;
+
   // Add countries to navigation bar
   for Country in FCountries do
   begin
