@@ -1,0 +1,197 @@
+[
+  {
+    "league": {
+      "id": 239,
+      "name": "Primera A",
+      "type": "League",
+      "logo": "/logos/239.png",
+      "keywords": "Los Cafeteros, Atlético Nacional, Millonarios, América de Cali, Independiente Santa Fe, El Dorado, Faustino Asprilla, René Higuita, El Campín, Estadio Atanasio Girardot, rivalidades intensas, clássico capitalino, formato de Apertura e Clausura, paixão colombiana, hinchadas fervorosas, título nacional, evolução tática, exportação de talentos, impacto social, Conmebol Libertadores, clubes emergentes, história rica, equilíbrio competitivo.",
+      "keywords_semantic": "Colombian, football, league, history, Atlético Nacional, Millonarios, América de Cali, Deportivo Cali, Independiente Medellín, Santa Fe, competition, round-robin, playoffs, domestic, rivalries, clásico, international, Libertadores, Sudamericana, cultural, passion, fans, stadiums, Bogotá, Medellín, Cali, Barranquilla, emotion, identity, legacy, tradition"
+    },
+    "country": {
+      "name": "Colombia",
+      "code": "CO",
+      "flag": "https://media.api-sports.io/flags/co.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-01-20",
+        "end": "2022-12-07",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": true
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 240,
+      "name": "Primera B",
+      "type": "League",
+      "logo": "/logos/240.png",
+      "keywords": "La Aplanadora del Caribe, Colombia, Atlético Bucaramanga, Cúcuta Deportivo, Unión Magdalena, Independiente Santa Fe, América de Cali, ascenso, descenso, Estadio Metropolitano de Techo, clásico costeño, Carlos Valderrama, Faustino Asprilla, rivalidade, formato de todos contra todos, quadrangulares finais, promoção para a Primeira A, paixão dos torcedores, futebol de segunda divisão, desenvolvimento de talentos.",
+      "keywords_semantic": "Primera B, Colômbia, ascensão, descenso, clubes emergentes, promoção, história local, Atlético Huila, Cortuluá, Rivalidade regional, desenvolvimento talento, formato liga, futebol colombiano, competição nacional, impacto cultural, infraestrutura esportiva."
+    },
+    "country": {
+      "name": "Colombia",
+      "code": "CO",
+      "flag": "https://media.api-sports.io/flags/co.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-01-22",
+        "end": "2022-11-30",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 241,
+      "name": "Copa Colombia",
+      "type": "Cup",
+      "logo": "/logos/241.png",
+      "keywords": "Copa Colombia, Los Cafeteros, Atlético Nacional, Millonarios, Independiente Santa Fe, Junior de Barranquilla, América de Cali, Deportivo Cali, formato eliminatório, ida e volta, torcidas apaixonadas, rivalidade regional, Estádio Atanasio Girardot, Estádio El Campín, Atlético Nacional campeão, Teófilo Gutiérrez, Carlos Valderrama, Faustino Asprilla, importância doméstica, revelação de talentos, qualificação para torneios internacionais, tradição e prestígio, história desde 1950, futebol colombiano.",
+      "keywords_semantic": "Copa Colombia, torneio nacional, clubes colombianos, importância cultural, formato eliminatório, Atlético Nacional, Millonarios, Independiente Santa Fe, Deportivo Cali, prestígio local, classificação internacional, rivalidade regional, futebol colombiano, história recente, Copa BetPlay, momentos decisivos, taça doméstica, surpresas do torneio, contexto sul-americano."
+    },
+    "country": {
+      "name": "Colombia",
+      "code": "CO",
+      "flag": "https://media.api-sports.io/flags/co.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-02-09",
+        "end": "2022-11-03",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 713,
+      "name": "Superliga",
+      "type": "Cup",
+      "logo": "/logos/713.png",
+      "keywords": "Superliga Colombiana, Colombia, Atlético Nacional, Millonarios, Deportivo Cali, América de Cali, El Clásico, Estádio El Campín, James Rodríguez, Carlos Valderrama, rivalidade histórica, formato de ida e volta, taça nacional, futebol colombiano, paixão torcedora, campeão do Apertura, campeão do Finalización, Conmebol, tradição esportiva, impacto social.",
+      "keywords_semantic": "Colômbia, Superliga, Atlético Nacional, Independiente Santa Fe, rivalidade, clássicos, campeão, torneio de abertura, torneio de encerramento, formato de liga, competição nacional, prestígio, Conmebol, história do futebol colombiano, cultura futebolística, Barranquilla, Medellín, Bogotá, momentos marcantes, identidade regional, paixão dos torcedores, impacto social."
+    },
+    "country": {
+      "name": "Colombia",
+      "code": "CO",
+      "flag": "https://media.api-sports.io/flags/co.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-02-10",
+        "end": "2022-02-23",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": false,
+          "top_scorers": false,
+          "top_assists": false,
+          "top_cards": false,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 712,
+      "name": "Liga Femenina",
+      "type": "League",
+      "logo": "/logos/712.png",
+      "keywords": "Liga Femenina, Colombia, fútbol femenino, Atlético Huila, América de Cali, Independiente Santa Fe, Deportivo Cali, Millonarios F.C., Dimayor, Yoreli Rincón, Catalina Usme, crecimiento del fútbol femenino, empoderamiento deportivo, formato de liga, torneos cortos, final única, campeonas históricas, inclusión femenina, desarrollo juvenil, rivalidades regionales, fútbol profesional femenino en Colombia.",
+      "keywords_semantic": "futebol feminino, Colômbia, Dimayor, Atlético Huila, América de Cali, Independiente Santa Fe, crescimento do esporte, igualdade de gênero, empoderamento feminino, liga profissional, Copa Libertadores Feminina, desenvolvimento de talentos, rivalidades regionais, impacto social, formato de competição, história do futebol feminino, evolução cultural, destaque internacional, inclusão esportiva, torcidas apaixonadas"
+    },
+    "country": {
+      "name": "Colombia",
+      "code": "CO",
+      "flag": "https://media.api-sports.io/flags/co.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-02-18",
+        "end": "2022-06-05",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  }
+]

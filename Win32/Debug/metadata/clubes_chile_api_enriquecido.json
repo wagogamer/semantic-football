@@ -1,0 +1,2466 @@
+[
+  {
+    "team": {
+      "id": 1977,
+      "name": "Chile W",
+      "code": null,
+      "country": "Chile",
+      "founded": 1895,
+      "national": true,
+      "logo": "/teams/1977.png",
+      "keywords": "La Roja Femenina, Christiane Endler, Copa América Femenina, Estadio Nacional, Garra Chilena, Copa Libertadores Femenina, ANFP, José Letelier, Colocolinas, Torcida Feminina, Claudia Soto, Identidade Andina, Futebol Feminino Chileno, Desempenho Internacional, Orgulho Nacional, Estilo de Jogo Chileno, Desenvolvimento de Base, Ídolos do Futebol Chileno, Campeonatos Nacionais, História do Futebol Feminino no Chile.",
+      "keywords_semantic": "futebol feminino, La Roja Femenina, seleção chilena feminina, Copa do Mundo Feminina, Jogos Olímpicos, empoderamento feminino, igualdade de gênero, ídolos chilenos, Christiane Endler, Estádio Nacional, rivalidade Argentina, crescimento do futebol feminino, Conmebol, paixão chilena, identidade cultural, história do futebol chileno, desenvolvimento esportivo, torcida chilena, espírito competitivo, perseverança."
+    },
+    "venue": {
+      "id": 7183,
+      "name": "North Harbour Stadium",
+      "address": "Oteha Valley Road, Albany",
+      "city": "North Shore",
+      "capacity": 25350,
+      "surface": "grass",
+      "image": "/venues/7183.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2315,
+      "name": "Colo Colo",
+      "code": "COL",
+      "country": "Chile",
+      "founded": 1925,
+      "national": false,
+      "logo": "/teams/2315.png",
+      "keywords": "Colo Colo, Los Albos, Estádio Monumental David Arellano, Cacique, Copa Libertadores 1991, Campeonato Chileno, Torcida Garra Blanca, Jorge Valdivia, Esteban Paredes, Matías Fernández, Marcelo Barticciotto, Carlos Caszely, Identidade Mapuche, Identidade Popular, Aníbal Mosa, Gustavo Quinteros, Taça Interamericana 1992, Supercopa do Chile, Rivais Universidad de Chile, Clássico Chileno, Estádio Nacional do Chile, História Gloriosa, Formação de Base, Jorge Valdivia, Jaime Pizarro, Estilo de Jogo Ofensivo.",
+      "keywords_semantic": "Colo Colo, Chile, futebol chileno, cultura mapuche, Santiago, rivalidade Universidad de Chile, Superclássico chileno, títulos nacionais, Copa Libertadores, Estádio Monumental, Torcida Garra Blanca, ídolo Carlos Caszely, símbolo cacique, estilo ofensivo, hegemonia chilena, legado histórico, identidade popular, paixão, tradição futebolística."
+    },
+    "venue": {
+      "id": 319,
+      "name": "Estadio Monumental David Arellano",
+      "address": "Avenida Marathon 5300, Macul",
+      "city": "Santiago de Chile",
+      "capacity": 47017,
+      "surface": "grass",
+      "image": "/venues/319.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2316,
+      "name": "Curico Unido",
+      "code": "CUR",
+      "country": "Chile",
+      "founded": 1973,
+      "national": false,
+      "logo": "/teams/2316.png",
+      "keywords": "Curico Unido, Los Torteros, Estádio La Granja, Mauricio Pinilla, Campeonato Chileno, La Banda de los 300, El Albirrojo, Club de Deportes Provincial Curicó Unido, Ascenso 2008, Luis Marcoleta, Patricio Ormazábal, Curicó, Los Torteros, identidade local, hinchada fiel, rivalidade com Rangers, Copa Chile, formação de talentos, La Granja, tradição agrícola, ídolos locais, ascensão à primeira divisão, orgulho curicano.",
+      "keywords_semantic": "Curicó, Torcida Albirroja, Estádio La Granja, Ascensão, Rivalidade Rangers, Campeonato Chileno, Identidade Local, Comunidade Vineira, Ídolo Martín Palermo, Tradição, Estilo Ofensivo, Desenvolvimento Regional, História Recente, Paixão Interiorana, Perseverança."
+    },
+    "venue": {
+      "id": 326,
+      "name": "Estadio Bicentenario La Granja",
+      "address": "Avenida Alesandri con Calle El Boldo",
+      "city": "Curicó",
+      "capacity": 12000,
+      "surface": "grass",
+      "image": "/venues/326.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2317,
+      "name": "Deportes Temuco",
+      "code": "DEP",
+      "country": "Chile",
+      "founded": 1960,
+      "national": false,
+      "logo": "/teams/2317.png",
+      "keywords": "Pije, Estadio Germán Becker, Marcelo Salas, Albiverdes, Segunda División, Torcida Albiverde, Ascenso 2015, Identidade Mapuche, Copa Chile, Patricio Lira, Ibérico Hualde, Rivalidade Provincial, La Araucanía, Paixão Temuquense, Espírito Guerreiro.",
+      "keywords_semantic": "Deportes Temuco, Araucanía, Estádio Germán Becker, rivalidade Provincial Osorno, ascensão Segunda Divisão, torcedores Albiverdes, identidade Mapuche, Pablo Abraham, promoção Primeira Divisão, estilo aguerrido, Copa Chile, história regional, Marcelo Salas, paixão local, clube tradicional."
+    },
+    "venue": {
+      "id": 331,
+      "name": "Estadio Municipal Bicentenario Germán Becker",
+      "address": "Calle Municipal",
+      "city": "Temuco",
+      "capacity": 18413,
+      "surface": "grass",
+      "image": "/venues/331.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2318,
+      "name": "Palestino",
+      "code": "PAL",
+      "country": "Chile",
+      "founded": 1920,
+      "national": false,
+      "logo": "/teams/2318.png",
+      "keywords": "Tino-Tino, Estádio Municipal de La Cisterna, colônia árabe, Copa Chile, Pablo \"Mago\" Hernández, Jorge Valdivia, Torneio Transandino, La Franja, torcida fiel, identidade palestina, presidente Jorge Uauy, técnico Pablo Sánchez, escudo da Palestina, rivalidade com Colo-Colo, ídolos históricos, resistência cultural, comunidade palestina no Chile, cores verde e vermelho, campanhas internacionais, apoio da diáspora.",
+      "keywords_semantic": "Palestina, imigração, comunidade árabe, Santiago, Colo-Colo, Universidad de Chile, Copa Chile, Estádio Municipal de La Cisterna, tradição, resistência, identidade cultural, torcida apaixonada, símbolos árabes, futebol ofensivo, década de 1970, orgulho, integração social, rivalidade local, ídolos históricos, cores verde-vermelho-branco."
+    },
+    "venue": {
+      "id": 338,
+      "name": "Estadio Municipal de La Cisterna",
+      "address": "Avenida El Parrón 999, La Cisterna",
+      "city": "Santiago de Chile",
+      "capacity": 12000,
+      "surface": "grass",
+      "image": "/venues/338.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2319,
+      "name": "Deportes Iquique",
+      "code": "IQU",
+      "country": "Chile",
+      "founded": 1978,
+      "national": false,
+      "logo": "/teams/2319.png",
+      "keywords": "Dragones Celestes, Estadio Tierra de Campeones, Copa Chile 2010, Primera B 2015, Cristián Leiva, Edgardo Abdala, Mauricio Zenteno, Torcida Celeste, Identidade nortista, Região de Tarapacá, Símbolo dragão, Ronald Fuentes, Estilo de jogo ofensivo, Rivalidade San Marcos de Arica, Trajetória internacional Libertadores.",
+      "keywords_semantic": "Dragones Celestes, Estádio Tierra de Campeones, Norte do Chile, rivalidade Cobreloa, Primera B Chile, torcida fiel, ídolo Rodrigo Naranjo, ascensão futebol chileno, deserto do Atacama, espírito guerreiro, Copa Chile, cultura portuária, pescadores, tradição mineira, identidade regional."
+    },
+    "venue": {
+      "id": 336,
+      "name": "Estadio Tierra de Campeones",
+      "address": "Avenida Soldado Pedro Prado con Avenida Tadeo Haenke",
+      "city": "Iquique",
+      "capacity": 12000,
+      "surface": "grass",
+      "image": "/venues/336.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2320,
+      "name": "O'Higgins",
+      "code": "HIG",
+      "country": "Chile",
+      "founded": 1955,
+      "national": false,
+      "logo": "/teams/2320.png",
+      "keywords": "O'Higgins, La Celeste, Rancagua, Monumental de Rancagua, Torneo Clausura 2013, Cristián Arán, Eduardo Berizzo, Pablo Calandria, Ídolos, Hinchada Celeste, Capo de Provincia, Copa Libertadores, Copa Sudamericana, Identidade Cultural, Rancagüinos, Ricardo Abumohor, La Trinchera Celeste, Estádio El Teniente, Campeonato Chileno, Identidade regional, História do clube.",
+      "keywords_semantic": "Rancagua, La Celeste, Capo de Provincia, Estádio El Teniente, Copa Chile, Campeonato Chileno, rivalidade Cobreloa, torcida fiel, O'Higgins Rancagua, ídolo Pablo Calandria, identidade regional, estilo aguerrido, história mineira, cultura regionalista, ascensão 2013, técnico Eduardo Berizzo, formação de talentos, legado histórico, paixão celeste, folclore futebolístico."
+    },
+    "venue": {
+      "id": 337,
+      "name": "Estadio El Teniente",
+      "address": "Avenida Capitán Ramón Freire",
+      "city": "Rancagua",
+      "capacity": 14450,
+      "surface": "grass",
+      "image": "/venues/337.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2321,
+      "name": "Union Espanola",
+      "code": "ESP",
+      "country": "Chile",
+      "founded": 1897,
+      "national": false,
+      "logo": "/teams/2321.png",
+      "keywords": "Union Española, Los Hispanos, Santa Laura, Campeonato Chileno, Copa Chile, Independencia, Santiago, Plaza Chacabuco, Fernando Carvallo, Jorge Aravena, José Luis Sierra, Manuel Rodríguez, Torcida Hispanista, Furias Rojas, Identidade Espanhola, La Furia Roja, Club Social y Deportivo, La Catedral del Fútbol, Independencia Roja, Comunidade Espanhola no Chile, Esteban González, Títulos Históricos, Rivalidade com Colo-Colo, Identidade Cultural Chileno-Espanhola.",
+      "keywords_semantic": "Chile, Santiago, Futebol Chileno, La Furia Roja, Estádio Santa Laura, Torcida Passionada, História centenária, Campeonato Chileno, Copa Chile, Rivalidades, Universidad de Chile, Colo-Colo, Artilheiros, Estilo de Jogo Ofensivo, Identidade Hispânica, Ídolos, Tradição, Competição Sul-Americana, Desenvolvimento de Talentos."
+    },
+    "venue": {
+      "id": 342,
+      "name": "Estadio Santa Laura-Universidad SEK",
+      "address": "Avenida Huanuco esq. Santa Laura",
+      "city": "Santiago de Chile",
+      "capacity": 28500,
+      "surface": "grass",
+      "image": "/venues/342.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2322,
+      "name": "San Luis",
+      "code": "LUI",
+      "country": "Chile",
+      "founded": 1919,
+      "national": false,
+      "logo": "/teams/2322.png",
+      "keywords": "San Luis, Canários, Quillotanos, Estadio Lucio Fariña Fernández, Quillota, Ascenso, Primeira B, Torcida Aurinegra, Clássico com Unión La Calera, Identidade agrícola, Ídolo Víctor Cabrera, Títulos Primeira B 1955, 1958, 1968, 1980, 2009, 2014-15, Presidente John Solari, Técnico Francisco Bozán, Desenvolvimento juvenil, Tradição local.",
+      "keywords_semantic": "Quillota, clubes chilenos, Estádio Lucio Fariña, identidade local, rivalidades regionais, Ascenso, história modesta, torcedores apaixonados, ícones locais, desenvolvimento juvenil, cultura futebolística chilena, persistência, cores amarelo e preto, comunidade envolvida, tradição desportiva."
+    },
+    "venue": {
+      "id": 340,
+      "name": "Estadio Bicentenario Lucio Fariña",
+      "address": "Calle Anibal Pinto",
+      "city": "Quillota",
+      "capacity": 7703,
+      "surface": "grass",
+      "image": "/venues/340.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2323,
+      "name": "Universidad de Chile",
+      "code": "CHI",
+      "country": "Chile",
+      "founded": 1927,
+      "national": false,
+      "logo": "/teams/2323.png",
+      "keywords": "La U, Los Azules, Estádio Nacional, Superclásico, Marcelo Salas, Johnny Herrera, Copa Sudamericana 2011, Torcida Los de Abajo, Rafael Dudamel, Carlos Heller, Romántico Viajero, Identidade Universitária, Sebastián Ubilla, Jorge Sampaoli, Los Leones, Clássico Universitário, Paulo Henrique Ganso (rumores de transferência), Victor Hugo Castañeda, Esteban Valencia, Identidade Azul.",
+      "keywords_semantic": "La U, Romántico Viajero, Estádio Nacional, torcida laica, Clássico Universitário, rivalidade Colo-Colo, Garra Azul, tricampeonato, Copa Libertadores, Jorge Sampaoli, Marcelo Salas, azul y rojo, títulos nacionais, identidade acadêmica, tradição universitária, estilo ofensivo, história centenária, torcida fiel, Chilenismo, símbolos universitários."
+    },
+    "venue": {
+      "id": 342,
+      "name": "Estadio Santa Laura-Universidad SEK",
+      "address": "Avenida Huanuco esq. Santa Laura",
+      "city": "Santiago de Chile",
+      "capacity": 28500,
+      "surface": "grass",
+      "image": "/venues/342.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2324,
+      "name": "Universidad de Concepcion",
+      "code": "CON",
+      "country": "Chile",
+      "founded": 1994,
+      "national": false,
+      "logo": "/teams/2324.png",
+      "keywords": "La UdeC, Los del Campanil, Estadio Ester Roa Rebolledo, Copa Chile, Campeonato Nacional, Universidad de Concepción, Ronald Fuentes, Hugo Balladares, Patricio Almendra, Fernando Solís, Amarillo y Azul, Bío Bío, Torcida Auricielo, Identidade Universitária, Futebol Chileno, Clubes Universitários, Fútbol Formativo, Juan Luis González (ex-presidente), Campanil, Rivalidade com Huachipato, Torcida Fiel, Desenvolvimento Juvenil, História Recente, Novo Talento Chileno.",
+      "keywords_semantic": "Chile, Universidad de Concepcion, futebol universitário, Concepción, Biobío, La UdeC, torcida estudiantil, rivalidade local, Copa Chile, primeira divisão chilena, identidade acadêmica, Los del Campanil, azul e amarelo, esporte universitário, desenvolvimento juvenil, projeto social, estilo de jogo ofensivo, promoção de talentos, conquistas regionais, futebol chileno."
+    },
+    "venue": {
+      "id": 346,
+      "name": "Estadio Municipal Alcaldesa Ester Roa Rebolledo",
+      "address": "Avenida Ignacio Collao esq. Calle Tegualda",
+      "city": "Concepción",
+      "capacity": 33000,
+      "surface": "grass",
+      "image": "/venues/346.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2325,
+      "name": "Everton de Vina",
+      "code": "EVE",
+      "country": "Chile",
+      "founded": 1909,
+      "national": false,
+      "logo": "/teams/2325.png",
+      "keywords": "Everton de Viña del Mar, Ruleteros, Sausalito, Jorge Valdivia, Copa Chile, Campeonato Nacional, Viñamarinos, Gustavo Dalsasso, Auriazules, Viña del Mar, Tradición, Torcida Oro y Cielo, Identidade Vinãmarina, Pablo Sánchez, Francisco Sánchez Rumoroso, Futebol Chileno, Deportivo Everton, História centenária, Rivalidade com Santiago Wanderers.",
+      "keywords_semantic": "Everton de Viña del Mar, Chile, futebol chileno, Viña del Mar, Estádio Sausalito, rivalidade Santiago Wanderers, Campeonato Chileno, Taça Chile, torcida oro y cielo, Los Ruleteros, Reinaldo Navia, ídolos, estilo ofensivo, La Banda del Oro y Cielo, identidade regional, cultura costeira, tradição futebolística, clube histórico, Luis Santibáñez, conquistas nacionais."
+    },
+    "venue": {
+      "id": 334,
+      "name": "Estadio Sausalito",
+      "address": "Calle Padre Alberto Hurtado",
+      "city": "Viña del Mar",
+      "capacity": 23360,
+      "surface": "grass",
+      "image": "/venues/334.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2326,
+      "name": "Union La Calera",
+      "code": "UNI",
+      "country": "Chile",
+      "founded": 1954,
+      "national": false,
+      "logo": "/teams/2326.png",
+      "keywords": "Cementeros, Estadio Nicolás Chahuán, Santiago Wanderers, Ariel Holan, Copa Sudamericana, Torcida Calerana, Identidade Nortina, Patricio Graff, Mauricio Pinilla, Ascensão a Primeira Divisão, Desempenho no Campeonato Chileno, Presidentes Históricos, Rivalidade com Everton, Futebol Ofensivo, Ídolos Locais.",
+      "keywords_semantic": "Union La Calera, Chile, futebol chileno, clube jovem, Calera, região de Valparaíso, ascensão recente, Primeira Divisão Chilena, rivalidades locais, clássicos, Estádio Nicolás Chahuán, torcedores apaixonados, identidade vermelha, Los Cementeros, cultura operária, ícones locais, estratégia defensiva, estilo aguerrido, resistência, conquistas regionais, futebol moderno, impacto social."
+    },
+    "venue": {
+      "id": 343,
+      "name": "Estadio Municipal Nicolás Chahuán Nazar",
+      "address": "Calle General Esmeralda esq. Calle Baquedano",
+      "city": "La Calera",
+      "capacity": 15000,
+      "surface": "grass",
+      "image": "/venues/343.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2327,
+      "name": "Antofagasta",
+      "code": "ANT",
+      "country": "Chile",
+      "founded": 1966,
+      "national": false,
+      "logo": "/teams/2327.png",
+      "keywords": "Antofagasta, Pumas, Estádio Regional Calvo y Bascuñán, Hinchada Puma, Copa Chile, Nicolás Peric, Fernando Hurtado, Club de Deportes Antofagasta, identidade nortista, deserto do Atacama, ascensão à Primeira Divisão, rivalidade com Cobreloa, história de superação, Martín Palermo (técnico), Jorge Sánchez (presidente), azul e branco (cores), paixão antofagastina, trajetória no futebol chileno, desenvolvimento de jovens talentos.",
+      "keywords_semantic": "Antofagasta, Chile, futebol chileno, Deportes Antofagasta, La Perla del Norte, Estádio Regional de Antofagasta, identidade nortista, cultura desértica, rivalidade Cobresal, Torneio Chileno, ídolos locais, torcida Los Pumas, deserto de Atacama, ascendência e descendência, estilo defensivo, tradição mineira, história regional, comunidade portuária, desenvolvimento esportivo, paixão local, persistência competitiva."
+    },
+    "venue": {
+      "id": 318,
+      "name": "Estadio Regional Calvo y Bascuñán",
+      "address": "Avenida Angamos",
+      "city": "Antofagasta",
+      "capacity": 21178,
+      "surface": "grass",
+      "image": "/venues/318.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2328,
+      "name": "Huachipato",
+      "code": "HUA",
+      "country": "Chile",
+      "founded": 1947,
+      "national": false,
+      "logo": "/teams/2328.png",
+      "keywords": "Acereros, Estadio CAP, Talcahuano, Sidney 2024, Copa Chile 2013, Mario Salas, Huachipato 1974, Universidad de Concepción, ídolo José \"Pepe\" Cantillana, torcida \"Furia Acerera\", identidade industrial, La Usina, Campeonato Nacional 1974, Cristian Muñoz, Grupo CAP, formação de jovens talentos, rival Coquimbo Unido, cores azul e preto, presidente Victoriano Cerda.",
+      "keywords_semantic": "Acerero, Talcahuano, Copa Chile, Estádio CAP, Cobre, Metalurgia, Região Bío-Bío, La Usina, Rivalidade, Universidad de Concepción, Juventude, Formação de Talentos, Campeão 1974, Campeão 2012, Torcida Leal, Identidade Operária, Tradição Industrial, Futebol Chileno, Estilo Ofensivo, Desenvolvimento de Jogadores, Comunidade Local, Ídolos Regionais."
+    },
+    "venue": {
+      "id": 320,
+      "name": "Estadio CAP",
+      "address": "Avenida Desiderio García 909, Las Higueras",
+      "city": "Talcahuano",
+      "capacity": 10579,
+      "surface": "grass",
+      "image": "/venues/320.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2329,
+      "name": "A. Italiano",
+      "code": "ITA",
+      "country": "Chile",
+      "founded": 1910,
+      "national": false,
+      "logo": "/teams/2329.png",
+      "keywords": "Los Tanos, Estadio Bicentenario de La Florida, Copa Chile, Torneio Apertura, Pablo Galdames, Jaime Pizarro, hinchada fiel, identidade ítalo-chilena, La Triestina, Jorge Aravena, Marcelo Zunino, futebol ofensivo, rivalidade Audax Italiano, formação de jovens talentos, escudo tricolor.",
+      "keywords_semantic": "Itália, colônia italiana, Santiago, rivalidade Unión Española, Campeonato Chileno, Copa Chile, torcedores passionais, Estadio Bicentenario de La Florida, tradição, identidade imigrante, Fausto Russo, estilo de jogo ofensivo, simbolismo cultural, cores verde e vermelho, superação, história centenária, rivalidade Audax Italiano, integração social, La Nona."
+    },
+    "venue": {
+      "id": 317,
+      "name": "Estadio Bicentenario Municipal de La Florida",
+      "address": "Calle Enrique Olivares 1003, La Florida",
+      "city": "Santiago de Chile",
+      "capacity": 12000,
+      "surface": "artificial turf",
+      "image": "/venues/317.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2330,
+      "name": "Coquimbo Unido",
+      "code": "COQ",
+      "country": "Chile",
+      "founded": 1957,
+      "national": false,
+      "logo": "/teams/2330.png",
+      "keywords": "Piratas, Elías Figueroa, Estadio Francisco Sánchez Rumoroso, Fútbol Chileno, Torneo Primera B, Ascenso, Hinchada aurinegra, Clásico de la Cuarta Región, Jorge Contador (Presidente), Fernando Díaz (Técnico), Copa Chile, Ramón Estay, Identidade portuária, Puerto Coquimbo, Cultura pesqueira, Símbolos marinhos.",
+      "keywords_semantic": "Coquimbo Unido, Chile, clube histórico, identidade regional, piratas, torcida fiel, Estádio Francisco Sánchez Rumoroso, rivalidade La Serena, ídolos, ascensão e queda, Copa Sudamericana, estilo aguerrido, pacífico, cultura portuária, comunidade costeira, preto e amarelo, tradição, resistência, paixão local, cultura chilena."
+    },
+    "venue": {
+      "id": 324,
+      "name": "Estadio Bicentenario Francisco Sánchez Rumoroso",
+      "address": "Calle Pedro de Valdivia",
+      "city": "Coquimbo",
+      "capacity": 18750,
+      "surface": "grass",
+      "image": "/venues/324.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2331,
+      "name": "Cobresal",
+      "code": "COB",
+      "country": "Chile",
+      "founded": 1979,
+      "national": false,
+      "logo": "/teams/2331.png",
+      "keywords": "Cobresal, Apelido: Mineros, Estádio El Cobre, Salvador Cabañas, Campeonato Chileno 2015, Torcida: Minera, Identidade Cultural: Comunidade Mineradora, El Salvador, Região de Atacama, Energía Naranja, Técnico: Gustavo Huerta, Presidente: Sebastián Moreno, Símbolo: Martelo e Picareta, Rivalidade: Cobreloa, Formação 1980.",
+      "keywords_semantic": "Mineração, deserto, El Salvador, rivalidade, Cobreloa, campeões nacionais, 2015, comunidade mineira, identidade operária, Estádio El Cobre, torcedores fiéis, clube emergente, ídolo Luis Vásquez, resistência, futebol regional, desenvolvimento local, história desafiadora."
+    },
+    "venue": {
+      "id": 323,
+      "name": "Estadio El Cobre",
+      "address": "Avenida Arqueros 2500",
+      "city": "El Salvador, Diego de Almagro",
+      "capacity": 20752,
+      "surface": "grass",
+      "image": "/venues/323.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2332,
+      "name": "Cobreloa",
+      "code": "COB",
+      "country": "Chile",
+      "founded": 1977,
+      "national": false,
+      "logo": "/teams/2332.png",
+      "keywords": "Cobreloa, Los Zorros del Desierto, Calama, Estádio Zorros del Desierto, Campeonato Chileno, Copa Libertadores, ídolo Jorge Barticciotto, ídolo Mario Soto, ídolo Alexis Sánchez, torcida loína, cultura mineira, rivalidade com Colo-Colo, camisa laranja, deserto do Atacama, Ronald Fuentes, Patricio Galaz, presidente Dragan Kraljevic, técnico Emiliano Astorga, formação de talentos, identidade operária, resistência no deserto, conquistas dos anos 80, futebol aguerrido.",
+      "keywords_semantic": "Calama, deserto do Atacama, mineração, garra, Laranja Mecânica, Libertadores, década de 1980, Carlos Rojas, Estádio Zorros del Desierto, rivalidade com Colo-Colo, campeonatos nacionais, torcida loína, altura, resistência, ídolos históricos."
+    },
+    "venue": {
+      "id": 322,
+      "name": "Estadio Zorros del Desierto",
+      "address": "Avenida Bilbao",
+      "city": "Calama",
+      "capacity": 12000,
+      "surface": "grass",
+      "image": "/venues/322.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2333,
+      "name": "Santiago Wanderers",
+      "code": "WAN",
+      "country": "Chile",
+      "founded": 1892,
+      "national": false,
+      "logo": "/teams/2333.png",
+      "keywords": "Santiago Wanderers, Decano del fútbol chileno, La Banda del Decano, Estadio Elías Figueroa Brander, Valparaíso, Copa Chile, Campeonato Nacional, Jorge Ormeño, David Pizarro, Reinaldo Sánchez, Emiliano Astorga, Los Panzers, Verde y Blanco, Identidade Porteña, Rivalidade com Everton, Torcida fiel, Patrimonio cultural do futebol chileno, Formação de talentos, Ídolo Caturro, Tradição centenária, Símbolo do Valparaíso, Influência britânica, Clubes fundadores do futebol chileno.",
+      "keywords_semantic": "Valparaíso, tradição, decano, rivalidade Everton, torcida caturra, ascensão e queda, identidade portuária, ídolo Elías Figueroa, La Banda del Decano, Copa Chile, Campeonato Chileno, estilo aguerrido, história centenária, La Recta Provincia, Estadio Elías Figueroa Brander."
+    },
+    "venue": {
+      "id": 341,
+      "name": "Estadio Elías Figueroa Brander",
+      "address": "Avenida Guillermo González de Hontaneda, Playa Ancha",
+      "city": "Valparaíso",
+      "capacity": 21113,
+      "surface": "grass",
+      "image": "/venues/341.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2334,
+      "name": "Deportes Valdivia",
+      "code": null,
+      "country": "Chile",
+      "founded": 1983,
+      "national": false,
+      "logo": "/teams/2334.png",
+      "keywords": "Torreón, campeón Segunda División 2016, El Gigante del Calle Calle, Estadio Parque Municipal, hinchada valdiviana, Patricio Almendra, Jorge Aravena, león del sur, ídolos valdivianos, tradición fluvial, cultura mapuche, rivalidad sureña, ascenso chileno, historia valdiviana, fútbol y lluvia, pasión del sur de Chile, dirigencia valdiviana, camiseta albirroja, fútbol en Valdivia, espíritu sureño.",
+      "keywords_semantic": "Deportes Valdivia, Chile, Patagônia, Valdivia, União Valdiviana, rivalidade, Club Deportes Temuco, ídolo, tradição, identidade regional, Estádio Parque Municipal, futebol chileno, ascensão e queda, torcida fiel, cultura local, futebol de ascenso, desenvolvimento juvenil, história regional, estilo aguerrido, futebol comunitário, clube emergente."
+    },
+    "venue": {
+      "id": 332,
+      "name": "Estadio El Parque Municipal",
+      "address": "Avenida Pedro Montt esq. Errázuriz",
+      "city": "Valdivia",
+      "capacity": 4500,
+      "surface": "grass",
+      "image": "/venues/332.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2335,
+      "name": "Santiago Morning",
+      "code": "MOR",
+      "country": "Chile",
+      "founded": 1903,
+      "national": false,
+      "logo": "/teams/2335.png",
+      "keywords": "Chaguito, Bohemios, Campeonato de Ascenso, Copa Chile, Estadio Municipal de La Pintana, Hinchada Leal, Identidade Popular, Patricio Almendra, Juan Carlos Letelier, Histórico de Segunda Divisão, Clássico com Magallanes, Desenvolvimento de Jovens Talentos, Futebol Feminino Destacado, Tradição em Santiago, Fundado em 1903, Estilo de Jogo Ofensivo.",
+      "keywords_semantic": "Santiago Morning, Chile, futebol chileno, clube tradicional, história centenária, torcedores fiéis, rivalidades locais, Primera B, identidade cultural, ídolos do clube, símbolos históricos, evolução esportiva, estilo de jogo clássico, ascensão e queda, marcos históricos, paixão futebolística, comunidade local, impacto social, desenvolvimento de talentos, memória esportiva."
+    },
+    "venue": {
+      "id": 328,
+      "name": "Estadio Municipal de La Pintana",
+      "address": "Calle Tala y Calle Ciudad de México 1589, La Pintana",
+      "city": "Santiago de Chile",
+      "capacity": 6000,
+      "surface": "grass",
+      "image": "/venues/328.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2336,
+      "name": "Magallanes",
+      "code": "MAG",
+      "country": "Chile",
+      "founded": 1897,
+      "national": false,
+      "logo": "/teams/2336.png",
+      "keywords": "Carabeleros, La Academia, Mario Salas, Copa Libertadores, Enrique \"Cua Cua\" Hormazábal, Campeonato Chileno 1933, hinchada fiel, Nicolás Núñez, Estadio Municipal de San Bernardo, cultura histórica, resurgimento no futebol chileno, rivalidade com Colo-Colo, tradição no futebol chileno, clube centenário, \"Ballet Azul\".",
+      "keywords_semantic": "Magallanes, Chile, futebol chileno, Santiago, fundação 1897, pioneiro, Primera División, rivalidades, sucesso histórico, tricampeão, década de 1930, identidade local, ídolos, torcida fiel, cores tradicionais, azul e branco, La Academia, estilo de jogo, história rica, ressurgimento, Copa Chile, desenvolvimento juvenil, legado esportivo."
+    },
+    "venue": {
+      "id": 335,
+      "name": "Estadio Municipal",
+      "address": "Avenida Colon Sur",
+      "city": "San Bernardo",
+      "capacity": 3500,
+      "surface": "grass",
+      "image": "/venues/335.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2337,
+      "name": "Nublense",
+      "code": "NUB",
+      "country": "Chile",
+      "founded": 1916,
+      "national": false,
+      "logo": "/teams/2337.png",
+      "keywords": "Diablos Rojos, Estadio Nelson Oyarzún Arenas, Chillán, Jaime García, Copa Chile, Primeira Divisão Chilena, hinchada, Libertadores, Hugo Droguett, Ricardo Abumohor, Sebastián Varas, identidade chillaneja, rivalidade com Universidad de Concepción, La Pincoya, jogadores históricos, ascensão no futebol chileno, tradição local, desenvolvimento juvenil.",
+      "keywords_semantic": "Ñublense, Chillán, Diablos Rojos, Estádio Nelson Oyarzún, futebol chileno, rivalidade, Copa Chile, promoção, descenso, identidade local, paixão, torcida fiel, história, ressurgimento, ascensão, marca regional, clube histórico, tradição, ídolos locais, competições nacionais, estilo de jogo, desenvolvimento de jovens, comunidade, orgulho local."
+    },
+    "venue": {
+      "id": 333,
+      "name": "Estadio Bicentenario Municipal Nelson Oyarzún",
+      "address": "Avenida Manuel Plaza",
+      "city": "Chillán",
+      "capacity": 12000,
+      "surface": "grass",
+      "image": "/venues/333.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2338,
+      "name": "Barnechea",
+      "code": "BAR",
+      "country": "Chile",
+      "founded": 1929,
+      "national": false,
+      "logo": "/teams/2338.png",
+      "keywords": "Huaicocheros, Segunda División, Estadio Municipal de Lo Barnechea, Santiago, ascensão meteórica, jovens talentos, identidade andina, torcida apaixonada, cores azul e amarelo, tradição local, Alex Barrera, projeto comunitário, desenvolvimento de base, rivais regionais, espírito competitivo, cultura chilena, futebol de montanha, estratégia de crescimento, inclusão social, infraestrutura esportiva.",
+      "keywords_semantic": "Barnechea, Andes, Santiago, futebol chileno, ascensão, segunda divisão, rivalidade, tradição local, comunidade, identidade, La Cisterna, desenvolvimento juvenil, tática defensiva, espírito de luta, torcedores apaixonados, azul e amarelo, história recente, conquistas regionais, perseverança, ídolos emergentes"
+    },
+    "venue": {
+      "id": 325,
+      "name": "Estadio Municipal de Lo Barnechea",
+      "address": "Cerro 18, Lo Barnechea",
+      "city": "Santiago de Chile",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/325.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2339,
+      "name": "D. Melipilla",
+      "code": null,
+      "country": "Chile",
+      "founded": 1963,
+      "national": false,
+      "logo": "/teams/2339.png",
+      "keywords": "Potros, Campeonato Chileno, Primera B, Esteban Paredes, Estádio Municipal Roberto Bravo Santibáñez, Melipilla, tradição equestre, ascensão, superação, torcida apaixonada, rivalidade com clubes de Santiago, identidade local, desenvolvimento de jovens talentos, cultura agrícola, história recente, apoio regional, desafios financeiros, comunidade unida, futebol chileno, lutas por promoção.",
+      "keywords_semantic": "D. Melipilla, Chile, Potros, Melipilla, cultura local, rivalidade regional, ascensão, descenso, história recente, identidade da torcida, ídolos locais, símbolos regionais, estilo de jogo, clube jovem, desenvolvimento, futebol chileno, espírito competitivo, apoio comunitário, tradição emergente, talento local."
+    },
+    "venue": {
+      "id": 20702,
+      "name": "Estadio Soinca Bata",
+      "address": "Calle Tala y Calle Ciudad de México 1589, La Pintana",
+      "city": "Melipilla",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "/venues/20702.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2340,
+      "name": "Union San Felipe",
+      "code": "FEL",
+      "country": "Chile",
+      "founded": 1956,
+      "national": false,
+      "logo": "/teams/2340.png",
+      "keywords": "Uní Uní, Campeonato Chileno, Campeonato de Ascenso, Estadio Municipal, Los Andes, Felipe Núñez, Club Deportivo Unión San Felipe, futebol chileno, La Calera, rivalidade, Ascenso 1971, Copa Chile, cantera, torcedores apaixonados, hinchada, cores vermelho e branco, 1956, Carlos Encinas, identidade regional, jogadores históricos, Liga Chilena, promoção e rebaixamento, identidade andina, futebol andino, tradição e história.",
+      "keywords_semantic": "Union San Felipe, Chile, futebol chileno, história, Valle del Aconcagua, rivalidade, títulos, Estadio Municipal de San Felipe, identidade de torcida, ídolos locais, cores vermelho e branco, La Pandilla, ascensão e queda, estilo de jogo, desenvolvimento de talentos, clube tradicional, espírito comunitário, cultura futebolística chilena, Segunda División, Primera B, espírito combativo."
+    },
+    "venue": {
+      "id": 344,
+      "name": "Estadio Municipal de San Felipe",
+      "address": "Avenida Maipú",
+      "city": "San Felipe",
+      "capacity": 13162,
+      "surface": "grass",
+      "image": "/venues/344.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2341,
+      "name": "D. La Serena",
+      "code": "SER",
+      "country": "Chile",
+      "founded": 1955,
+      "national": false,
+      "logo": "/teams/2341.png",
+      "keywords": "Papayeros, Granate, Estadio La Portada, ídolo Juan Carlos Letelier, Campeonato de Ascenso, Clásico de la Región de Coquimbo, hinchada serenense, presidente Jorge Contador, técnico Miguel Ponce, identidade nortina, rivalidade com Coquimbo Unido, fundação 1955, cultura serenense, torcida fiel, cores granate, símbolos históricos.",
+      "keywords_semantic": "Histórico, rivalidade Coquimbo Unido, Estádio La Portada, torcedores serenenses, ascensão, descida, Primeira Divisão Chilena, títulos Segunda Divisão, identidade granate, jogadores emblemáticos, tradição, estilo defensivo, comunidade La Serena, ídolos locais, futebol chileno."
+    },
+    "venue": {
+      "id": 321,
+      "name": "Estadio La Portada de La Serena",
+      "address": "Avenida Amunátegui y Avenida José Manuel Balmaceda",
+      "city": "La Serena",
+      "capacity": 18500,
+      "surface": "grass",
+      "image": "/venues/321.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2342,
+      "name": "D. Puerto Montt",
+      "code": null,
+      "country": "Chile",
+      "founded": 1983,
+      "national": false,
+      "logo": "/teams/2342.png",
+      "keywords": "Delfines Albiverdes, Estádio Chinquihue, Torcida Chinquihue, Região dos Lagos, Ascenso do Futebol Chileno, Copa Chile, Fabián Moyano, História do Sul do Chile, Identidade Patagônica, Rivalidade com Deportes Valdivia, Mauricio Segovia, Cultura Chilote, Tradição Marinheira, Apoio Local, Formação de Jovens Talentos.",
+      "keywords_semantic": "D. Puerto Montt, Chile, futebol chileno, Chinquihue, torcida leal, rivalidade regional, Copa Chile, identidade local, estilo defensivo, comunidade pesqueira, influência cultural, história recente, paixão futebolística, ascensão e queda, ídolos locais, atmosfera de estádio, região dos Lagos, futebol aguerrido, tradição marítima, desafios econômicos, desenvolvimento juvenil."
+    },
+    "venue": {
+      "id": 329,
+      "name": "Estadio Bicentenario de Chinquihue",
+      "address": "Avenida Pacheco Altamirano",
+      "city": "Puerto Montt",
+      "capacity": 11300,
+      "surface": "artificial turf",
+      "image": "/venues/329.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2343,
+      "name": "Deportes Copiapo",
+      "code": "COP",
+      "country": "Chile",
+      "founded": 1999,
+      "national": false,
+      "logo": "/teams/2343.png",
+      "keywords": "León de Atacama, Estadio Luis Valenzuela Hermosilla, ascensão à Primeira Divisão, Torcida Albiverde, cultura nortista, deserto do Atacama, identidade regional, Javier Guajardo, Marcoleta como técnico, rivalidade com Cobreloa, cantera de talentos, tradição no futebol chileno, Francisco Román como ídolo, luta pela permanência, paixão local.",
+      "keywords_semantic": "Deserto do Atacama, ascensão à primeira divisão, Estádio Luis Valenzuela Hermosilla, identidade regional, torcida fiel, ídolos locais, futebol chileno, perseverança, clube jovem, rivalidade regional, crescimento esportivo, história emergente, paixão local, impacto social, tradição e modernidade."
+    },
+    "venue": {
+      "id": 327,
+      "name": "Estadio Luis Valenzuela Hermosilla",
+      "address": "Calle Conrado Araya",
+      "city": "Copiapó",
+      "capacity": 10000,
+      "surface": "grass",
+      "image": "/venues/327.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2344,
+      "name": "Rangers de Talca",
+      "code": "RAN",
+      "country": "Chile",
+      "founded": 1902,
+      "national": false,
+      "logo": "/teams/2344.png",
+      "keywords": "Rangers de Talca, Rojinegros, Estadio Fiscal de Talca, Piduco, Campeonato Chileno Primera B, ascenso, hinchada fiel, clásico del Maule, Talquino, Rangers Talca ídolos, Luis Marcoleta, Felipe Muñoz, club histórico, Paquitas, rivalidad con Curicó Unido, Talca, fútbol chileno, pasión rojinegra, Eduardo Pinto, cantera prometedora, identidad maulina, escudo rojinegro, historia centenaria.",
+      "keywords_semantic": "Rangers de Talca, futebol chileno, clube centenário, Estádio Fiscal de Talca, rivalidade com Curicó Unido, ascensão e descenso, paixão regional, torcida fervorosa, ídolos históricos, vermelho e preto, identidade talquina, Campeonato Chileno, campeonato de segunda divisão, estilo aguerrido, tradição e perseverança."
+    },
+    "venue": {
+      "id": 339,
+      "name": "Estadio Fiscal de Talca",
+      "address": "Avenida Libertador Bernardo O´Higgins 251",
+      "city": "Talca",
+      "capacity": 17020,
+      "surface": "grass",
+      "image": "/venues/339.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2345,
+      "name": "San Marcos de Arica",
+      "code": "MAR",
+      "country": "Chile",
+      "founded": 1978,
+      "national": false,
+      "logo": "/teams/2345.png",
+      "keywords": "San Marcos de Arica, Los Bravos del Morro, Estádio Carlos Dittborn, Arica, La Celeste, subidas à Primera División, Copa Chile, ariqueños, Torcida Celeste, rivalidade com Deportes Iquique, identidade nortista, deserto do Atacama, José Sulantay, técnico histórico, Juan Carlos Alemán, presidente, ídolos locais, identidade regional, fronteira com o Peru, paixão ariquenã, cultura andina no futebol.",
+      "keywords_semantic": "San Marcos de Arica, Chile, La Celeste, futebol chileno, rivalidade regional, Copa Chile, Estádio Carlos Dittborn, torcida fervorosa, identidade nortista, fronteira Peru-Chile, deserto do Atacama, ídolos locais, ascensão e queda, comunidade apaixonada, futebol ofensivo, história resiliente."
+    },
+    "venue": {
+      "id": 2672,
+      "name": "Estadio Carlos Dittborn",
+      "address": "Avenida 18 de Septembre 2000",
+      "city": "Arica",
+      "capacity": 17786,
+      "surface": "grass",
+      "image": "/venues/2672.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2346,
+      "name": "Deportes Santa Cruz",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/2346.png",
+      "keywords": "Deportes Santa Cruz, Comunalero, Estadio Joaquín Muñoz García, Segunda División Profesional, Ascenso, Torcida Albirroja, Identidade Huasa, Copa Chile, Ídolo Arturo Norambuena, Técnico Osvaldo Hurtado, Presidente Cristian San Juan, Região de O'Higgins, Tradição Vinícola, Rivalidade Colchagua, Desenvolvimento Juvenil, Cultura Camponesa.",
+      "keywords_semantic": "Deportes Santa Cruz, futebol chileno, cultura local, identidade regional, rivalidade chilena, ascensão e queda, Estádio Joaquín Muñoz García, torcida apaixonada, história do clube, espírito de comunidade, tradição esportiva, ídolos locais, desenvolvimento de talentos, estilo de jogo aguerrido, competições nacionais, impacto social, símbolos do clube."
+    },
+    "venue": {
+      "id": 330,
+      "name": "Estadio Municipal Joaquín Muñoz García",
+      "address": "Paniahue",
+      "city": "Santa Cruz",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/330.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2383,
+      "name": "Chile",
+      "code": "CHI",
+      "country": "Chile",
+      "founded": 1895,
+      "national": true,
+      "logo": "/teams/2383.png",
+      "keywords": "La Roja, Alexis Sánchez, Copa América 2015, Copa América 2016, Estádio Nacional, Marcelo Salas, Claudio Bravo, Jorge Valdivia, Arturo Vidal, Reinaldo Rueda, Gary Medel, Estádio Monumental, torcida chilena, rivalidade com a Argentina, identidade andina, Charles Aránguiz, Juan Pinto Durán, espírito guerreiro, La U, Colo-Colo, Universidad Católica, Esteban Paredes, Iván Zamorano, Estádio San Carlos de Apoquindo, Estádio Santa Laura, futebol ofensivo, determinação chilena.",
+      "keywords_semantic": "Universidad de Chile, Colo-Colo, La U, Los Cruzados, Cobreloa, Estadio Nacional, La Roja, Alexis Sánchez, Marcelo Salas, Copa América, rivalidade chilena, Superclásico, futebol chileno, identidade andina, torcida fervorosa, Estilo ofensivo, história futebolística, campeonatos nacionais, ídolos chilenos, clubes tradicionais, cultura futebolística, paixão nacional, seleções históricas."
+    },
+    "venue": {
+      "id": 18623,
+      "name": "Panasonic Stadium Suita",
+      "address": "Senribanpakukōen, 3",
+      "city": "Suita",
+      "capacity": 40322,
+      "surface": "grass",
+      "image": "/venues/18623.png"
+    }
+  },
+  {
+    "team": {
+      "id": 2994,
+      "name": "U. Catolica",
+      "code": "CAT",
+      "country": "Chile",
+      "founded": 1937,
+      "national": false,
+      "logo": "/teams/2994.png",
+      "keywords": "Los Cruzados, San Carlos de Apoquindo, Estudiantes Católicos, Universidad Católica, Copa Libertadores, Campeonato Chileno, Mario Lepe, José Pedro Fuenzalida, Ignacio Prieto, Fernando Carvallo, Ariel Holan, hinchada fiel, La Franja, rivalidade com Colo-Colo, Estadio San Carlos de Apoquindo, Cruzados SADP, Cristián Paulucci, identidade acadêmica, La Precordillera, bandeira azul e branca, formação de talentos, bicampeão chileno, Supercopa de Chile, tradição universitária, La Católica, clássicos chilenos, Marcelo Salas.",
+      "keywords_semantic": "Los Cruzados, Santiago, Estádio San Carlos de Apoquindo, Rivalidade Colo-Colo, Campeonato Chileno, Copa Chile, Libertadores, Torcida fervorosa, Universidad Católica, Ídolo Jorge Valdivia, Formação de base, Futebol ofensivo, Tradição acadêmica, História vitoriosa, Identidade universitária."
+    },
+    "venue": {
+      "id": 342,
+      "name": "Estadio Santa Laura-Universidad SEK",
+      "address": "Avenida Huanuco esq. Santa Laura",
+      "city": "Santiago de Chile",
+      "capacity": 28500,
+      "surface": "grass",
+      "image": "/venues/342.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5633,
+      "name": "Colchagua",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/5633.png",
+      "keywords": "Colchagua CD, Huaso, San Fernando, Estadio Jorge Silva Valenzuela, Primeira B do Chile, futebol chileno, identidade regional, Los Herraduros, terceira divisão, cultura vinícola, Copa Chile, rivalidade local, paixão dos torcedores, história centenária, La Herradura, futebol amador ao profissional, desenvolvimento de jovens talentos, comunidade local, tradições chilenas, presidente do clube, técnico atual, Copa Absoluta, ídolos históricos, ascensão e rebaixamento, orgulho regional, amor pelo clube, cores azul e branco, legado esportivo.",
+      "keywords_semantic": "San Fernando, Segunda División, ascensão, Descentralizado, paixão local, La Herradura, rivalidade regional, identidade camponesa, Estádio Jorge Silva Valenzuela, tradição vinícola, comunidade, perseverança, desenvolvimento juvenil, história chilena, espírito de luta, apoio comunitário, herança cultural."
+    },
+    "venue": {
+      "id": 4215,
+      "name": "Estadio Municipal Jorge Silva Valenzuela",
+      "address": "Avenida Manso de Velasco",
+      "city": "San Fernando",
+      "capacity": 5900,
+      "surface": "grass",
+      "image": "/venues/4215.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5634,
+      "name": "Colina",
+      "code": null,
+      "country": "Chile",
+      "founded": 2015,
+      "national": false,
+      "logo": "/teams/5634.png",
+      "keywords": "Colina, Albiverdes, Estadio Municipal de Colina, Torcida Los Guerreros, Identidade Cultural Chilena, Campeonato Chileno, Ascenso Chileno, Ídolos Locais, Futebol Chileno, Desenvolvimento de Jovens Talentos, Clubes de Bairro, Tradição Esportiva, Presidente do Clube, Técnico Atual, Símbolo do Clube, Paixão pelo Futebol, História do Clube.",
+      "keywords_semantic": "Colina, Chile, Los Albos, rivalidades locais, terceira divisão chilena, clube jovem, comunidade local, desenvolvimento de talentos, cultura futebolística chilena, apoio da torcida, tradição emergente, crescimento esportivo, identidade regional, paixão chilena, estilo de jogo ofensivo."
+    },
+    "venue": {
+      "id": 4216,
+      "name": "Estadio Municipal de Colina",
+      "address": "Aconcagua (e/ Nuñez de Balboa y Nasa)",
+      "city": "Colina",
+      "capacity": 6000,
+      "surface": "artificial turf",
+      "image": "/venues/4216.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5635,
+      "name": "Concepción",
+      "code": "CON",
+      "country": "Chile",
+      "founded": 1966,
+      "national": false,
+      "logo": "/teams/5635.png",
+      "keywords": "Lilas de Collao, Estadio Ester Roa Rebolledo, La Lamparita, Segunda División, Terceira División, Copa Chile, hinchada fiel, Universidad de Concepción, rivalidade local, ascenso, futebol chileno, identidade penquista, Collao, Carlos Torres, Pedro Morales, herança cultural, símbolo da cidade, paixão no sul do Chile, desenvolvimento juvenil, comunidade Concepción, tradição no futebol.",
+      "keywords_semantic": "Concepción, Chile, futebol chileno, cultura local, rivalidades regionais, Biobío, identidade de torcida, paixão, ídolos locais, símbolos tradicionais, estilo de jogo, história do clube, títulos regionais, torcida fervorosa, La UdeC, Estádio Municipal de Concepción, comunidade, impacto social, desenvolvimento juvenil, cores do clube, espírito competitivo."
+    },
+    "venue": {
+      "id": 346,
+      "name": "Estadio Municipal Alcaldesa Ester Roa Rebolledo",
+      "address": "Avenida Ignacio Collao esq. Calle Tegualda",
+      "city": "Concepción",
+      "capacity": 33000,
+      "surface": "grass",
+      "image": "/venues/346.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5636,
+      "name": "Deportes Rengo",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/5636.png",
+      "keywords": "Deportes Rengo, La Celeste, Clubes de Tercera División, Estádio Municipal de Rengo, Torcida Los Celestinos, Identidade cultural de Rengo, Rivalidade com Colchagua, Ídolo histórico Carlos Núñez, Presidente atual, Técnico Juan González, Símbolo El Ferrocarril, Tradição no futebol chileno, Potencial de ascensão, História desde 1914, Participação em campeonatos regionais.",
+      "keywords_semantic": "Deportes Rengo, Chile, futebol chileno, Segunda División, rivalidade local, identidade regional, torcedores apasionados, história do clube, cultura esportiva, ascensão esportiva, ídolos locais, desenvolvimento juvenil, comunidade de Rengo, tradição futebolística, estilo de jogo competitivo, cores azul e amarelo, símbolo do clube, marcos históricos."
+    },
+    "venue": {
+      "id": 4217,
+      "name": "Estadio Municipal Guillermo Guzmán Díaz",
+      "address": "Avenida San Martin",
+      "city": "Rengo",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "/venues/4217.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5637,
+      "name": "Deportes Vallenar",
+      "code": null,
+      "country": "Chile",
+      "founded": 2013,
+      "national": false,
+      "logo": "/teams/5637.png",
+      "keywords": "El Gigante del Huasco, Estadio Nelson Rojas, Club Deportivo Vallenar, Huasco Valley, Torneo ANFA, Copa Chile, aficionados vallenarinos, Juan Pablo Astorga, verde y blanco, Jorge Toro, comunidad minera, pasión por el fútbol, desarrollo juvenil, historia local, rivalidades regionais, espírito comunitário, identidade nortina.",
+      "keywords_semantic": "Deportes Vallenar, futebol chileno, cultura local, rivalidades regionais, história esportiva, torcida apaixonada, ídolos locais, identidade comunitária, ascensão e queda, marcos históricos, estilo de jogo defensivo, competições nacionais, representatividade regional, símbolos do clube, espírito de luta."
+    },
+    "venue": {
+      "id": 4218,
+      "name": "Estadio Municipal Nelson Rojas",
+      "address": "Calle Talca",
+      "city": "Vallenar",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/4218.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5638,
+      "name": "Fernández Vial",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/5638.png",
+      "keywords": "Fernández Vial, Aurinegros, La Maquinita, Arturo Fernández Vial, Ascenso Chileno, Esteban Fuertes, Clásico Penquista, Copa Chile, Estadio Municipal de Concepción, Simbólico Ferroviário, Identidade Ferroviária, Torcida Fiel, Hinchas Aurinegros, Luta e Resistência, Identidade Popular, Futebol Chileno, História Centenária, Técnico Claudio Rojas, Presidente Felipe Sáez, Paixão Vialina.",
+      "keywords_semantic": "Chile, Fernández Vial, Concepción, ferroviários, identidade operária, torcida fiel, rivalidades regionais, clássico penquista, ascensão, tradição, história centenária, liga chilena, ídolos locais, garra, resiliência, lutas sociais, estilo combativo, aurinegro, La Máquina Aurinegra."
+    },
+    "venue": {
+      "id": 346,
+      "name": "Estadio Municipal Alcaldesa Ester Roa Rebolledo",
+      "address": "Avenida Ignacio Collao esq. Calle Tegualda",
+      "city": "Concepción",
+      "capacity": 33000,
+      "surface": "grass",
+      "image": "/venues/346.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5639,
+      "name": "General Velásquez",
+      "code": null,
+      "country": "Chile",
+      "founded": 1908,
+      "national": false,
+      "logo": "/teams/5639.png",
+      "keywords": "General Velásquez, Apelido: \"El Verde\", Estádio Municipal Augusto Rodríguez, San Vicente de Tagua Tagua, Ídolos: Carlos \"Charly\" Salgado, Torcida apaixonada, Identidade cultural forte na região de O'Higgins, Fundado em 1908, Participações na Segunda División Profesional de Chile, Técnico: César Bustamante, Influência histórica no futebol chileno, Tradição no futebol regional, Rivalidades locais, Desenvolvimento de talentos jovens.",
+      "keywords_semantic": "General Velásquez, San Vicente de Tagua Tagua, futebol chileno, Segunda División, história militar, rivalidade, identidade regional, estádio El Teniente, torcedores leais, ascensão esportiva, clube tradicional, comunidade local, desenvolvimento jovem, ícones regionais, cores verde e branco."
+    },
+    "venue": {
+      "id": 19598,
+      "name": "Estadio Municipal Augusto Rodríguez",
+      "address": "Horacio Aranguiz S/N",
+      "city": "San Vicente de Tagua Tagua",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "/venues/19598.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5640,
+      "name": "Iberia",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/5640.png",
+      "keywords": "Iberia Los Ángeles, Azulgrana de Chile, Estadio Municipal de Los Ángeles, \"La Furia Azul\", Segunda División Profesional, Copa Chile, Ascenso, \"Los Dragones Azules\", Mario Osbén (ídolo), Rivalidade com Deportes Concepción, Futebol de Raiz, Identidade Regional, Apoio Popular, Formação de Jovens Talentos, \"Los Iberianos\", Tradição e História, Desenvolvimento Comunitário, Cultura Local, Futebol Chileno.",
+      "keywords_semantic": "Los Ángeles, futebol chileno, Segunda División, identidade regional, história local, rivalidades regionais, torcedores apaixonados, cores azul e branco, desenvolvimento juvenil, ascensão no futebol, persistência, comunidade, esportes locais, tradição, identidade chilena."
+    },
+    "venue": {
+      "id": 4220,
+      "name": "Estadio Municipal de Los Ángeles",
+      "address": null,
+      "city": "Los Ángeles",
+      "capacity": 5100,
+      "surface": "grass",
+      "image": "/venues/4220.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5641,
+      "name": "Lautaro de Buin",
+      "code": null,
+      "country": "Chile",
+      "founded": 1923,
+      "national": false,
+      "logo": "/teams/5641.png",
+      "keywords": "Lautaro de Buin, Toquis, Chile, Segunda División, Aurinegros, Estádio Lautaro, Torcida, Identidade cultural, História, Símbolos, Ídolos locais, Títulos, Ascensão, Rivalidades, Futuro promissor, Diretor esportivo, Técnico atual, Jogadores destaque, Comunidade, Tradição, Espírito guerreiro.",
+      "keywords_semantic": "Lautaro de Buin, futebol chileno, Segunda División, história recente, ascensão, futebol local, pequeno porte, identidade regional, torcida apaixonada, cores tradicionais, espírito de luta, rivalidades locais, conquistas regionais, desenvolvimento de talentos, estilo combativo."
+    },
+    "venue": {
+      "id": 4221,
+      "name": "Estadio Lautaro",
+      "address": null,
+      "city": "Buín",
+      "capacity": 1100,
+      "surface": "grass",
+      "image": "/venues/4221.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5642,
+      "name": "Pilmahue",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/5642.png",
+      "keywords": "Pilmahue, Villarrica, Los Venados, futebol amador chileno, Tercera División, identidade local, torcida apaixonada, Estádio Municipal Matías Vidal Pérez, ascensão no futebol chileno, futebol de base, ídolos locais, cultura mapuche, Patricio Aguilera (técnico), rivalidade regional, desenvolvimento esportivo, espírito comunitário, cores verde e branco, tradição esportiva.",
+      "keywords_semantic": "Villarrica, Araucanía, futebol amador, identidade local, cultura mapuche, rivalidades regionais, Copa Chile, comunidade, paixão popular, desenvolvimento juvenil, ascensão, tradição, torcedores dedicados, cores verde e branco, símbolo da árvore, espírito competitivo, histórias regionais."
+    },
+    "venue": {
+      "id": 4222,
+      "name": "Estadio Municipal Matías Vidal Pérez",
+      "address": "Camino Villarrica - Pucón 1301",
+      "city": "Villarrica",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "/venues/4222.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5643,
+      "name": "Provincial Osorno",
+      "code": null,
+      "country": "Chile",
+      "founded": 1983,
+      "national": false,
+      "logo": "/teams/5643.png",
+      "keywords": "Toros, Los Toros del Sur, Estádio Rubén Marcos Peralta, Torcida Osornina, Campeonato Chileno Primera B, Identidade Mapuche, Sebastián Pardo, Rivalidades Regionais, Ascenso Chileno, Tradição Pecuária, Azul e Branco, Carlos Rojas, Copa Chile, Região dos Lagos, Cultura Patagônica, História Chilena, Desenvolvimento de Jovens Talentos, Club Social y Deportivo, Orgulho Osornino.",
+      "keywords_semantic": "Provincial Osorno, futebol chileno, cultura local, rivalidades regionais, Estádio Rubén Marcos Peralta, Los Toros, identidade torcedora, tradição, ídolos, ascensão e queda, história do clube, paixão local, espírito comunitário, símbolos do clube, trajetória competitiva, legado esportivo."
+    },
+    "venue": {
+      "id": 4223,
+      "name": "Estadio Municipal Rubén Marcos Peralta",
+      "address": "Calle Pilmaiquen",
+      "city": "Osorno",
+      "capacity": 11800,
+      "surface": "artificial turf",
+      "image": "/venues/4223.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5644,
+      "name": "Recoleta",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/5644.png",
+      "keywords": "Recoleta, Los Recoletanos, Santiago de Chile, Estadio Municipal de Recoleta, Ascenso chileno, Primera B, Lucho Pato, Javier Castro, Club Social y Deportivo Recoleta, Identidade comunitária, Torcida fiel, Cultura local, Desenvolvimento juvenil, Rivalidade local, Paixão recoletana.",
+      "keywords_semantic": "Recoleta, Chile, futebol chileno, Santiago, rivalidades locais, cultura de bairro, história recente, ascensão, torcida apaixonada, identidade comunitária, ídolos regionais, estilo de jogo, desenvolvimento jovem, competições nacionais, marcos históricos, reputação crescente, influências culturais."
+    },
+    "venue": {
+      "id": 19599,
+      "name": "Estadio Municipal de Recoleta",
+      "address": "Av. Recoleta 3005",
+      "city": "Recoleta",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "/venues/19599.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5645,
+      "name": "San Antonio Unido",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/5645.png",
+      "keywords": "San Antonio Unido, SAU, Choreros, Estadio Municipal de Cartagena, Campeonato Segunda División, Humberto Suazo, Ídolos locais, Torcida fervorosa, Identidade portuária, Tradição costeira, Azul e branco, Clubes históricos do Chile, Desenvolvimento de jovens talentos, Desafios financeiros, Rivalidades regionais, Cultura marinheira, Apoio comunitário, Campeonatos regionais, Presidentes influentes, Técnicos inovadores.",
+      "keywords_semantic": "San Antonio Unido, Chile, futebol chileno, história local, cultura portuária, identidade regional, rivalidades regionais, Estádio Municipal de Cartagena, torcedores apaixonados, ídolos locais, desenvolvimento de talentos, cores azul e branco, ascensão futebolística, impacto comunitário, tradição esportiva, competições nacionais."
+    },
+    "venue": {
+      "id": 4225,
+      "name": "Estadio Municipal Doctor Olegario Henríquez Escalante",
+      "address": "Avenida Ramon Barros Luco 2595",
+      "city": "San Antonio",
+      "capacity": 2025,
+      "surface": "grass",
+      "image": "/venues/4225.png"
+    }
+  },
+  {
+    "team": {
+      "id": 5646,
+      "name": "Trasandino",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/5646.png",
+      "keywords": "Condores de Los Andes, Estádio Regional de Los Andes, Ascenso Chileno, Patricio Almendra, Segunda División Profesional, Torcida Verdolaga, Identidade Andina, Copa Chile, Futebol Chileno, Tradição Regional, Fundação 1906, Rivalidade com San Felipe, Desenvolvimento de Jovens Talentos, Símbolo do Condor, Clube Centenário, Espírito de Superação, História no Futebol Chileno, Apoio da Comunidade Andina, Cultura de Montanha, Paixão Andina.",
+      "keywords_semantic": "Los Andes, futebol chileno, Segunda División, rivalidade regional, história local, identidade andina, Estadio Regional de Los Andes, fervor da torcida, desenvolvimento juvenil, clube tradicional, comunidade, ascensão e queda, ídolos locais, espírito de luta, paixão regional."
+    },
+    "venue": {
+      "id": 4226,
+      "name": "Estadio Regional de Los Andes",
+      "address": "Avenida Perú, Trasandino",
+      "city": "Los Andes",
+      "capacity": 3313,
+      "surface": "grass",
+      "image": "/venues/4226.png"
+    }
+  },
+  {
+    "team": {
+      "id": 10147,
+      "name": "Independiente",
+      "code": null,
+      "country": "Chile",
+      "founded": 1929,
+      "national": false,
+      "logo": "/teams/10147.png",
+      "keywords": "Independiente de Cauquenes, Rojos del Maule, Segunda División Profesional, Estadio Miguel Alarcón Osores, rivalidade local, ídolos históricos, ascensão à Primeira B, paixão regional, identidade maulina, La Furia Roja, técnico destacado, presidente influente, desenvolvimento de jovens talentos, apoio incondicional da torcida, tradição no futebol chileno, cultura futebolística, reconhecimento nacional.",
+      "keywords_semantic": "Independiente de Cauquenes, futebol chileno, terceira divisão, rivalidade regional, identidade local, torcida apaixonada, cores vermelho e branco, estádio Miguel Alarcón Osores, desenvolvimento juvenil, estilo ofensivo, tradição comunitária, crescimento esportivo, história recente, ascensão competitiva."
+    },
+    "venue": {
+      "id": 11597,
+      "name": "Estadio Fiscal Manuel Moya Medel",
+      "address": null,
+      "city": "Cauquenes",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "/venues/11597.png"
+    }
+  },
+  {
+    "team": {
+      "id": 11052,
+      "name": "Colo-Colo U20",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/11052.png",
+      "keywords": "Colo-Colo U20, Caciques, Estadio Monumental, Santiago, La Ruca, jovens promessas, Gustavo Quinteros, formação de talentos, Sub-20, cantera, Héctor Tapia, identidade Mapuche, futebol chileno, títulos juvenis, ídolos históricos, garra e paixão, futuro do futebol chileno, projeção internacional, desenvolvimento de base, hinchas albos, força no ataque, disciplina tática, crescimento esportivo.",
+      "keywords_semantic": "Colo-Colo, Sub-20, Chile, futebol jovem, formação de talentos, base, cultura futebolística, Santiago, rivalidade, La U, torcedores, albos, identidade, ídolos, história, campeonato juvenil, estilo de jogo, ofensivo, garra, tradição, futuro, desenvolvimento, conquistas, sul-americano, libertadores jovem, Cacique, Estádio Monumental, Macul, paixão."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 12505,
+      "name": "Chile U17",
+      "code": "CHI",
+      "country": "Chile",
+      "founded": 1895,
+      "national": true,
+      "logo": "/teams/12505.png",
+      "keywords": "La Roja Sub-17, Alex Ibacache, Copa do Mundo Sub-17, Torneio Sul-Americano Sub-17, jovens talentos chilenos, formação de base, Estádio Nacional de Chile, Fútbol Joven, ANFP (Asociación Nacional de Fútbol Profesional), espírito de garra chilena, Alexis Sánchez como inspiração, desenvolvimento juvenil, Carlos Véliz (técnico), futuro do futebol chileno, identidade andina no futebol.",
+      "keywords_semantic": "formação de base, desenvolvimento juvenil, La Roja, talentos emergentes, Copa do Mundo Sub-17, futebol chileno, infraestrutura esportiva, futuras promessas, identidade nacional, espírito competitivo, seleção juvenil, Marcelo Salas, Alexis Sánchez, estilo de jogo ofensivo, disciplina tática, integração social."
+    },
+    "venue": {
+      "id": 316,
+      "name": "Estadio Nacional Julio Martínez Prádanos",
+      "address": "Avenida Grecia 2001, Ñuñoa",
+      "city": "Santiago de Chile",
+      "capacity": 48665,
+      "surface": "grass",
+      "image": "/venues/316.png"
+    }
+  },
+  {
+    "team": {
+      "id": 15717,
+      "name": "Linares Unido",
+      "code": null,
+      "country": "Chile",
+      "founded": 1955,
+      "national": false,
+      "logo": "/teams/15717.png",
+      "keywords": "Los Toros, Estadio Tucapel Bustamante, Copa Chile, rivalidade com Deportes Linares, Paine, ascensão no futebol chileno, Enrique \"Quique\" Sepúlveda, apoio comunitário, identidade local, desenvolvimento de jovens talentos, paixão pela cidade de Linares, cores vermelho e branco, espírito de equipe, tradição no futebol amador, Manuel González (presidente), Francisco \"Paco\" Miranda (técnico).",
+      "keywords_semantic": "Linares Unido, Chile, futebol chileno, identidade regional, rivalidades locais, cultura futebolística, história do clube, torcida apaixonada, desenvolvimento juvenil, campeonatos regionais, ídolos locais, estádio Fiscal de Linares, cores do clube, tradição esportiva, liga chilena, comunidade de Linares, espírito de equipe, formação de base, apoio local, estilo de jogo competitivo."
+    },
+    "venue": {
+      "id": 11133,
+      "name": "Estadio Tucapel Bustamante",
+      "address": "Avenida Rengo",
+      "city": "Linares",
+      "capacity": 7000,
+      "surface": "grass",
+      "image": "/venues/11133.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16201,
+      "name": "Chile U20",
+      "code": "CHI",
+      "country": "Chile",
+      "founded": 1895,
+      "national": true,
+      "logo": "/teams/16201.png",
+      "keywords": "La Rojita, Alexis Sánchez, Arturo Vidal, Copa do Mundo Sub-20, Torcida Chilena, Identidade Andina, Marcelo Salas, Juan Antonio Pizzi, Estádio Nacional, Garra Chilena, Fúria Roja, Eduardo Berizzo, Estilo de Jogo Ofensivo, Rivalidade com Argentina Sub-20, Desenvolvimento de Jovens Talentos, Federação de Futebol do Chile, Gabriel Suazo, Formação de Base, Orgulho Nacional, Cultura Futebolística Chilena.",
+      "keywords_semantic": "Chile U20, seleção juvenil, futebol chileno, desenvolvimento de talentos, La Roja, Conmebol, Copa do Mundo Sub-20, formação de base, estrelas emergentes, ídolos futuros, rivalidades sul-americanas, estilo de jogo ofensivo, paixão nacional, orgulho juvenil, história esportiva, identidade chilena, espírito competitivo, torcedores jovens, tradição futebolística, crescimento esportivo."
+    },
+    "venue": {
+      "id": 316,
+      "name": "Estadio Nacional Julio Martínez Prádanos",
+      "address": "Avenida Grecia 2001, Ñuñoa",
+      "city": "Santiago de Chile",
+      "capacity": 48665,
+      "surface": "grass",
+      "image": "/venues/316.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16730,
+      "name": "Deportes Limache",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/16730.png",
+      "keywords": "Deportes Limache, Tomate Mecánico, Estadio Municipal Ángel Navarrete Candia, Felipe Venegas, Campeonato Segunda División, Fabián Cerda, Torcida Limachina, Identidade Huasa, Tradição Vinícola, Rivalidades Regionais, Desenvolvimento Juvenil, Cores Vermelho e Branco, Ascensão no Futebol Chileno, Marcos Arriagada, Comunidade Local, Paixão Limachina, Símbolo do Tomate, História Recente, Desafios na Primeira B.",
+      "keywords_semantic": "Deportes Limache, futebol chileno, Quinta Região, cultura local, rivalidades regionais, torcedores apaixonados, identidade comunitária, ascensão no futebol chileno, estádio Municipal de Limache, ídolos locais, desenvolvimento de talentos, tradição esportiva, espírito de equipe, visão de futuro, jovens promessas, história recente."
+    },
+    "venue": {
+      "id": 11598,
+      "name": "Estadio Gustavo Ocaranza",
+      "address": "Yerbas Buenas",
+      "city": "Limache",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "/venues/11598.png"
+    }
+  },
+  {
+    "team": {
+      "id": 16731,
+      "name": "Rodelindo Román",
+      "code": null,
+      "country": "Chile",
+      "founded": 2016,
+      "national": false,
+      "logo": "/teams/16731.png",
+      "keywords": "Rodelindo Román, Pelusso, Arturo Vidal, Ídolo, Ascenso, Campeonato Chileno, Barrio El Huasco, Torcida Apaixonada, Identidade Comunitária, Futebol de Bairro, La Cantera, La Rodelinda, Estádio Municipal de San Joaquín, Esporte Amador, Projeto Social, Formação de Jovens Talentos, História Local, Tradición, José Avendaño (fundador), Simbolismo Comunitário.",
+      "keywords_semantic": "Rodelindo Román, Chile, futebol amador, clube de bairro, San Joaquín, Arturo Vidal, ídolo, história local, cultura comunitária, ascensão, identidade popular, paixão, tradição, futebol base, desenvolvimento jovem, rivalidades locais, conquistas regionais, torcida fervorosa, símbolo de resistência, estilo aguerrido."
+    },
+    "venue": {
+      "id": 18536,
+      "name": "Estadio Municipal Bernardo O'Higgins",
+      "address": "Nueva Imperial 4716, Quinta Normal",
+      "city": "Santiago de Chile",
+      "capacity": 4000,
+      "surface": "artificial turf",
+      "image": "/venues/18536.png"
+    }
+  },
+  {
+    "team": {
+      "id": 17583,
+      "name": "Naval",
+      "code": "NAV",
+      "country": "Chile",
+      "founded": 1944,
+      "national": false,
+      "logo": "/teams/17583.png",
+      "keywords": "Naval Talcahuano, Choreros, Estadio El Morro, Los Tigres del Mar, Segunda División Profesional, Ascenso, Talcahuano, Hinchada Fiel, Clásico del Biobío, Identidade Portuária, José Sulantay, David Pizarro, César Pinares, História Navalina, Identidade Marítima, Força Operária, Simbologia Naval, Azul e Branco, Legado Chileno, Tradição Regional, Resiliência.",
+      "keywords_semantic": "Naval, Talcahuano, futebol chileno, Segunda División, torcida Porteña, Estadio El Morro, rivalidade, Club Deportes Concepción, história marítima, identidade local, ídolos regionais, azul e branco, tradição naval, reestruturação, comunidade pesqueira, estilo defensivo, evolução histórica, paixão costeira, desafios financeiros, renascimento esportivo."
+    },
+    "venue": {
+      "id": 12306,
+      "name": "Estadio Ramón Unzaga Asla",
+      "address": "Avenida Jordan Valdivieso",
+      "city": "Talcahuano",
+      "capacity": 7142,
+      "surface": "grass",
+      "image": "/venues/12306.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18768,
+      "name": "Aguará",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18768.png",
+      "keywords": "Aguará, Los Lobos, Santiago, ídolos, campeonato chileno, torcida apaixonada, identidade cultural, presidente, técnico, símbolo do lobo, história rica, rivalidades locais, La Garra, estádio, jovens promessas, tradição, cores do clube, conquistas marcantes, paixão pelo futebol, espírito de equipe, legado, influências culturais, desenvolvimento de talentos.",
+      "keywords_semantic": "Chile, Aguará, futebol chileno, identidade, cultura, história, rivalidade, torcida, ídolos, símbolos, estilo de jogo, reputação, competição, títulos, marcos históricos, paixão, tradição, comunidade, Santiago, desenvolvimento, influências, legado, jovens talentos, conexão local, orgulho, cores do clube, estádio, canto da torcida."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18769,
+      "name": "Colo Colito",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18769.png",
+      "keywords": "Colo Colito, popularidade local, formação de base, Esteban Paredes, identidade chilena, paixão pela camisa, Cacique, rivalidade regional, títulos juvenis, desenvolvimento de talentos, comunidade de Concepción, clube formador, apoio fervoroso, presença na ANFA, cores tradicionais, Francisco Huerta (presidente), legado esportivo, vínculo com a cidade, espírito amador, orgulho regional, conexão com Colo Colo, formação de jovens atletas.",
+      "keywords_semantic": "Chile, futebol chileno, Colo Colito, Concepción, clube amador, identidade local, cultura futebolística, rivalidade regional, campeonatos locais, desenvolvimento juvenil, tradição esportiva, paixão da torcida, ídolos locais, símbolos culturais, comunidade, estilo de jogo amador."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18770,
+      "name": "Condor de Pichidegua",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18770.png",
+      "keywords": "Condor de Pichidegua, El Condor, futebol chileno, Pichidegua, ídolos locais, títulos regionais, Torcida Condor, identidade cultural chilena, cores vermelho e branco, rivalidades regionais, presidente do clube, técnico atual, mascote Condor, futebol amador, liga local, estádio municipal de Pichidegua, desenvolvimento de jovens talentos, paixão pelo futebol, tradição esportiva, comunidade local.",
+      "keywords_semantic": "Condor de Pichidegua, Chile, clube local, futebol amador, história regional, identidade comunitária, rivalidades locais, desenvolvimento juvenil, tradição esportiva, paixão da torcida, cultura chilena, competições regionais, ídolos locais, símbolo do condor, espírito de equipe, futebol de base."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18771,
+      "name": "Dante Imperial",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18771.png",
+      "keywords": "Dante Imperial, Los Gladiadores, Estádio Monumental de Santiago, La Marea Roja, campeões nacionais, Copa Libertadores, tradição chilena, hinchada apaixonada, cultura andina, El Capitán histórico, rivalidade com Club Deportivo Santiago, técnico inovador, presidente visionário, La Macarena (mascote), lenda El Toro Valdivia, identidade de combate, formação tática ofensiva, cantera promissora.",
+      "keywords_semantic": "Dante Imperial, Chile, cultura italiana, imigração, Santiago, rivalidades locais, títulos regionais, história centenária, torcida apaixonada, cores azul e branco, ídolos históricos, futebol ofensivo, rivalidade com C.D. La Estrella, tradições familiares, estádio emblemático, desenvolvimento juvenil, comunidade italiana, eventos sociais, identidade local."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18772,
+      "name": "Deportes Quillón",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18772.png",
+      "keywords": "Deportes Quillón, El Rojo del Valle, ídolos locais, campeonato regional, Estádio Municipal de Quillón, torcida fiel, identidade agrícola, cultura vinícola, tradição familiar, desenvolvimento juvenil, presidente do clube, técnico dedicado, ascensão no futebol chileno, espírito comunitário, rivalidades regionais.",
+      "keywords_semantic": "Deportes Quillón, Chile, futebol chileno, Quillón, rivalidades locais, tradição esportiva, identidade regional, torcedores apaixonados, competições nacionais, ascensão no futebol, cultura local, espírito comunitário, desenvolvimento jovem, estilo de jogo ofensivo, ídolos locais, símbolos regionais, clube emergente, história recente, marcos regionais, identidade cultural."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18773,
+      "name": "La Higuera",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18773.png",
+      "keywords": "La Higuera Futebol Clube, \"Os Mineradores\", estádio El Mirador, Copa Nacional de Chile, Andrés \"El Capitán\" Muñoz, tradição mineira, torcida \"La Barricada\", rivalidade com Club Deportivo Vallenar, festas de San Pedro, presidente Rodrigo Salazar, técnico Juan Pablo Iglesias, cores vermelho e branco, símbolo do martelo e picareta, desenvolvimento de jovens talentos, paixão local, campeonato regional, legado cultural, economia mineira.",
+      "keywords_semantic": "La Higuera, Chile, futebol chileno, cultura local, comunidade, identidade regional, rivalidades locais, campeonato chileno, tradição esportiva, paixão dos torcedores, ídolos regionais, símbolos culturais, estilo de jogo defensivo, desenvolvimento de talentos, história do clube, integração social, orgulho local."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18774,
+      "name": "La Obra",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18774.png",
+      "keywords": "La Obra, apelido Los Constructores, ídolos Juan \"El Maestro\" González, títulos Copa Chile, torcida Los Obreros, identidade cultural trabalhadores chilenos, Estádio Municipal, presidente Carlos Riquelme, técnico Diego Martínez, símbolos capacete e martelo, rivalidad local com Club Deportivo Metalúrgico, fundação 1974, cores azul e branco, projeto social comunitário, desenvolvimento juvenil.",
+      "keywords_semantic": "La Obra, Chile, futebol chileno, clube histórico, identidade cultural, rivalidades locais, torcedores apaixonados, títulos regionais, tradição futebolística, ídolos do clube, estilo de jogo aguerrido, símbolos do clube, impacto social, conexão comunitária, trajetória esportiva."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18775,
+      "name": "Municipal Salamanca",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18775.png",
+      "keywords": "Municipal Salamanca, Los Brujos, Estádio Municipal de Salamanca, identidade cultural chilena, desenvolvimento comunitário, torcida apaixonada, competições regionais, tradição local, cores azul e branco, rivalidades locais, base de jovens talentos, ídolos regionais, apoio da prefeitura, símbolos culturais, festas tradicionais, integração social, projetos comunitários, presidente influente, técnicos locais, legado esportivo.",
+      "keywords_semantic": "Chile, Municipal Salamanca, clube local, identidade comunitária, cultura regional, futebol amador, rivalidades locais, apoio da torcida, tradição, história social, desenvolvimento juvenil, competição regional, festivais esportivos, paixão local, ícones regionais, impacto social, orgulho municipal, eventos esportivos, ligação comunitária."
+    },
+    "venue": {
+      "id": 19552,
+      "name": "Estadio Municipal de Salamanca",
+      "address": "Av José Manuel Infante 461",
+      "city": "Salamanca, Región de Coquimbo",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "/venues/19552.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18776,
+      "name": "Provincial Ovalle",
+      "code": null,
+      "country": "Chile",
+      "founded": 1942,
+      "national": false,
+      "logo": "/teams/18776.png",
+      "keywords": "Ciclón del Limarí, Estadio Municipal de Ovalle, Segunda División Profesional, Club Deportivo Provincial Ovalle, Torcida Albiverde, identidade cultural Limarina, ídolos locais, Copa Chile, rivalidade regional, desenvolvimento de jovens talentos, tradição no futebol chileno, Presidente do clube, técnico atual, símbolo do clube, cores verde e branco, história e fundação, apoio comunitário, La Serena, Coquimbo Unido, desportos amadores.",
+      "keywords_semantic": "Ovalle, Chile, futebol chileno, cultura esportiva, rivalidades regionais, Club de Deportes Ovalle, identidade local, história do clube, torcedores apaixonados, impacto social, desenvolvimento juvenil, tradição, camisetas verde e branca, Estádio Municipal de Ovalle, ídolos locais, competição regional, estilo de jogo ofensivo."
+    },
+    "venue": {
+      "id": 19553,
+      "name": "Estadio Diaguita",
+      "address": "La Chimba 522",
+      "city": "Ovalle",
+      "capacity": 5600,
+      "surface": "grass",
+      "image": "/venues/19553.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18777,
+      "name": "Provincial Ranco",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18777.png",
+      "keywords": "Provincial Ranco, El Provi, Los Vikingos, Estádio Carlos Vogel, La Trinchera Celeste, Puerto Montt, Tercera División, futebol chileno, identidade local, rivalidade regional, desenvolvimento de jovens talentos, cultura mapuche, apoio comunitário, Francisco Huaiquipán, tradição no sul do Chile, crescimento esportivo, orgulho regional.",
+      "keywords_semantic": "Chile, Provincial Ranco, futebol chileno, La Unión, identidade local, cultura regional, rivalidades locais, desenvolvimento comunitário, torcedores apaixonados, tradição esportiva, campeonatos regionais, identidade de torcida, ídolos locais, futebol amador, história do clube, símbolos regionais, impacto social, competições regionais, orgulho local, estilo de jogo competitivo."
+    },
+    "venue": {
+      "id": 19554,
+      "name": "Estadio Centenario La Unión",
+      "address": "Cam. A Trumao 2-98",
+      "city": "La Unión",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "/venues/19554.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18778,
+      "name": "Quintero Unido",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18778.png",
+      "keywords": "Quintero Unido, Los Piratas de Quintero, Estádio Municipal Raúl Vargas Verdejo, tradição portuária, rivalidade local, paixão costeira, La Hinchada, ascensão futebolística, identidade regional, jovens talentos, desenvolvimento comunitário, cores azul e branco, símbolos marítimos, presidente do clube, treinador visionário, conquistas regionais, impacto social, história futebolística chilena, conexão com a cidade, espírito de equipe.",
+      "keywords_semantic": "Quintero Unido, Chile, futebol chileno, cultura local, comunidade portuária, rivalidades regionais, títulos locais, história do clube, identidade de torcida, paixão popular, símbolos do clube, ídolos locais, estilo de jogo, desenvolvimento de talentos, tradição esportiva, impacto social, marcos históricos, apoio comunitário, envolvimento social, rivalidade com clubes vizinhos."
+    },
+    "venue": {
+      "id": 19555,
+      "name": "Estadio Municipal Raúl Vargas Verdejo",
+      "address": "Luis Cousiño 3098",
+      "city": "Quintero",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "/venues/19555.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18779,
+      "name": "Real San Joaquín",
+      "code": null,
+      "country": "Chile",
+      "founded": 1963,
+      "national": false,
+      "logo": "/teams/18779.png",
+      "keywords": "Real San Joaquín, La Maquinita, futebol chileno, Segunda División, torcida apaixonada, identidade local, Estádio Municipal de San Joaquín, ídolos regionais, cultura futebolística chilena, ascensão no futebol chileno, planejamento estratégico, rivalidades locais, desenvolvimento de jovens talentos, impacto social, presidente do clube, técnico do time, cores e símbolos do clube, comunidade e futebol, história do Real San Joaquín.",
+      "keywords_semantic": "Real San Joaquín, Chile, futebol chileno, cultura local, comunidade, rivalidade, história, identidade, torcida, ídolos, símbolos, estilo de jogo, ascensão, ligas menores, tradição, desenvolvimento, paixão, representatividade."
+    },
+    "venue": {
+      "id": 19600,
+      "name": "Estadio Municipal de San Joaquín",
+      "address": "Av Carlos Valdovinos 253",
+      "city": "San Joaquín",
+      "capacity": 3500,
+      "surface": "artificial turf",
+      "image": "/venues/19600.png"
+    }
+  },
+  {
+    "team": {
+      "id": 18780,
+      "name": "San Bernardo Unido",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18780.png",
+      "keywords": "San Bernardo Unido, Los Guerreros del Sur, Estádio Municipal de San Bernardo, Clásico del Sur, La Furia Roja, ídolos: Javier \"El Mago\" Fuentes, Carlos \"El Capitán\" Morales, título: Campeonato Nacional Chileno, torcida: Los Fieles del Sur, identidade cultural: influência mapuche, diretor técnico: Roberto \"El Maestro\" González, presidente: María Isabel Contreras, rival: Deportivo Maipú, cores: vermelho e branco, símbolo: Condor Andino, La Pasión del Pueblo, cantera de talentos, fiestas populares, hinchada apasionada.",
+      "keywords_semantic": "San Bernardo Unido, Chile, futebol chileno, cultura local, identidade regional, rivalidades locais, títulos nacionais, paixão da torcida, ídolos históricos, símbolos do clube, estilo de jogo ofensivo, tradição esportiva, comunidade unida, estádio icônico, cores do clube, legado esportivo, desenvolvimento jovem, impacto social, rivalidades acirradas, torcida apaixonada, história rica, influências culturais, campeonatos regionais, orgulho local."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18781,
+      "name": "Tricolor de Paine",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18781.png",
+      "keywords": "Tricolor de Paine, Los Tricolores, ídolos históricos, Campeonato Chileno, Copa Chile, torcida apaixonada, identidade rural e comunitária, cores azul, branco e vermelho, Estádio Municipal de Paine, rivalidade local, espírito de união, diretor esportivo, presidente influente, técnico renomado, jovens promessas, tradição e renovação, símbolo da cidade de Paine, conquistas regionais, paixão pelo futebol.",
+      "keywords_semantic": "Tricolor de Paine, futebol chileno, cultura local, rivalidades regionais, torcida apaixonada, identidade comunitária, símbolos tricolores, jovens talentos, competições nacionais, história do clube, tradição futebolística, ídolos locais, estilo de jogo ofensivo, desenvolvimento de base, paixão futebolística, evolução esportiva, marcos históricos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18782,
+      "name": "Unión Bellavista",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18782.png",
+      "keywords": "Unión Bellavista, Los Diablos Rojos, La Serena, Estadio La Portada, Torneo Regional, Identidade Cultural do Norte do Chile, Torcida Passionária, Rivalidade com Coquimbo Unido, Jorge \"Coke\" Contreras, Desenvolvimento de Jovens Talentos, Tradição em Competições Locais, Símbolo do Clube, Cores Vermelho e Branco, Dirigentes Notáveis, Estilo de Jogo Ofensivo, Participação em Copas Regionais.",
+      "keywords_semantic": "Chile, Unión Bellavista, futebol amador, La Serena, rivalidade local, futebol comunitário, identidade regional, paixão dos torcedores, desenvolvimento juvenil, tradições locais, competições regionais, cultura futebolística, ídolos locais, símbolos comunitários, legado esportivo, estilo de jogo aguerrido, coesão social, impacto cultural, história do clube."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 18783,
+      "name": "Unión Compañías",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/18783.png",
+      "keywords": "Unión Compañías, La Serena, Los Piratas del Norte, Estadio La Portada, Campeonato ANFA, Torcida Fiel, Identidade Serena, Ídolos Locais, Cultura Nortista, Jorge Cisternas, Club Deportivo, Presidente Carlos López, Técnico Mauricio Salazar, Histórias Regionais, Desenvolvimento de Base, Futebol Amador, Tradições Culturais, Símbolo do Norte, Rivalidades Locais, Espírito Comunitário.",
+      "keywords_semantic": "Chile, Unión Compañías, La Serena, futebol amador, rivalidade local, cultura esportiva, identidade regional, torcedores, tradição, competições regionais, desenvolvimento comunitário, paixão local, história, ídolos locais, ascensão no futebol chileno."
+    },
+    "venue": {
+      "id": 19601,
+      "name": "Complejo Juan Soldado",
+      "address": "Pintor Rafael Valdés, 173",
+      "city": "La Serena",
+      "capacity": 500,
+      "surface": "artificial turf",
+      "image": "/venues/19601.png"
+    }
+  },
+  {
+    "team": {
+      "id": 20522,
+      "name": "Santiago Morning W",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/20522.png",
+      "keywords": "Chaguitas, Fútbol Femenino, Campeonato Nacional Femenino, Santiago, La Maquinita, Ídolos: Fernanda Pinilla, Torcida: Hinchada Matadora, Identidade Cultural: Inclusão e diversidade, Presidente: Miguel Nasur, Técnico: Paula Navarro, Símbolo: Estrela de Santiago, Títulos Importantes: Copa Chile Femenina, Tradição e História, Desenvolvimento de Base, Empoderamento Feminino, Rivalidade: Colo-Colo Femenino.",
+      "keywords_semantic": "Santiago Morning W, futebol feminino, Chile, Santiago, cultura esportiva chilena, rivalidades locais, Campeonato Chileno, ídolos do futebol feminino, empoderamento feminino, torcida apaixonada, conquistas históricas, desenvolvimento do futebol feminino, identidade do clube, estilo de jogo, tradição esportiva, crescimento do esporte feminino, impacto social, símbolos culturais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20531,
+      "name": "Chile U17 W",
+      "code": null,
+      "country": "Chile",
+      "founded": 1895,
+      "national": true,
+      "logo": "/teams/20531.png",
+      "keywords": "La Rojita Femenina, Estrella Solitaria, Sub-17 Feminina, Copa do Mundo Sub-17, Torneio Sul-Americano, ídolos: Fernanda Pinilla, Carla Guerrero, desenvolvimento juvenil, ANFP (Associação Nacional de Futebol Profissional), identidade chilena, La Marea Roja, apoio da torcida feminina, formação de talentos, La Roja, treinadora: Alex Castro, presidente: Pablo Milad, Centro de Treinamento Quilín, futebol feminino no Chile, conquistas juvenis, espírito guerreiro chileno, inclusão e diversidade no esporte.",
+      "keywords_semantic": "futebol feminino, desenvolvimento juvenil, talentos emergentes, Seleção Chilena, Copa do Mundo U17, formação de base, La Roja, empoderamento feminino, igualdade de gênero, rivalidades sul-americanas, Conmebol, tradição esportiva, paixão chilena, jovens promessas, identidade nacional, espírito de equipe, superação, ídolos futuros, estilo de jogo ofensivo, disciplina tática."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 20533,
+      "name": "Chile U19",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": true,
+      "logo": "/teams/20533.png",
+      "keywords": "La Rojita, Marcelo Salas, Alexis Sánchez, Copa del Pacífico, Torneo Juventud de América, hinchada apasionada, identidad andina, Claudio Bravo, Matías Fernández, Estadio Nacional de Chile, Federación de Fútbol de Chile, Pablo Milad, Fernando Felicevich, cantera de talentos, desarrollo juvenil, espíritu guerrero chileno.",
+      "keywords_semantic": "formação de base, desenvolvimento juvenil, futebol chileno, futuro do futebol, talentos emergentes, La Roja Sub-19, cultura futebolística chilena, competições juvenis, ídolos em ascensão, identidade nacional, seleção chilena, estilo de jogo chileno, paixão pela juventude, rivalidades sul-americanas, torneios internacionais de base"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21112,
+      "name": "Chimbarongo",
+      "code": null,
+      "country": "Chile",
+      "founded": 2014,
+      "national": false,
+      "logo": "/teams/21112.png",
+      "keywords": "Chimbarongo FC, Los Mimbre, Estádio Municipal de Chimbarongo, Torcida Verde, futebol chileno, identidade local, La Roja, futebol amador, ídolos locais, cultura chilena, Copa Chile, rivalidades regionais, desenvolvimento juvenil, jovens talentos, paixão pelo futebol, tradição chilena, comunidade de Chimbarongo, esportes no Chile, clube de coração, orgulho local.",
+      "keywords_semantic": "Chimbarongo, Chile, futebol chileno, clubes regionais, terceira divisão chilena, cultura local, rivalidades regionais, identidade torcedora, comunidade, tradição, desenvolvimento juvenil, história esportiva, esportes chilenos, ícones locais, aspirações profissionais, paixão futebolística, talentos emergentes."
+    },
+    "venue": {
+      "id": 19602,
+      "name": "Municipal de Chimbarongo",
+      "address": "Valentín Letelier",
+      "city": "Chimbarongo, O&apos;Higgins Region",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "/venues/19602.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21113,
+      "name": "Comunal Cabrero",
+      "code": null,
+      "country": "Chile",
+      "founded": 2017,
+      "national": false,
+      "logo": "/teams/21113.png",
+      "keywords": "Comunal Cabrero, Los del Mimbre, futebol chileno, identidade local, ídolos regionais, Primera B, Estadio Municipal de Cabrero, paixão da torcida, desenvolvimento de jovens talentos, rivalidade local, símbolos comunitários, cultura esportiva chilena, aspirações de ascensão, tradição e inovação, apoio local, impacto social, presidente do clube, técnico visionário.",
+      "keywords_semantic": "Comunal Cabrero, futebol chileno, identidade local, comunidade, tradição regional, rivalidades locais, campeonatos amadores, paixão da torcida, ídolos locais, desenvolvimento de jovens, estilo aguerrido, história do clube, símbolos regionais, impacto social, futebol de base, espírito competitivo."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21114,
+      "name": "Concón National",
+      "code": null,
+      "country": "Chile",
+      "founded": 1914,
+      "national": false,
+      "logo": "/teams/21114.png",
+      "keywords": "Concón National, Los Guerreros del Mar, ídolos locais, títulos regionais, hinchada fervorosa, cultura costeira, identidade chilena, presidente influente, técnico visionário, símbolo do pescador, rivalidades locais, história rica, desenvolvimento juvenil, paixão pelo futebol, comunidade unida.",
+      "keywords_semantic": "Chile, Concón, futebol amador, identidade local, paixão regional, rivalidades locais, história comunitária, desenvolvimento juvenil, cultura esportiva, torcida fiel, ícones locais, estádio municipal, tradições esportivas, competição regional, espírito de equipe."
+    },
+    "venue": {
+      "id": 340,
+      "name": "Estadio Bicentenario Lucio Fariña",
+      "address": "Calle Anibal Pinto",
+      "city": "Quillota",
+      "capacity": 7703,
+      "surface": "grass",
+      "image": "/venues/340.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21115,
+      "name": "Municipal Puente Alto",
+      "code": null,
+      "country": "Chile",
+      "founded": 2019,
+      "national": false,
+      "logo": "/teams/21115.png",
+      "keywords": "Municipal Puente Alto, \"Los Puentealtinos\", futebol chileno, Campeonato Chileno de Tercera División, Estádio Municipal de Puente Alto, torcedores apaixonados, cultura futebolística local, rivalidade regional, formação de jovens talentos, identidade comunitária, ídolos locais, liderança de diretoria, desenvolvimento esportivo, tradição futebolística, espírito de equipe, integração social através do esporte.",
+      "keywords_semantic": "Chile, Municipal Puente Alto, futebol chileno, história local, identidade comunitária, apoio local, rivalidades regionais, desenvolvimento juvenil, cultura de bairro, torcida apaixonada, ídolos locais, tradição esportiva, competição regional, ascensão no futebol, estilo de jogo ofensivo, espírito de equipe, integração social, valores comunitários, símbolos culturais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21116,
+      "name": "Rancagua Sur",
+      "code": null,
+      "country": "Chile",
+      "founded": 1961,
+      "national": false,
+      "logo": "/teams/21116.png",
+      "keywords": "Rancagua Sur, La Celeste, ídolos locais, títulos regionais, fervor da torcida, identidade cultural Rancagua, Copa Chile, Estádio Municipal de Rancagua, rivalidade local, desenvolvimento de jovens talentos, comunidade apaixonada, futebol amador chileno, história do clube, tradições de Rancagua, apoio dos moradores, expansão e crescimento, presidente visionário, técnico promissor, cores celeste e branco, símbolo do clube, orgulho regional.",
+      "keywords_semantic": "Rancagua Sur, Chile, futebol chileno, identidade regional, rivalidades locais, desenvolvimento juvenil, comunidade, paixão, orgulho local, história recente, clube emergente, tradição esportiva, ídolos locais, torcedores dedicados, cultura futebolística, competição regional, espírito de equipe, valores comunitários, estilo de jogo, crescimento, aspirações."
+    },
+    "venue": {
+      "id": 19556,
+      "name": "Estadio Guillermo Saavedra",
+      "address": "Avenida Miguel Ramirez y Isabel Palma",
+      "city": "Rancagua",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "/venues/19556.png"
+    }
+  },
+  {
+    "team": {
+      "id": 21117,
+      "name": "Santiago City",
+      "code": null,
+      "country": "Chile",
+      "founded": 2020,
+      "national": false,
+      "logo": "/teams/21117.png",
+      "keywords": "Santiago City, Los Ciudadanos, futebol chileno, ídolos emergentes, títulos locais, torcida fervorosa, identidade urbana, cultura futebolística chilena, presidente visionário, técnico estratégico, rivalidades locais, símbolos do clube, história recente, desenvolvimento de talentos, paixão pelo futebol.",
+      "keywords_semantic": "Chile, Santiago, clube emergente, futebol chileno, cultura urbana, paixão, rivalidades locais, desenvolvimento esportivo, torcida jovem, ídolos em ascensão, inovação, identidade local, estilo de jogo moderno, competições regionais, expansão, comunidade futebolística, história recente."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21174,
+      "name": "Bories",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/21174.png",
+      "keywords": "Los Leones del Tamarugal, Arica, história do futebol chileno, identidade do deserto, paixão regional, rivalidade local, Copa Chile, espírito guerreiro, La Roja, Jorge Inostroza, Estádio Carlos Dittborn, cultura pampina, tradição do norte, desenvolvimento de talentos, orgulho ariqueño.",
+      "keywords_semantic": "Bories, Chile, Puerto Natales, Patagônia, futebol amador, identidade local, comunidade, rivalidade regional, torcedores apaixonados, tradição, história local, clube de bairro, desenvolvimento juvenil, futebol chileno, espírito comunitário, ídolos locais, paixão pelo futebol, cultura esportiva, campeonatos regionais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21175,
+      "name": "Eléctricos Refinerías",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/21175.png",
+      "keywords": "Eléctricos Refinerías, Los Eléctricos, Estádio Luz y Fuego, Santiago de Chile, Superclásico del Cobre, Torcida Electrizante, camisa azul e branca, fundação 1965, rivalidad com Mineros de Atacama, \"La Máquina\", ídolo Juan \"Chispa\" González, técnico Pablo Fierro, presidente Carmen Luz Martínez, títulos Copa Cobre de Chile, estilo de jogo ofensivo, hino \"Fuerza y Luz\", mascote Relámpago, identidade operária-industrial, cantera promissora, torcida apaixonada.",
+      "keywords_semantic": "Eléctricos Refinerías, Chile, futebol chileno, cultura industrial, comunidade operária, história do clube, rivalidade local, títulos nacionais, torcedores apaixonados, identidade de classe trabalhadora, ídolos do clube, cores do time, estilo de jogo defensivo, tradição no futebol, símbolos do clube, conexão com a indústria, impacto social, desenvolvimento juvenil, participação em torneios, legado esportivo, orgulho regional."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21176,
+      "name": "Ferroviario Comercial",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/21176.png",
+      "keywords": "Ferroviario Comercial, Los Ferros, El Tren del Norte, Santiago, Copa Chile, Segunda División, Estádio Ferroviario, hinchada fiel, identidade ferroviária, cores vermelho e branco, Jorge González técnico, Juan Pérez presidente, paixão ferroviária, rivalidade local, tradição operária, ídolos históricos, campeões regionais, símbolos ferroviários, cultura do norte chileno, torcida apaixonada.",
+      "keywords_semantic": "ferroviário, ferroviário comercial, chile, futebol chileno, cultura ferroviária, tradição operária, identidade local, rivalidades regionais, história ferroviária, torcedores apaixonados, ídolos históricos, marcos esportivos, estilo de jogo aguerrido, símbolos ferroviários, comunidade local, influência social, competitividade regional, desenvolvimento esportivo, legado ferroviário, orgulho comunitário"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21177,
+      "name": "Gol y Gol",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/21177.png",
+      "keywords": "Gol y Gol, Los Amarillos, Copa Chile, Torcedores fanáticos, Cultura futebolística chilena, Estádio Municipal de Angol, Ídolos locais, Identidade comunitária, Paixão pelo futebol, Desempenho regional, História do clube, Desenvolvimento de jovens talentos, Clássicos locais, Tradição esportiva, Apoio da torcida, Símbolo do clube, Orgulho angolino, Participação em ligas nacionais, Estratégias de jogo, Desafios financeiros.",
+      "keywords_semantic": "Chile, Gol y Gol, futebol chileno, história do clube, rivalidades locais, títulos regionais, tradição futebolística, identidade de torcida, paixão local, ídolos do clube, símbolos culturais, estilo de jogo, legado esportivo, desenvolvimento juvenil, comunidade, orgulho regional."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21178,
+      "name": "Ojanco",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/21178.png",
+      "keywords": "Ojanco, Los Guerreros del Desierto, La Barra de Ojanco, Estádio El Mirador, Santiago Escobar, Ídolo: Carlos \"El Jefe\" Guzmán, Campeão Nacional Chileno, Copa Libertadores, Identidade Andina, Cores: Azul e Branco, Presidente: Martín Araya, Técnico: Juan Pablo Torres, Torcida Apaixonada, Cultura de Resistência, Símbolo: Águia Andina, Tradição de Formação de Jogadores, Rixa com Clubes da Capital, História de Superação, Hino Oficial, Marcha dos Guerreros.",
+      "keywords_semantic": "Ojanco, Chile, futebol chileno, cultura local, rivalidades regionais, títulos nacionais, história do clube, identidade da torcida, ídolos do clube, símbolos tradicionais, estilo de jogo, reputação competitiva, paixão dos torcedores, desenvolvimento jovem, impacto social, marcos históricos, legado esportivo, influência cultural, espírito comunitário."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21179,
+      "name": "Poblacion los Nogales",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/21179.png",
+      "keywords": "Poblacion los Nogales, La Roja, ídolo local, campeonato regional, apoio comunitário, identidade chilena, paixão fervorosa, cultura popular, tradição futebolística, apoio incondicional da torcida, rivalidade local, desenvolvimento juvenil, presidente influente, técnicos experientes, símbolo do bairro, legado no futebol amador, estádio emblemático, história rica, orgulho local, espírito de luta.",
+      "keywords_semantic": "Cultura local, futebol comunitário, Santiago, identidade chilena, rivalidade regional, história social, paixão da torcida, ídolos locais, espírito amador, desenvolvimento de talentos, solidariedade, tradição esportiva, raízes culturais, torneios regionais, estilo aguerrido."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21180,
+      "name": "Teniente Merino",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/21180.png",
+      "keywords": "Teniente Merino, Chile, Los Tenientes, Estadio Municipal de Penco, ídolos locais, títulos regionais, torcida fiel, identidade operária, futebol amador chileno, história militar, paixão local, desenvolvimento juvenil, cores verde e branco, rivalidades locais, comunidade de Penco, presidente atual, técnico atual, símbolos tradicionais, cultura futebolística chilena.",
+      "keywords_semantic": "Teniente Merino, Chile, Segunda Divisão, futebol chileno, cultura militar, história local, cidade de Talcahuano, rivalidades regionais, torcida apaixonada, identidade comunitária, desenvolvimento de jogadores, ascensão e descida, ídolos locais, tradição esportiva, estilo de jogo defensivo, competição nacional."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21181,
+      "name": "Unión Iquique",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/21181.png",
+      "keywords": "Unión Iquique, Dragones Celestes, ídolos históricos, Campeonato Nacional, Estádio Tierra de Campeones, La Fiel Celeste, identidade nortista, rivalidade com Deportes Iquique, símbolos do deserto, jogadores emblemáticos, técnico atual, presidente do clube, cultura iquiqueña, hinchada apaixonada, ascensão e desafios, futebol chileno, história e tradição.",
+      "keywords_semantic": "Unión Iquique, Chile, futebol chileno, história esportiva, rivalidades locais, identidade de torcida, Estádio Tierra de Campeones, ídolos regionais, cultura iquiqueña, tradição esportiva, campeonatos regionais, paixão futebolística, estilo de jogo chileno, desenvolvimento local, símbolos do clube."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21205,
+      "name": "Trasandino De Socoroma",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/21205.png",
+      "keywords": "Trasandino de Socoroma, Cóndores del Desierto, ídolos locais, campeões regionais, torcedores apaixonados, identidade andina, espírito de superação, Francisco \"Pancho\" González, técnico inovador, Estádio Juan Facuse, cores verde e branco, rivalidades regionais, cultura aimará, desenvolvimento de talentos, tradição no futebol chileno.",
+      "keywords_semantic": "Trasandino De Socoroma, Chile, futebol chileno, clube regional, identidade local, tradição cultural, rivalidades locais, competições nacionais, desenvolvimento juvenil, paixão da torcida, comunidade andina, história do clube, ídolos locais, símbolos regionais, estilo de jogo aguerrido, liga chilena."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 21414,
+      "name": "O'Higgins U20",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/21414.png",
+      "keywords": "O'Higgins U20, Celestes, Capo de Provincia, Rancagua, Campeonato Nacional Juvenil, Copa Chile Juvenil, Hinchada Celeste, Estadio El Teniente, Ramon Angel Diaz, Pedro Pablo Hernández, Identidade Huasa, Cultura Minera, Canteranos Destacados, Formação de Jovens Talentos, Rivalidade com Cobreloa, La Tricolor, Jorge Garcés, Academia de Futebol.",
+      "keywords_semantic": "O'Higgins U20, Chile, futebol juvenil, formação de talentos, desenvolvimento de jogadores, Rancagua, academia de futebol, futuro do futebol chileno, campeonato sub-20, identidade local, jovens promessas, ídolos emergentes, estrutura de base, rivalidades regionais, estilo de jogo jovem, espírito competitivo, paixão juvenil, tradição formadora."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22548,
+      "name": "Colo-Colo W",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/22548.png",
+      "keywords": "Colo-Colo Femenino, Las Albas, Estadio Monumental David Arellano, Copa Libertadores Femenina 2012, Campeonato Nacional Femenino, Tiane Endler, Christiane Endler, Karen Araya, Paloma López, Hinchada Alba, Garra Blanca, Caciques, Identidade Mapuche, Macul, Santiago, Gustavo Quinteros, Aníbal Mosa, Sebastião González, Rivalidade com Universidad de Chile, Ídolos femininos, Mulheres no Futebol Chileno, Desenvolvimento do Futebol Feminino no Chile.",
+      "keywords_semantic": "Colo-Colo, Chile, futebol feminino, rivalidade, títulos, campeonatos, torcida, ídolos, Cacique, identidade, Estádio Monumental, história, cultura, albos, tradição, estilo de jogo ofensivo, Santiago, protagonismo, pioneirismo, desenvolvimento, igualdade de gênero."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 22705,
+      "name": "Chile U23",
+      "code": null,
+      "country": "Chile",
+      "founded": 1895,
+      "national": true,
+      "logo": "/teams/22705.png",
+      "keywords": "La Rojita, Reinaldo Rueda, Jogos Pan-Americanos, desenvolvimento de jovens talentos, Estádio Nacional de Chile, La Roja, Alexis Sánchez, Arturo Vidal, Juan Pinto Durán, Copa América, torcida chilena, identidade andina, futebol ofensivo, CONMEBOL, Juan Carlos Letelier, geração dourada, jovens promessas, herança futebolística, espírito de luta, Marcelo Salas.",
+      "keywords_semantic": "futebol chileno, La Roja, seleção olímpica, jovens talentos, Conmebol, desenvolvimento juvenil, identidade nacional, orgulho chileno, formação de atletas, torneios internacionais, espírito competitivo, rivalidades sul-americanas, ídolos emergentes, estilo aguerrido, tática ofensiva, paixão das torcidas, herança esportiva, preparação olímpica, legado futebolístico, integração social."
+    },
+    "venue": {
+      "id": 316,
+      "name": "Estadio Nacional Julio Martínez Prádanos",
+      "address": "Avenida Grecia 2001, Ñuñoa",
+      "city": "Santiago de Chile",
+      "capacity": 48665,
+      "surface": "grass",
+      "image": "/venues/316.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23459,
+      "name": "Chile U20 W",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/23459.png",
+      "keywords": "La Rojita Femenina, María José Rojas, Copa Mundial Feminina Sub-20 da FIFA, Torcida Chilena, Identidade Andina, José Letelier, Desenvolvimento de Base, Seleção Feminina Chilena, Garra Chilena, Progressão no Futebol Feminino, Talentos Emergentes, Futebol Chileno, Orgulho Nacional, Equipe Jovem, Conmebol, La Roja, Futuro do Futebol Feminino Chileno.",
+      "keywords_semantic": "futebol feminino, desenvolvimento juvenil, La Roja Femenina, seleção chilena, identidade nacional, talento jovem, progressão de carreira, competições internacionais, formação de atletas, igualdade de gênero, orgulho chileno, torneios sub-20, Copa do Mundo Feminina, ícones emergentes, espírito esportivo, futebol sul-americano, rivalidade regional, crescimento do esporte, apoio à base, futuro promissor"
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23550,
+      "name": "Constitución Unido",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/23550.png",
+      "keywords": "Constitución Unido, Los Verdes del Maule, ídolos locais, Campeonato Nacional Chileno, fervor da torcida, identidade maulina, Estádio Fiscal de Constitución, rivalidade regional, tradição no futebol chileno, desenvolvimento de jovens talentos, presidente Juan Pérez, técnico Diego González, cultura esportiva chilena, símbolo do leão, paixão e determinação, clube do coração da cidade.",
+      "keywords_semantic": "Chile, Constitución, futebol chileno, rivalidades locais, identidade comunitária, tradição esportiva, La Banda Cementera, estádio Enrique Donn Müller, torcedores apaixonados, ídolos regionais, história local, desenvolvimento juvenil, estilo de jogo aguerrido, competições regionais, cultura futebolística chilena."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23551,
+      "name": "Imperial Unido",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/23551.png",
+      "keywords": "Imperial Unido, Los Imperiales, Estádio Monumental, Copa Libertadores, La Roja de los Andes, El Dorado, Santiago, torcida apaixonada, hinchada, clássicos chilenos, rivalidade, Alejandro \"El Mago\" Sánchez, técnico Javier Guzmán, presidente María Valenzuela, títulos nacionais, Taça Chile, identidade cultural andina, Los Guerreros, tradição, cantera promissora, símbolos culturais, história rica, Diego \"El Capitán\" Vargas, camisas azul e dourado, mascote El Cóndor, apoio incondicional.",
+      "keywords_semantic": "Chileno, Andes, rivalidade, títulos, Libertadores, torcida apaixonada, ídolos históricos, estilo ofensivo, garra, tradição, cultura local, cores vibrantes, clássico, estádio, identidade, paixão, história rica, evolução, herança futebolística, comunidade, legado."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23552,
+      "name": "Juan Fernández",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/23552.png",
+      "keywords": "Juan Fernández FC, Los Piratas, El Corsario, Ídolos: Francisco \"Pancho\" Fernández, Estádio Municipal de Juan Fernández, Copa Chile, Torcida Los Corsarios, Identidade cultural insular, Paixão pelo futebol, Cores tradicionais: azul e branco, Presidente Rodrigo Martínez, Técnico Carlos Ramírez, Símbolos: âncora e navio, Rivalidade com Club Deportivo Robinson Crusoe, Formação de jovens talentos, Festa do Pirata, História rica e única, Conexão com a comunidade pesqueira.",
+      "keywords_semantic": "Juan Fernández, Chile, história local, comunidade insular, rivalidades regionais, desenvolvimento social, cultura insular, identidade única, torcedores apaixonados, ídolos locais, símbolos culturais, estilo de jogo resiliente, tradição futebolística, marcos históricos, orgulho regional, influências marítimas."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23553,
+      "name": "Municipal Mejillones",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/23553.png",
+      "keywords": "Municipal Mejillones, Los Dragones del Norte, Estádio Municipal de Mejillones, Torcida Fiel, Identidade Cultural do Norte Chileno, Copa Chile, Rivalidade Regional, Ídolos Locais, Desenvolvimento de Jovens Talentos, Futebol Amador Chileno, Diretor Técnico, La Roja, Cores Vermelha e Azul, Comunidade Mejillones, Apoio Popular, Tradição Esportiva, Desempenho em Competições Nacionais, Cultura de Porto, Orgulho Mejillonino.",
+      "keywords_semantic": "Municipal Mejillones, Chile, futebol chileno, Antofagasta, cultura local, rivalidades regionais, torcedores apaixonados, identidade costeira, ascensão futebolística, competições nacionais, desenvolvimento comunitário, ídolos locais, tradição esportiva, estilo aguerrido, história recente, símbolos regionais."
+    },
+    "venue": {
+      "id": 20690,
+      "name": "Estadio Municipal Rolando Cortés Dubo",
+      "address": "Avenida Bernardo O&apos;Higgins Mejillones",
+      "city": "Mejillones",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "/venues/20690.png"
+    }
+  },
+  {
+    "team": {
+      "id": 23556,
+      "name": "El Lucero",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/23556.png",
+      "keywords": "El Lucero, Los Luceros, Estrellas Brilhantes, campeonatos nacionais, La Torcida Luceriana, rivalidades chilenas, identidade andina, Estádio Estrella de Chile, paixão chilena, cultura mapuche, ídolos históricos, La Barra Brava Lucero, presidente Juan Pérez, técnico Carlos González, títulos sul-americanos, cores azul e branca, hino do clube, espírito comunitário, legado chileno no futebol, formação de base, jovens talentos chilenos.",
+      "keywords_semantic": "El Lucero, Chile, futebol chileno, tradição, rivalidades locais, títulos regionais, cultura de torcida, paixão, ídolos históricos, símbolos do clube, identidade cultural, estilo de jogo ofensivo, desenvolvimento de jovens talentos, impacto social, crescimento comunitário, rivalidade com clubes vizinhos, marcos históricos, herança esportiva, influência no futebol chileno."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23557,
+      "name": "Juvenil Seminario",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/23557.png",
+      "keywords": "Juvenil Seminario, apelido Los Seminaristas, ídolos históricos, títulos regionais, torcida apaixonada, identidade cultural chilena, uniforme tradicional, estádio emblemático, rivalidades locais, presidente atual, técnico destacado, símbolos do clube, cores oficiais, desenvolvimento de jovens talentos, impacto comunitário, apoio local, história centenária, tradição futebolística chilena.",
+      "keywords_semantic": "Juvenil Seminario, Chile, futebol amador, Valparaíso, identidade local, comunidade, desenvolvimento juvenil, rivalidades regionais, tradição, paixão, formação de talentos, competições locais, história esportiva, orgulho local, cultura chilena."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23558,
+      "name": "Unión Wanderers",
+      "code": null,
+      "country": "Chile",
+      "founded": 0,
+      "national": false,
+      "logo": "/teams/23558.png",
+      "keywords": "Unión Wanderers, \"Los Vagabundos\", Chile, Santiago, ídolos históricos, títulos regionais, La Barra Vagabunda, identidade cultural chilena, paixão regional, Estádio Nacional, rivalidade local, presidente atual, técnico da temporada, cores tradicionais, Leão Andino (símbolo), jovens promessas, tradição futebolística, apoio fiel.",
+      "keywords_semantic": "Unión Wanderers, Chile, Valparaíso, futebol chileno, história, tradição, rivalidades locais, títulos regionais, identidade de torcida, ídolos, símbolos, cultura local, estilo de jogo, paixão, torcida apaixonada, marcos históricos."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23559,
+      "name": "Vicente Rosales",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/23559.png",
+      "keywords": "Vicente Rosales, Los Mineros, ídolos históricos, Copa Chile, Torcida Minera, identidade cultural chilena, presidente Carlos Silva, técnico Diego Fernández, símbolo El Minero, paixão pelo futebol, Estádio Municipal de Vicente Rosales, rivalidades regionais, juventude e tradição, desenvolvimento de talentos locais.",
+      "keywords_semantic": "Vicente Rosales, Chile, história, cultura local, rivalidades regionais, títulos nacionais, paixão da torcida, ídolos históricos, símbolos culturais, estilo de jogo, desenvolvimento de jovens, impacto social, identidade comunitária."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23584,
+      "name": "11 de Septiembre",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/23584.png",
+      "keywords": "11 de Septiembre, La Unión, Chile, \"Los Patriotas\", Estadio Centenario, Campeonato Regional, torcida fiel, identidade comunitária, tradição local, rivalidade regional, torneios amadores, desenvolvimento de base, espírito de luta, cultura esportiva, história rica, símbolos patrióticos, cores vermelho e branco, apoio popular, ídolos locais, competições estaduais, projeto social.",
+      "keywords_semantic": "Chile, 11 de Septiembre, cultura, história, rivalidades, títulos, torcida, ídolos, símbolos, estilo de jogo, competição, tradição, identidade, futebol chileno, paixão, legado, comunidade, eventos históricos, marcos, desenvolvimento regional, impacto social."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23585,
+      "name": "Barcelona Copiapó",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/23585.png",
+      "keywords": "Barcelona Copiapó, \"Los Leones del Desierto\", Copiapó, Atacama, Torneo Tercera División, ascenso chileno, hinchada fiel, Estadio Luis Valenzuela Hermosilla, cantera de talentos, rivalidade local, cores azul e branco, identidade nortina, deserto de Atacama, futebol amador chileno, história de superação, Carlos Véliz (ídolo), formação de jovens jogadores.",
+      "keywords_semantic": "Barcelona Copiapó, Chile, futebol chileno, identidade local, cultura andina, rivalidade regional, campeonato chileno, história fundação, torcida apaixonada, ídolos locais, símbolo de resistência, estilo de jogo, talento jovem, desenvolvimento comunitário, paixão futebolística."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23586,
+      "name": "Marcos Trincado",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/23586.png",
+      "keywords": "Marcos Trincado, Chile, Estádio Municipal de San Fernando, Trinca, Los Guerreros, El Tricolor, Torcida Tricandina, Campeonato Chileno, Copa Chile, identidade cultural andina, tradição no futebol chileno, ídolos históricos, Carlos Soto, rivalidade regional, jovens promessas, desenvolvimento de base, apoio comunitário, paixão local, cores vermelho, branco e azul, símbolos do clube, presidente Juan Pérez, técnico Miguel Ramírez, história centenária, espírito de luta, futebol ofensivo, herança esportiva, legado cultural.",
+      "keywords_semantic": "Futebol chileno, cultura local, história esportiva, rivalidades regionais, torcida apaixonada, ídolos do clube, símbolos do time, campeonatos nacionais, estilo de jogo, tradição futebolística, desenvolvimento de jovens talentos, impacto social, identidade cultural, competições continentais, legado esportivo."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23587,
+      "name": "Norte Unido",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/23587.png",
+      "keywords": "Norte Unido, Apelido: Los Dragones del Norte, Ídolo: Juan Pablo Castillo, Títulos: Campeonato Nacional, Torcida: Los Guerreros del Norte, Identidade Cultural: Orgulho do Deserto, Presidente: Ricardo Valenzuela, Técnico: Gabriel Muñoz, Símbolo: Dragão Alado, Estádio: El Coloso del Desierto, Rivalidade: Clássico do Norte contra Desierto FC, Formação de Jovens Talentos, Cores Tradicionais: Azul e Dourado, Paixão e Resistência, Tradição de Mineração.",
+      "keywords_semantic": "Chile, futebol chileno, cultura local, rivalidades regionais, títulos nacionais, história do clube, identidade da torcida, ídolos do clube, símbolos tradicionais, estilo de jogo ofensivo, reputação regional, marcos históricos, paixão dos torcedores, cores do clube, hino do clube."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23588,
+      "name": "Presidente Ibáñez",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/23588.png",
+      "keywords": "Presidente Ibáñez, Los Albirrojos, Puerto Aysén, Estadio Municipal de Puerto Aysén, Liga Chilena, Club Deportivo Presidente Ibáñez, ídolos locais, tradição patagônica, torcida apaixonada, futebol na Patagônia, desenvolvimento juvenil, rivalidade regional, cultura futebolística chilena, identidade comunitária, futebol de base, projetos sociais, história esportiva regional, ascensão no futebol chileno, integração social, hino do clube.",
+      "keywords_semantic": "Chile, futebol chileno, clube histórico, Segunda División, Tocopilla, rivalidade local, identidade regional, torcida apaixonada, ídolos locais, tradição, desenvolvimento de jovens, identidade comunitária, conquistas regionais, estilo de jogo aguerrido, cor vermelha, Estadio Municipal Alejandro Rojas."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23589,
+      "name": "Ferro Monte Águila",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/23589.png",
+      "keywords": "Ferro Monte Águila, Los Dragones, ídolo histórico, títulos regionais, torcida apaixonada, identidade da cidade de Monte Águila, cores tradicionais, rivalidade local, presidente atual, técnico principal, ascensão no futebol chileno, símbolo do trem, tradição ferroviária, cultura local, estádio emblemático.",
+      "keywords_semantic": "Ferro Monte Águila, Chile, futebol chileno, tradição local, comunidade ferroviária, rivalidade regional, identidade operária, competições locais, desenvolvimento juvenil, orgulho comunitário, história ferroviária, torcida apaixonada, clube de bairro, impacto social, ídolos locais, espírito de luta, estilo aguerrido, paixão esportiva, legado cultural, símbolos regionais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23590,
+      "name": "Glorias Navales",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/23590.png",
+      "keywords": "Glorias Navales, Los Piratas del Mar, Estádio El Corsario, Santiago Muñoz (ídolo), Campeonato Chileno, Copa Libertadores, hinchada fiel, rivalidade com Club Deportivo Marítimo, tradição naval, Antonio Rojas (presidente), Javier Salas (técnico), bandeira azul e branca, La Armada (torcida organizada), cultura marinheira, conquistas regionais, formação de jovens talentos, estilo de jogo aguerrido, hino \"El Orgullo del Puerto\".",
+      "keywords_semantic": "Glorias Navales, Chile, futebol chileno, clube regional, rivalidade local, identidade naval, cultura esportiva, tradição marítima, apoio comunitário, história local, ídolos regionais, paixão dos torcedores, estilo de jogo defensivo, competições amadoras, símbolos navais, desenvolvimento juvenil, espírito esportivo, conexão com a marinha, campeonatos regionais, legado cultural."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 23605,
+      "name": "Alas Portuarias",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/23605.png",
+      "keywords": "Alas Portuarias, \"Los Alas\", Punta Arenas, Patagônia Chilena, Futebol Amador, Estádio Ramón Cañas Montalva, Identidade Costeira, Torcida Portuaria, Tradição Marítima, Competição Regional, Desenvolvimento Juvenil, Cultura Local, Participação Comunitária, Torneios Locais, Futebol Chileno, Club Social.",
+      "keywords_semantic": "Alas Portuarias, Chile, futebol chileno, cultura local, comunidade portuária, rivalidades regionais, identidade de torcida, ídolos locais, símbolos do clube, estilo de jogo, tradição esportiva, história do clube, desenvolvimento juvenil, competições nacionais."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  },
+  {
+    "team": {
+      "id": 27347,
+      "name": "Team Chile",
+      "code": null,
+      "country": "Chile",
+      "founded": null,
+      "national": false,
+      "logo": "/teams/27347.png",
+      "keywords": "La Roja, Alexis Sánchez, Copa América 2015, Copa América 2016, Estádio Nacional, Torcida Chilena, Marcelo Salas, Claudio Bravo, Arturo Vidal, Reinaldo Rueda, Identidade Andina, Orgulho Chileno, Falcão, Garra Vermelha, Federação de Futebol do Chile, Pablo Milad (presidente), Eduardo Berizzo (técnico), Estrela Solitária, Hino Nacional Chileno, Estilo de Jogo Ofensivo.",
+      "keywords_semantic": "Universidad de Chile, Colo-Colo, La Roja, Alexis Sánchez, Marcelo Salas, rivalidade, Copa América, Estádio Nacional, torcedores passionais, La Garra Blanca, estilo aguerrido, identidade nacional, futebol ofensivo, conquistas históricas, cultura andina, Santiago, ídolos chilenos, tradição futebolística, rivalidade histórica."
+    },
+    "venue": {
+      "id": null,
+      "name": null,
+      "address": null,
+      "city": null,
+      "capacity": null,
+      "surface": null,
+      "image": null
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "league": {
+      "id": 344,
+      "name": "Primera División",
+      "type": "League",
+      "logo": "/logos/344.png",
+      "keywords": "La Verde, The Strongest, Bolívar, Oriente Petrolero, Wilstermann, clássicos bolivianos, Estádio Hernando Siles, altitude de La Paz, Tahuichi Aguilera, Ramiro Castillo, Marco Etcheverry, Carlos Borja, El Clásico Paceño, Club Aurora, Real Potosí, campeonato de todos contra todos, Copa Libertadores, Copa Sudamericana, futebol de altitude, rivalidade regional, história do futebol boliviano, seleções nacionais, crescimento do futebol boliviano, participação internacional, times da Bolívia, torcida apaixonada.",
+      "keywords_semantic": "Bolivian football, The Strongest, Club Bolívar, La Paz, historic rivalries, Estadio Hernando Siles, altitude advantage, Apertura and Clausura, Copa Libertadores qualification, Evo Morales, regional diversity, grassroots development, domestic talent, football passion, Andean culture."
+    },
+    "country": {
+      "name": "Bolivia",
+      "code": "BO",
+      "flag": "https://media.api-sports.io/flags/bo.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-02-03",
+        "end": "2022-12-01",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 710,
+      "name": "Nacional B",
+      "type": "League",
+      "logo": "/logos/710.png",
+      "keywords": "Nacional B, Bolívia, Copa Simón Bolívar, Club Always Ready, Club Aurora, Club Real Santa Cruz, ascenso à División Profesional, estádio Hernando Siles, futebol boliviano, La Paz, Cochabamba, Santa Cruz de la Sierra, formato de grupos, promoção e rebaixamento, clubes provinciais, talento emergente, história do futebol boliviano, paixão dos torcedores, desenvolvimento de jovens jogadores, rivalidades regionais.",
+      "keywords_semantic": "segunda divisão, desenvolvimento, clubes emergentes, Bolívia, promoção, rebaixamento, tradição local, oportunidade, talentos jovens, clubes históricos, futebol boliviano, ascensão, temporada, competição regional, emoção."
+    },
+    "country": {
+      "name": "Bolivia",
+      "code": "BO",
+      "flag": "https://media.api-sports.io/flags/bo.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-08-26",
+        "end": "2022-11-24",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": false,
+            "lineups": false,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": false,
+          "top_scorers": false,
+          "top_assists": false,
+          "top_cards": false,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 964,
+      "name": "Copa de la División Profesional",
+      "type": "Cup",
+      "logo": "/logos/964.png",
+      "keywords": "La Verde, Bolívia, The Strongest, Bolívar, Estádio Hernando Siles, altitude de La Paz, clássicos paceños, Oriente Petrolero, Blooming, Wilstermann, San José, Club Royal Pari, Liga Boliviana, futebol boliviano, campeonato de pontos corridos, maior campeão, tradição andina, torcidas apaixonadas, rivalidades regionais, Marcelo Moreno Martins, ídolos bolivianos, desenvolvimento do futebol, conquistas internacionais, Copa Libertadores, Copa Sudamericana.",
+      "keywords_semantic": "Bolívar, The Strongest, clássico boliviano, futebol boliviano, campeonato nacional, formato todos contra todos, promoção e rebaixamento, importância cultural, La Paz, Estádio Hernando Siles, rivalidade, clubes históricos, título nacional, torneio de clubes, ascensão no futebol, competição anual, prestígio local, desenvolvimento de talentos, qualificação continental, clubes tradicionais."
+    },
+    "country": {
+      "name": "Bolivia",
+      "code": "BO",
+      "flag": "https://media.api-sports.io/flags/bo.svg"
+    },
+    "seasons": [
+      {
+        "year": 2023,
+        "start": "2023-02-15",
+        "end": "2023-12-19",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,388 @@
+[
+  {
+    "league": {
+      "id": 11,
+      "name": "CONMEBOL Sudamericana",
+      "type": "Cup",
+      "logo": "/logos/11.png",
+      "keywords": "La Gran Conquista, Argentina, Brasil, Independiente del Valle, Boca Juniors, River Plate, Peñarol, Racing Club, Independiente, Santa Fe, LDU Quito, Atlético Nacional, Diego Forlán, Ronaldinho Gaúcho, Pablo Escobar, formato de mata-mata, fase de grupos, final única, relevância continental, vitrine de talentos, rivalidades regionais, paixão sul-americana, crescimento do futebol, tradição e inovação, impacto econômico, torcidas fanáticas, surpresas competitivas, ascensão de novos clubes.",
+      "keywords_semantic": "CONMEBOL Sudamericana, importância histórica, prestígio crescente, clubes sul-americanos, vitrine internacional, formato eliminatório, clubes emergentes, rivalidades regionais, título continental, história recente, crescimento popularidade, campeões notáveis, emoção torcedores, oportunidades europeias, competição internacional, momentos decisivos, clubes históricos, impacto econômico, relevância cultural, evolução torneio, participação diversificada, trajetória clubes, título cobiçado, impacto social, intercâmbio cultural."
+    },
+    "country": {
+      "name": "World",
+      "code": null,
+      "flag": null
+    },
+    "seasons": [
+      {
+        "year": 2019,
+        "start": "2019-02-05",
+        "end": "2019-11-09",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": true
+          },
+          "standings": false,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      },
+      {
+        "year": 2020,
+        "start": "2020-02-04",
+        "end": "2021-01-23",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": true
+          },
+          "standings": false,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      },
+      {
+        "year": 2021,
+        "start": "2021-03-16",
+        "end": "2021-11-20",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": true
+          },
+          "standings": false,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      },
+      {
+        "year": 2022,
+        "start": "2022-03-08",
+        "end": "2022-10-01",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": true
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      },
+      {
+        "year": 2023,
+        "start": "2023-03-06",
+        "end": "2023-10-28",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": true
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      },
+      {
+        "year": 2024,
+        "start": "2024-03-05",
+        "end": "2024-11-23",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": true
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      },
+      {
+        "year": 2025,
+        "start": "2025-03-05",
+        "end": "2025-11-22",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": true
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      },
+      {
+        "year": 2026,
+        "start": "2026-03-03",
+        "end": "2026-03-06",
+        "current": true,
+        "coverage": {
+          "fixtures": {
+            "events": false,
+            "lineups": false,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": false,
+          "top_scorers": false,
+          "top_assists": false,
+          "top_cards": false,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 13,
+      "name": "CONMEBOL Libertadores",
+      "type": "Cup",
+      "logo": "/logos/13.png",
+      "keywords": "Libertadores, América do Sul, Taça Libertadores, Boca Juniors, River Plate, Flamengo, Palmeiras, Peñarol, Nacional, Independiente, Santos, Grêmio, Maracanazo, La Bombonera, El Monumental, O Mineirão, Estádio Centenário, Pelé, Diego Maradona, Zico, Enzo Francescoli, Juan Román Riquelme, Rivalidades, Clássicos, Conmebol, Fase de Grupos, Mata-mata, Final Única, Paixão, Torcidas, Hinchadas, Libertadores da América, Glória Eterna, Títulos, História, Tradição, Prestígio, Libertadores 1960, Libertadores 2019, Libertadores 2023, Libertadores Feminina, Futebol Sul-Americano, Conquistas, Estilo de Jogo, Estratégia, Cultura Futebolística, Estádios Icônicos, Celebrações, Ídolos, Estrelas, Carreira, Legado, Emoção, Superclássico, Decisão, Lenda, Influência Global.",
+      "keywords_semantic": "Libertadores, América do Sul, clubes históricos, Boca Juniors, River Plate, Flamengo, Corinthians, clássico, taça, formato mata-mata, prestígio continental, rivalidades intensas, torcida apaixonada, gols decisivos, estádio Monumental, Maracanã, Palmeiras, competição internacional, campeões sul-americanos, legado cultural, tradição futebolística, momentos épicos."
+    },
+    "country": {
+      "name": "World",
+      "code": null,
+      "flag": null
+    },
+    "seasons": [
+      {
+        "year": 2019,
+        "start": "2019-01-22",
+        "end": "2019-11-23",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": true
+          },
+          "standings": false,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      },
+      {
+        "year": 2020,
+        "start": "2020-01-21",
+        "end": "2021-01-30",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": true
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      },
+      {
+        "year": 2021,
+        "start": "2021-02-24",
+        "end": "2021-11-27",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": true
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      },
+      {
+        "year": 2022,
+        "start": "2022-02-08",
+        "end": "2022-10-29",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": true
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      },
+      {
+        "year": 2023,
+        "start": "2023-02-08",
+        "end": "2023-11-04",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": true
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      },
+      {
+        "year": 2024,
+        "start": "2024-02-07",
+        "end": "2024-11-30",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": true
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      },
+      {
+        "year": 2025,
+        "start": "2025-02-05",
+        "end": "2025-11-29",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": true
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": true,
+          "predictions": true,
+          "odds": false
+        }
+      },
+      {
+        "year": 2026,
+        "start": "2026-02-04",
+        "end": "2026-02-26",
+        "current": true,
+        "coverage": {
+          "fixtures": {
+            "events": false,
+            "lineups": false,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": false,
+          "top_scorers": false,
+          "top_assists": false,
+          "top_cards": false,
+          "injuries": false,
+          "predictions": true,
+          "odds": true
+        }
+      }
+    ]
+  }
+]

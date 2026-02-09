@@ -1,0 +1,509 @@
+[
+  {
+    "league": {
+      "id": 130,
+      "name": "Copa Argentina",
+      "type": "Cup",
+      "logo": "/logos/130.png",
+      "keywords": "Copa Argentina, futebol argentino, Boca Juniors, River Plate, Racing Club, Independiente, Estudiantes, Rosario Central, San Lorenzo, La Bombonera, El Monumental, Lionel Messi, Diego Maradona, Claudio Caniggia, Javier Zanetti, Carlos Tevez, torneio mata-mata, tradição futebolística, paixão nacional, surpresas e zebras, clubes do interior, ascensão de talentos, rivalidades históricas, final emocionante, torcida fervorosa, importância nacional, passaporte para competições continentais, Copa Libertadores, Copa Sul-Americana.",
+      "keywords_semantic": "Copa Argentina, futebol argentino, torneio eliminatório, clubes históricos, Boca Juniors, River Plate, competição nacional, prestígio local, acesso Libertadores, diversidade regional, rivalidades clássicas, emoção futebolística, futebol de base, tradição argentina, estádios icônicos, cultura futebolística, paixão torcedora, surpresas esportivas, competição inclusiva."
+    },
+    "country": {
+      "name": "Argentina",
+      "code": "AR",
+      "flag": "https://media.api-sports.io/flags/ar.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-02-23",
+        "end": "2022-10-30",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 129,
+      "name": "Primera Nacional",
+      "type": "League",
+      "logo": "/logos/129.png",
+      "keywords": "Primera Nacional, Argentina, ascenso, River Plate, Boca Juniors, Independiente Rivadavia, Ferro Carril Oeste, Belgrano, Tigre, Racing de Córdoba, San Martín de Tucumán, Chacarita Juniors, Newell's Old Boys, Juan Román Riquelme, Lionel Messi, Maradona, formato de duas zonas, promoção à Primera División, clássicos regionais, paixão futebolística, torcidas fervorosas, história rica, jogadores promissores, rivalidades intensas, clubes tradicionais, estádio Monumental, La Bombonera, Maracanazo, futebol sul-americano, talento argentino.",
+      "keywords_semantic": "Argentina, futebol, Primera Nacional, segunda divisão, clubes históricos, ascensão, descenso, competição, prestígio, rivalidades, torneio, formato, promoção, rebaixamento, cultura futebolística, AFA, tradição, campeonatos, emoção, paixão, identidade."
+    },
+    "country": {
+      "name": "Argentina",
+      "code": "AR",
+      "flag": "https://media.api-sports.io/flags/ar.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-02-11",
+        "end": "2022-11-19",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 131,
+      "name": "Primera B Metropolitana",
+      "type": "League",
+      "logo": "/logos/131.png",
+      "keywords": "Primera B Metro, Ascenso, Argentina, Club Almagro, Club Atlanta, Club Defensores de Belgrano, Club Nueva Chicago, Estádio, Promoción, Clásicos, Buenos Aires, El Porvenir, Club Deportivo Morón, Club Platense, Club Ferro Carril Oeste, Pablo Migliore, Hinchada, Rivalidades, Acesso à Primera Nacional, Formato Torneio Apertura e Clausura, Club All Boys, História do Futebol Argentino, Talentos Emergentes.",
+      "keywords_semantic": "Primera B Metropolitana, futebol argentino, terceira divisão, promoção e rebaixamento, clubes tradicionais, rivalidades locais, ascensão à Primera Nacional, clubes históricos, competição regional, jogadores promissores, cultura futebolística argentina, torcidas apaixonadas, desenvolvimento de talentos, divisões inferiores, história do futebol argentino."
+    },
+    "country": {
+      "name": "Argentina",
+      "code": "AR",
+      "flag": "https://media.api-sports.io/flags/ar.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-02-12",
+        "end": "2022-11-05",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 132,
+      "name": "Primera C",
+      "type": "League",
+      "logo": "/logos/132.png",
+      "keywords": "Primera C, Argentina, Ascenso, Clubes tradicionais, Racing de Córdoba, Deportivo Español, Estádio, Hinchadas, Rivalidades, Romántico viajante, Acesso à Primera B, Formato de disputa, Torneo Apertura, Torneo Clausura, Promoção, Rebaixamento, Lendas do futebol argentino, Goleadores históricos, Tática e técnica, Identidade cultural, Paixão futebolística.",
+      "keywords_semantic": "Argentina, futebol argentino, Primera C, divisões inferiores, ascensão, clubes locais, tradição, história cultural, rivalidades regionais, desenvolvimento de jovens talentos, clubes históricos, paixão pelo futebol, competição acirrada, formato de liga, promoção e rebaixamento, futebol de base, identidade comunitária, rivalidades locais, prestígio regional."
+    },
+    "country": {
+      "name": "Argentina",
+      "code": "AR",
+      "flag": "https://media.api-sports.io/flags/ar.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-02-12",
+        "end": "2022-11-19",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": false,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": true,
+          "players": false,
+          "top_scorers": false,
+          "top_assists": false,
+          "top_cards": false,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "type": "League",
+      "logo": "/logos/128.png",
+      "keywords": "Superclásico, Boca Juniors, River Plate, Bombonera, Monumental, Racing Club, Independiente, San Lorenzo, Newell's Old Boys, Rosario Central, Estudiantes de La Plata, Gimnasia y Esgrima, Vélez Sarsfield, Maradona, Messi, Riquelme, Batistuta, Gallardo, Bianchi, Copa de la Liga, Torneo Apertura, Torneo Clausura, hinchada, pasión, descenso, ascenso, La Doce, Los Borrachos del Tablón, Libertadores, Sudamericana, campeones, rivalidade, tácticas, goleadores, múltiplas rodadas, formato de todos contra todos, história rica, La Academia, Rey de Copas, La Lepra, Los Canallas, El Pincha, El Lobo, Los Fortineros.",
+      "keywords_semantic": "Boca Juniors, River Plate, Superclásico, AFA, Bombonera, Monumental, tradição, campeões, Clausura, Apertura, promessas, Libertadores, rivalidade, Maradona, Messi, futebol argentino, Copa da Liga, Racing Club, Independiente, San Lorenzo, história, torcidas, paixão, clássicos, desenvolvimento, ícones, prestígio, talento, formação, exportação, jogadores, competitividade."
+    },
+    "country": {
+      "name": "Argentina",
+      "code": "AR",
+      "flag": "https://media.api-sports.io/flags/ar.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-02-10",
+        "end": "2022-10-23",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": true
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 906,
+      "name": "Reserve League",
+      "type": "League",
+      "logo": "/logos/906.png",
+      "keywords": "Reserve League Argentina, jovens talentos, futuro do futebol argentino, projeção de jogadores, Boca Juniors Reserves, River Plate Reserves, Independiente Reserves, Racing Club Reserves, San Lorenzo Reserves, formação de atletas, desenvolvimento de base, promessas do futebol, torneio de aspirantes, rivalidades históricas, plataforma para o profissional, torneio sub-23, escalada para a primeira divisão, oportunidades para jovens, observação de talentos.",
+      "keywords_semantic": "Argentina, Reserve League, formação de jogadores, categorias de base, jovens talentos, clubes de elite, desenvolvimento, futuro do futebol, competição formativa, Boca Juniors, River Plate, rivalidade local, plataforma de lançamento, crescimento profissional, experiência competitiva, futebol argentino."
+    },
+    "country": {
+      "name": "Argentina",
+      "code": "AR",
+      "flag": "https://media.api-sports.io/flags/ar.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-02-10",
+        "end": "2022-11-01",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": false,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 134,
+      "name": "Torneo Federal A",
+      "type": "League",
+      "logo": "/logos/134.png",
+      "keywords": "Torneo Federal A, Argentina, terceira divisão, promoção, descenso, interior do país, clubes tradicionais, ascenso, Federal B, zonas regionais, formato de grupos, play-offs, Club Cipolletti, Club Alvarado, Club Chaco For Ever, San Martín de Tucumán, rivalidades regionais, paixão local, jogadores promissores, talentos emergentes, desenvolvimento de base, crescimento do futebol interiorano, impacto econômico local, torcidas apaixonadas, história rica, tradição futebolística, Estudiantes de Río Cuarto, Villa Mitre, Huracán Las Heras, Gimnasia y Tiro, importância cultural.",
+      "keywords_semantic": "Argentina, Torneo Federal A, terceira divisão, futebol argentino, clubes regionais, ascensão, história, formato liga, competição nacional, interior do país, rivalidades locais, desenvolvimento de talentos, cultura futebolística, promoção, clubes tradicionais, Federalismo, paixão regional."
+    },
+    "country": {
+      "name": "Argentina",
+      "code": "AR",
+      "flag": "https://media.api-sports.io/flags/ar.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-03-26",
+        "end": "2022-11-13",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 133,
+      "name": "Primera D",
+      "type": "League",
+      "logo": "/logos/133.png",
+      "keywords": "Primera D, AFA, clubes de bairro, promoção, rebaixamento, ascenso, Clausura, Apertura, clubes tradicionais, história do futebol argentino, \"El Porvenir\", \"Cañuelas\", \"Ituzaingó\", \"Central Ballester\", rivalidades locais, jogadores promissores, formato de disputa, importância para a comunidade, estádio pequeno, torcida apaixonada, desenvolvimento de talentos, \"Villa San Carlos\".",
+      "keywords_semantic": "Primera D, Argentina, quinta divisão, campeonato regional, clubes amadores, desenvolvimento de talentos, futebol de base, história local, rivalidades locais, promoção à Primera C, formato fase de grupos, ascensão futebolística, cultura futebolística argentina, clubes tradicionais, competição de acesso, torneio de longa duração."
+    },
+    "country": {
+      "name": "Argentina",
+      "code": "AR",
+      "flag": "https://media.api-sports.io/flags/ar.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-05-07",
+        "end": "2022-10-16",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": false,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": true,
+          "players": false,
+          "top_scorers": false,
+          "top_assists": false,
+          "top_cards": false,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 517,
+      "name": "Trofeo de Campeones de la Superliga",
+      "type": "Cup",
+      "logo": "/logos/517.png",
+      "keywords": "Trofeo de Campeones, Argentina, Superliga Argentina, Boca Juniors, River Plate, Racing Club, Independiente, Estádio José María Minella, Clássico argentino, Lenda Diego Maradona, Lionel Messi, Copa de 2019, formato eliminatório, final única, paixão nacional, torcida fervorosa, rivalidade histórica, título de prestígio, futebol sul-americano, herança cultural.",
+      "keywords_semantic": "Argentina, Trofeo de Campeones, Superliga, importância histórica, Boca Juniors, River Plate, Racing Club, formato eliminatório, prestígio nacional, confronto final, títulos, rivalidades clássicas, futebol argentino, competição anual, contexto internacional, tradição cultural, clubes representativos, momentos históricos."
+    },
+    "country": {
+      "name": "Argentina",
+      "code": "AR",
+      "flag": "https://media.api-sports.io/flags/ar.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2022-11-02",
+        "end": "2022-11-06",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": false,
+          "top_scorers": false,
+          "top_assists": false,
+          "top_cards": false,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 810,
+      "name": "Super Copa",
+      "type": "Cup",
+      "logo": "/logos/810.png",
+      "keywords": "Supercopa Argentina, Boca Juniors, River Plate, Racing Club, Independiente, Estudiantes, Estádio Monumental, La Bombonera, clássicos argentinos, Lionel Messi, Diego Maradona, Carlos Tevez, Juan Román Riquelme, rivalidade Boca-River, formato de eliminação direta, título simbólico, prestígio local, futebol argentino, paixão nacional, torcidas fervorosas, Copa Libertadores.",
+      "keywords_semantic": "Supercopa Argentina, tradição, prestígio, Boca Juniors, River Plate, confronto, campeão, troféu, rivalidade, futebol argentino, decisão, competição anual, final única, clubes argentinos, título, história futebolística, emoção, torcedores, clássicos, disputas."
+    },
+    "country": {
+      "name": "Argentina",
+      "code": "AR",
+      "flag": "https://media.api-sports.io/flags/ar.svg"
+    },
+    "seasons": [
+      {
+        "year": 2022,
+        "start": "2023-01-20",
+        "end": "2023-01-20",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": false,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": false,
+          "top_scorers": false,
+          "top_assists": false,
+          "top_cards": false,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 1032,
+      "name": "Copa de la Liga Profesional",
+      "type": "League",
+      "logo": "/logos/1032.png",
+      "keywords": "Copa de la Liga, Argentina, Superclásico, Boca Juniors, River Plate, Estudiantes, Racing Club, Independiente, San Lorenzo, La Bombonera, Monumental de Núñez, Carlos Tevez, Juan Román Riquelme, Lionel Messi, formato de grupos, mata-mata, campeonato curto, paixão argentina, torcidas fervorosas, Maradona, clássico rosarino, Newell's Old Boys, Rosario Central, futebol portenho, rivalidade histórica, campeones, herança futebolística.",
+      "keywords_semantic": "futebol argentino, campeonato nacional, clubes argentinos, Boca Juniors, River Plate, formato torneio, importância cultural, clássicos argentinos, rivalidades históricas, prestígio local, competição anual, impacto social, momentos icônicos, torcidas apaixonadas, relevância esportiva, evolução histórica, cenário sul-americano, futebol de elite, contexto internacional, formato inovador"
+    },
+    "country": {
+      "name": "Argentina",
+      "code": "AR",
+      "flag": "https://media.api-sports.io/flags/ar.svg"
+    },
+    "seasons": [
+      {
+        "year": 2023,
+        "start": "2023-08-17",
+        "end": "2023-12-16",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": true,
+            "statistics_players": true
+          },
+          "standings": true,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 1067,
+      "name": "Torneo Promocional Amateur",
+      "type": "League",
+      "logo": "/logos/1067.png",
+      "keywords": "Torneio Promocional Amateur, Argentina, futebol amador, clubes de bairro, La Albiceleste, tradição futebolística, paixão argentina, rivalidades locais, jovens talentos, formação de jogadores, clubes emergentes, torneio de acesso, história do futebol argentino, desenvolvimento esportivo, torcida apaixonada, formato de disputa eliminatória.",
+      "keywords_semantic": "Argentina, Torneo Promocional Amateur, futebol amador, desenvolvimento de talentos, clubes emergentes, competição local, formação de jogadores, base do futebol argentino, tradição esportiva, nível regional, rivalidades locais, importância comunitária, integração social, futuro do futebol, formato de liga."
+    },
+    "country": {
+      "name": "Argentina",
+      "code": "AR",
+      "flag": "https://media.api-sports.io/flags/ar.svg"
+    },
+    "seasons": [
+      {
+        "year": 2024,
+        "start": "2024-02-23",
+        "end": "2024-11-01",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": false,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 1178,
+      "name": "Super Copa International",
+      "type": "Cup",
+      "logo": "/logos/1178.png",
+      "keywords": "Super Copa International, Argentina, Boca Juniors, River Plate, Racing Club, Estudiantes de La Plata, Independiente, Lionel Messi, Diego Maradona, La Bombonera, Monumental de Núñez, clássico argentino, torcidas apaixonadas, Libertadores da América, rivalidade histórica, gol de mão, La Albiceleste, Copa América, Carlos Tevez, Juan Román Riquelme, formato eliminatório, fase de grupos, mata-mata, superclássico, paixão pelo futebol, herança cultural.",
+      "keywords_semantic": "Super Copa International, Argentina, importância histórica, prestígio internacional, Boca Juniors, River Plate, clubes argentinos, competição amistosa, formato torneio, rivalidades sul-americanas, cultura futebolística, momentos marcantes, intercâmbio esportivo, impacto global, troféu simbólico, eventos anuais."
+    },
+    "country": {
+      "name": "Argentina",
+      "code": "AR",
+      "flag": "https://media.api-sports.io/flags/ar.svg"
+    },
+    "seasons": [
+      {
+        "year": 2024,
+        "start": "2025-03-05",
+        "end": "2025-03-05",
+        "current": false,
+        "coverage": {
+          "fixtures": {
+            "events": true,
+            "lineups": true,
+            "statistics_fixtures": false,
+            "statistics_players": false
+          },
+          "standings": false,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        }
+      }
+    ]
+  }
+]
